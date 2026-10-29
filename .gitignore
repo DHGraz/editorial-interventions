@@ -1,0 +1,11 @@
+.venv
+.venv311
+__pycache__/
+*.pyc
+keys.py
+_project/
+models/
+
+# Project data never belongs in the engine: projects keep their prompts, input and output
+# outside llm_processing/ and pass their own config with --config.
+data/

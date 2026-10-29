@@ -1,0 +1,43 @@
+# =============================================================================
+# Python Version Requirement
+# =============================================================================
+# This project requires Python 3.8 or higher
+# Tested with: Python 3.9, 3.11
+# For reproducibility, use the exact Python version used for published results
+
+# =============================================================================
+# Core Dependencies - Required for all workflows
+# =============================================================================
+# Note: Versions are specified with >= for flexibility. For reproducibility,
+# pin exact versions used for published results (see REPRODUCIBILITY.md in README)
+
+# API clients for cloud models
+anthropic>=0.66.0       # Claude API
+openai>=1.99.0          # GPT API
+
+# Data processing
+pandas>=2.3.0           # Data analysis and statistics
+
+# XML processing
+lxml>=6.0.0             # TEI XML parsing and manipulation
+
+# =============================================================================
+# Optional Dependencies - Only needed for local models (Qwen, OLMo)
+# =============================================================================
+# Uncomment these if using local models with llama.cpp
+# For GPU support, install llama-cpp-python with CUDA wheel (see README)
+
+llama-cpp-python>=0.3.16    # Local model inference
+torch>=2.8.0                # GPU support and diagnostics
+gputil                      # GPU monitoring (utilization, memory, temperature)
+nvidia-ml-py                # GPU power sampling via NVML (energy/cost estimation)
+psutil                      # System resource monitoring
+
+# =============================================================================
+# Installation Notes
+# =============================================================================
+# For local models with GPU support, install llama-cpp-python separately:
+#   pip uninstall llama-cpp-python
+#   pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121
+#   (Adjust cu121 to match your CUDA version: cu118, cu124, etc.)
+#
