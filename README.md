@@ -88,8 +88,10 @@ export MPLBACKEND=Agg PYTHONIOENCODING=utf-8
 printf '\n'  | python eval.py gpt-5.2-2025-12-11
 printf '\n'  | python eval.py claude-sonnet-4-6
 printf '\n'  | python eval.py olmo2-32B-instruct-Q4
-printf '1\n' | python eval.py qwen3-14B-Q6   # processing_20260301_021912 (standard mode)
-printf '2\n' | python eval.py qwen3-14B-Q6   # processing_20260301_022635 (thinking mode)
+# standard mode (processing_20260301_021912)
+printf '1\n' | python eval.py qwen3-14B-Q6
+# thinking mode (processing_20260301_022635)
+printf '2\n' | python eval.py qwen3-14B-Q6
 python aggregate_results.py
 python language_scores.py
 python compare_models.py

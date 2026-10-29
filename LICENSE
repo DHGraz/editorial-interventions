@@ -1,10 +1,11 @@
 This repository contains two kinds of content, licensed separately: code (MIT) and data (CC BY-NC 4.0).
-Third-party files in `resources/` keep their own licences (see the end of this file).
+Third-party files in resources/ keep their own licences (see the end of this file).
 
-## Code
+CODE
+====
 
-Applies to all source code: Python scripts (including `llm_processing/`, `evaluation/`, `data/sampling/`,
-`utils/`), prompt templates (`data/prompts/`, except the letter excerpts quoted in them, see Data), and
+Applies to all source code: Python scripts (including llm_processing/, evaluation/, data/sampling/,
+utils/), prompt templates (data/prompts/, except the letter excerpts quoted in them, see Data), and
 configuration files.
 
 MIT License
@@ -29,18 +30,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Data
+DATA
+====
 
 Applies to all data in this repository:
 
-- the sampled TEI letters (`data/input/bracket_sample/`), the extracted bracketed sequences and their metadata
-  (`data/input/brackets_sample.json`, `data/input/brackets_sample.xlsx`,
-  `data/input/corresp-metadata_sample.json`, `data/sampling/brackets_statistics.xlsx`)
-- the gold-standard annotations (`data/references/`)
-- the letter excerpts quoted in the prompt templates (`data/prompts/`)
-- the stored LLM output (`data/output/`)
-- the evaluation results and figures (`evaluation/results/`, `evaluation/comparisons/`,
-  `evaluation/aggregated_results.json`, `evaluation/aggregated_results.xlsx`, `evaluation/language_scores.xlsx`)
+- the sampled TEI letters (data/input/bracket_sample/), the extracted bracketed sequences and their metadata
+  (data/input/brackets_sample.json, data/input/brackets_sample.xlsx,
+  data/input/corresp-metadata_sample.json, data/sampling/brackets_statistics.xlsx)
+- the gold-standard annotations (data/references/)
+- the letter excerpts quoted in the prompt templates (data/prompts/)
+- the stored LLM output (data/output/)
+- the evaluation results and figures (evaluation/results/, evaluation/comparisons/,
+  evaluation/aggregated_results.json, evaluation/aggregated_results.xlsx, evaluation/language_scores.xlsx)
 
 This data is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
 (CC BY-NC 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
@@ -48,17 +50,18 @@ This data is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate
 credit and indicate if changes were made.
 
-Source of the letters: *Hammer-Purgstall Briefedition*, version 2024-12-01 (Zentrum für Wissenschaftsgeschichte,
+Source of the letters: "Hammer-Purgstall Briefedition", version 2024-12-01 (Zentrum für Wissenschaftsgeschichte,
 University of Graz; project lead Martina Scholger), licensed under CC BY-NC 4.0, based on Walter Höflechner,
-*Joseph von Hammer-Purgstall. Briefe*. Changes made here: a sample of 90 letters; bracketed sequences extracted
+"Joseph von Hammer-Purgstall. Briefe". Changes made here: a sample of 90 letters; bracketed sequences extracted
 from them; editorial interventions encoded by hand in TEI (gold standard); LLM output and its evaluation.
 
 This sample is drawn from a larger historical correspondence corpus that is not itself part of this
 repository. Rights to publish are limited to the sample used here.
 
-## Third-party files
+THIRD-PARTY FILES
+=================
 
-- `resources/schema/tei_all.rng`: TEI P5 schema (TEI Consortium), available under CC BY and BSD-2-Clause
+- resources/schema/tei_all.rng: TEI P5 schema (TEI Consortium), available under CC BY and BSD-2-Clause
   (see the licence note in the file)
-- `resources/tools/jing-RELEASE220.jar`: Jing RELAX NG validator (Thai Open Source Software Center Ltd),
-  BSD-3-Clause; licence text in `resources/tools/jing-COPYING.txt`
+- resources/tools/jing-RELEASE220.jar: Jing RELAX NG validator (Thai Open Source Software Center Ltd),
+  BSD-3-Clause; licence text in resources/tools/jing-COPYING.txt
