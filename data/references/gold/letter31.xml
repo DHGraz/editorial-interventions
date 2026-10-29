@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_31"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Weimar d[en] 16. April 1798</dateline></opener><p>Meinen dankbarsten Dank für Ihren lieben Brief, den ich mit der rückgehenden
+                        Post beantworte, weil ich voraussehe, daß ich [in] den nächsten 14 Tagen
+                        schwerlich einige Augenblicke dazu werde sammeln können. Zu einer Flut von
+                        Fremden, die hier karawanenweise durchziehen, jetzt, wo mit den Schwalben
+                        auch alle Studenten und Professoren auf unseren protestantischen
+                        Universitäten ausfliegen, gesellen sich noch Abhaltungen anderer Art. Unter
+                        anderem kommt künftige Woche der <persName>Roscius</persName><note type="comment" place="bottom"><p>
+                                <persName>Quinctus Roscius</persName> war ein berühmter Schauspieler
+                                der Zeit <persName>Cicero</persName>s.</p></note> unseres nördlichen
+                        Deutschlands, <persName>Iffland</persName>, hierher, um in einer Woche 6
+                        seiner vortrefflichen Darstellungen auf unserem Theater zu geben. Schon ist
+                        in unserem kleinen Städtchen kein Privatquartier mehr zu haben. Das wird ein
+                        Leben geben. Aber die stilleren Musen befinden sich in diesem Geräusche
+                        nicht wohl.</p><p>Für alle Winke, die mir Ihr lieber Brief erteilt, meinen wärmsten Händedruck.
+                        Ich werde sie in meiner Brust einschließen. Dem Hr.
+                            <persName>v[on] </persName><persName>Retzer</persName>, den Sie mir
+                        ankündigen, sehe ich mit Sehnsucht entgegen. <persName>Wieland</persName>
+                        ist sein warmer Freund, und er wird hier mit wahrer, ihm gebührenden Achtung
+                        empfangen werden. Über <persName>Blumauer</persName><note type="comment" place="bottom"><p> Aloys <persName>Blumauer</persName> war wenig zuvor
+                                am 16. März an „Lungenschwindsucht“ in Wien verstorben.</p></note>
+                        hat man hier die lächerlichsten Anekdoten erzählt, die sich größtenteils von
+                            <persName>Baggesen</persName>, dem dänischen Schöngeist, der vor
+                        5 Jahren das letzte Mal in Wien war, herschreiben. Wohl möchte ich wissen,
+                        ob <persName>Blumauer</persName> zuletzt bloß dem Comus<note type="comment" place="bottom"><p> Gott der ausgedehnten nächtlichen Zecherei und
+                                Völlerei.</p></note> und der Volgivaga<note type="comment" place="bottom"><p> Vulgivaga, die unstet Umherschweifende, ein Beiname
+                                der Venus.</p></note> geopfert habe, wie man hier sagt. Haben Sie
+                            <persName>Kotzebue</persName>s Bekanntschaft gemacht? Was verspricht man
+                        sich in Wien von seinem Theaterjournal<note type="comment" place="bottom"><p> Vermutlich das Journal für das Theater und andere schöne
+                                Künste, Hamburg 1799.</p></note>. Die silberne Hochzeit<note type="comment" place="bottom"><p> August von Kotzebue, <hi rend="italic">Die silberne Hochzeit;</hi> in: <hi rend="italic">Neue
+                                    Schauspiele Bd 3 Leipzig 1799</hi> insgesamt 16 Bde
+                                1798–1810.</p></note> und die Corsen<note type="comment" place="bottom"><p> August von Kotzebue, Die Corsen. Ein Schauspiel in
+                                vier Akten, Leipzig 1799.</p></note>, die wir zuletzt von ihm hier
+                        gesehen haben, sind bei allen ihnen anklebenden Erbsünden ihres Vaters doch
+                        nicht die schlechtesten seiner Kinder. Die Frau
+                            <persName>von</persName> <persName>Wolzogen</persName>, vormalige Frau
+                        von <persName>Beulwitz</persName>, ist gewiß die Verfasserin der Agnes<note type="comment" place="bottom"><p> Caroline von Wolzogen, <hi rend="italic">Agnes von Lilien</hi>, erschien zuerst in
+                                    <persName>Schiller</persName>s Zeitschrift <hi rend="italic">„Die Horen“ 1796/97</hi>, dann 1798 in Berlin.</p></note>. Ihr
+                        Mann ist Kamerad unseres Herzogs und lebt seit einem Jahre bei uns. Ich sehe
+                        sie wöchentlich, und weiß ihr Tun und Lassen. Sie lebte eine Zeit lang in
+                        Stuttgart, vorher aber an einem kleinen <choice><abbr>fürstl</abbr><expan>fürstlichen</expan></choice> Hofe in
+                            Rudolstadt<note type="comment" place="bottom"><p> Rudolstadt an der
+                                Saale war die Haupt- und Residenzstadt des Fürstentums
+                                Schwarzburg-Rudolstadt.</p></note>. Nun haben alle Höfe eine
+                        Familienphysiognomie, wie der Laird<note type="comment" place="bottom"><p>
+                                Bezeichnung eines Landebesitzenden in Schottland.</p></note> und der
+                        arme Bauer von einem Clan in den Hochländern. Daher ihre nach der Natur
+                        ausgemalten Zeichnungen des Hochlands. Sie hat noch treffliche Dichtungen in
+                        ihrem Pulte, und würde schwerlich mit diesen herausgegangen sein, wenn nicht
+                            <persName>Schiller</persName>, der ihre Schwester zur Frau hat, ihr die
+                        ersten Fragmente, für die Horen<note type="comment" place="bottom"><p> Die
+                                1795 von <persName>Schiller</persName> begründete belletristische
+                                Monatsschrift, die allerdings nur bis 1797 bestand.</p></note>
+                        abgedrungen hätte. Sie ist bei der Tiefe ihrer Empfindungen eine äußerst
+                        anspruchslose und gute Frau, hängt mit ganzer Seele an ihrem einzigen Kinde,
+                        einem Knaben, den sie vor 2 Jahren in der Schweiz geboren hat, und weint
+                        jetzt über die Übel, die die arme Schweiz zu vernichten drohen<note type="comment" place="bottom"><p> Die Eidgenossenschaft wurde im
+                                Frühjahr 1798 von den Franzosen besetzt und in die Helvetische
+                                Republik der französischen Sphäre einverleibt.</p></note>.</p><p>Jean Paul <persName>Richter</persName> haben Sie mit wenigen Zügen treffend
+                        charakterisiert. Diese Messe erscheinen Geschichten in und vor Nürnberg<note type="comment" place="bottom"><p> Richters <hi rend="italic">„Palingenesien“</hi>, enthält Fata und Werke vor und in
+                                Nürnberg, <hi rend="italic">2 Bde Gera 1797</hi>.</p></note> von
+                        ihm. Es ist eine Ehestandsgeschichte in ganz neuem Stil. Wir wollen sehen,
+                        ob der Umgang mit der liebenswürdigen und gebildeten Emilie
+                            <persName>von</persName> <persName>Berlepsch</persName>, mit welcher er
+                        diesen Winter in Leipzig fast täglich zusammen gewesen ist, ihn etwas von
+                        seiner Urform abgeschliffen und seine Fantasie geregelt hat. Er kommt zu
+                        Ende dieser Woche hierher, vorzüglich um <persName>Herder</persName> einmal
+                        wieder zu sehen, dem er mit ganzer Seele ergeben ist, und dem er auch viel
+                        verdankt, da er ihm die Papiere aus dem Archive des Teufels<note type="comment" place="bottom"><p> Richters <hi rend="italic">„Auswahl
+                                    aus den Papieren des Teufels“</hi>, die 1789 in Gera unter dem
+                                Pseudonym J.P.F. <persName>Hasus</persName> erschienen
+                            war.</p></note> zuerst im M[anu]sc[rip]t<note type="comment" place="bottom"><p> Manuskript.</p></note> mitteilte und Aufmunterung
+                        erhielt, als Deutschland noch nichts von ihm wußte. Ihre Bemerkung über die
+                        Orientalismen des Mannes werden <persName>Herder</persName> große Freude
+                        machen, dem ich morgen Ihren Brief und die Beilage mitteilen werde.</p><p><persName>Herder</persName> hat übrigens eine große Bitte an Sie. Er arbeitet
+                        aus allen Kräften an einem beträchtlichen Werk über die Ruinen von
+                            Schelminha<note type="comment" place="bottom"><p> Dieses Werk dürfte nie
+                                erschienen sein – Schelminha, Tschihilminar ist der neupersische
+                                Name für Persepolis.</p></note> und alle dahin sich beziehenden
+                        archäologischen Gegenstände. Sie würden ihm eine große Freude machen, wenn
+                        Sie ihm Abdrücke von den in Wien befindlichen persischen gegrabenen Steinen
+                        und Anticaglien<note type="comment" place="bottom"><p> Antiquitäten, aber
+                                auch Gerümpel.</p></note>, wenn anderes dergleichen im
+                        Kaiserl[ichen] Kabinett befindlich sind [sic], verschaffen und vorläufig
+                        wenigstens einige Nachricht darüber erteilen wollten. Ihre persischen
+                            Blumen<note type="comment" place="bottom"><p> HP hat
+                                    <persName>Herder</persName> etliche orientalistische Manuskripte
+                                zur Veröffentlichung gegeben, die allerdings von
+                                    <persName>Herder</persName> nie herausgebracht wurden, sondern
+                                schließlich in dessen Nachlass gefunden und zum Teil von Johannes
+                                    <persName>von</persName> <persName>Müller</persName>
+                                veröffentlicht wurden, der auch <persName>Herder</persName>s <hi rend="italic">„Blumenlese aus morgenländischen Dichtern“, Wien
+                                    1813</hi>, herausgab. – <persName>Herder</persName> war es
+                                offenbar nie gelungen, einen Verleger zu finden.</p></note> stehen
+                        selbst mit diesen Forschungen, wie er mir neulich sagte, in Verbindung und
+                        erscheinen wahrscheinlich zu Michaelis. Wer hat die Rezension von
+                            <persName>Schlözer</persName>s Osmanicis<note type="comment" place="bottom"><p> August Ludwig Schlözer, Kritisch-historische
+                                Nebenstunden mit einer eingehenden Untersuchung der Origines
+                                Osmanicae, Göttingen 1797.</p></note> in der <choice><abbr>A LitZ</abbr><expan>Allgemeinen
+                        Literatur-Zeitung</expan></choice> <unclear>gemacht</unclear><note type="comment" place="bottom"><p> Vgl.
+                                dazu HP an <persName>Böttiger</persName> ddo 1798 IX 12.</p></note>.
+                        Ich rate auf unseren verehrungswürdigen <persName>Müller</persName>. Habe
+                        ich recht?</p><p>Dieser mir so teure Mann war krank, wie Sie mir schreiben. Sie können sich
+                        leicht vorstellen, wie sehr dies uns alle beunruhigen muß. Geben Sie mir ja
+                        bald erfreulich[...] Nachricht darüber, und sagen Sie ihm meine innigste
+                        Liebe und Verehrung.</p><p><choice><abbr>Hr</abbr><expan>Herrn</expan></choice> <persName>v[on] Joris</persName> Brief erwarte ich mit vieler
+                        Sehnsucht, und freue mich seiner schönen Aussichten auf Innsbruck; Sie
+                        werden gestehen, daß diese Freude sehr uneigennützig von mir ist, da ich
+                        durch diese Verpflanzung einen sehr interessanten Korrespondenten fast eher
+                        verliere, als ich ihn recht kennen lernte. Doch auch von dort gehen
+                            Posten<note type="comment" place="bottom"><p> Postverbindungen.
+                                    <persName>Joris</persName> hatte sich um die Professur für
+                                Naturgeschichte an der Universität Innsbruck beworben; s. dazu HP an
+                                    <persName>Böttiger</persName> ddo 1798 IV 6.</p></note>. Jetzt
+                        nur noch zwei Fragen: Ist Ihnen ein Werk bekannt, woraus man das neu
+                        okkupierte Istrien und Dalmatien<note type="comment" place="bottom"><p>
+                                Beide Gebiete waren 1797 von Österreich besetzt worden.</p></note>
+                        kennen lernen kann[?] Ich besitze nichts als
+                            <persName>Fortis</persName><note type="comment" place="bottom"><p> Wohl:
+                                Alberto Fortis, Viaggio in Dalmazia, 2 Bde Venedig 1774.</p></note>
+                        darüber. Ferner durch welche Wiener Buchhandlung kann ich jetzt zur Messe an
+                        den Hr. Hofrat <persName>v[on]</persName> <persName>Müller</persName> und
+                        Sie am sichersten einige kleine Schriften spedieren? Stehen Sie nicht mit
+                        einer in Verbindung, die auch nach Leipzig kommt[?] Den 4. Mai werde ich
+                        selbst in Leipzig sein und eine Woche dort bleiben.
+                            <persName>Falk</persName> empfiehlt sich Ihnen. Er hat herrliche
+                        Nachahmungen des <persName>Juvenal</persName> für sein Taschenbuch
+                            gearbeitet<note type="comment" place="bottom"><p> Die Weiber, frey nach
+                                Juvenal; in: Taschenbuch für Freunde des Scherzes und der Satire.
+                                Herausgegeben v. J. D. Falk. (Jahrgang III, 1799) mit Anmerkungen,
+                                16–106.</p></note>. <salute>Mit wahrer Freundschaft ganz Ihr
+                            eigener</salute></p><closer><signed>Böttiger</signed></closer><postscript>
+                        <p>Gewöhnen wir uns doch in unseren Briefen ganz den Stil der Etiquette ab.
+                            Sie haben es in Ihrem letzten Brief noch nicht ganz getan.</p>
+                    </postscript></div></body></text></TEI>

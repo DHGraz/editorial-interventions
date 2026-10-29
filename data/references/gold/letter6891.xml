@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6891"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Rossi</persName> erklärt die Verspätung seiner Antwort damit, dass
+                        er sich am 13. März 1845 bei einem Sturz auf der Straße den rechten Arm nahe
+                        dem Ellenbogen gebrochen hat und nur den unteren Teil bedingt verwenden
+                        kann. – <persName>Rossi</persName> bedauert, in der Sache des Grafen
+                            <persName>Dietrichstein</persName> nichts bewirkt haben zu können.
+                        Dieser hatte sich wiederum mit einem verärgerten Brief an
+                            <persName>Rossi</persName> gewendet, da das Gubernium in Mailand Herrn
+                            <persName>Gar</persName> nicht auf Platz eins der Terna für Pavia
+                        gereiht hat. <persName>Rossi</persName> beteuert, die Angelegenheit habe
+                        sich außerhalb seines Aktionsradius abgespielt und fügt – als nur für
+                            <persName>HP</persName> bestimmte Information – an, dass ihm ein
+                        diesbezüglich einflussreicher Mann Es ist unklar, um wen es sich handelt.
+                        mitgeteilt habe, <persName>Gar</persName> solle wahrscheinlich demnächst
+                        einen Posten in einer Bibliothek, möglicherweise im Veneto Vermutlich
+                        rechnete man bereits mit der Pensionierung oder dem Tod
+                            <persName>Bettio</persName>s., erhalten. – <persName>Rossi</persName>
+                        bittet <persName>HP</persName> weiters, ihn nicht mehr über Gräfin Emilia
+                            <persName>Taverna</persName> zu befragen, welche Haus und Ehemann
+                        verlassen hat und sich nun in Paris aufhält. </p></div><div type="letter" subtype="original"><opener><salute>Amico onorevolissimo e carissimo</salute></opener><p>Riesco appena da una lunga infermità e come posso, piglio in mano la penna
+                                per iscrivervi. Il <choice><abbr>gno</abbr><expan>giorno</expan></choice> 13 Marzo feci una caduta per istrada, tanto
+                        disgraziata che mi spezzai il braccio destro vicino vicino all’articolazione
+                        del cubito. Grazie a Dio ho potuto ora ridurmi a qualche uso del membro
+                        sotto e tosto lo voglio adoperare, quantunque con pessima calligrafia, per
+                        risalutare gli amici del cuore.</p><p>Non ho potuto far niente di ciò che mi avete scritto con S[ua] E il Sig[nor]
+                        Conte <persName>di</persName> D<persName>ietrichstein</persName>. Quel
+                        Signore mi scrisse bensì, ma fu una lettera tinta un po<note type="comment" place="bottom"><p> Davor durchgestrichen „pon“.</p></note> nel
+                        corruccio, perché il Governo di Milano nelle proposizioni per il
+                        bibliotecario di Pavia non aveva posto il Sig[no]r <persName>Gar</persName>
+                        1° in terna. Ma, Dio buono! io non ho potuto avere alcuna ingerenza in quel
+                        affare, ed io ho sempre esplicitamente detto all’Eccellenza del Sig[no]r
+                        Conte che all’evento di nuove proposizioni per Brera io avrei subite le
+                        conseguenze di logica e di giustizia di avere<note type="comment" place="bottom"><p> Danach durchgestrichen „con“.</p></note> di già
+                        contemplato in terna il Sig[no]r <persName>Gar</persName>, ma io, io e
+                        dentro la sfera della mia azione<note type="comment" place="bottom"><p>
+                                Danach durchgestrichen „io“.</p></note> aveva significato questa
+                        cosa.</p><p>Scrivo oggi stesso sull’argomento a quel Signore. Ho parlato con qualche
+                        persona qui influente, in proposito, e n’ebbi sentore che il Sign[or]
+                            <persName>Gar</persName> potrà forse<note type="comment" place="bottom"><p> „forse“ über der Zeile eingefügt.</p></note> presto essere
+                        impiegato in qualche biblioteca, p[er]<note type="comment" place="bottom"><p> danach durchgestrichen „p“.</p></note>e[sempio] nel Veneto: ma
+                        siccome la cosa è incerta, così mi sono ben guardato dal darne cenno a S[ua]
+                        E[ccellenza] per tema ch’Ella non mi accusi di lattarlo di false
+                        speranze.</p><p>Vorrei scrivervi di più, ma il braccio ferito troppo mi si stanca. Scrivetemi
+                        Voi, o Carissimo; ma non parlatemi più della contessa Emilia
+                            <persName>Taverna</persName>, che con sorpresa gravissima mia, di tutti
+                        ha voluto abbandonare la casa maritale<note type="comment" place="bottom"><p> Danach durchgestrichener Beistrich.</p></note> ed ora è in
+                        Parigi.</p><closer><salute>Il Consigliere Rezzonico a Voi si ricorda ed io pure con tutto l’animo.
+                        Ricordatemi Voi però anche al vostro Massimilano il vostro devot[issi]mo
+                        amico</salute><signed>Francesco <persName>Rossi</persName></signed><dateline>Milano, 1 Maggio, 1845</dateline></closer></div></body></text></TEI>

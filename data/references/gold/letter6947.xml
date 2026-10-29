@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6947"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Hainfeld den 12ten Aug[ust] 1845</dateline></opener><p>Ich<note type="comment" place="bottom"><p> Übernommen aus: Riedl-Dorn
+                                Christa, <hi rend="italic">Ein „uomo universale“ des 19.
+                                    Jahrhunderts und sein wissenschaftliches Netzwerk</hi> […]; <hi rend="italic">Göttingen 2019; S. 978–984</hi>.</p></note> bin
+                        nun bereits sechzehn Tage hier ohne von Ihnen verehrter<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„verehrtester“.</hi></p></note> Freund weder Ihr versprochenes
+                        Portrait noch die erwartete Nachricht über<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„oder“</hi>.</p></note> Ihre Unterredung erhalten zu haben. Etwas müßen
+                        Sie auf Ihre Erzählung doch erfahren haben, und was hat den G. gesagt?<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„»und was hat denn G. gesagt« nachträglich
+                                    eingefügt.“</hi> (Riedl-Dorn).</p></note> und dieß was es immer
+                        sey bin ich zu erfahren sehr gespannt: senden Sie den Brief mir ins
+                            <persName>Henikstein</persName>sche<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Wilhelm Ritter von Henikstein (1800 Wien–1876
+                                    ebenda), Kaufmann und Bankier, war der Bruder von
+                                    Hammer-Purgstalls Frau Caroline. (1797 Wien–1844 ebenda).“</hi>
+                                (Riedl-Dorn).</p></note> Comptoir, er kommt uns unter dem<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Unleserlich.“</hi> (Riedl-Dorn).</p></note>
+                            Umschlage<note type="comment" place="bottom"><p> Riedl-Dorn: <hi rend="italic">„Umst</hi>[…]<hi rend="italic">“</hi>.</p></note>
+                            Zeitungs[…]<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Unleserlich.“</hi> (Riedl-Dorn).</p></note> zu
+                        das heutige<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„fertige“.</hi></p></note> hat<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„unleserlich“</hi>.</p></note> mir den Einschluß<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„Einfluß“</hi>.</p></note> von
+                            <persName>Fleischer</persName><note type="comment" place="bottom"><p>
+                                Bei Riedl-Dorn: <hi rend="italic">„Fleißer“</hi>; <hi rend="italic">„Wahrscheinlich Heinrich Leberecht Fleischer (1801
+                                    Schandau–1888 Leipzig), bedeutender Orientalist, ab 1835
+                                    Professor für Orientalische Philologie an der Universität
+                                    Leipzig, hatte mit Hammer-Purgstall Kontroversen.“</hi>
+                                (Riedl-Dorn)</p></note> gebracht, worüber nicht viel zu bemerken ist
+                        da er im Grunde Recht hat; wenn Sie glauben sollten davon irgend<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„dabei wieder“.</hi></p></note> einen sachdienlichen Gebrauch
+                        machen zu können bitte ich Sie es zu thun, und denselben in jedem Falle bis
+                        auf meine Rückkunft zu behalten.</p><p>Um in der Sache noch ein Ubriges zu thun fuhr ich am Tage vor meiner Abreise
+                        zu Carl <persName>Hügel</persName>, weil ich zufällig gehört, daß er am
+                        nächsten Tage über Berlin nach dem Johanisberge<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Schloss und Weingut Johannisberg im Rheingau war
+                                    im Besitz von Metternich.“</hi> (Riedl-Dorn).</p></note> abgehe.
+                        Er versicherte mich<note type="comment" place="bottom"><p> Bei Riedl-Dorn:
+                                    <hi rend="italic">„noch“</hi>.</p></note> dass er zu
+                        wiederholtenmalen von der zu Wien zu gründenden asiatischen Gesellschaft
+                        sprechen gehört, daß er den Fürsten<note type="comment" place="bottom"><p>
+                                Bei Riedl-Dorn: <hi rend="italic">„hievon“</hi>.</p></note> noch den
+                        Tag vor<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„bei“</hi>:</p></note> seiner Abreise gesprochen,
+                        und dieser ihm gesteht c’est une chose faite<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Es ist eine gemachte Sache.“</hi>
+                                (Riedl-Dorn).</p></note>; er versprach mir auf mein Ersuchen die
+                        Sache auch auf dem Johanisberg zur Sprache zu bringen. Ich vermuthe daß
+                            F.M.<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Fürst Metternich.“</hi> (Riedl-Dorn).</p></note>
+                        oder Jemand anderer der Seinigen habe auf der Fried<supplied>e</supplied>nsreise
+                            ausgest<gap/><note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Unleserlich.“</hi> (Riedl-Dorn).</p></note> es
+                        stehe uns frei<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„sehe und für“.</hi></p></note> uns an die
+                        Versammlung in Darmstadt<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Am 29.9.1845 fand die vorbereitende und am 30.9.
+                                    die ordentliche Sitzung zur Gründung der »Deutschen
+                                    Morgenländischen Gesellschaft« am 2.10.1845 statt. Sitz der
+                                    Gesellschaft wurde Leipzig. Vgl. Jahresbericht der Deutschen
+                                    Morgenländischen Gesellschaft für das Jahr 1845 (Leipzig
+                                    1846).“</hi> (Riedl-Dorn).</p></note> anzuschließen; das<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„unleserlich“.</hi></p></note> vermuthe ich aus einer<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„und“</hi> und <hi rend="italic">„unleserlich“</hi>.</p></note>
+                        Äußerung eines mit dem letzten Bothen erhaltenen Briefes<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„Bericht“</hi>.</p></note>
+                        <persName>Umbreit</persName>s, dem ich heut<note type="comment" place="bottom"><p> Bei Riedl-Dorn: <hi rend="italic">„somit“</hi>.</p></note> unter Einem der Wahrheit gemäß antworte; in
+                        jedem Fall werden Sie im October wenn die Zeitungen von den Darmstädter
+                        Beschlüssen voll seyn werden, eher in dem Falle<note type="comment" place="bottom"><p> Bei Riedl-Dorn: „<hi rend="italic">ohne ein aber
+                                    klar“.</hi></p></note> sagen das Eisen so lang es noch warm zu
+                        schmieden als Ihr erst Anfangs November nach Wien zurückkehrender
+                        ergebenster Freund</p><closer><signed>Hammer Purgstall</signed></closer><postscript>
+                        <p><persName>Fleischer</persName>s<note type="comment" place="bottom"><p>
+                                    Bei Riedl-Dorn:<hi rend="italic"> „Fleißers“</hi>.</p></note>
+                            Brief erfordert<note type="comment" place="bottom"><p> Bei Riedl-Dorn:
+                                        <hi rend="italic">„erlaubt“</hi>.</p></note> keine Antwort
+                            von mir.</p>
+                    </postscript><p>An Seine W[oh]lgeborn</p><p>Herrn von <persName>Endlicher</persName> Ritter des preuß. Ordens pour le
+                        merite Professor der Botanik Direktor des botanischen Gartens</p><p>in <hi rend="underline">Wien</hi></p><p>Rennweg</p><p>im <hi rend="underline">botanischen Garten</hi></p><note type="comment" place="inline">[Stempel Gratz 14. Aug.- Wien 15.
+                        Aug.]</note></div></body></text></TEI>

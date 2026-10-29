@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7271"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Hainfeld den 21. August 1847</dateline><salute>Verehrtester Freund</salute></opener><p>Wie<note type="comment" place="bottom"><p> Universitätsbibliothek Heidelberg,
+                                Heid. Hs. 788: Nachlass Friedrich Creuzer (via Kalliope); <ref target="http://digi.ub.uni-heidelberg.de/diglit/heidhs788">http://digi.ub.uni-heidelberg.de/diglit/heidhs788</ref>. Dieser
+                                Brief stammt wohl von der Hand HPs, ist sehr regelmäßig und bemüht
+                                ordentlich, offenbar mit einem Linienspiegel geschrieben, jedoch mit
+                                Passagen, die Abgelenktheit oder Konzentrationsschwäche,
+                                Ermüdungsauswirkungen vermuten lassen. Die Adresse stammt von klarer
+                                regelmäßiger fremder Hand.</p></note> ich mich über die Inlage<note type="comment" place="bottom"><p> Die dem Brief beigeschlossene
+                                Nachricht.</p></note> geärgert, können Sie sich leicht vorstellen.
+                        Dieselbe hat mir meinen hiesigen Aufenthalt wirklich vergiftet. Sie sind
+                        ganz gewiss nicht im geringsten Schuld daran, daß ich mich mit einer <hi rend="underline">solchen</hi> Buchhandlung unter <hi rend="underline">solchen</hi> Bedingnissen höchst unvorsichtig eingelassen. Da mir das
+                        Prozessieren ein Gräul will ich noch[?] einmal nichts anders als die Abgabe
+                        der auf meine Kosten gegossenen Schrift und die Streichung des Registers
+                        begehren, in dem es gar zu schaudert, damit<note type="comment" place="bottom"><p> Davor gestrichen „Da nt“ (ut?).</p></note> nach drei
+                        oder vier Jahren abgeschlossener Rechnung in Vorschein zu kommen. Will Herr
+                            <persName>Leske</persName> oder sein Geschäftsführer auch hierüber nicht
+                        raison annehmen und diesen Posten streichen, so bleibt mir Nichts übrig, als
+                        ihn vor [Gericht]<note type="comment" place="bottom"><p> Wegen eines
+                                Ausrisses vom linken Rand her ist nur der Oberteil des Wortes
+                                erkennbar.</p></note> um diesen Posten sowohl als die anderen zu
+                        hoch aufgerechneten zu [belang]en<note type="comment" place="bottom"><p>
+                                Hier ist nur der Unterteil des Wortes erkennbar.</p></note>. Da ich
+                        keinen Menschen in Darmstadt kenne, bitte ich Sie, mir einen dortigen
+                        Advokaten zu nennen, dem ich meine Vollmacht schicken soll; doch <unclear>hierinn</unclear>
+                        könnte ich auch Herrn <persName>Biegeleben</persName><note type="comment" place="bottom"><p> Ludwig <persName>von Biegeleben</persName>
+                                (1812–1872) war ein hessischer Diplomat, der nach 1848 die
+                                österreichische Deutschlandpolitik maßgeblich mitbestimmte; er war
+                                ab 1842 hessischer Legationssekretär und Geschäftsträger in Wien;
+                                    (<hi rend="italic">Wikipedia</hi>).</p></note>, dem ich das
+                        ganze Verfahren <persName>Leske’s </persName>auseinander setzen will, wenn
+                        ich nach Wien komme, fragen; nur um eines muss ich Ihre Freundschaft bitten
+                        nämlich um die Verständigung mit einem Buchhändler, der die
+                            <persName>Schwabacher</persName>schrift<note type="comment" place="bottom"><p> Eine eher breite, derbe „Frakturschrift“, die bis in
+                                die NS-Zeit als genuin deutsch eingestuft, 1941 aber überraschend
+                                verboten und durch die auf der humanistischen (recte karolingischen)
+                                Schrift basierende Antiqua ersetzt wurde. Weshalb HP eine eigene
+                                Schwabacher hatte gießen lassen, ist unklar, zumal es sich um die
+                                damals im Buchdruck gängige Schrift handelte. </p></note> zum
+                        Verkaufe, die übrigen Exemplare in Kommission übernähme. Ich kenne keinen
+                        einzigen, und da das Werk hier verboten, kann ich es keinem der mir hier
+                        bekannten zumitteln. Ich bitte Sie also mich aus dieser Schlemme<note type="comment" place="bottom"><p> Wohl ein Konzentrationsfehler,
+                                intendiert war zweifellos „Klemme“, HP mochte schon an „luteus“ =
+                                kotig, schlammig gedacht haben.</p></note>
+                        <hi rend="underline">haeret pes luteo</hi><note type="comment" place="bottom"><p> Es steckt der Fuß im Dreck.</p></note> so gut als
+                        möglich herauszuziehen, indem Sie die weitere Kommission einem ehrlichern
+                        Buchhändler als <persName>Leske </persName>übertragen; von dem jungen
+                            <persName>Leske</persName>, den ich gastfreundlich empfing, hätte ich am
+                        wenigsten so niederträchtigen Schimpf als den Vorwurf von Altersschwäche
+                        erwartet. Habent libelli fata sua<note type="comment" place="bottom"><p> Ein
+                                viel gebrauchtes lateinisches Sprichwort, das aus einem
+                                unvollständigen Lehrgedicht des antiken Grammatikers
+                                    <persName>Terentianus Maurus </persName>(2. Jh. nChr.) stammt
+                                und vollständig lautet „Pro captu habent sua fata libelli“ – ja nach
+                                Auffassungsgabe des Lesers haben die Büchlein ihre Schicksale; (<hi rend="italic">Wikipedia</hi>).</p></note>, aber ein
+                            unvergnüglicheres<note type="comment" place="bottom"><p> A:
+                                unvergnügliéres.</p></note> Los als dieses hat noch an keinem neuen
+                        Werk erlebt <salute>Ihr aufrichtiger ergebenster verbu<supplied>n</supplied>den<unclear>ster</unclear>
+                            Freund</salute></p><closer><signed><persName>Hammer-Purgstall</persName></signed></closer></div></body></text></TEI>

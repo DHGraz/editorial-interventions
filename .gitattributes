@@ -1,0 +1,8 @@
+# Text files are stored with LF and checked out with the platform's native line endings, the same
+# line endings the scripts write.
+* text=auto
+
+# Binary files: never converted
+*.xlsx binary
+*.png binary
+*.jar binary

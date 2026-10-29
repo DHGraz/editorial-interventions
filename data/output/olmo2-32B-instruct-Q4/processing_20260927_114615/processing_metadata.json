@@ -1,0 +1,18 @@
+{
+  "timestamp": "20260927_114615",
+  "model_instance": "olmo2-32B-instruct-Q4",
+  "model_type": "olmo",
+  "prompt_version": "editorial_interventions",
+  "temperature": 0.6,
+  "processing_time": "00:11:32",
+  "processing_time_seconds": 692.3159735202789,
+  "token_count": 148940,
+  "input_tokens": 137800,
+  "output_tokens": 11140,
+  "thinking_mode": null,
+  "date_processed": "2026-09-27 11:57:47",
+  "run_name": "olmo2-32B-instruct-Q4",
+  "max_tokens": 3000,
+  "config_file": "olmo2-32B-instruct-Q4.py",
+  "prompt_format": "chat_template"
+}

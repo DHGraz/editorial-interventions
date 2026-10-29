@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4906"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Monsieur et cher ami,</salute></opener><p>Je reçois au moment même votre lettre du 10 du courant, et comme je prévois
+                        que l´ouverture de la Session des Chambres<note type="comment" place="bottom"><p> D.h. der Pairskammer.</p></note> va m´enlever le peu
+                        d´instances dont jusqu`ici je pouvois disposer, je vous réponds sur le
+                        champ. D´ailleurs, il arrivera de là que, si rien ne m´interrompt, ma lettre
+                        arrivera presque à point, pour offrir à Madame
+                            <persName>de Hammer</persName> et à vous mon hommage et mes vœux pour
+                        l´année 1834. Ne vous fâchez pas, si, avec bien d´autres vœux, je vous
+                        souhaite une écriture<note type="comment" place="bottom"><p> A:
+                                ecriture.</p></note> plus lisible. Je crains bien pourtant que
+                        celui-là ne soit pas exaucé<note type="comment" place="bottom"><p>
+                                Französisch: „Ich hege jedoch die Befürchtung, dass dieser [Wunsch]
+                                nicht in Erfüllung gehen wird.“</p></note>. – J´ai devant moi une
+                        masse de vos lettres, et je vais tâcher de répondre à tout. Je crois vous
+                        avoir déjà marqué, en vous renvoyant deux lettres que vous aviez mises
+                        étourdiment dans un de vos envois, que M. le C[om]te
+                            <persName>de la Ferté</persName> m´avoit remboursé le prix du
+                            <persName>Meninski</persName><note type="comment" place="bottom"><p> A:
+                                Méninsky.</p></note>; c´est donc chose finie. – Le manuscrit turc
+                        m´a été remis par M. le B[ar]on <persName>de Hügel</persName> lui-même, qui
+                        avoit attendu que je fusse de retour de la campagne, pour me le remettre en
+                        mains propres[.] – Je m´étois bien gardé de vous annoncer l´envoi de mon
+                        portrait, je voulois qu´il vous fit une surprise. On le trouve en général
+                        très-bien. – M. <persName>de Passoret</persName> ne paroît<note type="comment" place="bottom"><p> A: paroit.</p></note> plus à
+                        l´Académie, en quoi il a tort. J´ignorois son voyage en Autriche. On dit ici
+                        qu´il n´a pas eu la permission d´aller à Prague. Il a été fâcheux pour lui
+                        d´être monté si haut, et je crois qu´il n´a pas pris le revers de fortune
+                        avec assez de philosophie. – J´ai reçu tous vos morceaux pour le Journal
+                        Asiatique, et je les ai remis à M. <persName>Reinaud</persName>, chargé
+                        actuellement de la rédaction, pour les y insérer, en retranchant toutefois
+                        ce que à l´occasion du Commentaire de Soudi sur le Gulistan<note type="comment" place="bottom"><p> Sudi, al-Busnawi [ed.], Gulistan
+                                Saadi, Istambul [sic]: Dār aṭ-Ṭibāʿa al-ʿĀmira, 1833.</p></note>,
+                        vous dites des particules de la langue persanne, parce que vous vous trompez
+                        dans le sens que vous donnez à plusieurs des dénominations techniques de ces
+                        particules. C´est d´ailleurs une erreur des grammairiens, de vouloir calquer
+                        la grammaire persanne sur la /// grammaire arabe, à peu près comme autrefois
+                        on voulait trouver des <hi rend="underline">cas</hi> dans le françois,
+                        l´anglois, l´espagnol etc., parce qu´on calquait toutes les grammaires des
+                        langues modernes sur la grammaire latine. Il pourroit bien aussi y avoir
+                        quelques choses à modifier dans vos articles, et peut-être y trouvera-t-on
+                        trop de textes turcs. Mais il y a encore un obstacle; c´est que nos
+                        compositeurs, le plus souvent, ne peuvent lire ni votre françois, ni votre
+                        turc, ni même votre grec. Je suis bien tenté de croire qu´il en est
+                        quelquefois de même des compositeurs allemands, et que c´est en partie pour
+                        cela que les textes arabes cités dans les notes de votre histoire ottomane,
+                        tout remplis de fautes. – On a commencé ici l´impression du texte de
+                            <persName>Raschid-eddin</persName><note type="comment" place="bottom"><p> Etienne Quatremère [Üs.], <hi rend="italic">Histoire des
+                                    Mongols de la Perse, écrite en Persan par Raschid-Eldin, Paris:
+                                    Imprimerie Royale, 1836.</hi></p></note>, avec une traduction
+                        françoise: c´est M. Et[ienne] <persName>Quatremère</persName> qui se charge
+                        de cela. Cet ouvrage est du nombre de ceux qui seront imprimés, aux frais du
+                        gouvernement, à l´imprimerie royale. Cela sera très long, parce que, chaque
+                        année, on doit se borner à 12 feuilles. La vente se fera au fur et à mesure,
+                        par livraisons. Je pense que Quatremère consultera, pour les mots chinois,
+                        M. Stanislas <persName>Julien</persName><note type="comment" place="bottom"><p> Stanislas <persName>Julien</persName> (1797–1873) war ein
+                                französischer Sinologe. Nach einem Hellenistik-Studium am Collège de
+                                France übernahm <persName>Julien</persName> zunächst die
+                                entsprechenden Kurse von seinem Lehrer Baptiste <persName>Gail
+                                </persName>(1755–1829), wandte sich jedoch bald, nachdem er äußerst
+                                sprachbegabt war, dem Studium der chinesischen Sprache unter
+                                    <persName>Abel-Rémusat</persName> zu, dessen Lehrstuhl für
+                                chinesische und mandschu-tartarische Sprache und Literatur am
+                                Collège widerum er im Jahr 1832 übernahm. Nachdem
+                                    <persName>Julien</persName> 1845 Adjunkts-Konservator an der
+                                Nationalbibliothek und 1852 Administrator des Collège de France
+                                geworden war, bemächtigte er sich 1863 auf eine unrühmliche Weise
+                                des Chinesisch-Lehrstuhls an der Ecole des langues orientales. Neben
+                                zahlreichen Auszeichnungen erwarb <persName>Julien</persName> die
+                                Mitgliedschaft in praktisch allen wissenschaftlichen Gesellschaften
+                                Europas seiner Zeit. Zudem initiierte <persName>Julien</persName>
+                                mit Hilfe seiner Enkelin und seiner Ehefrau einen jährlich
+                                vergebenen Preis, der seinen Namen trug (zum ersten Mal 1875
+                                vergeben). <persName>Julien</persName>s wissenschaftliche
+                                Aktivitäten forcierten die chinesische Philologie (z.B. <hi rend="italic">Vindiciae philologicae in linguam sinicam,
+                                    1830</hi>); er erstellte jedoch auch zahlreiche wichtige
+                                Übersetzungen, z.B. <hi rend="italic">Meng-tseu vel Menicus,
+                                    1824</hi>; (<hi rend="italic">Pouillon</hi>, <hi rend="italic">Dictionnaire des orientalistes 2008: 529f.</hi>).</p></note>. –
+                        Je regrette, comme vous, que M. <persName>D´Ohsson</persName> n´ait pas
+                        continué son histoire des Mongols<note type="comment" place="bottom"><p>
+                                Mouradja D´Ohsson/Abraham Constantin, <hi rend="italic">Histoire des
+                                    Mongols, depuis Tchinguiz-Khan jusqu’à Timour Bey ou Tamerlan.
+                                    Avec une carte de l’Asie au XIIIe siècle, Paris: Didot,
+                                    1824</hi>. Neben dem ersten Band von 1824 findet man ein
+                                vierbändiges, gleichnamiges Werk, erschienen in Denhaag/Amsterdam
+                                bei van Cleef. 1856 erschien eine erweiternde Überarbeitung der vier
+                                Bände in Amsterdam bei Frederik Muller.</p></note>; je crois qu´il
+                        n´habite plus Paris[.] – Je ne partage pas le moins du monde l´opinion de M.
+                            <persName>Klaproth</persName>, sur les étymologies du nom des Turcs<note type="comment" place="bottom"><p> Das genannte Werk konnte nicht
+                                ausfindig gemacht werden.</p></note>; il est tout-à-fait ridicule de
+                        vouloir le dériver de تقيه<note type="comment" place="bottom"><p>
+                                Vermutliche Lesung: [taqiya]. Arabisch: Gottesfurcht.</p></note>; je
+                        crois avoir dit mon sentiment là [–] dessus, quelque part dans le Journal
+                        des Savans<note type="comment" place="bottom"><p> Es konnte lediglich ein
+                                ebendort erschienener Beitrag
+                                    <persName>de </persName><persName>Sacy</persName>s ermittelt
+                                werden, der sich auf <persName>Klaproth</persName> bezieht. Dieser
+                                wurde allerdings bereits 1825 abgedruckt und versteht sich als
+                                Antwort auf eine Kontroverse zwischen <persName>Klaproth</persName>
+                                und <persName>Schmidt </persName>bezüglich zentralasiatischer
+                                Völker: Antoine-Isaac Silvestre de Sacy, <hi rend="italic">Recherches de M. I.J. Schmidt sur l´histoire ancienne de la
+                                    culture des peuples de l´Asie centrale</hi> […] – <hi rend="italic">Examen de ces recherches par Klaproth, 3
+                                    articles</hi>, in: <hi rend="italic">Journal des Savants,
+                                    octobre 1825, 590–604, nov. 1825, 666–677, dec.
+                                717–728</hi>.</p></note>: – Apropos du Journal des Savans, je dois
+                        vous dire que j´ai donné au rédacteur deux articles, l´un sur le tome VI de
+                        votre histoire ottomane, l´autre sur les tomes VII, VIII et IX. Ce sont des
+                        fruits de mes vacances. – J´avois aussi fait un article sur votre
+                            <persName>Marc-Aurèle</persName><note type="comment" place="bottom"><p>
+                                A: Marc Aurèle.</p></note>; mais je ne l´ai pas donné, parce que
+                        j´ai craint qu´il ne vous désobligeât. Mais, à ce propos, je dois vous dire
+                        que je ne suis pas du tout content de votre caractère persan; il y a des
+                        choses tout-à-fait manquées, et certainement difficiles à lire, même pour un
+                        Persan. – Je ne connois point du tout l´ouvrage dont vous me parlez, ///
+                        publié à Petersbourg, et que vous supposez être de M.
+                            <persName>Koehler</persName>. Je ne comprends pas même trop le titre de
+                            <hi rend="underline">Tarichos</hi><note type="comment" place="bottom"><p> Heinrich Karl Ernst Koehler, <hi rend="italic">Tarichos, ou
+                                    recherches sur l’histoire et les antiquités des pêcheries de la
+                                    Russie meridionale. Sankt Petersburg: L’imprimerie de Académie
+                                    Impériale de Sciences (Mémoires de l’Academie Impériale des
+                                    Sciences de Saint-Pétersbourg / Sciences politiques, histoire,
+                                    philologie), 1832.</hi></p></note> que vous lui donnez, mais
+                        peut-être ai-je mal lu ce nom.- M. <persName>Kieffer</persName> a laissé en
+                        manuscrit un Dictionnaire Turc-françois<note type="comment" place="bottom"><p> Thomas Xavier Bianchi, [ed.]/ Jean Daniel Kieffer, [Verf.], <hi rend="italic">Dictionnaire turc-français a l’usage des agents
+                                    diplomatiques et consulaires, des commerçants, des navigateurs,
+                                    et autres voyageurs dans le Levant. Elsine-i türkiye ve
+                                    fransaviyenin lugatı. 2 Bde, Paris: Dondey-Dupré, 1835–37</hi>.
+                            </p></note>, qui s´imprime ici sous la direction de M.
+                            <persName>Bianchi</persName>, et du même format que son Vocabulaire
+                        François-turc [sic]. Ce n´est guère au fait qu´un extrait du
+                            <persName>Meninski</persName><note type="comment" place="bottom"><p> A:
+                                Meninsky.</p></note>. En en renvoyant les épreuves<note type="comment" place="bottom"><p> A: epreuves.</p></note>, j´ai occasion
+                        de remarquer quelques fautes assez graves dans le
+                            <persName>Meninski</persName><note type="comment" place="bottom"><p> A:
+                                Méninsky.</p></note>, que M. <persName>Kieffer</persName> a copié et
+                        sur lesquelles M. <persName>Bianchi</persName> saute à pieds joints; par
+                        exemple, le présent du verbe persan <note type="comment" place="bottom"><p>
+                                Transkription einbringen.</p></note>اغضادن, <hi rend="underline">monstrum horrendum</hi>, <hi rend="underline">informe</hi>; et <note type="comment" place="bottom"><p> Transkription
+                        einbringen.</p></note>افتراد, que <persName>Meninski</persName><note type="comment" place="bottom"><p> A: Meninsky.</p></note> a mal lu, au
+                        lieu de <note type="comment" place="bottom"><p> [iqtirāḥ] Arabisch:
+                                Vorschlag.</p></note>اقتراح, exigé par le sens et par la rime
+                            الحاح<note type="comment" place="bottom"><p> [ilḥāḥ] Arabisch:
+                                Untermauerung, Drängen. </p></note>. – Je pense que, avant de
+                        recevoir la présente, vous aurez déjà بين يديك<note type="comment" place="bottom"><p> [bain yadaik] Arabisch: „in Händen“.</p></note> mon
+                        édition de la الفية<note type="comment" place="bottom"><p> [Alfiya], d.h.
+                                das gleichnamige Werk des <persName>Ibn Malik</persName>.</p></note>
+                        que je vous ai envoyée. – <hi rend="underline">Wamik</hi> et <hi rend="underline">Asra</hi><note type="comment" place="bottom"><p>
+                                Çelebi, Lâmiî [Verf.]/HP, <hi rend="italic">Wamik und Asra, das ist
+                                    der Glühende und die Blühende. Das älteste persische romantische
+                                    Gedicht im Fünfelsaft abgezogen, Wien: Wallishauser, 1833.</hi>
+                            </p></note> sont déjà depuis long-temps sur mon bureau; je n´ai lu les
+                        quelques pages, mais c´est tout, faute de temps. C´est je crois, ce roman
+                        qui provoquera la barbare décision d´Omar<note type="comment" place="bottom"><p> Es konnte nicht ermittelt werden, um welche „barbarische
+                                Entscheidung“ es sich hier handelt. Möglich ist, dass mit Omar der
+                                dritte rechtgeleitete Kalif des Islam (586–590 – 644) gemeint ist.
+                                Unter seiner Herrschaft wurde das Sassaniden-Reich vollständig in
+                                das islamische Reich eingegliedert (644); (<hi rend="italic">Wikipedia 20110515</hi>).</p></note> العهد على الراوى<note type="comment" place="bottom"><p> [al-ˁahd ˁalā ar-rāwī] Arabisch in
+                                etwa: „ohne Gewähr“.</p></note>, contre l´ancienne littérature
+                        persanne. –Puisque vous m´y engagez, je consens à envoyer mon Hariri à
+                        l´historiographe [de/du<note type="comment" place="bottom"><p> An dieser
+                                Stelle wurde durch das Herausschneiden des Verschlusssiegels ein
+                                Ausschnitt erzeugt; die in eckigen Klammern angegebenen Lesungen
+                                erscheinen plausibel. </p></note>] Sultan
+                            <persName>Mahmoud</persName><note type="comment" place="bottom"><p> D.h.
+                                Sultan <persName>Mahmud II.</persName>, von 1808–1839 Herrscher des
+                                Osmanischen Reiches. <persName>Mahmud</persName>s Amtsantritt fiel
+                                in eine krisengeschüttelte Zeit nach der Staatskrise von 1807/08, in
+                                derem Zuge zwei Sultane, <persName>Selim III.</persName> und
+                                    <persName>Mustafa IV.</persName>, abgesetzt worden waren und
+                                sich die Janitscharen gegen Militärreformen erhoben hatten. Zudem
+                                war der russisch-türkische Krieg (1806–1812) weiterhin im Gange, was
+                                zu zahlreichen Gebietsverlusten führte. Die griechische Revolution
+                                konnte nur mit Hilfe von Ägyptens Vizekönig
+                                    <persName>Mohammed Ali</persName> niedergeschlagen werden
+                                (1826). Dieser war es auch, der zwischen 1811 und 1814 mit seinen
+                                modern organisierten Einheiten den ersten saudischen Staat
+                                zerschlagen hatte. Dies beeindruckte <persName>Mahmud II.</persName>
+                                derart, dass er die osmanische Armee unter Einbindung der
+                                Janitscharen modernisierte. Diese jedoch erhoben sich gegen die
+                                Reformen und wurden daraufhin mit moderner Artillerie
+                                niedergemetzelt. Der griechische Unabhängigkeitskrieg wurde trotz
+                                aller Heeresreformen mithilfe der französisch-britisch-russischen
+                                Allianz zugunsten Griechenlands entschieden, dessen Unabhängigkeit
+                                das Osmanische Reich 1830 anerkennen musste. Darüber hinaus kam es
+                                zu einem Zerwürfnis zwischen dem Sultan und
+                                    <persName>Mohammed Ali</persName>, der 1830 als Statthalter in
+                                Kreta eingesetzt worden war und mit seinem Sohn Ibrahim vermehrt
+                                Expansionsbestrebungen anmerken ließ. Dies mündete 1832 schließlich
+                                in der Abtretung Syriens und Kilkiliens an
+                                    <persName>Mohammed Ali</persName>. 1839 flammte der Konflikt
+                                erneut auf, als <persName>Mohammed Ali</persName> alle weiteren von
+                                ihm verwalteten Gebiete der erblichen Verwaltung des
+                                Vizekönigreiches Ägypten unterstellen wollte. Die Nachricht von der
+                                zugunsten der Ägypter geschlagenen Schlacht von Nizip erreichte den
+                                Sultan am Sterbebett. <persName>Mahmud II.</persName> war trotz all
+                                der Streitigkeiten sehr auf Reformen bedacht. So schuf er u.a.
+                                Ministerien nach europäischem Vorbild, schaffte kurzzeitig das Amt
+                                des Großwesirs ab, schuf staatliches Post- und Pressewesen, erließ
+                                Kleidervorschriften und kritisierte das religiös orientierte
+                                Schulsystem. Darüber hinaus unternahm er großangelegte
+                                Heeresreformen und Maßnahmen zur Modernisierung der osmanischen
+                                Flotte; (<hi rend="italic">Wikipedia 20110515</hi>).</p></note>,
+                        mais je suis incapable de lui écrire<note type="comment" place="bottom"><p>
+                                A: ecrire.</p></note> en turc, et vous [ne me<note type="comment" place="bottom"><p> Plausibelste Lesung.</p></note>] marquez pas si on
+                        peut lui écrire<note type="comment" place="bottom"><p> A: ecrire.</p></note>
+                        en françois, ce que je ne suppose [pas …<note type="comment" place="bottom"><p> Nach „pas“ zwei bis drei Worte.</p></note>] italien. Je vous
+                        ferai passer le volume d´ici à peu. – Je serai f[ort </p><p>…<note type="comment" place="bottom"><p> Nach „fort“ ein unbekanntes
+                                Adjektiv.</p></note>] d´avoir <note type="comment" place="bottom"><p> [ˁiwaḍ<hi rend="superscript">an</hi>] Arabisch: „als
+                                Entschädigung“.</p></note>عوضا le Commentaire de
+                            <persName>Soudi</persName> sur le Gulistan. – Mais vous [me<note type="comment" place="bottom"><p> Plausibelste Lesung.</p></note>]
+                        rendriez un bien plus grand service, si vous pouriez me procurer, pour mon
+                        argent, un exemplaire manuscrit du شرح<note type="comment" place="bottom"><p> [šarḥ] Arabisch: Kommentar.</p></note> de
+                            <persName>Merzouki</persName> sur le حماسة<note type="comment" place="bottom"><p> [Ḥammāsa], d.h. das gleichnamige Werk von Abu Tamam.
+                                Dieses wurde von Abu Ali Ahmad Bin al-Hassan al-Marzuqi al-Isfahani
+                                kommentiert; (<hi rend="italic">www.islamport.com 20110515</hi>).
+                            </p></note>. J´en ai un fragment, et en vérité c´est un excellent
+                        ouvrage, bien supérieur au Commentaire du plagiaire Tebrizi, que nous a
+                        donné M. <persName>Freytag</persName>, et dans lequel il y a d´ailleurs bon
+                        nombre de fautes. - Connoissez-vous le <hi rend="underline">Manuel de
+                            l´Officier de santé des Armées</hi> كتاب العجالة البّيّة فيما لا بدّ منه
+                        لحكماء الجهادية<note type="comment" place="bottom"><p> [Kitāb al-ˁIǧala
+                                aṭ-ṭibbiya fīmā lā budd minhu li-Ḥukamāˀ al-Ǧihādiya], d.h. der
+                                arabische Titel desselben Werkes von <persName>Clot</persName>-bey,
+                                gedruckt 1832 in Bulak.</p></note> imprimé au Caire: c´est un
+                        ouvrage de <persName>Clot</persName>-bey<note type="comment" place="bottom"><p> Antoine Barthélémy <persName>Clot</persName>-bey (1793–1868)
+                                französischer Chirurg, Begründer der ersten medizinischen Schule in
+                                Ägypten. Nachdem <persName>Clot</persName>-bey eine Einführung in
+                                die volkstümliche Medizin durch einen Barbier in Marseille genossen
+                                hatte, wurde er 1817 als Gesundheitsoffizier in die französische
+                                Armee aufgenommen. 1820 Doktor der Medizin, 1823 Doktor der
+                                Chirurgie, danach am Charité-Krankenhaus in Marseille beschäftigt.
+                                Nach beruflichen Problemen entschloss sich
+                                <persName>Clot</persName>-bey, im Rahmen der Modernisierungscampagne
+                                    <persName>Mohammed Ali</persName>s als Arzt nach Ägypten zu
+                                gehen. Dort übernahm er die Führung des Militärspitals von
+                                    <persName>Abu Zabel</persName> sowie der medizinischen
+                                Militärversorgung. <persName>Clot</persName>-bey erwirkte 1827 die
+                                Eröffnung einer medizinischen Schule, an welcher ägyptische
+                                Studierende zunächst als Militärärzte, später auch als zivile Ärzte
+                                ausgebildet wurden. Der Unterricht wurde zu Beginn mit großem
+                                Aufwand mit Hilfe von Dolmetschern abgehalten. Durch die Übersetzung
+                                zahlreicher, zu einem Teil von <persName>Clot</persName>-bey selbst
+                                verfasster medizinischer Handbücher wurde die wissenschaftliche
+                                Terminologie der arabischen Sprache wiederbelebt und ausgebaut.
+                                    <persName>Clot</persName>-bey erwirkte darüber hinaus die
+                                Einrichtung einer Hebammen-Schule 1832, setzte sich für die
+                                Entsendung ägyptischer Medizin-Studenten an europäische
+                                Universitäten ein und nutzte das Netzwerk traditioneller Heiler für
+                                die Verbreitung sanitärer und gesundheitlicher Informationen in ganz
+                                Ägypten. 1833 Ernennung zum Leiter des nationalen Gesundheitsrates,
+                                1831 Erhalt des Bey-Titels mit dem Rang eines Colonels, 1835
+                                Erhebung zum General; (<hi rend="italic">Pouillon</hi>, <hi rend="italic">Dictionnaire des orientalistes 2008:
+                                223f</hi>.).</p></note>, traduit en arabe. – Vous aurez vos Manuels
+                            encyclopédiques<note type="comment" place="bottom"><p> Es ist nicht
+                                eindeutig nachzuvollziehen, welche enzyklopädischen Nachschlagewerke
+                                    <persName>de</persName> <persName>Sacy HP</persName> übermitteln
+                                sollte.</p></note>, <hi rend="underline">vraie graine de
+                            niais</hi><note type="comment" place="bottom"><p> Französisch: „so etwas
+                                können Sie nur einem Dummen verkaufen“; (<hi rend="italic">Institut
+                                    de France 1835: 265</hi>.)</p></note>, si je ne m´abuse; mais
+                        /// je ne pourrai guères les faire mettre à l´ambassade que le 27 de ce mois
+                        (car j´ai été interrompu, et j´écris ceci le 25). MM.
+                            <persName>Debure</persName><note type="comment" place="bottom"><p> A: De
+                                Bure.</p></note> n´ont pas placé un seul exemplaire du Marc-Aurèle,
+                        quoiqu´ils l´aient annoncé dans leur catalogue. – Je joindrai à vos Manuels
+                        un numèro [sic] de l´écrit<note type="comment" place="bottom"><p> A:
+                                ecrit.</p></note> périodique nommé la Dominicale<note type="comment" place="bottom"><p> Vermutlich handelt es sich um: <hi rend="italic">La
+                                    Dominicale, par une société de gens de lettres et d´hommes du
+                                    monde (Salgues, Messonnier, Maurice Mejan, Sarran)</hi>. Diese
+                                ultra-royalistische Zeitschrift änderte nach dem Erscheinen der
+                                siebenten Ausgabe ihren Titel in: <hi rend="italic">Le Panache
+                                    blanc</hi> (9 Ausgaben). Es existiert jedoch noch eine zweite
+                                Zeitschrift mit dem Namen <hi rend="italic">Dominicale</hi>,
+                                herausgegeben von M. <persName>de Saint-Priest</persName> (fl.
+                                1834); (<hi rend="italic">Hatin 1866: 345</hi>).</p></note>, pour
+                        que vous me disiez, si l´aventure de la religieuse avec Kara Mustafa est
+                        fondée sur quelque tradition populaire. </p><p>Adresse<note type="comment" place="bottom"><p> Monsieur
+                                    <persName>de Hammer</persName>, Con[seille]r de Cour, Secrétaire
+                                interprète de Cour et de Cabinet de S[a] M[ajesté] l´Empereur
+                                d´Autriche; etc. etc. 943, rue de Carinthie, Autriche. S.
+                                Vienne.</p></note></p><p>Il ne me reste de place, mon cher ami, que pour vous souhaiter une bonne
+                        santé [,] de bons yeux, une bonne écriture<note type="comment" place="bottom"><p> A: ecriture.</p></note> et toute sorte de
+                        satisfactions à vous et aux vôtres, in multos annos. <salute>Votre
+                                très-dévoué<note type="comment" place="bottom"><p> A:
+                                devoué.</p></note> serviteur,</salute></p><closer><signed>Le B[ar]on
+                        <persName>Silvestre</persName> <persName>de Sacy</persName></signed></closer></div></body></text></TEI>

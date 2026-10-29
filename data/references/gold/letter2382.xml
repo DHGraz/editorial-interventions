@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2382"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>East India College Hertford. 29! Nov[ember] 1819</dateline><salute>My dear <persName>Hammer</persName></salute></opener><p>I am at a loss to account for your long silence; and begin to think that you
+                        deem it beneath the dignity of an Aulic Consellor<note type="comment" place="bottom"><p> Aulic Counsillor = HP wurde 1817 zum Hofrat
+                                ernannt.</p></note> to hold correspondence with an inhabitant of
+                        this country which has lately been disgraced in the eyes of all Europe by an
+                        extravagance of folly and wickedness. But do not despair of us for I trust
+                        by the blessing of God there is yet pure religion loyalty and reason enough
+                        among us to <gap></gap>serve as an antidote to the poison.<note type="comment" place="bottom"><p> Es ist unklar, worauf sich <persName>Keene</persName>
+                                hier bezieht; möglicherweise auf das Peterloo-Massaker in Manchester
+                                am 16.08.1819.</p></note> – I have been in [ra]ther better health of
+                        late. First my time has been so completely occupied by private business and
+                        public duty that except some small progress in Persian I am pretty nearly
+                        were I was in achievement<note type="comment" place="bottom"><p> A:
+                                atchievement.</p></note> or attainment, if indeed I have not
+                        forgotten German. I have once or twice sat down to do something for you. But
+                        we have scarcely any M[anu]S[cript]sin our library and my own are very few.
+                        And then the difficulty of making an accurate and legible transcript of the
+                        original deters me. So that I shall stand hugely in your debt. I have some
+                        thoughts of composing a little work on the Sufi Philosophy; as it is very
+                        difficult to understand their moral and poetical writers without a slight
+                        knowledge of this subject. But I am stopped by lack both of time and
+                        material. You would do the public an essential service if you would publish
+                        the original Persian of that poetry which you have translated in your
+                            history<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte der schönen Redekünste Persiens vom 4. Jahrhundert
+                                    der Hedschira, d.i. vom 10. Der christlichen Zeitrechnung bis
+                                    auf unsere Zeit. Mit einer Blütenlese aus zweyhundert persischen
+                                    Dichtern, Wien 1818</hi>. </p></note>. It might be done at a
+                        moderate expense by Lithographic art, and the work would sell well among the
+                        natives in India and then one might translate your history into English,
+                        which I cannot attempt at present. I translated a small piece of the
+                            Assassins<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte der Assassinen, Stuttgart–Tübingen
+                            1818</hi>.</p></note> in the spring, but have never heard from Mr
+                            <persName>Murray</persName> on the subject, nor have I ever got the
+                            13<hi rend="superscript">th</hi> sheet which you were to send me. I do
+                        not know what we shall do about <persName>Ewlia</persName><note type="comment" place="bottom"><p> Vgl. dazu <persName>Keene</persName>s
+                                Brief an HP vom 19.01.1819.</p></note>; I fear it will never be
+                        brought to the press, but I will go to <persName>Murray</persName>
+                        again.</p><p>Our examinations are just over and have done the college great credit. One of
+                        the students a most intimate and affectionate friend of mine of the name of
+                            <persName>Bacon</persName><note type="comment" place="bottom"><p> Es war
+                                dies George William <persName>Bacon</persName> – „medal in Persian,
+                                and prize of books in Persian writing”; (<hi rend="italic">The
+                                    Asiatic Journal and Monthly Register for British India and Its
+                                    Dependencies, Bd 9 London 1820, 49</hi>).</p></note> got the
+                        gold medal in Persian. He brought up among other things apart of the
+                            <graphic url="media/image265.png"/> a very difficult work of philosophy
+                        , his copy was written in a very difficult hand, but he read and translated
+                        it in a such a style that the examiner said he was perfect. He likewise made
+                        a beautiful translation into Persian, and shewed<note type="comment" place="bottom"><p> Shew ist eine antiquierte Form für show.</p></note> a
+                        specimen of writing in that character much finer than is generally to be met
+                        with among the natives themselves. I want him to write out his translation
+                        for you, but he is so full of spirit and so averse to sedentary habits that
+                        I cannot make him set down to it. He never studied in this life till within
+                        the last four months and is never so happy as when hunting shooting or
+                        playing cricket. He is not yet 18 and is an example of a fine English youth;
+                        full of health and vivacity, full of genius but liking anything other than
+                        study, thoughtless and careless but full of fine principles and shewing an
+                        excellent judgement when necessity obliges him to take the trouble of using
+                        it. He is now going to Italy to join another friend of mine Mr
+                            <persName>Paynter</persName> of I hope they will both pay you a visit at
+                        Vienna in the course of next April. Pray present them to the Archduke
+                            [<persName>Johann</persName>] for they are just the men that he delights
+                        in. Present him also my assurance of respectful attachment and gratitude for
+                        his great kindness to me. <salute>Give my kindest regards to your wife and
+                            all your family and believe me ever your’s with sincere
+                        regard</salute></p><closer><signed>Hen[ry] Geo[rge] <persName>Keene</persName></signed></closer><postscript>
+                        <p>You speak a great deal of <graphic url="media/image266.png"/> in your
+                            history of the Assassins. I would like in the translation to give some
+                                specimens<note type="comment" place="bottom"><p>
+                                    <persName>Keene</persName> hat allerdings eine solche
+                                    Übersetzung nicht verfertigt; eine solche wurde 1835 von Oswald
+                                    Charles <persName>Wood</persName> in London veröffentlicht: <hi rend="italic">The History of the Assassins: Derived from
+                                        oriental sources/By the chevalier Joseph von Hammer.
+                                        Translated by Oswald Charles Wood</hi>.</p></note> of his
+                                tetrastichs<note type="comment" place="bottom"><p>
+                                Vierzeiler.</p></note>. But I have no copy. Pray send me a dozen of
+                            the best. I wish you would print the whole of them. Or if you could find
+                            anybody capable of copying them exactly and who would not charge an
+                            exorbitant sum I would like a copy and would print them here at a
+                            lithographic press. Do not expect my friend <persName>Bacon</persName>
+                            to copy them for if he goes to Vienna his visit will be very short and I
+                            wish him to occupy his time in seeing the curiosity of the place.<note type="comment" place="bottom"><p> Der Nachtrag ist von der Faltung
+                                    des Blattes her in zwei Teile gegliedert, zwischen denen sich
+                                    die Adresse befindet, die hier lautet: „<hi rend="italic">Walfischgasse Nummer 1174</hi>“.</p></note></p>
+                    </postscript></div></body></text></TEI>

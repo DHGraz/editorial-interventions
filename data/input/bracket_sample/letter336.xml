@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_336"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Vienne, ce 3 Mai [1]803</dateline></opener><p>J’ai remis, après le départ du dernier courrier, votre lettre à<persName>
+                            Munding</persName>, qui m’a promis, foi de menuisier, de préparer tout
+                        ce que vous lui demandez jusqu’à la fin de ce moi[s]. En attendant je
+                        cherche partout le cabinet des fées<note type="comment" place="bottom"><p>
+                                Charles Joseph de Mayer<hi rend="italic">, Le Cabinet des fées ou
+                                    collection choisie des contes des fées, et autres contes
+                                    merveilleux, ornés de figures, Genève (1788)</hi>.</p></note>,
+                        et, j’espère de le trouver à bon prix. Pour les têtes illustres, je ne sais
+                        si votre note arrivera à temps ; j’attendrai en tout cas jusqu’au départ du
+                        dernier bâtiment du Danube, et je vous enverrai alors tout ce que j’aurai pu
+                        ramasser de vos commissions. Je vous écris cette lettre assis sur une grande
+                        chaise de commissaire dans la vente des nombreux effets de feu le Baron
+                            <persName>de Swieten</persName>. Le B[a]r[on]<persName>de
+                            Hormayr</persName> qui va se marier, est tout près de moi, et veut
+                        acheter des dentelles pour ses noces. Au reste M. <persName>de
+                            Jenisch</persName> a été nommé Bibliothécaire<note type="comment" place="bottom"><p> A: Bibliothéquaire</p></note> Imp[éria]le et finit
+                        ainsi honorablement une longue et heureuse carrière ; on ne tardera pas sans
+                        doute à l’élever au rang honorable et bien mérité de conseiller intime,
+                        ainsi que son devancier ; n’oubliez pas alors de vous prosterner par écrit
+                        devant Son Excellence M. le Baron <persName>de Jenisch</persName>. Ce sera
+                        la seconde excellence baronique qui ait fourni à l’état notre académie
+                        très-féconde en gens de grands talen[t]s. Observez au reste la bizarrerie de
+                        la fortune qui s’obstine ordinairement à favoriser telle personne malgré sa
+                        bêtise, tandis que telle autre malgré ses talen[t]s, et ses mérites, ne peut
+                        pas faire un pas en avant ; et lorsque ce pauvre sire de
+                            <persName>J[enisch]</persName> va devenir Excellence avec 10 mille
+                        florins d’appointemen[t]s, le malheureux <persName>Brenner</persName> après
+                        avoir servi tant d’années avec tant de fidélité, et de capacité comme
+                        secrétaire de légation, chassé d’un poste dont il a si bien mérité le titre,
+                        par un jeune homme qui le mérite et qui n’a pas voulu l’en chasser, est
+                        réduit à mander une place, et par<note type="comment" place="bottom"><p> A:
+                                pour</p></note> surcroît<note type="comment" place="bottom"><p> A:
+                                surcrois</p></note> de malheur il faut qu’il<note type="comment" place="bottom"><p> A: que il</p></note> se casse la jambe à Bucarest
+                        afin qu’il n’arrive pas à temps à Vienne pour y trouver la seule personne
+                        qui pourrait l’aider essentiellement<note type="comment" place="bottom"><p>
+                                A: essenciellement</p></note>, Mme <persName>la Baronne
+                            d’Herbert</persName>, qui va partir pour Passau en 15 jours. Non
+                        comincia fortune, mai per poco. Quando im[m]ortal[e] si piglia a scherno e a
+                        gioco.-</p><p>Ma femme vous remercie de votre lettre, elle part ces jours-ci pour Weidling
+                        où elle aura assez de temps de vous répondre ; mais vous savez qu’en fait de
+                        correspondance, elle est un peu paresseuse ; c’est le défaut de bien des
+                        gens. Le mien est de ne jamais savoir quelles nouvelles vous donner. M.
+                            <persName>Coch</persName> est arrivé de Cons[tantino]ple pour demander
+                        la place de Salonique.<persName> Fabri</persName> viendra en peu de jours de
+                        Trieste, et il occupera votre chambre. Quand viendrez-vous y loger ?
+                        L’affaire d’<persName>Ottenfels</persName> n’est pas encore décidée, à ce
+                        que m’a dit M. de <persName>W[allenburg]</persName> hier ; je ne cesse de
+                        lui en parler, et il est prévenu très favorablement pour lui, ainsi que
+                            <persName>D[omba]y</persName>. Vous voyez, mon bon ami, que je fais tout
+                        ce qu’il dépend de moi pour cet excellent jeune homme : Je vous prie de lui
+                        dire mille choses de ma part. Je le plains s’il était destiné à porter toute
+                        sa vie le Calpac<note type="comment" place="bottom"><p> Der Kalpak, auch
+                                Calpac, Kolpak oder Kolpag, (nach prototürkisch *kalbuk „hohe
+                                Kopfbedeckung“) türkisch kalpak „(Pelz-)Mütze“) ist eine zuweilen
+                                spitze, kegelstumpfförmige oder zylindrische Mütze hauptsächlich aus
+                                Fell und/oder Filz für Männer, die von Zentralasien über den
+                                Kaukasus und die Türkei, bis zum Balkan getragen wird. Aus dem
+                                Kalpak entwickelte eine militärische Kopfbedeckung der leichten
+                                Kavallerie, besonders der Husaren, oder der leichten Artillerie;
+                                    (<hi rend="italic">Wikipedia</hi>). </p></note>. Dites-moi si M.
+                        l’Internonce ne songe pas à le remplacer, ainsi que <persName>Brenner,
+                            Stöckl</persName> etc. par <persName>Semsey </persName>et
+                            <persName>Döry</persName> ? Ou il y aura-t-il peut-être quelques jeunes
+                        gens étrangers dont qu’on préférerait les talen[t]s à ceux des élèves de
+                        l’Académie ? </p><closer><salute>Adieu, mon cher Ami, aimez toujours votre</salute><signed>Chabert</signed></closer><postscript>
+                        <p>P.S.: Je vous recommande l’incluse pour la
+                                T<persName>ridant</persName><note type="comment" place="bottom"><p>
+                                    Dies bezieht sich auf ein nicht näher bezeichnetes „Fräulein
+                                    Caroline <persName>Tridant</persName>“, eine offenbar etwas
+                                    ältere Dame in Konstantinopel, die HP noch sehr beschäftigen
+                                    wird, ohne dass er sie näher gekannt haben dürfte; vermutlich
+                                    hat <persName>Chabert </persName>HP auf einem anderen Wege oder
+                                    in einem verloren gegangen Brief in einer der Sendungen über sie
+                                    informiert – eine Information über diese Person findet sich
+                                    nicht. <persName>Chabert</persName> trat mit ihr auf unbekannten
+                                    Wegen in ein dubioses und hochriskantes Schmuckgeschäft mit
+                                    hohem Einsatz ein, welches er in Konstantinopel über HP mit ihr
+                                    abzuwickeln hoffte, was HP – wie aus den folgenden Briefen
+                                    ersichtlich wird – einige Schwierigkeiten verursacht haben wird;
+                                    das Geschäft scheiterte und es lag schließlich an HP, den
+                                    wertvollen Schmuck unter Umgehung von Zollproblemen an
+                                        <persName>Chabert </persName>nach Wien zurückzuschaffen. –
+                                    Später wird <persName>Chabert </persName>im Zusammenhang mit
+                                    einer Publikation im Wege einer enormen Überhöhung der wahren
+                                    Kosten Profit zu machen suchen, was HP ablehnen und was zur
+                                    Abkühlung des Verhältnisses, wenn nicht zum Bruch zwischen HP
+                                    und <persName>Chabert </persName>führen wird.</p></note> et
+                            l’autre pour <persName>Stöckl</persName> qui aura sans doute laissé
+                            quelqu’un pour gérer ses affaires. Cette dernière lettre m’a été envoyée
+                            par <persName>Moustapha Efendi</persName>.</p>
+                    </postscript></div><div type="letter" subtype="translation"><p>Wien, 3. Mai 1803</p><p>Ich habe nach der Abreise des letzten Kuriers Ihren Brief
+                            <persName>Munding</persName> gegeben, der mir hoch und heilig
+                        versprochen hat, alles, was Sie von ihm verlangt haben, bis zum Ende dieses
+                        Monats vorzubereiten. In der Zwischenzeit suche ich überall „Le Cabinet des
+                        fées“ und ich hoffe, es zu einem guten Preis zu finden. Ich weiß nicht, ob
+                        die Mitteilung für Ihre berühmten Köpfe rechtzeitig ankommen wird; ich werde
+                        auf alle Fälle bis zur Abfahrt des letzten Donauschiffes warten und ich
+                        werde Ihnen dann alles, was ich von Ihren Aufträgen zusammenbringen werde
+                        können, schicken. Ich schreibe Ihnen diesen Brief, in einem großen Sessel
+                        eines Kommissärs sitzend, beim Verkauf von zahlreichen Sachen des
+                        verstorbenen Baron <persName>von Swieten</persName>. Der Baron <persName>von
+                            Hormayr</persName>, der heiraten wird, ist ganz in meiner Nähe und
+                        möchte Spitzen für seine Hochzeit kaufen. Übrigens ist Herr <persName>von
+                            Jenisch</persName> zum Kaiserlichen Bibliothekar ernannt worden und
+                        beendet so ehrenwert eine lange und glückliche Karriere. Man wird ohne
+                        Zweifel nicht zögern, ihn in einen ehrenvollen und wohl verdienten Rang
+                        eines Geheimrates zu erheben, so wie seinen Vorgänger; vergessen Sie dann
+                        nicht, sich schriftlich vor Seiner Exzellenz Baron <persName>von
+                            Jenisch</persName> zu verneigen. Das wird die zweite „Excellence
+                        baronique“ sein, der dem Staat unsere Akademie verschafft hat, die sich sehr
+                        rasch mit Leuten von großem Talent vermehrt. Beachten Sie im Übrigen die
+                        Eigenartigkeit von Fortuna, die normalerweise darauf beharrt, eine solche
+                        Person, trotz ihrer Dummheit zu begünstigen, während eine andere trotz ihrer
+                        Talente und ihrer Verdienste, keinen Schritt vorwärts machen kann; und wenn
+                        dieser arme Herr <persName>von Jenisch</persName> Exzellenz mit 10.000
+                        Gulden Gehalt werden wird, und der unglückliche <persName>Brenner</persName>
+                        dazu verurteilt wurde, um einen Posten zu betteln, nachdem er so viele Jahre
+                        mit so großer Treue und Fähigkeit als Legationssekretär gedient hat, verjagt
+                        von einem Posten, dessen Titel er sehr verdiente hatte, von einem jungen
+                        Mann, der es verdient und der ihn nicht vertreiben wollte. Um dieses Unglück
+                        noch zu vergrößern, musste er sich das Bein in Bukarest brechen, damit er
+                        nicht rechtzeitig in Wien ankommt, um dort die einzige Person, die ihm
+                        wesentlich helfen könnte, Baronin <persName>von Herbert</persName>,
+                        anzutreffen, die in 14 Tagen nach Passau abreisen wird. Non cominica
+                        fortune, mai per poco. Quando immortale si piglia a scherno e a gioco. –</p><p>Meine Frau dankt Ihnen für Ihren Brief, sie fährt in diesen Tagen nach
+                        Weidling, wo sie genug Zeit haben wird, Ihnen zu antworten; aber Sie wissen,
+                        was die Korrespondenz betrifft, ist sie ein bisschen faul; das ist der
+                        Fehler von vielen Leuten. Mein Fehler ist jener, dass ich nie weiß, welche
+                        Neuigkeiten ich Ihnen berichten soll. Herr <persName>Coch</persName> ist aus
+                        Konstantinopel angekommen, um um den Posten von Saloniki anzusuchen.
+                            <persName>Fabri</persName> wird in wenigen Tagen aus Triest kommen, und
+                        er wird Ihr Zimmer belegen. Wann werden Sie darin wohnen? – Die
+                        Angelegenheit von <persName>Ottenfels</persName> ist noch nicht entschieden,
+                        nach dem was mir gestern Herr <persName>von Wallenburg</persName> erzählt
+                        hat; ich höre nicht auf, mit ihm darüber zu sprechen und er steht ihm sehr
+                        positiv gegenüber, ebenso <persName>Dombay</persName>. Sie sehen, mon bon
+                        ami, dass ich alles für den ausgezeichneten jungen Mann mache, was von mir
+                        abhängt: Ich bitte Sie, ihm 1000 Grüße von mir auszurichten. Ich bedaure
+                        ihn, falls er dazu bestimmt ist, sein ganzes Leben den Kalpak zu tragen.
+                        Sagen Sie mir, ob der Internuntius nicht daran denkt, ihn zu ersetzen,
+                        ebenso <persName>Brenner</persName>, <persName>Stöckl</persName> etc. durch
+                            <persName>Semsey</persName> und <persName>Döry</persName>? Oder wird es
+                        vielleicht einige junge Ausländer geben, deren Talente man jenen der Schüler
+                        der Akademie vorziehen würde? –</p><closer><salute>Adieu, mon cher Ami, lieben Sie immer Ihren</salute><signed><persName>Chabert</persName></signed></closer><postscript>
+                        <p>P.S.: Ich schicke Ihnen die Beilage für die Tridant und die andere für
+                            Stöckl, der ohne Zweifel jemanden zurückgelassen hat, um seine
+                            Angelegenheiten zu regeln. Dieser letzte Brief wurde mir von Mustafa
+                            Efendi geschickt.</p>
+                    </postscript></div></body></text></TEI>

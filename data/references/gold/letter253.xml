@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_253"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Bukarest den 9. September 1802</dateline><salute>Hochgeehrteste Herren</salute></opener><p>Erlauben Sie mir, daß ich nach langem Stillschweigen von drei Jahren, wodurch
+                        unsere durch meine Einladung zur musikalischen Zeitung angefangene
+                        Korrespondenz unterbrochen worden ist, ich dieselbe mit einer Bitte an Sie
+                        wieder anknüpfe.</p><p>Ich bitte Sie nämlich, den Überbringer dieses Briefes, Herrn
+                            <persName>Stati</persName> Petro Renkovich, kais[erlicher] Handelsmann
+                        aus Bukarest mit dem Herrn Ober-K[onsistorial-]R[at]
+                            <persName>Böttiger</persName>, der wie ich glaube, die Michaelismesse
+                        besuchet, bekannt zu machen und in Verbindung zu setzen. Sollte aber der
+                        Herr Oberkonsistorialrat wider mein Vermuten nicht auf diese Messe kommen,
+                        so bitte ich Sie, den hier eingeschlossenen Brief alsogleich durch die Post
+                        an denselben zu befördern.</p><p>Das wallachische Buch aber, das ich dem Herrn <persName>Stati</persName> für
+                        ihn mitgegeben habe, nach Zeit und Gelegenheit demselben zu überstellen.</p><p>Herr <persName>Stati</persName>, der beide Leipzigermessen besuchet, wird
+                        künftig so gut sein, meine Kommissionen zu übernehmen; denn ich denke fürs
+                        Künftige meine Bücher gerade aus von Leipzig transito nach Bukarest zu
+                        bestellen und dann dieselben jedesmal den Waren des genannten Herrn
+                        Handelsmannes beigeben zu lassen. Auch der Inhalt meines Briefes an den
+                        Herrn <choice><abbr>OKR</abbr><expan>Oberkonsistorialrat</expan></choice> betrifft eine Bestellung von Büchern, die
+                        ich seiner Wahl überlasse.</p><p>Für diesmal habe ich den Michaelis-Meßkatalog von Wien aus bestellt. Fürs
+                        Künftige aber bitte Sie, mir den Meßkatalog, sobald er nur zu haben ist,
+                        proporto unter der untenfolgenden Adresse zu übermachen.</p><p>Die Auslagen dieser Versendungen oder anderer Bestellungen wird Herr
+                            <persName>Stati</persName> auf jeder Messe vergüten.</p><p>Da ich nun seit drei Jahren nicht nur aus allen musikalischen, sondern auch
+                        aus allen literarischen Verhältnissen herausgerissen worden bin, so bin ich
+                        auch mit den Schicksalen der musikalischen Zeitung ganz unbekannt. Sollte es
+                        aber in meinen Kräften stehen, Ihnen hiwerin mit Etzwas zu dienen, so
+                        rechnen Sie, ich bitte Sie, mit der Bereitwilligkeit Ihres ergebensten
+                        Dieners</p><closer><signed>Jos[eph] <persName>Hammer</persName></signed></closer><postscript>
+                        <p>Meine Adresse ist</p>
+                    <p><persName>Hammer</persName> K.K. Gesandtschaftssekretär</p>
+                    <p>zu Konstantinopel</p>
+                    </postscript></div></body></text></TEI>

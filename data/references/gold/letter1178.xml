@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1178"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>[<note type="comment" place="bottom"><p> Der Beginn dieses interessanten
+                                Briefes fehlt; SLUB Dresden Mscr.Dresd.h.37_4, Bd. 188, Nr. 42-46;
+                                Scan 48 rechte Seite.</p></note>] Denn die Goldminen der
+                        Wissenschaften in Thibet und der großen Tatarey<note type="comment" place="bottom"><p> „Tartarei“, auch „Tatarei“ war zeitweise ein
+                                umfassender Begriff für osteuropäische, zentral- und ostasiatische
+                                Gebiete, die von Mongolen und Turkvölkern bewohnt waren.</p></note>
+                        oder Mo[n]goley dürften zu den reichsten in Asien gezählt werden müssen,
+                        oder der Verfasser der Recherches philosophiques Sur les Americains<note type="comment" place="bottom"><p> Cornelius de Pauw, <hi rend="italic">Recherches Philosophiques sur les Américains, ou Mémoires
+                                    intéressants Pour servir à l’Histoire de l’Espèce humaine, Tome
+                                    Second, Berlin 1771</hi> – <ref target="https://books.google.at/books?id=ALs9AAAAcAAJ&amp;pg=PA301&amp;dq=on+a+accuse+ces+petits+lamas&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjjh--SvuvkAhWCr6QKHb2bDvUQ6AEIMTAB">https://books.google.at/books?id=ALs9AAAAcAAJ&amp;pg=PA301&amp;dq=on+a+accuse+ces+petits+lamas&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjjh--SvuvkAhWCr6QKHb2bDvUQ6AEIMTAB#v=onepage&amp;q=on%20a%20accuse%20ces%20petits%20lamas&amp;f=false</ref>
+                                (20190925).</p></note> schöpfte seine Nachricht aus einer sehr
+                        trüben Quelle. „On<note type="comment" place="bottom"><p> Der Text findet
+                                sich in o.a. Werk ab Seite 301.</p></note><hi rend="superscript">,</hi><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Übersetzung</hi>: „Diese kleinen Lamas und
+                                Kutuktus wurden beschuldigt, in so tiefer Unwissenheit
+                                dahinzuvegetieren, dass sie weder lesen noch schreiben konnten; aber
+                                diese Verleumdung unserer Missionare ist unbegründet und
+                                unglaubwürdig; es gibt keine Geistlichen, die mehr Werke über
+                                abstrakte Themen und metaphysische Fragen verfassen als diese
+                                Kleriker von Tibet, wo Bücher noch häufiger sind als in China; und
+                                der Zar <persName>Peter I.</persName> entdeckte in einer verlassenen
+                                Stadt Sibiriens eine ungeheure verlassene Bibliothek, deren ganze
+                                Bände, in der Sprache Tibets geschrieben, von Lama-Priestern
+                                verfasst worden waren; einige dieser Schriftrollen wurden an den
+                                verstorbenen Herrn <persName>Fourmont</persName> geschickt, der, von
+                                einem gelehrten Freunde unterstützt, mehrere Stellen genau
+                                entzifferte, um ihnen versichern zu können, dass diese Werke von der
+                                Unsittlichkeit der Seele handelten. und seine Seelenwanderungen. Die
+                                tibetischen Fürsten und Kutuktus reisen niemals, ohne ein paar
+                                Pferde im Gefolge zu haben, die mit Bündeln von Büchern beladen
+                                sind, die fein säuberlich geschrieben und mit Maskaronen mit
+                                Anfangsbuchstaben auf Seiden- und Baumwollpapier beleuchtet sind,
+                                welches, gut gummiert und doppelt gefaltet, mehr Konsistenz hat als
+                                chinesisches Papier. Der berühmte <persName>Bernier</persName>
+                                erzählt, dass er im Königreich Kaschmir einen Lama-Doktor gekannt
+                                habe, der einen großen Schrott von Büchern über Medizin bei sich
+                                hatte; denn die Gelehrten dieses Landes widmen sich nicht einzig und
+                                allein der Moral und Metaphysik; sie pflegen auch andere, mehr oder
+                                weniger wirkliche Wissenschaften und studieren Astronomie und
+                                Balk-Astrologie, jene berühmte Schule Asiens, die allen Höfen der
+                                Fürsten des Ostens Astrologen beschaffen.</p><p> Als der Jesuit
+                                    <persName>Gerbillon</persName> noch Kammerdiener des
+                                chinesischen Kaisers <persName>Kang-Hye</persName> [1654–1722] war,
+                                schlug er diesem vor, eine Karte von „Tartarien“ anfertigen zu
+                                lassen, die ohne die Hilfe zweier Lamas, die bei der Vermessung des
+                                Bodens und bei der Höhenbestimmung mit Astrolabien und
+                                Viertelkreisen behilflich waren, niemals hätte ausgeführt werden
+                                können, auch nicht auf eine mittelmäßige Art und Weise. Das
+                                Alphabet, das in Tibet verwendet wird, ist den chinesischen
+                                Schriftzeichen überlegen; denn es besteht nur aus einer kleinen
+                                Anzahl beweglicher Zeichen, deren Kombination alle Töne und alle
+                                Artikulationen, wie unsere Buchstaben, ausdrückt. Diese Schrift, auf
+                                der <persName>Vessière de la Croze, Bayer, Hyde,</persName> die
+                                Patres <persName>Gaubil</persName> und <persName>Georgi
+                                </persName>so viel geschrieben haben, ist vielleicht der Prototyp
+                                und das älteste aller bekannten Alphabete; durch das Studium und den
+                                Vergleich hat man bemerkt, dass sie aus denselben Elementen
+                                zusammengesetzt war wie die berühmte Brahmanen-Schrift, die von den
+                                Hindus zu einer Zeit gebraucht wurde, als Italien und Griechenland
+                                noch Kanada glichen. Was zweifelsfrei beweist, dass die Sprache
+                                Tibets reich an Wörtern ist, ist der fortwährende Gebrauch bei der
+                                Erörterung von abstrakten Themen und metaphysischen Problemen, die,
+                                wie Sie wissen, eine unendliche Vielfalt von Begriffen erfordert, um
+                                die verschiedenen Nuancen von Ideen und Empfindungen auszudrücken.
+                                Ein Offizier des Regiments von <persName>Laly,</persName> der
+                                Gelegenheit hatte, in Indien mehrere Bücher in der tibetischen
+                                Sprache zu kaufen, die er erlernt hatte, entdeckte darin eine sehr
+                                deutliche Verbindung mit dem alten Idiom Irlands. Die Eroberungen
+                                und Ansiedelungen der „Asen“ oder der asiatischen Skythen in Europa
+                                erklären natürlich diese Erscheinungen in der Geschichte der
+                                Völker.“</p></note> a accusé, sagt er<note type="comment" place="bottom"><p> Fußnote von <persName>Seetzen</persName>: A. a. Orte
+                                p. 334.</p></note>, ces petits Lamas<note type="comment" place="bottom"><p> „Lama“ bezeichnet den Vorsteher eines
+                            Klosters.</p></note> &amp; ces Kutuktus<note type="comment" place="bottom"><p> Als Kutuktus wurden – nach Konrad Ganzenmüller, <hi rend="italic">Tibet nach den Resultaten geographischer
+                                    Forschungen früherer und neuester Zeit, Stuttgart 1878,
+                                96f</hi>. – die Mitglieder des höchsten religiösen „Ordens“
+                                bezeichnet, die als zweiter Rang in der religiösen Hierarchie Tibets
+                                direkt dem <persName>Dalai Lama</persName> unterstanden; auch sie
+                                wurden – allerdings in einem geringerem Maße als der <persName>Dalai
+                                    Lama</persName> – für göttliche Inkarnationen gehalten und
+                                lebten (dem Zölibat unterworfen) zur Verrichtung der
+                                gottesdienstlichen Gebräuche und um den Laien geistlichen Beistand
+                                zu leisten, in jenen Orten, wo sich keine Klöster
+                            befanden.</p></note> de végéter dans une si profonde ignorance, qu’ils
+                        ne savoient<note type="comment" place="bottom"><p> Diese veraltete Form
+                                wurde bisweilen beibehalten.</p></note> ni lire ni écrire; mais
+                        cette calomnie de nos Missionnaires, est sans fondement comme sans
+                        vraisemblance; il n’y a point d’Ecclésiastiques qui <hi rend="underline">composent plus d’ouvrages</hi> sur des matières abstraites &amp; des
+                        questions métaphysiques que ces Clercs du Thibet, où <hi rend="underline">les Livres sont encore plus communs qu’à la Chine</hi>; &amp; le Czar
+                            <persName>Pierre I</persName><note type="comment" place="bottom"><p> Zar
+                                    <persName>Peter I.</persName> (1672–1725) war von 1682 bis 1721
+                                Zar und Großfürst von Russland und ab 1721 Kaiser des Russischen
+                                Reiches.</p></note> découvrit, dans une Ville déserte de la Sibérie,
+                            <hi rend="underline">une immense bibliothèque</hi> abandonnée, dont tous
+                        les volumes, écrits en la langue du Thibet, avoient été composés par des
+                        Prêtres Lamas: on envoya quelques-uns de ces rouleaux à feu Mr.
+                            <persName>Fourmont</persName><note type="comment" place="bottom"><p>
+                                Étienne <persName>Furmont</persName> (1683–1745) war ein
+                                französischer Gelehrter, der am College de de France eine Professur
+                                für Arabisch innehatte und Grammatiken des Arabischen, Hebräischen
+                                und des Chinesischen verfasste, wobei er allerdings auf das Werk von
+                                Arcadius <persName>Huang </persName>(1679–1716), eines zum
+                                Christentum konvertierten und von Missionaren nach Paris gebrachten
+                                Chinesen, zurückgriff, der zum Pionier der Lehre des Chinesischen in
+                                Frankreich geworden war und, von Nicolas
+                                <persName>Fréret</persName>, unterstützt die erste
+                                chinesisch-französische Grammatik schuf, die dann nach seinem frühen
+                                Tod von <persName>Furmont</persName>, der mit der Ordnung von
+                                    <persName>Huang</persName>s Papieren beauftragt wurde, als sein
+                                Werk herausgebracht wurde; (<hi rend="italic">Wikipedia</hi>).</p></note>, qui, aidé par un Savant de ses amis, en
+                        déchiffra plusieurs endroits affez clairement pour pouvoir assurer que ces
+                        Ouvrages traitoient de l’immoralité de l’ame, &amp; de ses
+                            transmigrations<note type="comment" place="bottom"><p> Fußnote von
+                                    <persName>Seetzen</persName>: <hi rend="italic">Ist diese
+                                    Nachricht wahr? Und findet sich diese Bibliothek noch in St.
+                                    Petersburg – ganz unbenutzt? – Sehen Sie, wie wichtig uns St.
+                                    Petersburg für d</hi>[en] <hi rend="italic">litterar</hi>[ischen] <hi rend="italic">Verkehr mit dem
+                                    südöstl</hi>[ichen] <hi rend="italic">Asien werden
+                                könne!</hi></p></note>. Les Seigneurs Thibétains &amp; les Kutuktus
+                        ne <hi rend="underline">voyagent</hi> jamais sans avoir à leur suite <hi rend="underline">quelques chevaux chargés de ballots de Livres</hi>, <hi rend="underline">proprement écrits, &amp; enluminés avec des mascarons
+                            aux lettres</hi> initiales, sur du papier de soie &amp; de coton, qui,
+                        étant bien gommé &amp; plié en double, a plus de consistance que le papier
+                        Chinois. Le célèbre <persName>Bernier</persName><note type="comment" place="bottom"><p> Francois <persName>Bernier</persName> (1620–1688) war
+                                ein französischer Arzt, Philosoph und Asienreisender; er studierte
+                                Astronomie bei Pierre <persName>Gassendi</persName>, dann auch
+                                Philosophie und noch später Medizin; nach dem Tod
+                                    <persName>Gassendi</persName>s 1755 reiste
+                                    <persName>Bernier</persName> 1656 über Palästina, Ägypten,
+                                Arabien und Äthiopien nach Surat in Indien, wo er 1658 ankam und die
+                                nächsten zehn Jahre seines Lebens verbrachte und auch Arzt von
+                                    <persName>Muhammad Aurangzeb Alamgir</persName>, dem Großmogul
+                                von Indien wurde. Nach seiner endgültigen Rückkehr um 1670 erschien
+                                posthum sein Reisebericht zuerst als „<hi rend="italic">Histoire de
+                                    la dernière reévolution des États du Grand Mogol“, 2 Bde</hi>
+                                (mit leicht differierenden Titeln) Amsterdam 1723, dann unter dem
+                                Titel <hi rend="italic">„Voyages de François Bernier Docteur en
+                                    medecine de la faculté de Montpellier, contenant la description
+                                    des etats du Grand Mogol. Où il est, contenant la description
+                                    des États du Grand Mogol. Ou il est traité des richesses, des
+                                    forces, de la justice, et des causes principales de la décadence
+                                    des Etats de l’Asie … Et où l’en voit comment l’or et argent,
+                                    après avoir circulé dans le monde, passant dans l’Hindostan, du
+                                    royaume de Kachemire, 2 Bde, Amsterdam 1723–1724</hi>. Seine
+                                bedeutendste Arbeit ist sein Kommentar und Verteidigung der
+                                Philosophie <persName>Gassendi</persName>s.
+                                    <persName>Bernier</persName> war vermutlich der erste, der den
+                                Begriff „Rasse“ auf Menschen bezogen in Verwendung brachte; (<hi rend="italic">Wikipedia</hi>).</p></note> rapporte u’il avoit
+                        connu, au Royaume de Cachemire<note type="comment" place="bottom"><p>
+                                Kaschmir, im westlichsten Teil des Himalaya, war und ist auf Grund
+                                seiner geographische Lage Schauplatz zahlreicher Kriege und wird
+                                heute noch in Teilen von Pakistan, von Indien und von China
+                                beansprucht.</p></note>, un Médecin Lama, qui avoit dans ses bagages
+                            <hi rend="underline">une grande pacotille de Livres de Médecine</hi>;
+                        car les Savants de ce Pays ne s’adonnent pas uniquement &amp; exclusivement
+                        à la Morale &amp; à la Métaphysique; ils <hi rend="underline">cultivent
+                            encore d’autres Sciences</hi> plus ou moins réelles, &amp; vont étudier
+                        L’Astronomie &amp; l’Astrologie Balk<note type="comment" place="bottom"><p>
+                                Balch, auch Balkh, ist eine Region im Nordosten Afghanistans, zählt
+                                zu den ältesten Siedlungsgebieten Zentralasiens und gilt als „Wiege
+                                der iranischen Zivilisation“, die Hauptstadt ist Masar-e Sharif;
+                                    (<hi rend="italic">Wikipedia</hi>).</p></note>, cette fameuse
+                        école de l’Asie, qui fournit d’astrologues toutes les Cours des Princes de
+                        l’Orient".</p><p>Quand le Jésuite <persName>Gerbillon</persName><note type="comment" place="bottom"><p> Jean-Francois <persName>Gerbillon</persName>
+                                (1654–1707), französischer Jesuit und China-Missionar zur Zeit
+                                Kaiser <persName>Kangxis</persName> (1654–1722) und einer der von
+                                    <persName>Ludwig XIV.</persName> nach China gesandten
+                                Mathematiker; er wirkte bei Hof in Peking als Lehrender, aber auch
+                                als erfolgreicher Unterhändler in einer russische-chinesischen
+                                Auseinandersetzung 1689 und übersetzte französische Werke in das
+                                Chinesische und in das Mandschu; (John W. Witek in <ref target="https://bdcconline.net/en/stories/gerbillon-jean-françois">https://bdcconline.net/en/stories/gerbillon-jean-françois</ref>).</p></note>
+                        étoit encore valet-de-chambre de l’Empereur Chinois
+                            <persName>Kang-Hy</persName><note type="comment" place="bottom"><p>
+                                <persName>Kang-Hye</persName>, recte <persName>Kangxi</persName>
+                                (1654–1722), ab 1661 der längstregierende Kaiser von China, der eine
+                                Blütezeit der chinesischen Kultur bewirkte, u.a. ernannte er
+                                belgische Jesuiten zu Hofastronomen und nahm bei ihnen, die ihn auch
+                                als Diplomaten gegenüber Russland unterstützten, Unterricht; (<hi rend="italic">Wikipedia</hi>).</p></note>, il proposa à ce
+                        Monarque de faire lever une carte de la Tartarie, qu’on n’auroit jamais pu
+                        exécuter, même médiocrement, sans le secours de deux Prêtres Lamas, qui
+                        aidèrent à arpenter le terrain, &amp; à prendre la hauteur avec des
+                        Astrolabes &amp; des Quarts de cercle. </p><p>L’Alphabet dont on use au Thibet, a une supériorité d´cidée sur les
+                        caractères Chinois; puisqu’il ne comprend qu’un petit nombre de signes
+                        mobiles, dont la combinaison exprime tous les sons &amp; toutes les
+                        articulations, comme nos lettres. Ce caractère sur lequel Vessière de la
+                            <persName>Croze</persName><note type="comment" place="bottom"><p>
+                                Maturin Veyssière <persName>de La Croze</persName> (1661–1739 in
+                                Berlin) war ein französischer Orientalist, als Hugenotte wirkte war
+                                er königlicher Bibliothekar in Berliner Hof; von ihm stammen vier
+                                Wörterbücher – für Koptisch, Armenisch, Slawisch und Syrisch – sowie
+                                Darstellungen der Missionsgeschichte in Indien. Adolf <persName>von
+                                    Harnack</persName> schrieb über ihn: <hi rend="italic">„Nicht
+                                    nur die Cultursprachen beherrschte er sämmtlich, sondern er
+                                    drang auch, obgleich überall Autodidakt, in die slavischen
+                                    Sprachen, die baskische, die armenische, die semitischen, die
+                                    chinesische, vor allem aber in die koptische ein.“</hi>; (<hi rend="italic">Wikipedia</hi>).</p></note>,
+                            <persName>Bayer</persName><note type="comment" place="bottom"><p>
+                                Gottlieb Siegfried <persName>Bayer</persName> (1694–1738) war einer
+                                der bedeutendsten Orientalisten des 18. Jh.s; als Schüler
+                                    <persName>de La Crozes</persName> lernte er in Berlin Koptisch,
+                                in Halle Arabisch und wurde 1725 an die Akademie in St. Petersburg
+                                berufen, wo er sich vor allem dem Chinesischen widmete, für das er
+                                eine Grammatik und Wörterbücher schuf; (<hi rend="italic">Wikipedia</hi>).</p></note>, <persName>Hyde</persName><note type="comment" place="bottom"><p> Thomas <persName>Hyde</persName>
+                                (1636–1703) war ein in Cambridge und in Oxford wirkender
+                                Orientalist, vor allem des vorderasiatischen Bereiches, u.a.
+                                verfasste er das erste wissenschaftliche Buch zur Geschichte des
+                                Schachspieles; (<hi rend="italic">Wikipedia</hi>).</p></note>, les
+                        Peres <persName>Gaubil</persName><note type="comment" place="bottom"><p>
+                                Antoine <persName>Gaubil</persName> (1689–1759) war ein
+                                französischer Jesuitenmissionar und Wissenschaftshistoriker in China
+                                – er kam 1722 nach Peking, wo er bis zu seinem Tod blieb er
+                                verfasste Arbeiten zur Geschichte der Astronomie und der Chronologie
+                                in China, übersetzte historische Quellen, darunter 1739 eine
+                                Geschichte <persName>Dschingis Khan</persName>s; (<hi rend="italic">Wikipedia</hi>). </p></note> &amp;
+                            <persName>Georgi</persName><note type="comment" place="bottom"><p>
+                                Georgi SJ? </p></note> ont tant écrit, est peut-être le prototype
+                        &amp; le plus ancien de tous les Alphabets connus: par l’etude &amp; la
+                        comparaison qu’on en a faite, on a remarqué qu’il étoit comosé des mêmes
+                        éléments que le fameux caractère Brachmane<note type="comment" place="bottom"><p> Damit ist vermutlich Devanagari gemeint, welche
+                                Schrift für die Schreibung von Sanskrit, Prakrit und neueren
+                                indische Sprachen verwendet wird – sie geht auf die viel ältere
+                                Brahmi-Schrift zurück, die James Prinsep entzifferte; aus Devanagari
+                                sind über hundert neuere Schriften hervorgegangen; (<hi rend="italic">Wikipedia</hi>).</p></note>, employé par les
+                        Indous dans un temps où l’Italie &amp; la Grèce ressembloient encore au
+                            Canada<note type="comment" place="bottom"><p> Kanada galt lange als
+                                terra incongnita – daher dieser eigenwillig wirkende
+                            Vergleich.</p></note>. </p><p>Ce qui prouve indubitablement que la langue du Thibet est riche en mots,
+                        c’est l’usage continuel qu’on se fait, pour discuter des sujets abstraits
+                        &amp; des problèmes Métaphysiques, qui exigent, comme vous savez, une
+                        variété infinie de termes pour énoncer les différentes nuances des idées
+                        &amp; des sensations. Un Officier du Régiment de Laly, ayant eu occasion
+                        d’acheter aux Indes plusieurs Livres écrits en la langue Thibétaine qu’il
+                        avoit apprise, y découvrit un rapport fort marqué avec l’ancien idiome de
+                        l’Irlande. – Les conquêtes &amp; les établissements des Ases<note type="comment" place="bottom"><p> Asen ist die Bezeichnung eines der
+                                drei nordischen Göttergeschlechter nach Snorri Sturluson in der
+                                Prosa-Edda ein Göttergeschlecht der nordischen Mythologie. Dieses
+                                Geschlecht ist nach der Zahl der ihm zugehörigen Gottheiten größer
+                                als das ebenfalls nordische Göttergeschlecht der Wanen. Während den
+                                12 Asen eher kriegerischen Charakter zugeschrieben wurde, galten die
+                                Wanen als Götter der Fruchtbarkeit und des erdverbundenen
+                                Wohlstandes. Als drittes, aber ältestes Göttergeschlecht des Nordens
+                                galten Riesen und Ungeheuer; (<hi rend="italic">Wikipedia</hi>).</p></note> ou des Scynthes Asiatiques en Europe,
+                        expliquent naturellement ces phénomènes de l’Histoire des Nations.“</p><p>Die arabische Litteratur ist seit dem Anfange der mohammedanischen Aera zum
+                        Bewundern schnell und groß herangewachsen. Allein, zwölf Jahrhunderte sind
+                        in der Geschichte unsers Planeten [ein] zu unbedeutender Zeitraum, als daß
+                        ich mir nicht alle mögliche Mühe gegeben haben sollte, neue noch ganz
+                        unbekannte Quellen zu entdecken. Wo hätte ich diese eher erwarten können,
+                        als in Arabien selbst, in zwey seiner Landschaften, Hedschâs und Jemen, wo
+                        die wissenschaftliche Kultur am größten seyn dürfte. Allein, all mein
+                        Bemühen war umsonst. Denn außer den schon längst in Europa bekannten Sebbâ
+                            Moállakât<note type="comment" place="bottom"><p> Moallakat bezeichnet
+                                die berühmte Anthologie vorislamischer Dichtungen in Kassidenform,
+                                die nach moderner Auffassung ab etwa 680 auch schriftlich fixiert
+                                worden sein dürften, während man früher rein mündliche Tradierung
+                                annahm.</p></note> oder Dschemharnt el Arab fand ich durchaus kein
+                        Werk, was vor dem Anfange des Islam geschrieben wäre. Diese einzigen
+                        Ueberreste der alten arabischen Litteratur sind zu vortrefflich<note type="comment" place="bottom"><p> A: fürtrefflich</p></note>, als daß
+                        man nicht mit Sicherheit eine lange vorhergehende Geisteskultur bey den
+                        Arabern voraussetzen müsste, so wie <persName>Homer</persName>s Gedichte nie
+                        ohne eine lange Folgenreihe von griechischen Schriftstellern vor ihm
+                        vorhanden seyn würden, und wenn es Philosophen unter den ersten
+                        Mohammedanern hätte geben können, sie würden erröthet seyn, als ihr
+                        Mitbrüder die vorislamitischen Jahrhunderte die Zeit der Unwissenheit
+                        nannten, welche man im Vergleich mit der nachherigen religiösen Barbarey die
+                        Zeit des Lichts und der Geisteskultur hätte nennen sollen. Diese köstlichen
+                        Gedichte wurden wahrscheinlich in Hedschâs oder in der Nähe von Hedschâs
+                        geschrieben, weil sie, wo mir Recht ist, auf der iährlichen berühmten Straße
+                        zu Okâdh<note type="comment" place="bottom"><p> Der Souq Okadh, auch Ukaz,
+                                auf der Straße zwischen Nakhla und al-Taif (etwa 70 km südöstlich
+                                von Mekka) war der größte und weithin bekannteste jährlich zwei
+                                Wochen lang schon in der präislamischen Zeit (etwa von 542 bis 726)
+                                abgehaltene Markt – die Nachrichtenbörse schlechthin und auch ein
+                                kulturelles Ereignis von hohem Rang mit Disputen, Dichterlesungen,
+                                bei denen jährlich der beste Dichter gekürte wurde, etc. Dieser
+                                Markt ist im 20. Jh. in Fortführung der alten Tradition und auch als
+                                Touristenattraktion neu belebt worden; (<hi rend="italic">Wikipedia</hi>).</p></note> öffentlich vorgelesen wurden.
+                            [Dass<note type="comment" place="bottom"><p> Aufgrund der Bindung ist
+                                ein kurzes Wort nicht lesbar.</p></note>] einer Gegend von Arabien,
+                        welche wegen ihres Flores [im] Alterthume nie berühmt war, so süßduftende
+                        Geistesblüthen [en]tkeimen konnten: welcher Grad von Geisteskultur und
+                        litterarischer Bildung lässt sich alsdann nicht im südlichen Arabien, im
+                        ietzigen Jemen und Omân, erwarten, deren hohen Wohlstand uns Römer und
+                        Griechen mit solchen Ausdrücken [sc]hildern, daß man sie für übertrieben
+                        halten könnte, wenn man nicht mit der Geschichte des Handels iener Zeit
+                        vertraut genug wäre, um sie ganz wahrscheinlich zu finden. Aber dennoch
+                        erreichte der [<note type="comment" place="bottom"><p> Aufgrund der Bindung
+                                sind einige wenige Buchstaben nicht lesbar.</p></note>]llische
+                        Fanatism der Mohammedaner seinen Zweck, das ganze schöne Gewächs der alten
+                        arab[ischen] Literatur mit Stumpf und Stiel auszurotten, er, dem es gelang,
+                        die fast unerschöpflichscheinenden litterar[ischen] Schätze der alten
+                        Egypter gänzlich zu ver[nich<note type="comment" place="bottom"><p> Aufgrund
+                                der Bindung sind einige wenige Buchstaben nicht
+                        lesbar.</p></note>]ten! Es ist dies zwar noch eine bloße Vermuthung; aber
+                        sie hat die höchste Wahrscheinlichkeit und zugleich Analogie für sich, und
+                        ich zweifele gar nicht daran, daß wir nicht [in] einem oder dem andern der
+                        histor[ischen] Werke, welche ich über die Ges[chich]te Jemens erhielt, die
+                        Bestätigung derselben finden dürften.</p><p>Diesen wilden Wahnsinn, die Geisteswerke der Vorwelt, und somit alle
+                        Nachrichten, welche uns mit dem Zustande derselben hätten bekannt machen
+                        können, zu vernichten, haben sich fast alle großen Religionspartheien zu
+                        Schulden kommen lassen. Obgleich große Naturrevolutionen schon sehr öfters
+                        alles Wissen der Menschen in den Abgrund des Meeres oder in den Schooss
+                        unermesslicher Gebirge begraben haben mögen; so scheint es [doch], als wenn
+                        es den Menschen noch ein zu großer Zeitraum wäre, welcher uns die Natur von
+                        einer Erdkatastrophe zur andern auss[…]dete, und als wenn sie den Stolz des
+                        Menschengeschlechts [und] sein hohes Alter dadurch beugen wollten, daß sie
+                        ihn aller der Mittel beraubten, wodurch es sich von dem Daseyn einer Vorzeit
+                            <hi rend="underline">vor</hi> seiner ihm bekannten wahren Geschichte und
+                        von der Beschaffenheit hätte unterrichten und vergewissern können!</p><p>So viel ich weiß, haben wir noch kein Werk, worinn uns die verruchten Thaten
+                        der Bücher– Herostraten<note type="comment" place="bottom"><p>
+                                <persName>Herostratos</persName> (?–ca. 356 v. Chr) steckte, um
+                                unsterblichen Ruhm zu erlangen, den Tempel der
+                                    <persName>Artemis</persName> in Ephesus in Brand und wurde so
+                                zum Sinnbild aller Kulturvernichtung, insbesondere der
+                                Bücherverbrennungen.</p></note> aller Zeitalter [<note type="comment" place="bottom"><p> Aufgrund der Bindung ist ein kurzes
+                                Wort nicht lesbar.</p></note>] dargestellt wäre. Und doch würde kein
+                        Beytrag zur Geschichte der Geisteskultur des Menschengeschlechts ein
+                        größeres Interesse erwarten, und auf einen allgemeinern Beyfall Ansprüche
+                        machen können, als ein solches. Wie wäre es, wenn wir die dahin ge[<note type="comment" place="bottom"><p> Aufgrund der Bindung sind wenige
+                                Buchstaben nicht lesbar.</p></note>]gen Daten für Ihre Minen
+                        sammelten, die um so eher ein passendes Magazin dafür sind, als man grade im
+                        Orient am meisten dieser Schandmenschen antreffen dürfte. Werde auf die Art
+                        ihr Andenken, mit Entehrung und Abscheu gebrandmarkt, bey der Nachwelt
+                        erhalten, so lange uns menschliches Wissen gesch[ätzt<note type="comment" place="bottom"><p> Aufgrund der Bindung sind wenige Buchstaben nicht
+                                lesbar.</p></note>] und mit pflegender Hand genähret wird! –</p><p>Die Beyträge dazu, welche ich Ihnen diesmal zu überschicken das Vergnügen
+                        habe, sind wiederum aus den schätzbaren Recherches philosophiques sur les
+                            Americains<note type="comment" place="bottom"><p> Cornelius de Pauw, <hi rend="italic">Recherches Philosophiques sur les Américains, ou
+                                    Mémoires intéressants Pour servir à l’Histoire de l’Espèce
+                                    humaine, Tome Second, Berlin 1771, 195ff.</hi>
+                                <ref target="https://books.google.at/books?id=ALs9AAAAcAAJ&amp;pg=PA301&amp;dq=on+a+accuse+ces+petits+lamas&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjjh--SvuvkAhWCr6QKHb2bDvUQ6AEIMTAB"><seg style="font-size:8pt">https://books.google.at/books?id=ALs9AAAAcAAJ&amp;pg=PA301&amp;dq=on+a+accuse+ces+petits+lamas&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjjh--SvuvkAhWCr6QKHb2bDvUQ6AEIMTAB#v=onepage&amp;q=on%20a%20accuse%20ces%20petits%20lamas&amp;f=false</seg></ref>.
+                            </p></note> entlehnt, einer Schrift, wo sie nur der Zufall suchen
+                        dürfte. –</p><p>„Ils<note type="comment" place="bottom"><p> Übersetzung: „Sie bedienen sich,
+                                sagt der Verf[asser], indem er von den Mexikanern spricht, „sie
+                                bedienen sich der Tierhäute und Rinden, um die Dinge darauf zu
+                                zeichnen, deren Erinnerung sie bewahren wollten: eine große Menge
+                                dieser gemalten Bände wurde unter ihnen gefunden, die die Soldaten,
+                                die nur Gold suchten, zu sehr verachteten, um sie fortzuschaffen;
+                                aber ein Barbar namens <persName>Sumarica</persName>, der durch ein
+                                Unglück der erste Bischof von Mexiko war, sammelte um den Anfang des
+                                sechzehnten Jahrhunderts alle historischen Bilder, die in diesem
+                                Teil Amerikas ausgegraben werden konnten; Und nachdem er im Namen
+                                des Herrn ein Feuer angezündet hatte, warf er diese eigentümlichen
+                                Denkmäler hinein, nachdem er sie zuvor ausgetrieben hatte. denn er
+                                behauptete, dass die Bücher aller Nationen, die keine Christen
+                                seien, verbrannt werden müssten. Die entsetzliche Wut dieses
+                                Fanatikers kann nur mit der des Papstes <persName>Gregor</persName>
+                                und des Muselmanns <persName>Omar</persName> verglichen werden, der
+                                die Bibliothek von Alexandria verwüsten ließ, um den Koran besser zu
+                                erhalten. Nur ein einziges Exemplar ist aus den Händen dieser
+                                    <persName>Sumarica</persName> entwichen, welches die Neugierde
+                                des Kaisers <persName>Karl V</persName>. befriedigen sollte
+                                usw.“</p></note> se servoient, sagt der Verf[asser], indem er von
+                        den Mexicanern<note type="comment" place="bottom"><p> Womit die
+                                präkolumbische Bevölkerung der Mayas und der Azteken gemeint
+                                ist.</p></note> spricht, ils se servoient de peaux d’animaux, &amp;
+                        d’écorces pour y dessiner les choses dont ils vouloient conserver le
+                            souvenir<note type="comment" place="bottom"><p>
+                                <persName>Seetzen</persName> spricht hier von den nach Europa
+                                verbrachten, z.T. (4 von 14) präkolumbianischen, Azteken-Codices,
+                                erhaltenen sind. Neben den Azteken-Codices kennt man vier
+                                Maya-Codices, die optisch weniger beeindruckend sind als jene der
+                                Azteken. Die präkolumbianische, aus Piktogrammen bestehende
+                                „Schrift“ wurden unter spanischem Einfluss um weitere Zeichen
+                                erweitert.</p></note>: on trouva chez eux une affez grande quantité
+                        de ces volumes peints, que les soldats, qui ne cherchoient que de l’or,
+                        méprisèrent trop our les emporter; mais un barbare, nommé <hi rend="underline">Sumarica</hi><note type="comment" place="bottom"><p>
+                                Gemeint ist Juan <persName>de Zumárraga</persName> OFM (ca.
+                                1468–1558) wurde 1527 von <persName>Karl V.</persName> zum ersten
+                                Bischof von Mexiko – „Protector de los Indios“ – ernannt, 1547 wurde
+                                er Erzbischof; 1528 kam er nach Amerika, organisierte die Bekehrung
+                                der Indios und schuf Pfarrbezirke. Als er gegen missbräuchliche
+                                Machtanwendung protestierte, musste er 1532 nach Spanien
+                                zurückkehren, durfte jedoch 1534 wieder nach Mexiko gehen, wo er
+                                sich um die Einrichtung von Schulen vor allem für die Kinder von
+                                adeligen Indios bemühte, gründete ein Spital und 1539 eine
+                                Druckerei. <persName>Zumárraga </persName>wurde 1735 zum Erzbischof
+                                und zum ersten Inquisitor gegen Häresie ernannt (welche Ämter er bis
+                                1543 versah); <persName>Zumárraga</persName> trat für die Zerstörung
+                                der Tempel ein und ließ Inquisitionsverfahren durchführen, in
+                                welchem Zusammenhang ein bedeutender Kazikle 1539 auf dem
+                                Scheiterhaufen verbrannt wurde, was <persName>Zumárraga</persName>
+                                eine Rüge aus Spanien eintrug, da die Indios nach so kurzer Zeit die
+                                neue Religion noch gar nicht richtig kennen hätten können; (<hi rend="italic">Wikipedia</hi>, dieser Artikel ist
+                                unzulänglich).</p></note>, qui fut, par malheur, le premier Evêque
+                        de Mexico, fit vers le commencement du seizième siècle, recueillir tous les
+                        tableaux historiques qu’on put déterrer dans cette partie de l’Amérique;
+                        &amp; ayant fait allumer un feu au nom du Seigneur, il y jetta ces monuments
+                        singuliers, après les avoir préalablement exorcisés<note type="comment" place="bottom"><p> Das soll wohl heißen, dass er sie einem Exorzismus
+                                unterworfen hatte.</p></note>; car il soutenoit qu’il falloit brûler
+                        les Livres de tous les Peuples qui ne sont pas Chrétiens. On ne sauroit
+                        comparer l’horrible fureur de ce fanatique qu’à celle du <hi rend="underline">Pape Grégoire</hi><note type="comment" place="bottom"><p>
+                                <persName>Seetzen</persName> spricht hier von Papst <persName>Gregor
+                                    I.</persName>, dem Großen (ca. 540–604), der den bereits von
+                                    <persName>Innozenz I.</persName> erhobenen Anspruch auf die
+                                Vormachtstellung Roms in der christlichen Gesamtkirche eher
+                                vorsichtig vertrat, unnachgiebiger aber die Christianisierung der
+                                Nichtchristen in seinem Machtbereich verfolgte (während zuvor der
+                                Ostgotenkönig <persName>Theoderich</persName> noch die Ansicht
+                                vertreten hatte, dass es unmöglich sei, die Annahme einer Religion
+                                zu befehlen) und 599 in Bezug auf die Bevölkerung Sardiniens die
+                                Weisung erließ: <hi rend="italic">„Wenn ihr feststellt, dass sie
+                                    nicht gewillt sind, ihr Verhalten zu ändern, so befehlen wir,
+                                    dass ihr sie mit größtem Eifer verfolgt. Sind sie unfrei, so
+                                    züchtigt sie mit Prügeln und Folter, um sie zur Besserung zu
+                                    zwingen. Sind sie aber freie Menschen, so sollen sie durch
+                                    strengste Kerkerhaft zur Einsicht gebracht werden, wie es
+                                    angemessen ist, damit jene, die sich weigern, die heilsamen
+                                    Worte zu hören, welche sie aus den Gefahren des Todes erretten
+                                    können, durch körperliche Qual der erwünschten geistigen
+                                    Gesundheit zugeführt werden.“</hi> Innerhalb des christlichen
+                                Bereiches hielt er sich an die Benediktinerregel, bemühte sich um
+                                die Sicherstellung der Getreideversorgung von Rom etc., schrieb den
+                                Titel Papst als Bezeichnung für den Bischof von Rom fest, führte die
+                                heute noch verwendete Formel „servus servorum dei“ ein etc., 1295
+                                wurde er als eine zentralen Führungsfigur der lateinischen Kirche
+                                heiliggesprochen. Was die Bücherverbrennung anlangt, die
+                                kirchlicherseits durch das ganze Mittealter hindurch nicht selten
+                                waren, dürfte <persName>Seetzen Gregor I.</persName> mit
+                                    <persName>Gregor IX.</persName> verwechselt haben, der 1242 eine
+                                der umfassendsten Aktionen in diesem Bereich organisierte –
+                                    <persName>Gregor I.</persName> wird in dem ausführlichen Lemma
+                                "Bücherverbrennungen" in Wikipedia nicht erwähnt.</p></note>, &amp;
+                        du Musulman <hi rend="underline">Omar</hi><note type="comment" place="bottom"><p> Dies meint <persName>Abū Hafs ʿUmar ibn
+                                    al-Chattāb</persName> (592–644), oft kurz
+                                    <persName>Omar</persName> und mit dem Beinamen
+                                    <persName>al-Fārūq</persName> („der die Wahrheit von der Lüge
+                                unterscheidet“); <persName>Omar</persName> war laut sunnitischer
+                                Ansicht der zweite islamische Kalif (634–644), während ihn die
+                                Sunniten ihn als einen der vier „rechtgeleiteten“ Kalifen
+                                betrachten. Die imamitischen Schiiten erkennen ihn dagegen nicht als
+                                Kalifen an. – Die Eroberung Ägyptens erfolgte 639–642; (<hi rend="italic">Wikipedia</hi>).</p></note>, qui fit consumer la
+                        Bibliothèque d’Alexandrie<note type="comment" place="bottom"><p> Es gibt
+                                vielleicht keine andere Bibliothek, über die so viele Spekulationen
+                                über deren Lokalisierung, Bestände und Schicksal angestellt worden
+                                sind. Die Bibliothek wurde bald nach der Gründung Alexandrias 331 v.
+                                Chr. offenbar als Bibliothek des Museions eingerichtet und teils aus
+                                persönlichen Interessen der drei nachfolgenden ptolemäischen
+                                Herrscher, teils aus Repräsentationsgründen großzügigst gefördert,
+                                sodass ihr Bestand sehr rasch gewachsen sein dürfte und nicht nur
+                                griechische, sondern auch anderssprachliche Werke enthielt, und
+                                mitunter auch mehrere Exemplare eines Werkes enthielt, was
+                                textkritische Untersuchungen ermöglichte. Die ziffernmäßige
+                                Bestimmung der Bestände schwankt heute zwischen ca. 50.000 und
+                                500.000 Schriftrollen, wobei der Begriff Rolle nichts über die Zahl
+                                der Werke aussagt, weil in einer Rolle mehrere Werke enthalten sein
+                                konnten und umgekehrt wohl auch ein Werk sich über mehr als eine
+                                Rolle erstreckt haben mag. Ähnlich schwierig verhält es sich mit den
+                                Angaben bezüglich des Schicksals dieser Bibliothek, von der bis
+                                heute keinerlei bauliche Überreste und auch keinerlei Überreste
+                                textlicher Natur mit auch nur annähernder Sicherheit festgemacht
+                                werden konnten. Ebenso wenig können tragfähige Aussagen bezüglich
+                                der diversen Brände und Zerstörungen bis hin zur angeblich finalen
+                                Vernichtung durch die Araber getroffen werden. Trotz dieser
+                                Ungewissheiten steht jedoch die enorme Bedeutung dieser Bibliothek
+                                außer Zweifel – bedeutendste Wissenschaftler der hellenistischen
+                                Zeit haben im Museion gewohnt und gearbeitet und dabei Leistungen in
+                                der Philologie, in der Mathematik, Mechanik, in den
+                                Naturwissenschaften erbracht, die ohne den geistigen Hintergrund,
+                                der durch in der Bibliothek verwahrten Werke geboten wurde, nicht
+                                erbracht werden hätten können – Schiffe, die den Hafen anliefen,
+                                wurden nach Handschriften durchsucht, diese kopiert, die Kopien den
+                                Besitzern übergeben, die Originale blieben in Alexandria; der
+                                berühmteste derartige Fall betraf das Staatsexemplar die größten
+                                poetischen Werke der Griechen, das gegen ein hohes Pfand aus Athen
+                                entlehnt wurde – es wurde kopiert, das Original blieb in Alexandria
+                                und das enorme Pfand ließ man verfallen. Die Informationen zur
+                                Geschichte der Bibliothek von Alexandria sind enorm, zumal jenseits
+                                monographischer Beiträge in zahlreichen wissenschaftlichen Arbeiten
+                                unterschiedlichster Diziplinen Bezug auf diese Bibliothek genommen
+                                wird, der sich eben nicht aus per se bibliotheksgeschichtlichen,
+                                sondern aus wissenschaftsgeschichtlichen Arbeiten einzelner
+                                Disziplinen ergibt, ein Ansatz zu einer Zusammenfassung dieser
+                                Aussagen existiert offenbar nicht. </p></note>, pour mieux conserver
+                            l’Alcoran<note type="comment" place="bottom"><p> Hier eine Fußnote von
+                                    <persName>Seetzen</persName>: „<hi rend="italic">Ich fand in
+                                    einer Geschichte Jemens, daß der Chalife Osman alle Ko[ran]e
+                                    verbrannte, welche außer dem von ihm geschriebenen Exemplar
+                                    [vor]handen waren. Dies beyläufig. </hi>Stzn.“ – Die andere
+                                diesbezüglich verbreitete Überlieferung besagte, dass alles, was
+                                nicht koran-konform sei, als unzulässig und alles, was ihm
+                                entspreche, als überflüssig zu verbrennen sei.</p></note>. Il n’est
+                        échappé des mains de ce Sumarica qu’un seul exemplaire, qu’on avoit destiné
+                        à remplir la curiosité de l’Empereur Charles-Quint etc. (Ein
+                        [fran]zös[ischer] Korsar raubte es dem span[ischen] Schiffe, welches es
+                        [nac]h Cadiz<note type="comment" place="bottom"><p> A: Kadix</p></note>
+                        bringen sollte. Zufälliger Weise geriet es in d[ie] Hände [des] Reisenden
+                            Thevet<note type="comment" place="bottom"><p> André
+                                    <persName>Thevet</persName> (1516–1590) war ein französischer
+                                Forscher und Schriftsteller. Mit zehn Jahren wurde er in den
+                                Franziskaner-Konvent Angoulêmes aufgenommen. Von religiösen Gefühlen
+                                wenig bis gar nicht bewegt, studierte er die Literatur seiner Zeit.
+                                    <persName>Thevet</persName> unternahm zur gleichen Zeit wie
+                                Guillaume <persName>Rondelet</persName> (1539) eine Italienreise.
+                                Auf vielen Reisen erfüllte er anschließend verschiedenste Aufträge
+                                seiner Gönner und Beschützer <persName>Franz I.,</persName> der
+                                Familien <persName>La Rochefoucauld</persName> und
+                                    <persName>Guise.</persName> In Piacenza freundete er sich mit
+                                dem Kardinal <persName>Jean de Lorraine</persName> an und unternahm
+                                mit dessen finanzieller Unterstützung ab Juni 1549 eine Reise in die
+                                Levante. Er besuchte Kreta und die Ägäischen Inseln und verbrachte,
+                                ab November 1549, ein gutes Jahr in Konstantinopel. Er trifft dort
+                                auf die wissenschaftliche und politische Mission des Grafen Gabriel
+                                de <persName>Luetz</persName> (d'Aramon). Möglicherweise hat sich
+                                    T<persName>hévet</persName> in dieser Zeit auch als Spion für
+                                die französische Krone und für andere betätigt. Bis Alexandria
+                                begleitet von <persName>Pierre Gilles</persName>, verließ er
+                                Konstantinopel in Richtung Ägypten über Rhodos und Athen und reiste
+                                anschließend nach Palästina, verließ im Mai 1552 Jerusalem und
+                                kehrte über Zypern, Rhodos und Sizilien nach Frankreich zurück, wo
+                                er seinen Reisebericht „Cosmographie du Levant“ (Lyon,1554)
+                                verfasste; 1555/56 nahm er als Seelsorger an der Expedition des
+                                Vize-Admirals <persName>Villegagnon</persName> in Brasilien teil
+                                (das französische Kolonie werden sollte), die aber de facto als
+                                Forschungsexpedition ohne weitreichende politische Folgen endete.
+                                Man erreichte im November 1855 die Bucht von Rio de Janeiro,
+                                    <persName>Thevet</persName> erkrankte und wurde nach Europa
+                                zurückgeschafft, wo er einen der frühesten (und hervorragend
+                                illustrierten) Reiseberichte über Brasilien, <hi rend="italic">„Les
+                                    Singularités de la France antarctique“ (1557)</hi> verfasste und
+                                für das königliche Kuriositätenkabinett (Völkerkunde- und
+                                Naturalienmuseum) in Fontainebleau verantwortlich wurde. Von ihm
+                                stammt auch das biographische Werk <hi rend="italic">„Les Vrais
+                                    pourtraits et vies des hommes illustres en huit volumes“;</hi>
+                                    (<hi rend="italic">Wikipedia</hi>).</p></note>, dessen Erben es
+                        nebst der spanischen Uebersetzung dem berühmten
+                            <persName>Raleigh</persName><note type="comment" place="bottom"><p> Sir
+                                Walter <persName>Raleigh </persName>(auch Rawley, Ralegh oder
+                                Rawleigh) (1552/1554–1618) war ein englischer Seefahrer, Entdecker,
+                                Soldat, Spion, Politiker, Dichter und Schriftsteller sowie – infolge
+                                seiner Beteiligung an der Unterwerfung Irlands – Günstling der
+                                englischen Königin <persName>Elisabeth I.</persName> Er unternahm
+                                einige Piratenfahrten nach Westindien; verfolgte – erfolglos – Pläne
+                                zur Gründung von englischen Überseekolonien in Nordamerika,
+                                unternahm 1595 eine Expedition nach Südamerika an, worüber er 1596
+                                seinen Reisebericht <hi rend="italic">„The discoverie of the large
+                                    rich, and bewtiful empyre of Guiana“ </hi>veröffentlichte. Nach
+                                dem Tod <persName>Elisabeth</persName>s<persName> I.</persName> 1603
+                                fiel er beim neuen König <persName>Jakob I.</persName> unter dem
+                                Vorwurf der Verschwörung mit Spanien in Ungnade, wurde dreizehn
+                                Jahre lang inhaftiert, in welcher Zeit er seine History of the World
+                                schrieb. 1616 wurde er freigelassen, 1618 aber auf Betreiben
+                                Spaniens hingerichtet; ( <hi rend="italic">Wikipedia</hi>).</p></note> verkauften, welcher eine Uebersetzung ins
+                        Engl[ische] v[on] iener Uebersetzung verfertigen [ließ]. Mr
+                            <persName>Thevenot</persName><note type="comment" place="bottom"><p>
+                                <persName>Melchisédech Thévenot,</persName> oder Melchisédec
+                                    <persName>Thévenot</persName> (um 1620–1692) war ein
+                                französischer Naturforscher und Schriftsteller, Erfinder der
+                                handlichen Wasserwaage und Verfasser der ersten französischen
+                                Abhandlung über die Kunst des Schwimmens. Daneben betätigte er sich
+                                als Kartograph, Orientalist und Diplomat. In seiner Sammlung von
+                                Reiseberichten vereinte er alles, was ein gebildeter Europäer des
+                                17. Jahrhunderts über die Welt wissen konnte; angeblich beherrschte
+                                    <persName>Thévenot</persName> neben Englisch, Griechisch,
+                                Lateinisch und Hebräisch auch noch mehrere orientalische Sprachen,
+                                unter anderem Arabisch und Türkisch. In den 1660er Jahren wurde sein
+                                Haus in Issy zum Treffpunkt eines Wissenschaftlerkreises, der 1666
+                                bei der Gründung der Pariser Akademie der Wissenschaften mitwirkte.
+                                Er unterhielt eine rege Korrespondenz mit vielen bedeutenden
+                                Wissenschaftlern seiner Zeit, wie Christiaan<persName>
+                                    Huygens</persName> und Henry <persName>Oldenburg</persName>. Im
+                                Winter 1665 sezierte Niels <persName>Stensen </persName>in seinem
+                                Haus ein menschliches Gehirn vor interessiertem Publikum. 1684 wurde
+                                    T<persName>hévenot</persName> zum Leiter der königlichen
+                                Bibliothek <persName>Ludwigs XIV.</persName> in Paris ernannt, ein
+                                Jahr später zum Mitglied der Akademie.
+                                <persName>Thévenot</persName>s eigene wissenschaftliche Arbeiten
+                                sind umfangreich, seine 290 Handschriften wurden 1712 von der
+                                königlichen Bibliothek aufgekauft wurden. Zwischen 1663 und 1672 gab
+                                er seine <hi rend="italic">„Relation de divers voyages curieux“</hi>
+                                heraus („Bericht von verschiedenen merkwürdigen Reisen“), 1696
+                                erschien seine <hi rend="italic">„Art de nager“</hi> (Die Kunst des
+                                Schwimmens), die ihren Leser Benjamin <persName>Franklin
+                                </persName>zur Erfindung der Schwimmflossen angeregt haben dürfte;
+                                    (<hi rend="italic">Wikipedia</hi>).</p></note> übersetzte sie
+                        ins Französische und ließ von allen Ge[mä]hlden Holzschnitte verfertigen
+                            u.s.w.)<note type="comment" place="bottom"><p> Aus: <hi rend="italic">neues deutsches Magazin, Band 6, 1803, S. 546–549</hi>;
+                                    </p><p><ref target="https://books.google.at/books?id=vsxGAAAAcAAJ&amp;pg=PA547&amp;dq=raleigh+sumarica&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjwoYHa-u3kAhWB2qQKHaUECfkQ6AEIKzAA#v=onepage&amp;q=raleigh%20sumarica&amp;f=false">https://books.google.at/books?id=vsxGAAAAcAAJ&amp;pg=PA547&amp;dq=raleigh+sumarica&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjwoYHa-u3kAhWB2qQKHaUECfkQ6AEIKzAA#v=onepage&amp;q=raleigh%20sumarica&amp;f=false</ref></p></note>.
+                        „Cette manie<note type="comment" place="bottom"><p> Übersetzung: „Diese
+                                Manie, so fährt der Verf[asser] in einer Note fort, Bücher zu
+                                verbrennen, habe immer das intolerante Genie des römischen Klerus
+                                charakterisiert, aber nie war es so vorherrschend wie im sechsten
+                                und fünfzehnten Jahrhundert. Papst <persName>Gregor </persName>(der
+                                so ungerecht den Beinamen ‚der Große‘ führte), verbrannte in der
+                                ganzen Christenheit die Werke von <persName>Cicero,
+                                    Livius</persName> und Cornelius <persName>Tacitus</persName>,
+                                und seit jener verhängnisvollen Epoche ist von keinem dieser drei
+                                Autoren mehr eine vollständige Abschrift gefunden worden. Diese
+                                Verfolgungen gegen den menschlichen Geist haben dazu geführt, dass
+                                wir die Gedichte von <persName>Menander, Bion, Apollodorus, Alcaeus,
+                                    Philemon</persName> und <persName>Sappho </persName>verloren
+                                haben, deren Fragmente nur dazu dienen, uns begreiflich zu machen,
+                                dass unser Verlust unermesslich war. Es gibt nicht einmal die Juden,
+                                deren Bücher nicht verbrannt worden sind, und es wird behauptet,
+                                dass bei der letzten Verfolgung, die durch einen Frevler mit dem
+                                Namen <persName>Pfefferkorn</persName> bekannt ist, gegen sie
+                                ausgelöst worden war, das letzte Exemplar des hebräischen Werkes mit
+                                dem Titel »Toldos Jescut« verbrannt worden sei“. Der römische Hof
+                                wird beschuldigt, viele der in Malabar und Ostindien gefundenen
+                                Bücher, nach denen die Missionare der Propaganda gesucht hatten,
+                                vernichtet zu haben. An einer anderen Stelle spricht der geistvolle
+                                Verf[asser] über den nämlich[en Ge]genstand: „Wenn die Tataren nicht
+                                so oft während ihrer Kriege die von den Gelehrten von Tibet
+                                gebildeten Bibliotheken zerstört hätten; wenn nicht ein
+                                unglücklicher Kaiser von China seinen Untertanen bei Todesstrafe
+                                befohlen hätte, alle Bücher und Manuskripte zu verbrennen; wir
+                                hätten ohne Zweifel in Oberasien viele Tatsachen sammeln können, die
+                                sehr wahrscheinlich Licht auf die Geschichte unseres Erdballs werfen
+                                würden; die uns so modern erscheint, wenn wir die Denkmäler der
+                                Menschen zu Rate ziehen; und die so alt ist, wenn wir die Natur zu
+                                Rate ziehen. Die allgemeine Vernichtung der chinesischen Bücher
+                                durch einen Barbaren, dessen Name es nicht verdient, ausgesprochen
+                                zu werden, die Verbrennung der Bibliothek von Alexandria unter
+                                Julius <persName>Cäsar</persName>, die Verbrennung derselben
+                                Bibliothek, die unter dem Kalifen <persName>Omar
+                                </persName>teilweise wiederhergestellt wurde, die Vernichtung der
+                                alten griechischen und römischen Autoren unter Papst
+                                    <persName>Gregor </persName>sind meiner Meinung nach die
+                                traurigsten Ereignisse in der Geschichte des Menschengeschlechts.
+                                Weil sie uns einer unendlichen Menge an Wissen beraubt haben, das
+                                die Menschen niemals wiedererlangen können: Die Archive der Welt
+                                sind untergegangen. Unsere modernen Chronologen aber setzen kühn die
+                                Epoche der Entstehung aller Völker fest: Wenn man sieht, mit welcher
+                                Kühnheit sie ihre eitlen Berechnungen aufstellen, könnte man meinen,
+                                sie hätten alle jene in China, Tibet, Ägypten und Rom vernichteten
+                                Bücher und Manuskripte immer wieder gelesen; Aber sie kennen nicht
+                                einmal die Titel“.</p></note>», so fährt der Verf[asser] in einer
+                        Note fort, « de brûler des Livres a toujours caractrérisé le génie
+                        intolérant du Clergé Romain; mais elle ne sevit jamais tant qu’au sixième
+                        &amp; au quinzième siècle. Le <persName>Pape Grégoire</persName><note type="comment" place="bottom"><p> Papst <persName>Gregor I.
+                                </persName>(ca. 540 –604) war ab 590 Papst und gilt als einer der
+                                bedeutendste Inhaber dieser Funktion, da er wesentlich zur
+                                Entwicklung abendländischen katholischen Kirche beigetragen hat,
+                                weshalb er als einer der vier lateinischen Kirchenväter der
+                                Spätantike zählt. Von ihm stammt die Formel „servus servorum Dei“,
+                                die heute noch Bestandteil der päpstlichen Selbstbezeichnung und
+                                Titulatur ist; mit seinen zahlreichen Predigten und Schriften wirkte
+                                er bis in die Neuzeit; 1295wurde er heiliggesprochen; (<hi rend="italic">Wikipedia</hi>). </p></note>, surnommé si
+                        injustement le Grand, fit brûler dans toute la Chrétienté les Oeuvres de
+                            <persName>Cicéron</persName><note type="comment" place="bottom"><p>
+                                Marcus Tullius <persName>Cicero</persName> (106–43).</p></note>, de
+                            <persName>Tite-Live</persName><note type="comment" place="bottom"><p>
+                                Titus <persName>Livius</persName> (59 vChr – 17 nChr).</p></note>,
+                        &amp; de <persName>Corneille-Tacite</persName><note type="comment" place="bottom"><p> Publius Cornelius <persName>Tacitus </persName>(ca.
+                                58–ca. 120).</p></note>; et depuis cette funeste époque, on n’a
+                        jamais plus retrouvé un exemplaire complet d’un de ces trois Auteurs. Ces
+                        persécutions contre l’esprit humain nous ont fait perdre les Poésies de
+                            <persName>Ménandre</persName><note type="comment" place="bottom"><p>
+                                <persName>Menander </persName>(?–290 vChr) der Meister der
+                                griechischen „Neuen Komödie“; (<hi rend="italic">Wikipedia</hi>).</p></note>, de <persName>Bion</persName><note type="comment" place="bottom"><p>
+                                <persName>Bion</persName> von Smyrna (um 100 vChr) war ein
+                                späthellenistischer Dichter nach dem Vorbild
+                                    <persName>Theokrit</persName>s; (<hi rend="italic">Wikipedia</hi>).</p></note>,
+                            <persName>d’Apollodore</persName><note type="comment" place="bottom"><p>
+                                <persName>Apollodor von Athen</persName> (ca. 180 – nach 120/119)
+                                war ein bedeutender Grammatiker und wirkungsmächtiger Schriftsteller
+                                in Alexandria, Pergamon und Athen; (<hi rend="italic">Wikipedia</hi>).</p></note>, <persName>d’Alcée</persName><note type="comment" place="bottom"><p>
+                                <persName>Alkaios von Lesbos</persName> (um 630 vChr) zählte zum
+                                alexandrinischen Kanon der neun größten Lyriker; (<hi rend="italic">Wikipedia</hi>).</p></note>, de
+                            <persName>Philémon</persName><note type="comment" place="bottom"><p>
+                                <persName>Philemon</persName> sowohl <persName>Philemon der
+                                    Ältere(</persName>361–263) in Syrakus wie <persName>Philemon der
+                                    Jüngere</persName> (im 3. Jh vChr) waren Komödiendichter von
+                                hohem Rang; (<hi rend="italic">Wikipedia</hi>).</p></note>, &amp; de
+                            <persName>Sappho</persName><note type="comment" place="bottom"><p>
+                                <persName>Sappho von Lesbos</persName> (ca. 630/612– ca. 570) gilt
+                                als wichtigste Lyrikerin des klassischen Altertums und hat
+                                kanonische Bedeutung; (<hi rend="italic">Wikipedia</hi>).</p></note>, dont les fragments ne servent qu’à nous faire
+                        comprendre que notre perte a été inestimable. Il n’y a pas jusqu’aux Juifs
+                        dont on n’ait brûlé les Livres, &amp; l’on assure que dans la dernière
+                        persécution, qui leur avoit été suscitée par un scélérat, connu sous le nom
+                        de <persName>Pfeffercorn</persName><note type="comment" place="bottom"><p>
+                                Dies bezieht sich auf Johannes <persName>Pfefferkorn
+                                </persName>(1469–1521), einen vermutlich aus Mähren stammenden
+                                Juden, der in Köln unter dem Einfluss der Dominikanern zum
+                                Christentum konvertierte, und den von
+                                    <persName>Pfefferkorn</persName> ausgelösten Streit um die
+                                Verbrennung jüdischer Bücher: <persName>Pfefferkorn</persName>
+                                veröffentlichte 1507–1510 vier antijüdische Schriften
+                                missionarisch-polemischen und diffamierenden Charakters und forderte
+                                ein Zinsverbot, die Beschlagnahmung der jüdischen Bücher und deren
+                                Verbrennung sowie die Zwangstaufe, wobei er schließlich von Kaiser
+                                    <persName>Maximilian</persName> gestoppt wird, der Gutachten
+                                einfordert. Als einziger Gutachter forderte
+                                    <persName>Reuchlin,</persName> den Juden ihre Bücher zu
+                                belassen. Daraus entwickelte sich ein umfangreicher Streit mit
+                                Prozessen vor dem Papst und dem Kaiser, in dessen Rahmen die
+                                „Dunkelmännerbriefe“ entstanden, verfasst von Freunden
+                                    <persName>Reuchlin</persName>s. <persName>Reuchlin,</persName>
+                                der wohl als einziger der Gegner <persName>Pfefferkorn</persName>s
+                                des Hebräischen kundig gewesen sein wird, verfocht erfolgreich die
+                                humanistische Position und verhinderte damit weitere Maßnahmen gegen
+                                die jüdische Gemeinschaft in Deutschland.</p></note>, on brûla le
+                        dernier exemplaire de l’Ouvrage hébreu intitulé Toldos Jescut<note type="comment" place="bottom"><p> Toledot Jeschu (Geschichte Jesu) ist
+                                eine vermutlich vor dem 8. Jahrhundert in Italien entstandene
+                                jüdische Sagensammlung über das Leben <persName>Jesu</persName>. Der
+                                Name Jeschu ist eine Form von Jeschua, die im Talmud, in
+                                rabbinischen Schriften und im modernen Sprachgebrauch nur in
+                                Verbindung mit <persName>Jesus</persName> verwendet wird. Diese
+                                Literaturgattung ist sagen-, kultur- und geistesgeschichtlich von
+                                Interesse, inhaltlich aber ohne historischen Wert. Erste Versionen –
+                                auf Aramäisch – tauchen ab 750 auf. Zahlreiche Fassungen mit
+                                satirisch-polemischem Charakter im Stil unterhaltsamer Romane wurden
+                                dann seit dem Mittelalter als eine Art Untergrund-Literatur bekannt,
+                                in der Neuzeit auch jüdisch-deutsche Versionen. Erste aramäische
+                                Fassungen, aber auch westliche Diasporatraditionen liegen diesen
+                                zugrunde. <persName>Maria</persName> wird als Verlobte
+                                    <persName>Josef</persName>s durch einen römischen Soldaten
+                                namens <persName>Panthera</persName> (oder ähnlich) getäuscht bzw.
+                                verführt und empfängt so <persName>Jesus</persName>, der als
+                                Zauberer und Volksverführer auftritt, von <persName>Judas</persName>
+                                besiegt, dem Sanhedrin überantwortet, zum Tode verurteilt und
+                                gesteinigt wird. Die Jünger entwenden seinen Leichnam und behaupten,
+                                er sei auferstanden. Dazu tritt in manchen Fassungen eine
+                                    <persName>Petrus</persName>-Legende. Die bekannteste Version war
+                                die im Jahr 1681 publizierte von Johann Christoph
+                                    <persName>Wagenseil;</persName> (<hi rend="italic">Wikipedia</hi>).</p></note>.</p><p>On accuse la Cour de Rome d’avoir détruit beaucoup de <hi rend="underline">Livres</hi> trouvés au <hi rend="underline">Malabar</hi> &amp; <hi rend="underline">aux Indes Orientales</hi>, dont les Missionnaires de la
+                        Propagande avoient fait la recherche.(!!)<note type="comment" place="bottom"><p> Fußnote von <persName>Seetzen</persName>: <hi rend="italic">Recherches philosoph. T. II p. 197, 198. – Cornelius de Pauw,
+                                    Recherches Philosophiques sur les Américains, ou Mémoires
+                                    intéressants Pour servir à l’Histoire de l’Espèce humaine, Tome
+                                    Second, Berlin 1771</hi>.</p></note></p><p>An einer anderen Stelle spricht der geistvolle Verf[asser] über den
+                        nämlich[en Ge]genstand<note type="comment" place="bottom"><p> Fußnote von
+                                    <persName>Seetzen</persName>: <hi rend="italic">p. 393,
+                                    394.</hi> = Cornelius de Pauw, <hi rend="italic">Recherches
+                                    Philosophiques sur les Américains, ou Mémoires intéressants Pour
+                                    servir à l’Histoire de l’Espèce humaine, Tome Second, Berlin
+                                    1771</hi>; tatsächlich ab S. 347.</p></note>: Si les Tartares
+                        n’avoient pas tant de fois détruit, pendant leurs guerres, les Bibliothèques
+                        formées par les Savants du Thibet; si un malheureux Empereur de la Chine
+                        n’avoit ordonné à ses sujets, sous peine de vie, de bruler tous les Livres
+                        &amp; tous les manuscrits, on auroit sans doute pu recueillir, dans la haute
+                        Asie, beaucoup de faits très-propres à éclaircir l’Histoire de notre Globe;
+                        qui nous paroit si moderne, quand on consulte les monuments des hommes;
+                        &amp; qui est si ancien, quand on consulte la Nature. – La destruction
+                        générale des Livres Chinois par un barbare, dont le nom ne mérite pas d’être
+                            prononcé<note type="comment" place="bottom"><p> Fußnote von
+                                    <persName>Seetzen</persName>: „<hi rend="italic">Aber doch wäre
+                                    es interessant, seinen Namen zu wissen.
+                            S</hi>[eetzen].“</p></note>, l’incendie de la Bibliothèque d’Alexandrie,
+                        sous <persName>Jules-César</persName>; l’incendie de cette même
+                        Bibliothèque, rétablie en partie sous le Calife <persName>Omar;</persName>
+                        la destruction des anciens Auteurs Grecs &amp; Romains sous le Pape
+                            <persName>Grégoire</persName>, sont, à mon avis, les plus tristes
+                        événements de l’Histoire du genre-humain, parce qu’ils nous ont privés d’une
+                        infinité de connoissances que les hommes ne pourront jamais recouvrer: les
+                        archives du monde y ont péri. Cependant nos Chronologistes modernes fixent
+                        hardiment l’époque de l’origine de toutes les Nations: à voir la hardiesse
+                        avec laquelle ils proposent leurs vains calculs, on croiroit qu’ils ont lu
+                        &amp; relu tous les Livres &amp; tous les manuscrits détruits à la Chine, au
+                        Thibet, en Egypte, &amp; à Rome; mais ils en ignorent jusqu’aux titres. Von
+                        der Vernichtung einer sehr großen Bibliothek in d[er?<note type="comment" place="bottom"><p> Durch Bindung in ein Buch wenige Buchstaben nicht
+                                lesbar.</p></note>] [Umgeb?<note type="comment" place="bottom"><p>
+                                Durch Bindung in ein Buch wenige Buchstaben nicht
+                        lesbar.</p></note>]ung von Kahira, welcher, wo mir recht ist, unter Salahh
+                        el Dîn statt [<note type="comment" place="bottom"><p> Durch Bindung in ein
+                                Buch wenige Buchstaben nicht lesbar.</p></note>], und wo unter
+                        andern <hi rend="underline">16000 Bände über alte Wissenschaften </hi>durch
+                        die Barbarey der Soldaten zerrissen und deren Einbände zu Sanda[len] genützt
+                        wurden, habe ich Ihnen bereits in einem meiner vorigen Briefe Nachricht
+                            gegeben<note type="comment" place="bottom"><p> Fußnote von
+                                    <persName>Seetzen</persName>: <hi rend="italic">Es wäre zu
+                                    wünschen, dass die Geschichte dieser unglücklichen Begebenheit
+                                    aus </hi>[dem]<hi rend="italic"> vom mir angegebenen
+                                    arab</hi>[ischen]<hi rend="italic"> Schriftsteller übersetzt und
+                                    dem Publikum mitgeteilt würde. Vielleicht erzeigt H</hi>[er]<hi rend="italic">r </hi><persName>Bockty</persName> [der
+                                schwedische Konsul in Kairo]<hi rend="italic"> ihm diesen Dienst.
+                                    S</hi>[ee]<hi rend="italic">tz</hi>[e]<hi rend="italic">n</hi>.
+                                – </p></note>.</p><p>-------------------------</p><p>Ich weiß, dass Manche über den Plan einer wissenschaftlichen Propaganda
+                        lächeln, und seine Möglichkeit für ein Hirngespinst halten werden. Es gibt
+                        kalte Seelen, welche keines Enthusiasm fähig sind, es sey die Natur eines
+                        Unternehmens, welche sie wolle. So gut [die] Propaganda des Glaubens einst
+                        möglich war, <hi rend="underline">möglich einem ein[zi]gen Fürsten des
+                            zweiten oder dritten Ranges</hi>, ebensogut sollte [ni<note type="comment" place="bottom"><p> Durch Bindung in ein Buch wenige
+                                Buchstaben nicht lesbar.</p></note>]cht eine Propaganda der
+                        Wissenschaften der vereinten Macht aller [Fü]rsten Europas möchlich seyn?
+                        Menschliches Wissen gleicht einem großen Baue; nur wenige Architekten sind
+                        dabey erforderlich, welche das schöne Bild seiner Vollendung in ihrem Boden
+                        [au]fbewahren; aber alle gebildeten Nationen der Erde müssen [Ar]beitsleute
+                        zu einem solchen Werke steuern. Alle unsere Wissenschaften werden mehr oder
+                        weniger Gewinn davon zu erwarten haben; aber gesetzt auch, man wollte dies
+                        in Zweifel ziehen: so lässt es sich doch durchaus nicht leugnen, daß keine
+                        Geschichte eines Volks unsere Achtung verdiene, wenn nicht dabey seine
+                        [eig]enen historischen Schriften zu Rathe gezogen wurden.</p><p>-----------------------------</p><p>In einem meiner vorigen Briefe an Sie<note type="comment" place="bottom"><p>
+                                <persName>Seetzen</persName> an HP ddo 1808 VII 10.</p></note> oder
+                        an H[er]rn Kammerr[at] <persName>v[on] Lindenau</persName><note type="comment" place="bottom"><p> Bernhard August <persName>von
+                                    Lindenau</persName> (1779–1854) war ein deutscher Jurist,
+                                Astronom, Minister und Mäzen. Von 1831–1843 war er sächsischer
+                                Regierungschef und bis 1834 zugleich Innenminister. Während der
+                                Revolution 1848 gehörte er der Frankfurter Nationalversammlung an.
+                                Aus seiner Kunstsammlung ging das
+                                <persName>Lindenau</persName>-Museum hervor; (<hi rend="italic">Wikipedia</hi>).</p></note> teilte ich eine kleine Entdeckung
+                        mit, welche die stumpfen Schneidezähne der aegyptischen Mumien betraf. Der
+                        verdienst[vol]le H[er]r Hofr[at] <persName>Blumenbach</persName><note type="comment" place="bottom"><p> Johann Friedrich
+                                    <persName>Blumenbach</persName> (1752–1840) war ein deutscher
+                                Anatom und Anthropologe. Er gilt als wesentlicher Begründer der
+                                Zoologie und Anthropologie als wissenschaftliche Disziplinen.
+                                Bedeutend war er auch als Gegner des Glaubens an die permanente
+                                Urzeugung und der Präformationslehre, als Vertreter des Vitalismus
+                                sowie als Rassentheoretiker und einer der Begründer des
+                                wissenschaftlichen Antirassismus; (<hi rend="italic">Wikipedia</hi>).</p></note> hielt sie für natürlich, für eine
+                            [<note type="comment" place="bottom"><p> Durch Bindung in ein Buch
+                                wenige Buchstaben nicht lesbar.</p></note>] merkwürdige Varietät.
+                        Allein, dies sind sie nicht; sie ver[dan]ken der Kunst, der Feile, diese
+                        Form, wovon ich mich durch [wie]derholte Proben überzeugt habe. Es scheint,
+                        daß dies die Sitte [der] Vorne[h]meren war; denn ich fand bey geschmückten
+                        Mumien sehr stump[fe,<note type="comment" place="bottom"><p> Durch Bindung
+                                in ein Buch wenige Buchstaben nicht lesbar.</p></note>] bey ganz
+                        ungeschmückten aber ganz unveränderte. Vielleicht war es […<note type="comment" place="bottom"><p> Durch Bindung in ein Buch ein kurzes
+                                Wort nicht lesbar.</p></note>] bloß Sitte bey der Priesterkaste;
+                        denn der heilige Hironymus ließ sich in Egypten seine Zähne feilen, um das
+                        Hebraische desto richtiger aussprechen zu können. Ich habe diese Nachricht
+                        hier wiederholt, weil es seyn könnte, daß sie in einem der verlornen Briefe
+                        befindlich war, und sie für diesen oder ienen Naturforscher einiges
+                        Interesse haben dürfte.</p><p>-------------------------------</p><p>Besitzet denn unsere teutsche Litteratur schon eine in allen Stücken
+                        zweckmässige „Anleitung zum Lesen und zum Verstehen der arabischen
+                        Schriften“? Ich möchte nicht gern ein solches Werk eine Grammatik nennen,
+                        wobey sich immer bey mir unangenehme Nebenideen einmischen; bey unsern
+                        arab[ischen] Grammatiken dürfte manches Vorhandene überflüssig, und manches
+                        Fehlende nützlich seyn. Erlauben Sie mir, Ihnen meine Ideen über diesen
+                        Gegenstand mittheilen zu dürfen.</p><p> Von allen unsern Orientalisten giebt es höchst wenige, welche in ihrem Leben
+                        Gelegenheit haben, Arabisch sprechen oder eigene Aufsätze schreiben zu
+                        müssen. Sie wollen bloß arabische Schriften fertig lesen und sie mit
+                        Leichtigkeit verstehen lernen, damit sie des Wissens würdige darinn
+                        ausziehen und <hi rend="underline">durch Uebersetzungen</hi> dem
+                        europäischen Publikum bekannt machen können. Thun sie dies nicht: so ist all
+                        ihre <choice><abbr>arab</abbr><expan>arabische</expan></choice> Sprachkunde ganz ohne Werth, und darf auf keine öffentliche
+                        Achtung Anspruch machen. Denn <choice><abbr>d</abbr><expan>daß</expan></choice> unsere Theologen, welche in der Regel
+                        die Pflanzschule unserer Orientalisten abgeben, das Orientalische zum
+                        Besserverstehen des Hebraischen und Syrischen studieren, das kommt mir vor,
+                        als <supplied>wenn</supplied> ein Asiate oder ein Afriker das Teutsche erlernen wollte, nicht
+                        um die reiche teutsche Litteratur kennen zu lernen, sondern bloß um ein paar
+                        Werke zu verstehen, welche im Plattenteutschen des nördlichen Teutschlands
+                        und im Dialekt der teutschen Siebenbürger geschrieben wurden! Die Litteratur
+                        der teutschen, hebraischen und syrischen Sprache verdient im Vergleich mit
+                        Litteratur vor andern orientalischen Sprachen kaum einer Erwähung, und zwar
+                        um so weniger, da die darinn vorhandenen wenigen Schriften schon hundertmal
+                        übersetzt und kommentirt wurden. Warum will man dann noch immer fortfahren,
+                        alle Theologen zu neuen Exegeten derselben zu machen? Warum wollen wir auf
+                        einem [<note type="comment" place="bottom"><p> Durch Bindung in ein Buch
+                                wenige Buchstaben nicht lesbar.</p></note>]ren Boden wilde
+                            Wicken<note type="comment" place="bottom"><p> Die Wicken (Vicia) sind
+                                eine Pflanzengattung in der Unterfamilie Schmetterlingsblütler
+                                (Faboideae) innerhalb der Familie der Hülsenfrüchtler (Fabaceae).
+                                Die etwa 160 Arten kommen hauptsächlich in den nördlichen gemäßigten
+                                Gebieten vor; (<hi rend="italic">Wikipedia</hi>).</p></note>
+                        sammeln, da uns näher ein reiches W[eiz]enfeld zu seiner Erndte
+                            einladet?<note type="comment" place="bottom"><p> Fußnote von
+                                    <persName>Seetzen</persName>: <hi rend="italic">„Vielleicht
+                                    verdienten die spätern Werke hebraischer Schriftsteller
+                                </hi>[durch Bindung wenige Buchstaben nicht lesbar]<hi rend="italic">mel der Dichter, Efraimo</hi>
+                                <persName>Luzzato</persName><hi rend="italic">, Immanuel
+                                    </hi><persName>Romano</persName><hi rend="italic">,
+                                    </hi><persName>Zacutti</persName>, [durch Bindung in ein Buch
+                                wenige Buchstaben nicht lesbar]<hi rend="italic">se
+                                    </hi><persName>Luzzato</persName>
+                                <hi rend="italic">u.s.w., deren der gelehrte Samuel
+                                    </hi><persName>Romanelli</persName><hi rend="italic"> in einer
+                                    hebraischen Grammatik Erwähnung that, ein näheres Studium.“</hi>
+                                – Samuel Romanelli, <hi rend="italic">Grammatica ragionata italiana
+                                    ed Ebraica con trattato, ed esempi di poesia, Trieste 1799</hi>;
+                                    <ref target="https://books.google.at/books?id=-_N1Dt7pSvMC&amp;pg=PP214&amp;dq=romanelli+grammatica&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjsseyWvvDkAhVPqaQKHdFcBvQQ6AEIQjAD#v=onepage&amp;q&amp;f=false"><hi style="font-size:8pt">https://books.google.at/books?id=-_N1Dt7pSvMC&amp;pg=PP214&amp;dq=romanelli+grammatica&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjsseyWvvDkAhVPqaQKHdFcBvQQ6AEIQjAD#v=onepage&amp;q&amp;f=false</hi></ref>;
+                                    (<hi rend="italic">Wikipedia</hi>). –
+                                    <persName>Luzzatto</persName>, <persName>Ephraim</persName>
+                                (Angelo; 1729–1792), Italian Hebrew poet and physician, born in one
+                                of the earliest Jewish families who settled in San Daniele, studied
+                                medicine in Padua practisied in Padua, Trieste and Livorno, went to
+                                England, maybe in 1755, in 1779 he was appointed physician in
+                                London's Portuguese community hospital, Beth Holim.
+                                    <persName>Luzzatto </persName>was well known in the medical
+                                world of 18th-century England. He appears in a very positive light
+                                in the memoirs of John <persName>Taylor</persName>, the oculist to
+                                    <persName>George III.</persName>, he also was known for his
+                                loose way of life. His poems reflect individual experience, and are
+                                thus an innovation and a precursor of the Hebrew lyric poetry of the
+                                Haskalah; ( <hi rend="italic">Encyclopaedia Judaica 20190927</hi>).
+                                – <persName>Immanuel ben Schlomo ha-Romi</persName>, italienisch
+                                Manouello Romano oder Manoello Giudeo (1261–um 1335), gilt als der
+                                bekannteste Dichter in hebräischer Sprache aus Italien: 1328
+                                Maqamensammlung, die unter dem Titel „ <hi rend="italic">Machberot
+                                    Immanuel</hi>“ bekannt wurde, verloren ist sein Aufsatz „<hi rend="italic">Über die Erklärung der Form der Buchstaben</hi>“,
+                                erhalten sind sein Buch „<hi rend="italic">Even Bochan</hi>“ zur
+                                hebräischen Grammatik sowie zahlreiche seiner Kommentare zu
+                                biblischen Büchern und Auszüge aus seinem Kommentar zum Hohelied
+                                (Frankfurt 1908), in dem er den Geliebten als Sinnbild des aktiven
+                                Intellekts deutet. Sein „<hi rend="italic">Tophet we-Eden“</hi>
+                                („Hölle und Himmel“) ahmt bescheiden die „<hi rend="italic">Comedia“</hi> seines Zeitgenossen <persName>Dante</persName>
+                                nach, wobei der Führer durchs Jenseits in „<hi rend="italic">Tophet
+                                    we-Eden“</hi> in Gestalt des Propheten Daniel auftritt.
+                                    Während<persName> Dante</persName> im Inferno IV
+                                    <persName>Avicenna</persName> und <persName>Averroes
+                                </persName>nur namentlich nennt, wirft I<persName>mmanuel</persName>
+                                ihnen sowie <persName>Aristoteles, Galen, al-Farabi,
+                                    Plato</persName> und <persName>Hippokrates</persName> explizit
+                                Ketzereien vor; sein bekanntestes Werk ist seine Sammlung von
+                                Sonetten, die in eine Geschichte eingewoben sind. Unverkennbar sind
+                                der starke Einfluss der italienischen Umwelt, der Renaissance und
+                                insbesondere von <persName>Dante Alighieri</persName>s „<hi rend="italic">Göttlicher Komödie</hi>“. Die Dichtung ist voller
+                                Lebenslust, scharfer Ironie und drastischer Erotik. Bereits im
+                                15. Jh wurde daher ihr Druck verboten, und im „<hi rend="italic">Schulchan Aruch“</hi> sprach sich Josef
+                                    <persName>Karo</persName> in aller Schärfe gegen
+                                    <persName>Immanuel</persName> und seine Dichtung aus; (<hi rend="italic">Wikipedia</hi>). – Abraham
+                                    <persName>Zacuto,</persName> auch Zacuto von Salamanca, Abraão
+                                Zacuto, eigentlich Abraham ben Schmuel Zacuth (1450–um 1510 in
+                                Damaskus) war ein sephardischer Astronom, erst an der Universität
+                                Saragossa, nach 1492 in Portugal, 1496 Flucht nach Tunis, dann in
+                                das Osmanische Reich. Er entwickelte Planetentafeln, mit denen man
+                                die Positionen von Planeten vorausberechnen konnte; sein Schüler
+                                José <persName>Vizinho</persName> übersetzte es aus dem Hebräischen.
+                                Sein Buch „<hi rend="italic">Almanach Perpetuum</hi>“ war ein
+                                wichtiges Instrumentarium für die Seefahrt; es zählt zu den ersten
+                                vier Büchern, die in Portugal nach der Gutenberg-Methode mit
+                                beweglichen Metall-Lettern gedruckt wurden. Christoph<persName>
+                                    Kolumbus</persName>, der mit <persName>Zacuto</persName> und
+                                    <persName>Vizinho</persName> in engem Kontakt stand, benutzte
+                                lebenslang ein Exemplar. <persName>Zacuto</persName> war Rabbiner
+                                seiner Gemeinde und schrieb 1504 in Tunis „<hi rend="italic">Sefer
+                                    Hayuhasin</hi>“, eine Geschichte des Judentums von der Schöpfung
+                                bis zum Jahre 1500; (<hi rend="italic">Wikipedia</hi>).</p></note>
+                        Eine Sprache verdient nur [in]soferne eine größere Achtung, als reicher ihre
+                        Litteratur an Zahl und Gehalt ist. –</p><p>Zum fertig<note type="comment" place="bottom"><p> Gemeint ist wohl : zum
+                                korrekten Lesen.</p></note> Lesen der Manuscripte wird erfordert,
+                        daß man die verschiedenen Karaktere kennen lerne. Zu dem Ende darf in iener
+                        [An]leitung eine Tafel, worauf die wichtigsten arab[ischen] Alphabete
+                        [ne]ben einander zum Vergleich aufgestellt sind, nicht fehlen. Dahin
+                        [ge]hören 1.) das Kufische (zum Verstehen alter arab[ischer] Münzen u.s.w.)
+                        2.) [da]s maurische 3.) das Nessisch und 4.) das Talîkalphabet. [In] diesen
+                        drey letzten Karaktern sind bey weiten[sic] die meisten [ar]abischen,
+                        türkischen, persischen und aghuanischen Werke [ge]schrieben. Von den übrigen
+                        weniger wichtigern Alphabeten könne man noch etwa das Diwani hinzufügen,
+                        weil man sich dessselben häufig bey Briefen, Pässen, gerichtlichen Acten
+                        u.ös.w. [be]dient. – Was die Saussprache der arabischen Karaktere betrifft:
+                        so kann man darinn sehr kurz seyn; man setze nur zu iedem Buch[st]ab den
+                        teutschen Buchstab, der ihm entspricht oder ihm nahe [ko]mmt. Da unsere
+                        Orientalisten nicht arabisch <hi rend="underline">sprechen</hi> wollen, so
+                        ist alles Weitere, was man über die Aussprache sagen könnte, und was der
+                        sonst so hochverdiente <persName>Michaelis</persName> auf mehr als 50
+                        [Se]iten seiner Grammatik<note type="comment" place="bottom"><p> Johann
+                                David Michaelis, <hi rend="italic">Arabische Grammatik nebst einer
+                                    Arabischen Chrestomathie, und Abhandlung vom Arabischen
+                                    Geschmack, sonderlich in der poetischen und historischen
+                                    Schreibart, Göttingen 1781</hi>. – Dieses Werk ist in HP’s
+                                Auktionskatalog verzeichnet.</p></note> beybringt, ganz überflüssig.
+                        Denn, was soll der Anfänger denken, wenn er ihm das <graphic url="media/image92.png"/> [al]s ein scharfes S oder T oder Th der
+                        Engländer aussprechen lehrt? [Is]t denn dies Alles ein? Aber was liegt
+                        daran, daß unsere orientalischen Neulinge das <graphic url="media/image93.png"/> und <graphic url="media/image94.png"/> als ein
+                        Sz der unser Doppel-S. in wissen, messen u.s.w.; das ح und <graphic url="media/image95.png"/> als ein h, das خ als unser gewöhnliches
+                            […<note type="comment" place="bottom"><p> Durch Bindung in ein Buch ist
+                                der Buchstabe nicht lesbar.</p></note>] das ا und ع als ein a; das غ
+                        als unser gewöhnliches [<note type="comment" place="bottom"><p> Durch
+                                Bindung in ein Buch ist der Buchstabe nicht lesbar.</p></note>]; und
+                        ق und <graphic url="media/image96.png"/> als k aussprechen? Nur beym
+                        Sprechen [kö]nnten Missverständnisse entstehen, aber nie beym stillen Lesen
+                        in der einsamen Studierstube, wo man den gebrauchten Karakter deutlich vor
+                        sich sieht. Alles was Michaelis, dessen Grammatik ich grade vor mir habe,
+                        zur Vergleichung des Arabischen mit dem Hebraischen und Syrischen sagt, ist
+                        in unserer Anleitung ganz überflüssig. Nur das was er auf der 27t. Seite von
+                        den Kunstwörtern beybringt, deren sich vorzügl[ich] arab[ische] Geographen
+                        beym Schreiben von Ortsnamen bedienen, um iedem mögl[ichen] Irrweg
+                        vorzubeugen, dürfte nicht vergessen werden, weil sonst diese Wörter den
+                        Lesern unverständlich seyn würden. – Der Zahlwerth arabischer Buchstaben und
+                        die arabischen Zif[f]ern könnten ihren Platz auf der Alphabet-Tafel
+                        erhalten. Das was H[er]r <persName>Michaelis</persName> auf d[er] 56–59t.
+                        Seite von den Vocalen sagt, könnte vielleicht ganz ausbleiben. Denn was
+                        nützt es unsern Orientalisten, ob sie diese kennen oder nicht, da sie nie
+                        nöthig haben, sie auszusprechen, indem selbst arabische Gelehrte beym Lesen
+                        arab[ischer] prosaischer Schriften sie nie aussprechen, es sey denn, daß sie
+                        mit ihrer Sprachkunde bey Haltung von öffentlichen Vorlesungen über Exegese
+                        des Korans und der Sagen u.s.w. groß thun wollen. Man braucht also nicht El
+                        Schamsu, El Rahhmanu, Kittabu u.s.w. zu lesen, sondern El schems, El
+                        rahhman, Kittâb. – Das was S. 60 u.f. von den diakrit[ischen] Zeichen, Ton
+                        und Quantität der Silben gesagt wird, könnte größtentheils und das von der
+                        Prosodie und Metrum ganz wegbleiben; so auch das Meiste, was von den
+                        Verwechslungen und dem Quiescieren der Buchstaben auf 32 Seiten beygebracht
+                        wird.</p><p>Das schwierigste Kapitel in der ganzen arab[ischen] Grammatik ist ohne
+                        Zweifel das von den Zeitwörtern; wenigstens gestehe ich offenherzig, daß ich
+                        mich nie recht darinn habe finden können, indem Alles so ganz von dem
+                        gewohnten Gange aller europäischen Sprachen verschieden scheint. Bey diesem
+                        Kapitel muß die Kritik eines kenntnisvollen und gründlichen Orientalisten
+                        entscheiden, was davon für unsere Anleitung wegbleiben kann, weil es sich
+                        etwa aus dem Gebrauch lei[cht] erlernen lässt, und was durchaus beybehalten
+                        werden [muss<note type="comment" place="bottom"><p> Durch Bindung in ein
+                                Buch ein kurzes Wort nicht lesbar.</p></note>].</p><p>Mir fiel es immer auf, daß man sagte, die Araber kennt[en] keinen Praesens,
+                        und daß ich sie dennoch alle Augenbl[ic]ke in Praesens sprechen hörte, und
+                        dann daß man immer mit der Wurzel eines Zeitworts, der dritten männlichen
+                        Person in Singulari das Praeteritum zu conjungiren anfing. Da wir bey allen
+                        europäischen Sprachen auch eine Wurzel des Zeitworts, den Infinitiv, haben,
+                        aber dennoch nie damit, sondern mit der ersten Person des Praesens, zu
+                        conjungiren anfangen: so weiß ich nicht, warum wir uns bey Erlernung der
+                        arabischen Sprache nicht an diese Form, an diese Vorstellung halten wollen,
+                        wodurch wir zwar nicht im Geiste der Araber die Sprache erlernen, aber gewiß
+                        schneller unsern Zweck erreichen würden. Unterdessen ist in unser Verfahren,
+                        wo Alles mit dem Ich angefangen wird, und wo man das Universum um die Axe
+                        des Ich drehen lassen würde, wenn man es vermöchte, so ganz der menschlichen
+                        Natur angemessen, daß man, däucht mir, sich keinen Augenblick an Bedenken
+                        nöthig hätte, welcher von beiden Methoden man den Vorrang einräumen wolle. –
+                        Noch einmal, bey diesem Kapitel ist das kritische Auge eines gewiegten
+                        Kenners erforderlich, eben so wie bey der Declination, den Vorwörtern,
+                        Partikels u.s.w.</p><p>Was die Syntax betrifft, und die Dialekte: so däucht mir könnte das erstere
+                        Kapitel größtentheils wegbleiben und das letzte ganz.</p><p>Ich bitte Sie indessen, das Gesagte nichts als einen allgemeinen Tadel der
+                        unsterblichen Verdienste des H[er]rn <persName>Michaelis</persName>
+                        anzusehen, sondern für weiter fortgerückte Orientalisten seine Grammatik
+                        eine sehr belehrende Lektüre darbieten wird; ich spreche hier aber von einer
+                        zweckmässigen Anleitung für Anfänger, bey welchen man sich hüten muß, ihnen
+                        durch ein fremdes ganz ungewohntes Verfahren und durch eine gar zu große
+                        Weitläuftigkeit, eine Abneigung für eine Sprache einzuflößen, von deren
+                        fertiger Erlernung sie einst so viele reiche Früchte zu erwarten haben.</p><p>H[er]rn <persName>de Sacy’</persName>s Chrestomatie<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Chrestomathie arabe, ou extraits de divers
+                                    écrivains arabes: tant en prose qu’ en vers, à l'usage des
+                                    élèves de l'École spéciale des Langues Orientales vivantes, 3
+                                    Bde., Paris: 1806; 2. Aufl. 1826 Paris</hi>.</p></note> ist, wie
+                        sich von einem solchen Kenner erwarten ließ, mit Umsicht und Geschmack
+                        gesammelt. Kann man diese in Teutschland überall zu einem billigen Preise
+                        erhalten: so könnte man sich immer damit begnügen. Ist dies aber nicht der
+                        Fall: so wünsche ich, daß es Niemanden einfiele<note type="comment" place="bottom"><p> A: einfälle</p></note>, sie in Teutschland
+                        nachdrucken zu lassen; sondern daß sich ein teutscher Orientalist
+                        entschließe, nach gleichem Plane eine neue Chrestomathie zu sammeln, worinn
+                        alle Auszüge von den in <persName>de Sacy</persName>’s seiner verschieden
+                        wären. Bey dem ietzigen Vorrath von arab[ischen] M[anu]s[krip]t[en] in
+                        Teutschland müsste es für einen Kenner nicht schwer halten, eine solche
+                        geschmackvolle Sammlung zu veranstalten, welche nicht theurer kommen würde,
+                        als ein Nachdruck der <persName>de Sacy</persName>’schen und welche zugleich
+                        den Vortheil hätte, daß so mehrere wichtige Nachrichten, aus arab[ischen]
+                        Schriftstellern gezogen, durch den Druck bekannt würden. Ich hoffe, daß
+                        Niemand auf den Gedanken kommen werde, Auszüge aus dem Koran darinn zu
+                        suchen; dieser ist schon häufiger übersetzt, als er im Vergleich mit dem
+                        Werth von tausend andern arabischen Schriften verdient hätte; spare man in
+                        Zukunft seinen Fleiß, seine Kenntnisse für andere Werke auf, wo man reichere
+                        und gesundere Früchte erwarten kann.</p><p> a ich einmal beym Wünschen bin: so erlauben Sie mir noch den Wunsch, daß uns
+                        einst, aber bald, ein Teutscher, welcher das Arabische gründlich und seine
+                        Muttersprache noch besser versteht, mit einem arabisch-teutschen Wörterbuch
+                        beschenkte. Bey kleinem und dichtem, obgleich deutlichem Druck auf schönem
+                        weißen Papier, wären, so dünkt mich, zwey ziemlich starke Bände in gr. 8
+                        ausreichend, um alle Wörter zu fassen, die <persName>Golius</persName><note type="comment" place="bottom"><p> Jacobus Golius, <hi rend="italic">Lexicon Arabico-Latinum, Leiden 1653</hi> – nicht in HP’s
+                                Auktionskatalog verzeichnet – liegt aber in der Bibliothek in
+                                Hainfeld (leider in sehr unsachgemäßer, ja irreführender
+                                „Restaurierung” nach Beschädigung, wohl 1945) auf dem
+                            Tisch.</p></note> hat. Vielleicht wirft man mir ein, daß ein solches
+                        Werk ganz überflüssig sey, so lange man noch immer ein so klassisches Werk
+                        als Golius seines haben könne. Allein, man weiß, daß die Exemplare davon
+                        immer seltener und kostbarer werden. Zudem ist es auch etymologisch
+                        geordnet, und diese Ordnung ist gewiß der ganz alphabetischen weit
+                        nachzusetzen. Alle anderen europäischen etymolog[ischen] Wörterbücher sind
+                        schon seit lange nicht mehr im Gebrauch. Denn was kümmert es einem
+                        Übersetzer, wenn er ein Wort sucht, von welcher Wurzel es herkomme; er will
+                        in dem Augenblick nur ein gleichbedeutendes Wort in unserer Sprache haben,
+                        und es ermüdet ihn und macht ihn [auc]h wohl verdrießlich, wenn er dasselbe
+                        auf einer oder mehreren Kolonnen unter der Wurzel suchen muß. Man könnte in
+                            [<note type="comment" place="bottom"><p> Aufgrund der Bindung in ein
+                                Buch wenige Buchstaben nicht lesbar.</p></note>]h bey der rein
+                        alphabet[ischen] Methode bey iedem Worte seine Wurzel hinzusetzen. – Warum
+                        ich es in teutscher Sprache wünsche? Die Ursache ist folgende. Zwar lässt
+                        sich erwarten, daß ieder Studierte vertraut genug mit der lateinischen
+                        Sprache sey, [<note type="comment" place="bottom"><p> Aufgrund der Bindung
+                                ein kurzes Wort nicht lesbar.</p></note>]r in den meisten Fällen das
+                        dem Arabischen beygefügte Wort zu kennen. Allein, einmal hat das lateinische
+                        Wort öfters mehr als einen Sinn; und dann dürfte auch bisweilen der
+                        Übersetzer zu sehr mit dem Sachsinne der vorliegenen Schrift beschäftiget
+                        seyn, als daß ihm das passendste gleichbedeutende Wort sogleich beyfiele. Er
+                        sinnt und sinnt, und, bis er es endlich findet, geht oft manche Zeit
+                        vergebens verloren, statt daß er bey dem vorgeschlagenen Wörterbuch nie in
+                        eine unangenehme Verlegenheit gerathen würde. – Bey der Einrichtung eines
+                        solchen Wörterbuchs richte man sich nach den [b<note type="comment" place="bottom"><p> Aufgrund der Bindung wenige Buchstaben nicht
+                                lesbar.</p></note>]esten, die wir von europäischen Sprachen
+                        besitzen. Bey den Zeitwörtern gebe man nach der Wurzel immer das Futurum
+                        u.s.w. (vielleicht auch die Aussprache?) an; bey den Nennwörtern<note type="comment" place="bottom"><p> Substantiva.</p></note>, die in
+                        Singularis gesetzt werden, immer den Pluralis, welcher in Golius oft weit
+                        davon getrennt ist; bey den Adjectiven auch den Comparativ u[nd]
+                        Superlativ?</p><p>Doch genug und aber genug über diesen Gegenstand! Oder haben Sie noch nicht
+                        überreichen Stoff erhalten, um über mich zu lachen, und meine arabische
+                        Unkunde zu bedauern? Es ist gesagt!</p><p>---------------------------------------------------------</p><p>Der Güte des hiesigen engl[ischen] Residenten, Mr. Capit.
+                            <persName>Rudland</persName>, [ver]danke ich die Lecture einiger Bücher,
+                        welche für mich ein hohes Interesse haben. Zufälliger Weise finde ich darinn
+                        einige Stellen, welche Bezug auf etliche Gegenstände in diesem Briefe haben
+                        und welche Sie mir erlauben werden, Ihnen mitzutheilen, weil es seyn könnte,
+                        daß Sie diese Schriften grade nicht zur Hand h[ät]ten.</p><p>In Betreff der Bücherverheerungen habe ich wiederum einen [Ver<note type="comment" place="bottom"><p> Wenige Buchstaben durch Bindung nicht
+                                lesbar.</p></note>]brenner entdeckt, dessen Name mit Schande
+                        gebrandmarkt der Nachwelt aufbewahrt werden muss. Man findet eine
+                        ausführliche Nachricht von der Veranlassung dazu in den Transactions of the
+                        Asiatic Society Vol. the seventh, in dem: Account of the St. Thome
+                        Christians on the Coast of Malabar by F. Wrede, Esq<note type="comment" place="bottom"><p> Die Thomas-Christen der indischen christlichen
+                                Kirchen gehören zu den ältesten christlichen Gemeinschaften der
+                                Welt. Ursprünglich wurden die Liturgien in Aramäisch vorgetragen,
+                                heute jedoch in Malayalam; ihre Mehrheit gehört der
+                                syro-malabarischen Kirche in Kerala an; dieser Gruppe gehört auch
+                                ein protestantischer Zweig an. – <hi rend="italic">Asiatic
+                                    Researches, Bd 7, 1803, 362–380</hi>. Eine deutsche Fassung <hi rend="italic">“Über die Thomaschristen auf der Küste
+                                    Malabar“</hi>; in: <hi rend="italic">Neueste Beiträge zur Kunde
+                                    von Indien, hg von Theophil Friedrich Ermann, Weimar 1806, Kap.
+                                    VI 381–411</hi> (<ref target="https://diglib.uibk.ac.at/download/pdf/6181326">https://diglib.uibk.ac.at/download/pdf/6181326</ref>).</p></note>.
+                        Dieser Bücherherostrat war der portugiesische Erzbischof de Menezes (zu
+                            Cochin<note type="comment" place="bottom"><p> Cochin – Kochi ist eine
+                                Stadt in Kerala in äußersten Südwesten des indischen Subkontinents,
+                                lange vor allem als Sitz eines katholischen Bistums bekannt, aber
+                                auch für seine einst große jüdische Gemeinde „weißer Juden“ lebte,
+                                die eine Fassung des Pentateuchs vor der Textbereinigung besaß, was
+                                für die Erforschung des ursprünglichen Textes von Wichtigkeit
+                                war.</p></note>), welcher im Jahr 1599 alle Bücher der St.
+                        Thomaschristen verbrannte, als er sie durch gewaltsame Ueberredung mit den
+                        übrigen kathol[ischen] Christen vereinte. Man höre den Verfasser, was er in
+                        einer Note über diesen Vorfall sagt. „We<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Asiatic Researches, Bd 7, 1803,
+                            372–373</hi>.</p></note> cannot sufficiently lament the great loss which
+                        literature sustained on that occasion; for this blind and enthusiastic
+                        inquisitor, destroyed, like a second Omar, all the books written in the
+                        Syrian or Chaldæan language, which could be collected, not only at the Synod
+                        of Odiamper, but especially during his subsequent circuit; for as soon as he
+                        had entered into a Syrian Church, he ordered all their books and records to
+                        be laid before him; which, a few indifferent ones excepted, he committed to
+                        the flames; so that at present neither books nor manuscripts are any more to
+                        be found amongst the St. Thomé Christians.”</p><p>--------------------------------------------------------</p><p>In dem nämlichen Bande der Transactions finde ich [in] der Abhandlung: On the
+                        religion and manners of the people of Ceylon by Mr.
+                            <persName>Joinville</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Asiatic Researches, Bd 7, 1803, 397–444</hi>, und
+                                    <hi rend="italic">“On the Religion and Manners of the People of
+                                    Ceylon”, 1801.</hi></p></note>, ein Verzeichnis von
+                        Singalesischen Schriften angegeben, und da es nützlich seyn könnte, nach und
+                        nach die in verschiedenen europ[äischen] Werken angeführten [<note type="comment" place="bottom"><p> Durch Bindung in ein Buch wenige
+                                Buchstaben nicht lesbar.</p></note>] Seit dem ich einige
+                        Aufmerksamkeit auf den Gegenstand der Bücherverheerungen verwandte, finde
+                        ich sie – leider! – nur gar zu sehr [be]lohnt. Hören Sie folgende
+                        Geschichte, welche sich in Indien zutrug. [Zw]ar scheint sie noch nicht ganz
+                        aufgehellt zu seyn; aber dies wird gewiß geschehen, wenn die Engländer in
+                        Indien erst anfangen werden, die indischen Geschichtbücher mehr zu
+                        studieren, welches bisher, wie mir deucht, etwas vernachlässiget wurde. Die
+                        Religionen der verschiedenen indischen Sekten und indischen Sprachen sind
+                        die Lieblingsgegenstände, welche von ihnen behandelt werden. Freylich sind
+                        diese auch von dem größten Interesse und letztere ganz unentbehrlich.
+                        Nichtsdestoweniger scheint es mir, daß es ihnen in Hinsicht der Litteratur
+                        an einem allgemeinen Blick fehle, und ein Werk, über die indische
+                        Litteratur, wie das Ihrige über die arabische, bleibt noch immer ein
+                        dringendes Bedürfniß. Ein Volk, welches allein über die Sprachwissenschaften
+                        eine fast zahllose Menge von Schriften hat, sollte die übrigen Fächer seiner
+                        Litteratur leer gelassen haben? Dies lässt sich schwerlich erwarten, und es
+                        bedarf nur eines fleissigen und unermüdeten Sammlers, um uns vom Gegentheil
+                        zu überzeugen. Möchte dies bald geschehen!!</p><p>Die erwähnte Geschichte findet sich in den Transaction of the Asiatick
+                            Society<note type="comment" place="bottom"><p> Anmerkung von
+                                    <persName>Seetzen</persName>: <hi rend="italic">„Vol VII. p.
+                                    214. In einer Abhandlung: On the Sanscrit and Pracrit languages,
+                                    von dem um die indische Litteratur sehr verdienten Mr.
+                                    </hi><persName>Colebrooke</persName><hi rend="italic">.“</hi></p></note><hi rend="superscript">,</hi><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Asiatic Researches, Bd 7, 1803,
+                            199–231</hi>.</p></note> „The best and most esteemed vocabulary is the
+                        Amera cósha. Even the bigotry of Sancar Achárya spared this, when he
+                        proscribed the other works of <persName>Amera Sinha </persName>–
+                            <persName>Amer-Sinh</persName> was an eminent poet and one of the nine
+                        gems (for so these poets were called), who were the ornament of
+                            Vicrama-Ditya’s<note type="comment" place="bottom"><p>
+                                <persName>Vicramaditya</persName> ist der Name eines mythischen
+                                indischen Herrschers, der in der indischen Literatur eine bedeutende
+                                Stellung einnimmt, was auch dadurch unterstrichen wird, dass der
+                                erste indische Flugzeugträger diesen Namen trägt. </p></note> court.
+                        Unfortunately he held the tenets of a heterodox sect; and his poems are said
+                        to have perished in <hi rend="underline">the persecutions formented by
+                            intolerant philosophers against the persons and writings of both
+                            Jainas</hi><note type="comment" place="bottom"><p> Der Jainismus ist
+                                eine transtheistische Religion, die dem Ideal der Nichtverletzung
+                                von Lebewesen – Tieren wie Pflanzen – folgt; sie dürfte spätestens
+                                im 6. bis 5. Jh. vChr. entstanden sein und sieht den Gang der Welt
+                                in Zeitaltern des Aufstiegs und des Abstiegs in ewiger Abfolge,
+                                wobei in jeder dieser Epochen 24 Tirthankaras („Furtbereiter“) als
+                                Führer und Mittler zwischen der materiellen und der spirituellen
+                                Welt auftreten. </p></note><hi rend="underline"> and
+                            Baudd’has</hi><note type="comment" place="bottom"><p> Dies fasst die
+                                zahlreichen Varianten des Buddhismus zusammen.</p></note>. The
+                        persecution instigated by <persName>Sancara</persName> and <persName>Udayan
+                            A`cha’rya</persName>, were enforced, perhaps from political motives, by
+                        princes of the Vaisbn’ava and Sàiva sects, who compelled the Baudd’ha
+                        monarchs to retire from Hindustàn, and to content themselves with their
+                        dominions of Lásat’a<note type="comment" place="bottom"><p> Vermutlich wohl
+                                Lhasa.</p></note> and Bhótha. It would be curious to investigate the
+                        date of this important revolution. The present conjecture, for it is little
+                        more than mere conjecture, is partly founded upon some acknowledgments made
+                        by Pandits, who confess that <hi rend="underline">Sancara</hi> and <hi rend="underline">Udayana</hi> persecuted the heterodox sects and <hi rend="underline">proscribed their books</hi>; and partly on the evidence
+                        of the engraved plate found at Mudgagirir; and of the inscription on the
+                        pillar found at Bedál (see Asiat[ick] Research I. p. 123 &amp; 133), from
+                        which it appears, that Devapala Deva belonged to the sect of Buddha; and
+                        that he reigned over Bengal and Carnata as well as Lasat and Bhot; and had
+                        successfully invaded Camboja<note type="comment" place="bottom"><p>
+                                Kambodscha.</p></note>, after traversing as a conqueror the Vindhya
+                            range<note type="comment" place="bottom"><p> Das Vindhyagebirge
+                                (maximale Höhe 850 m) erstreckt sich von der Westküste Indiens
+                                südlich von Karatschi bis zur östlichen Gangesebene.</p></note> of
+                        mountains. His descendants, as far as the fourth generation, governed a no
+                        less extenfive empire; as appears from the inscription on the pillar at
+                        Bedal. I must however acknowledge, that this last mentioned inscription does
+                        not indicate any attachment to the sect of Buddha. This may be accounted for
+                        by supposing that the worshippers of Crishna and of Rama were then as
+                        cordial to the followers of Buddha, as they now are towards each other. The
+                        king and his minister might belong to different sects.</p><p><persName>Amera</persName> is mentioned in an inscription at Buddha gaya as
+                        the founder of a temple at that place. (Asiat[ic] Research I. p. 284). This
+                        circumstance may serve to explain why his works have been proscribed with
+                        peculiar inveteracy, as it is acknowledged by many Pandits that they have
+                        been. He was probably a zealous sectarist. – This is, however, by no means
+                        certain: and Bhanuji Dischita, in his commentary on the Amera cósha, denies
+                        that there is any evidence to prove that the author belonged to the sect of
+                            Jainas.”<note type="comment" place="bottom"><p> Übersetzung: „Das beste
+                                und am meisten geschätzte Vokabular ist das Amera cósha. Sogar die
+                                Bigotterie von Sancar Achárya ersparte dies, als er die anderen
+                                Werke von <persName>Amera Sinha </persName>verbot –
+                                    <persName>Amer-Sinh</persName> war ein bedeutender Dichter und
+                                eines der neun Juwelen (denn so wurden diese Dichter genannt), die
+                                die Zierde des Hofes von Vicrama-Ditya waren. Unglücklicherweise
+                                vertrat er die Grundsätze einer heterodoxen Sekte; und seine
+                                Gedichte sollen in den Verfolgungen untergegangen sein, die von <hi rend="underline">intoleranten Philosophen gegen die Personen und
+                                    Schriften sowohl von Jainas als auch von Baudd'has geführt</hi>
+                                wurden. Die von <persName rend="underline">Sancara</persName> und
+                                    <persName rend="underline">Udayan A'cha'rya</persName>
+                                angezettelten Verfolgungen wurden, vielleicht aus politischen
+                                Motiven, von Fürsten der Vaisbn'ava- und Sàiva-Sekten durchgesetzt,
+                                die die Baudd'ha-Monarchen zwangen, sich aus Hindustàn
+                                zurückzuziehen und sich mit ihren Herrschaftsgebieten Lásat'a und
+                                Bhótha zu begnügen. Es wäre merkwürdig [„des Merkens würdig“], das
+                                Datum dieser wichtigen Revolution zu untersuchen. Die gegenwärtige
+                                Vermuthung, denn sie ist kaum mehr als eine bloße Vermutung, beruht
+                                zum Teil auf einigen Eingeständnissen der Pandits, die gestehen, daß
+                                    <hi rend="underline">Sancara</hi> und <hi rend="underline">Udayana</hi> die heterodoxen Sekten verfolgten und <hi rend="underline">ihre Bücher verboten</hi>, und zum Teil auf den
+                                Beweisen der in Mudgagirir gefundenen gravierten Platte und der
+                                Inschrift auf der Säule, die in Bedál gefunden wurde (s. Asiat[ick]
+                                Research I. p. 123 &amp; 133). woraus hervorgeht, dass Devapala Deva
+                                der Sekte Buddhas angehörte; und dass er über Bengalen und Carnata
+                                sowie über Lasat und Bhot herrschte; und war erfolgreich in
+                                Kambodscha eingefallen, nachdem er als Eroberer das Vindhya-Gebirge
+                                durchquert hatte. Seine Nachkommen regierten bis in die vierte
+                                Generation hinein ein nicht minder ausgedehntes Reich; wie aus der
+                                Inschrift auf der Säule von Bedal hervorgeht. Ich muss jedoch
+                                zugeben, dass diese letztgenannte Inschrift keine Verbundenheit mit
+                                der Sekte Buddhas erkennen lässt. Dies kann erklärt werden, wenn man
+                                annimmt, dass die Verehrer von Crishna und Rama damals den Anhängern
+                                Buddhas gegenüber so herzlich waren, wie sie es jetzt untereinander
+                                sind. Der König und sein Minister könnten verschiedenen Sekten
+                                angehören.</p><p><persName>Amera</persName> wird in einer Inschrift
+                                in Buddha Gaya als Gründer eines Tempels an diesem Ort erwähnt.
+                                (Asiatische Forschung, I. S. 284). Dieser Umstand mag dazu dienen,
+                                zu erklären, warum seine Werke mit eigentümlicher Strenge verboten
+                                worden sind, wie es von vielen Pandits anerkannt wird.
+                                Wahrscheinlich war er ein eifriger Sektarist. – Dies ist jedoch
+                                keineswegs sicher, und Bhanuji Dischita bestreitet in seinem
+                                Kommentar zur Amera cósha, dass es irgendeinen Beweis dafür gibt,
+                                dass der Verfasser der Sekte der Jainas angehörte“.</p></note></p><p>Ich wiederhole meine ergebenste Bitte, doch in auf diesen bisher
+                        vernachlässigten Gegenstand bey Ihrer Lektüre aufmerksam zu seyn. Ohne
+                        Zweifel findet man in den Werken, welche die Litteratur behandeln, in der
+                        Geschichte der Philosophie und der Religionen, so wie [in] andern Sammlungen
+                        mehrere Daten zerstreut. Diese zu sammeln und in einem Gemälde aufzustellen,
+                        würde eines der grössten litterarischen Verdienste seyn, und kein einziges
+                        historisches Gemälde würde dem Philosophen ein grösseres Interesse
+                        einzuflüssen vermögen, als ein solcher diese [fa<note type="comment" place="bottom"><p> Wenige Buchstaben wegen der Bindung nicht
+                            lesbar.</p></note>]natische Sucht der Bücherverheerungen ist der grösste
+                        und gefährlichste Feind, womit die Kultur unsers Geschlechts und
+                        menschliches Wissen zu kämpfen hat, und ihren Quellen nachzuspüren oder sie
+                        aufgedeckt zu sehen, ist gewiss der sehnlichste Wunsch aller Weltbürger und
+                        Menschenfreunde. Was wird ein solches Gemälde schrecklich seyn; aber, der
+                        Biene gleich, lassen Sie uns aus giftigen Blumen süssen und wohlthätigen
+                        Honig saugen! Revolutionen der Natur, welche dem ganzen Aeussern unsers
+                        Planeten eine andere Form geben, vermag der Mensch nicht zu widerstehen,
+                        noch ihnen vorzubeugen. Doch die Natur ist gütiger, als ein Ungeheuer, im
+                        Schooße des menschlichen Geschlechtes erzeugt. Schon partikuläre
+                        Erdkatastrophen sind selten; unendlich seltener sind es die allgemeinen.
+                        Wenn wir auch bey diesen nur unsere Schwäche nicht verhehlen können: so
+                        sollten wir uns doch stark genug fühlen, ienem Giftstrome des Fanatism zu
+                        widerstehen, und wir sollten auf Mittel bedacht seyn, seine verderblichen
+                        Aushauchungen durch die Leidenschaft der Philosophie auf ewig unschädlich zu
+                        machen.</p><p>Auf meiner Rückreise von Medina nach Dschidda hatten wir, außer Indern,
+                        Afrikanern, Persern u.s.w. auch einen Aghuân<note type="comment" place="bottom"><p> Ein Individuum aus der Ethnie der kaukasischen
+                                Ahwank, Aghwank(der altarmenische Name) bzw. Aluank, dem antiken
+                                kaukasischen „Albania“ situiert südlich des östlichen Kaukasus mit
+                                nur einem schmalen Korridor an das Westufer der Kaspischen See
+                                reichend. </p></note> in unserer Kjarvane. Er schien ein offener
+                        Kopf zu seyn, und es fehlte ihm nicht an theologischen Kenntnissen. Er
+                        machte gewöhnlich unsern Imâm beym Gebet, weil er, so wie mehrere [in]
+                        unserer Gesellschaft, Schâffaist<note type="comment" place="bottom"><p> Die
+                                großen, einander oft bekämpfenden Gruppierungen des Islam bestande
+                                meist aus einer Vielzahl kleinerer Strukturen, die mitunter auf der
+                                Dominanz einzelner Geistlicher beruhten.</p></note> war. Er rechnete
+                        sich zu den Sleinija, welche arabischer Abkunft zu seyn vorgeben, und
+                        zwischen Indien und Persien wohnen. „Unser großer Sultân, sagte er mir,
+                        residiert in Kabûl, und Kachmîr, Kandahâr und Sind sind ihm unterworfen.
+                        Unsere Sprache (d[as] Aghmenische) ist schwer; sie wird aber in einem sehr
+                        weitläuftigen Gebiete gesprochen. In ihr <hi rend="underline">haben wir
+                            viele relig[iöse], iuristische </hi>und <hi rend="underline">poetische
+                            Werke geschrieben.</hi> Von Kaschmîr erhalten wir das beste Papier. Alle
+                        Aghuân sind Sunniten nach Imâm <graphic url="media/image98.png"/>
+                        <graphic url="media/image99.png"/> Lehrsätzen. Bey uns ist der Islâm noch
+                        recht in seiner Blüthe und unverfälscht, und ich kann Ihnen versichern, daß
+                        Schiiten, diese Ketzer, öfters heimlich bey uns aus dem Wege geräumt
+                        werden.“ Abd el Szommed, so hieß dieser Aghuân, war, wie [Sie] sehen, ein
+                        Zelot. Er rühmte sich, in Bagdad einen Juden und dessen ganze Familie zum
+                        Islâm bekehrt zu haben; der Jude erhielt 200 Piaster zum Geschenk von dem
+                        dortigen Pascha. Ich sah ihn zur Zeit der Hadsch und nachher in Mekka, von
+                        wo er willens [war], nach Kahira und Damask zu reisen, und in diesen beiden,
+                        ihrer [Ge]lehrten wegen berühmten Städten seine Studien fortzusetzen. [Er]
+                        mochte ietzt etliche 30 Jahre alt seyn.</p><p>Habe ich Ihnen bereits den Hafen Antar genannt? Auf der Fahrt von Sues nach
+                            El-Jambo<note type="comment" place="bottom"><p> Yanbu al-Bahr, auch
+                                Yambo oder Yenbu ist ein bedeutender Hafen am Roten Meer, etwa 350
+                                km nördlich von Dschidda; (<hi rend="italic">Wikipedia</hi>).</p></note> fuhren wir den 7. Aug[ust] Istabel Antar
+                        vorbei und legten den 8. Aug[ust] in dem schönen Hafen von Antar (Mürssy
+                        Antar) vor Anker. </p><p>In <persName>Scherîf Edrî</persName>s Geographie finde ich folgende Nachricht
+                        im Abschnitt des dritten Klima’s: „die Stämme Szanhadscha und Lemthane
+                        stammen von Szanhadscha und Lemtha, zwey leiblichen Brüdern, ab, deren
+                        Vorfahren Hamjariten waren. Jene beiden Stämme verschwägerten sich aber in
+                        der Folge so sehr mit den Berbern, dass sie mit diesen ein Volk ausmachten.“
+                        – Gehörten diese Hamjariten zu den Beni Helál, oder fand diese Auswanderung
+                        vor der Begründung des Islam statt?<note type="comment" place="bottom"><p>
+                                Vgl. hiezu Wikipedia s.v. Banu Hilal.</p></note></p><p>In Aden sagte man, der Bîr maâthle u.s.w. sey daselbst Scherif Edris
+                        versichert: <graphic url="media/image100.png"/>
+                        <graphic url="media/image101.png"/>. Soll man nun noch den Hadramutern
+                        glauben?</p><p>Ein Buchhändler in Medina versicherte mir, man habe dem berühmten
+                            <persName>Dschelâl el Siuthy</persName><note type="comment" place="bottom"><p>
+                                <persName>Dschalāl ad-Dīn Abū l-Fadl ʿAbd ar-Rahmān ibn Abī Bakr
+                                    al-Chudairī as-Suyūtī</persName> (1445–1505) war einer der
+                                produktivsten und vielseitigsten muslimischen Gelehrten in Ägypten
+                                während der Mamlukenzeit. 1496 ernannte ihn der abbasidische Kalif
+                                von Kairo kurzzeitig zum obersten Qādī aller islamischen Länder. Die
+                                mehr als 500 von <persName>as-Suyūtī</persName> verfassten Schriften
+                                betreffen so unterschiedliche Bereiche wie Recht, arabische
+                                Sprachlehre, Sufismus, Geschichte und Adab. Die Beschäftigung mit
+                                Philosophie, Logik und Kalām hielt as-Suyūtī hingegen für verboten;
+                                    (<hi rend="italic">Wikipedia</hi>).</p></note> die Berechnung
+                        gemacht, er habe so viel geschrieben, daß davon auf ieden Tag seines Lebens
+                        drey Hefte (Kerrâs, wovon ieder beständig aus 10 Blättern besteht), also 30
+                        Blätter zu rechnen seyen. Ich zweifle daran, daß Europa einen
+                        polyhistorischen Vielschreiber aufzuweisen habe, dessen Fleiß mit dem Fleiße
+                        dieses Egypters zu vergleichen wäre, und der in der That unglaublich ist,
+                        wenn man nicht voraussetzt, daß er Kopisten besoldete.</p><p>In Lahôr<note type="comment" place="bottom"><p> Lahore.</p></note> soll man
+                        die schönsten Korane verfertigen, deren Schrift die persischen Korane an
+                        Deutlichkeit und Eleganz übertreffen. [<note type="comment" place="bottom"><p> Ein kurzes Wort wegen Bindung in ein Buch nicht
+                            lesbar.</p></note>] sagte mir mein indischer Reisefreund <persName>Abd
+                            el Kerîm</persName>, aus der Gegend von Surrat<note type="comment" place="bottom"><p> Surat liegt etwa 250 km nördlich von Bombay nahe an
+                                der Küste .</p></note>.</p><p> ch weiß nicht, ob ich Ihnen bereits in einem meiner frühern Briefe Nachricht
+                        gegeben, daß ein vor einem[sic] paar Jahren zu Damask verstorbener gelehrter
+                        Jesuit, dessen Name mir nicht beyfällt, eine Grammatik, ein Wörterbuch und,
+                        wo mir recht ist, auch ein Lesebuch zum Behufe des Vulgär-Arabischen
+                        verfasset habe. Sein ganzer Nachlaß fiel in die Hände des Paters und
+                        Missionnairs <persName>Gandolfy</persName><note type="comment" place="bottom"><p> Der katholische Bischof
+                                <persName>Gandolfi</persName>, päpstlicher Legat für die Katholiken
+                                des Orients.</p></note> vom Orden der Piaristen, gebürtig von Turin,
+                        welcher sein Kloster zu Antura auf dem Gebirge hat, der sich aber gewöhnlich
+                        beym <persName>Emîr Beschîr</persName><note type="comment" place="bottom"><p> Drusischer Prinz.</p></note> zu [Dej]er el Kammar<note type="comment" place="bottom"><p> Dejer Elkamer – Deïr el Kamer
+                                („Mondkloster“), früher Hauptort der Drusen in Syrien, jetzt
+                                Hauptort des Ejalets Dschebeli Libnan, liegt 960 Meter ü.M., am
+                                Abhang des Libanon, und bietet mit seinen weißen, an den steilen
+                                Felswänden stehenden und von mächtigen Felsen überhangenen Häusern
+                                und den auf Terrassen angelegten Gärten einen überaus malerischen
+                                Anblick. Die Bewohner (Drusen, Maroniten, Juden), etwa 8000 an Zahl,
+                                betreiben Weinbau und Seidenzucht und sind hauptsächlich durch
+                                Verfertigung der mit Gold und Silber durchwebten seidenen Abas
+                                (Abayehs), welche die Drusenscheichs tragen, reich geworden. Im Jahr
+                                1860 war D. Schauplatz einer gräulichen Christenniedermetzelung. Auf
+                                der gegenüberliegenden Thalwand das große Schloß Bteddin, Sitz des
+                                christlichen Pascha’s des Libanon; (<hi rend="italic">Meyers
+                                    Konversationslexikon, 5. Band, 1875, S. 67</hi>).</p></note>
+                        aufhält, weil er bey diesem Fürsten sehr gut angeschrieben ist. Es würde ein
+                        nicht geringer Gewinn für das arabische Sprachstudium in Europa seyn, wenn
+                        man diese mit Fleiß gearbeiteten Werke erhalten könnte, und dies ist der
+                        Grund, warum ich Sie darauf aufmerksam mache. Vielleicht kennen Sie gar
+                        Pat[er] <persName>Gandolfy</persName> persönlich, und wäre dies auch nicht,
+                        so glaube ich, daß Sie diese Schriften durch den <persName>Emîr
+                            Beschîr</persName> oder durch M<hi rend="superscript">r</hi>
+                        <persName>Barker</persName>, engl[ischer] Consul in Halep, erhalten könnten.
+                        Auch als Mitarbeiter an den Minen<note type="comment" place="bottom"><p>
+                                HP’s <hi rend="italic">Fundgruben des Orients</hi>.</p></note> würde
+                        Pater <persName>Gandolfy</persName> nützlich seyn, wenn er anders Sinn für
+                        litterar[ische] Arbeiten hat. – Vergessen Sie doch ja nicht H[er]rn Basilius
+                            <persName>Facher</persName>, Kaufmann und französ[ischer] Viceconsul in
+                            Damiat<note type="comment" place="bottom"><p> In Algerien.</p></note>;
+                        dies ist einer der achtungswürdigsten und fleissigsten Bergwerksleuten,
+                        welcher sich das seltene Verdienst erwirkt, europäische Werke in die
+                        Arabische Sprache überzutragen.</p><p>Ich ne[h]me mir die Freyheit, das Pacquet an H[er]rn Kammerrat
+                            <persName>v[on] Lindenau</persName> in dem Ihrigen einzuschließen,
+                        überzeugt, daß es alsdann nur richtig an den Ort seiner Bestimmung gelangen
+                        könne, und ich ersuche Sie ergebenst, dahin zu sehen, daß es sicher und
+                        geschwinde von Wien nach Gotha gelange.</p><closer><dateline><hi rend="underline">d. 28. Nov.</hi></dateline></closer><postscript>
+                        <p>Ich hoffe innerhalb wenig Tagen von hier nach Szannâ<note type="comment" place="bottom"><p> Sanaa, die Hauptstadt des Jemen.</p></note>
+                            u.s.w. abzureisen. Schon habe ich mir ein paar hiesige bürlicherliche
+                            Reitpferde, d.h. Esel, zur Reise kaufen lassen; ein junger nicht
+                            ungeschickter Mochaner<note type="comment" place="bottom"><p> Aus Mocha,
+                                    Mokka stammend.</p></note> ist zu meiner Begleitung angenommen,
+                            und wenn er meinen Wünschen entspricht: so wird das Publikum eine
+                            Reisebeschreibung von ihm zu erwarten haben, wie mir mein voriger
+                            Gefährte Scheich Hamse lieferte. Ich befinde mich ietzt sehr w[ohl] und
+                            die Witterung ist fürtrefflich. Vielleicht sind 5–[6] Monaten bis zu
+                            meiner Rückkunft nach Mocha erforderlich, da ich alsdann nicht
+                            unterlassen werde, Ihnen m[einen] Fund in dem Taratrus Bîr Berhût, in
+                            den Sprach[en<note type="comment" place="bottom"><p> Wenige Buchstaben
+                                    durch Bindung in ein Buch nicht lesbar.</p></note>] von
+                                Mahra<note type="comment" place="bottom"><p> Besser: das 1549
+                                    gegründete Sultanat Mahra von Qischn und Sokotra an der Südküste
+                                    Arabiens, im Osten an Oman grenzend, ab 1886 britisches
+                                    Protektorat, dann ab 1967 Teil des Jemen.</p></note> und in den
+                            Goldgruben von Ophir<note type="comment" place="bottom"><p> Das Land
+                                    Ophir oder auch Ofir ist ein Goldland in der Hebräischen Bibel.
+                                    König <persName>Salomo</persName> soll von dort sein Gold geholt
+                                    haben. Ophir wird oft mit dem aus ägyptischen Quellen bekannten
+                                    Goldland Punt in Zusammenhang gebracht; die Lage ist nicht näher
+                                    bestimmbar als im Süden des Roten Meeres gelegen. </p></note>
+                            mitzutheilen. <salute>Das Andenken an Sie wird überall begleiten Ihren
+                                ganz ergebensten Diener</salute></p>
+                    </postscript><closer><signed>U.J. <persName>Seetzen.</persName></signed></closer><postscript>
+                        <p>Meine ergebensten und besten Empfehlungen d[em] H[er]rn Graf
+                                <persName>v[on] Rzewusky</persName>, und Ihren übrigen H[er]rn
+                            Mitarbeitern, so wie den verdienstvollen H[er]rn Prof.
+                                <persName>Bürg</persName><note type="comment" place="bottom"><p> Der
+                                    auch bei <persName>Zach</persName> ausgebildete und wohl von
+                                    daher <persName>Seetzen</persName> persönlich bekannte Wiener
+                                    Astronom Tobias <persName>Bürg</persName>.</p></note> u.s.w.</p>
+                    </postscript><p>Da Ihre Briefe immer richtig an mich gelangen: so h[offe] ich sehr,
+                        ununterbrochen damit fortzufahren, [wenn<note type="comment" place="bottom"><p> Ein kurzes Wort wegen der Bindung in ein Buch nicht
+                            lesbar.</p></note>]Sie auch nicht immer sogleich Antwort darauf
+                        erhielten, weil es einem Reisenden in diesen Gegenden nicht immer mögl[ich]
+                        ist, sogleich zu antworten.</p></div></body></text></TEI>

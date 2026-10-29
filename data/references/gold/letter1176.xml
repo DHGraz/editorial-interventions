@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1176"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Paris 29 Décembre 1810</dateline></opener><p><salute>Il y a aujourd´hui huit jours, Monsieur et cher ami,</salute> que
+                        j´ai remis à l´ambassade deux paquets pour vous. L´un, numeroté 1, contient
+                        ma traduction du Pend-namèh d´Attar avec un avertissement, et la vie d´Attar
+                        extraite du تذكرة الشعرا<note type="comment" place="bottom"><p> [taḏkara<hi rend="superscript">t</hi> aš- šuˁarā] [sic]: „Merkblatt der
+                                Dichter“. Verfasst 1487 von Dauletschah.</p></note> de
+                            Dauletschah<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Vie de Férid-eddin Attar, auteur du Pend-namèh,
+                                    extraite de l´histoire des poëtes persans de Dauletschah
+                                    Samarkandi“</hi>, ist Teil des Vorwortes zur französischen
+                                Übersetzung des <hi rend="italic">„Pend-namèh“</hi> von
+                                    <persName>de </persName><persName>Sacy</persName>. Erschienen
+                                in: <hi rend="italic">Fundgruben des Orients 2 (1811) 1–24, 211–234
+                                    und 455–473</hi>.</p></note>, en persan et en françois. L´autre,
+                        n[umér]oté 2, renferme 3 de mes portraits et quatre exemplaires de mon
+                        rapport sur les traductions d´ouvrages en langues orientales, extrait des
+                        discussions, de la 3<hi rend="superscript">e.</hi> Classe de l´Institut
+                        relatives aux rapports du Jury des prix décérnés. Ces quatres exemplaires
+                        sont pour vous, M. le C[om]te
+                            <persName>de </persName><persName>Rzewuski</persName> et MM.
+                            <persName>Jahn</persName> et <persName>Dombay</persName>. J´ai
+                        recommandé par un billet adressé à M. <persName>Lefevere</persName>,
+                        l´expédition prompte et sure du n°. 1.</p><p>Je dois vous obsérver qu´en imprimant la traduction du Pend-namèh, je désire
+                        que l´on rétablisse les chapitres dans l´ordre des numéros que je leur ai
+                        donnés, sans l´arrêter à celui que j´avois d´abord suivi dans mon
+                        manuscrit.</p><p>Quant à la vie d´Attar je désire qu´elle soit publiée avec le texte. Ma copie
+                        est chargée d’écritures<note type="comment" place="bottom"><p> Lesung
+                                unsicher.</p></note> et de corrections parce que l´ayant faite
+                        d´abord <gap></gap><note type="comment" place="bottom"><p> Diese Passage, etwa ein
+                                Drittel der Zeile, ist auf Grund des Durchscheinens arabischer
+                                Schrift auf der Rückseite der Zeile unleserlich.</p></note> corrigée
+                        ensuite [...]<note type="comment" place="bottom"><p> Ein kurzes Wort
+                                unleserlich.</p></note> 3 autres, et que je n´ai pas voulu la
+                        recommencer. Vous pourrez facilement la mettre au net<note type="comment" place="bottom"><p> Rein schreiben.</p></note>. Si je pouvois avoir
+                        quelques exemplaires à part de cet ouvrage, cela me feroit plaisir; au reste
+                        je vous laisse le maître de cela<note type="comment" place="bottom"><p> Ich
+                                überlasse die Sache Ihnen. </p></note>. </p><p>M. <persName>Duval</persName> que la gratte<note type="comment" place="bottom"><p> Ciguatera: Fischvergiftung, die durch den Genuss von
+                                in tropischen Gewässern lebenden Fischen zu gewissen Jahreszeiten
+                                hervorgerufen wird.</p></note> a retenu longtemps à Paris en est
+                        parti pendant mon séjour à la campagne et je ne l´ai pu charger d´aucune
+                        commission. Au surplus vous avez connoissance par mes lettres de tout ce que
+                        je vous ai adressé. Je suis bien surpris que vous n´ayez point /// encore
+                        mon Abd-allatif: j´en ai témoigné mon étonnement à M.
+                            <persName>Lefevere</persName>, qui n´a rien répondu à mon billet; autre
+                        sujet d´étonnement.</p><p>J´ai bien reçu votre lettre du 28 Novembre, et vos jolis cartes de visite,
+                        mais non pas le 3<hi rend="superscript">e.</hi> cahier des Mines. J´ai gardé
+                        la lettre adressée à la Classe pour la présenter avec le nouveau cahier.
+                        Votre malice<note type="comment" place="bottom"><p> Schalkhaftigkeit,
+                                Böswilligkeit.</p></note> pour le Roi des Pygmées<note type="comment" place="bottom"><p> Vermutlich hatte sich HP in einem
+                                seiner Briefe über eine Person lustig gemacht, evtl. über
+                                    <persName>Caussin</persName>.</p></note>, m´a fait rire, elle
+                        n´est que gaie, mais il m´est revenu qu´il se plaint fortement d´un article
+                        mis dans le Morgenblatt<note type="comment" place="bottom"><p> Das <hi rend="italic">„Morgenblatt für gebildete Stände“</hi> erschien
+                                von 1807 bis 1865 in Stuttgart und Tübingen und wurde vom
+                                    <persName>Cotta</persName>´schen Verlag herausgegeben. Ab 1837
+                                erhielt es den Namen <hi rend="italic">„Morgenblatt für gebildete
+                                    Leser“</hi>; (<hi rend="italic">Wikisource
+                            20100806</hi>).</p></note>, et qu´il impute à vous et à moi. Je ne
+                        connois point cet article; mais j´[...]<note type="comment" place="bottom"><p> Ein sehr kurzes Wort unleserlich.</p></note> pour que vous
+                        n´ayiez fait là un coup de tête, contre mon avis. Je crois vous avoir déjà
+                        marqué qu´il témoigne de beaucoup de mauvaise humeur quoique d´une manière
+                            sourde<note type="comment" place="bottom"><p> Im Original ist die Stelle
+                                durch das Durchscheinen der Schrift von der Hinterseite schwer
+                                lesbar. „Sourde“ scheint die plausibelste Lesevariante zu sein und
+                                bedeutet hier so viel wie „unauffällig“.</p></note>. Je ne suis pas
+                        propre à vous faire obtenir le volume de <persName>Mirkhond</persName> que
+                        vous reclamez, et que je regarde comme perdu pour vous.</p><p>La Bibliothèque vient d´acquérir un excellent exemplaire du Diwan de
+                            <persName>Hafèz</persName> avec le commentaire de
+                            <persName>Sérouri</persName><note type="comment" place="bottom"><p> In
+                                der <hi rend="italic">Encyclopedia of Islam</hi> wird nur der erste
+                                Kommentar von <persName>Sudi</persName> genannt.</p></note>. J´y ai
+                        trouvé l´explication que vous m´indiquez du mot ألَسْت<note type="comment" place="bottom"><p> [alast], die Bedeutung des Wortes wurde im Brief vom
+                                17.02.1809 diskutiert.</p></note> dans la paraphrase de ce vers.
+                    </p> برو ای زاهد و بر دردکـشان خرده مـكیر کـه ندادند جز این تحفه بما روز
+                        السـت<note type="comment" place="bottom"><p> Ghazal 26 von Hafiz: <hi rend="italic">Go away O hermit, fault not the drunk, Our Divine gift
+                                from the day that God made sea and land.</hi></p></note><p>et de cet autre</p><p>بَلَى بحكم بلا بسته اند عهد روز الست<note type="comment" place="bottom"><p>
+                                Persische Passage, vermutlich ebenfalls eine Passage aus
+                            Hafiz.</p></note>, mais je n´ai pas pu jusqu`à présent trouver l´endroit
+                        de l´Alcoran d´où est emprunté cette formule, ce qui ne seroit pas inutile
+                        pour en bien fixer le sens. W. <persName>Jones</persName> ne l´a pas mal
+                            re[...<note type="comment" place="bottom"><p> Rest des Wortes
+                                unleserlich.</p></note>] par dies aeterni foederis<note type="comment" place="bottom"><p> Tag des ewigen Bundes.</p></note>
+                        <note type="comment" place="bottom"><p> Vermutlich Persisch: [alastu].
+                                Sollte es sich um Arabisch handeln, wäre die Übersetzung: bin ich
+                                nicht…[?].</p></note>ألَسْتُ est la vraie prononciation.</p><p>J´ai bien reçu mon manuscrit arabe d´une portion des Mille et une Nuits, mais
+                        non pas votre traduction pour M. <persName>Caussin</persName>. A quelle
+                        époque me l´avez-vous donc envoyée? Seroit-elle égarée dans les Bureaux de
+                        votre chancellerie? ///</p><p>Vous avez peut-être vu à son passage par Vienne, M.
+                            <persName>Raymond</persName> Consul à Bassora, que j´ai chargé de
+                        quelque chose pour vous. Il aura appris avec beaucoup de peine la fin
+                        tragique du Pacha de Bagdad<note type="comment" place="bottom"><p> Die
+                                Mameluken erhielten zu Beginn des 18. Jh.s von der Pforte ein
+                                gewisses Maß an Autonomie für den Irak. Der Pascha
+                                    <persName>Süleyman</persName> (reg. 1780–1802, genannt „der
+                                Große“) konnte dem Land zu Prosperität verhelfen, wurde jedoch gegen
+                                Ende seiner Regierungszeit von den Wahabiten geschwächt und von
+                                seinem Rivalen <persName>Ali Pascha</persName> gestürzt, der jedoch
+                                1807 ermordet wurde. Sein Nachfolger und Neffe,
+                                    <persName>Süleyman</persName> „der Kleine“ (reg. ab 1807) wurde
+                                1810 von den Osmanen umgebracht. Von ihm dürfte hier die Rede sein;
+                                    (<hi rend="italic">Wikipedia 20151006</hi>).</p></note> sur
+                        l´amitié duquel il comptoit beaucoup. M. <persName>Chaumette</persName> dont
+                        vous me parlez, est auctuellement comme Consul à Stetin. Il en part d´ici au
+                        commencement de septembre.</p><p>M. <persName>Dacier</persName> est très sensible à vos souvenirs. Je lui ai
+                        remis votre carte de visite, et fait part de votre maligne parenthèse sur le
+                        roi des pygmées. Comme il est moins benin<note type="comment" place="bottom"><p> Wohlwollend.</p></note> ou benêt<note type="comment" place="bottom"><p> Tölpelhaft.</p></note> que moi, il n´est pas fâché
+                        qu´on morde un peu ferme sur les <persName>Langlès</persName><note type="comment" place="bottom"><p> A: L<hi rend="superscript">ès</hi>.
+                                    <persName>De</persName><persName> Sacy</persName> vermeidet es,
+                                den Namen zu nennen und verwendet deshalb eine
+                        Abkürzung.</p></note>, les Mns.,<note type="comment" place="bottom"><p>
+                                Lesung unsicher, keine Erklärung für diese Abkürzung.</p></note> les
+                            <persName>Caussins</persName><note type="comment" place="bottom"><p> A:
+                                    C<hi rend="superscript">ns</hi>. </p></note>. Il vous fait
+                        milles souhaits de bonne année.</p><p>M. <persName>Jeuffroy</persName> m´a avoué, il y a quatres jours, qu´il
+                        n´avoit point encore répondu la lettre de Mad[am]e.
+                            <persName>de Rzewuska</persName>, et m´a promis de le faire
+                        incessant.</p><p>M. <persName>Quatremère</persName> vient de publier deux volumes de Mémoires
+                        géographiques et historiques sur l´Egypte. Le 1<hi rend="superscript">er</hi> contient des observations sur tous les lieux dont il a
+                        rencontré les noms dans les manuscrits Coptes, avec des dégressions plus ou
+                        moins longues; le second, des Extraits de divers auteurs Arabes,
+                        principalement du <persName>Makrizi</persName>. C´est mal-à-propos qu´il
+                        appèle cela des Mémoires. </p><p>Je vous prie de corriger avec soin, les épreuves de mon Mémoire sur les <note type="comment" place="bottom"><p> [Ġarǧistān], d.h.
+                            Gardschistan.</p></note>غرجستان et le <note type="comment" place="bottom"><p> [Ǧauzǧān], d.h. Dschauzdschan.</p></note>جوزجان, qui
+                        doit entrer dans votre 4<hi rend="superscript">e</hi> cahier. Je vous envoie
+                        mon Pend-namèh pour vos [...]<note type="comment" place="bottom"><p> Ein
+                                Wort unleserlich.</p></note>, avec mille civilités, compliments et
+                        voeux bien sincères de la part de Mad[am]e <persName>de Sacy</persName> et
+                        toute ma famille, et mille tendres assurances d´amitié de la part de votre
+                        très dévoué serviteur</p><closer><signed><persName>Silvestre de Sacy</persName></signed></closer><postscript>
+                        <p>Je pourrai vous envoyer par la suite quelques des extraits du
+                            Dauletschah. Saluez, je vous prie, M. le C[omte] de
+                                <persName>Rz</persName>[<persName>ewuski</persName>] de ma part –
+                            ainsi que MM. <persName>Jahn</persName>, <persName>Dombay</persName> et
+                                <persName>Chabert</persName>.</p>
+                    </postscript></div></body></text></TEI>

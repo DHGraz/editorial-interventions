@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4178"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Trébutien</persName> hat den Brief vom 31. März bekommen; er beklagt
+                    sich über die Post, denn keine Sendung, die <persName>HP</persName> angekündigt
+                    hat, ist angekommen. Er hat weder den Brief von Frau <persName>von
+                        Hammer</persName> bekommen, den sie Anfang November geschrieben hat, noch
+                    „Die Belagerung von Wien“, noch das arabische Portefeuille oder irgendetwas
+                    anderes. Er hat mindestens 20 Mal nach Paris geschrieben, um Auskunft zu
+                    bekommen. Man hat ihm immer geantwortet, man hätte nichts für ihn bekommen. Er
+                    wird sich nun direkt an Herrn <persName>Pélicier</persName> selbst wenden.
+                        <persName>Trébutien</persName> hat <persName>HP</persName> schon berichtet,
+                    dass er seit langem keinen Kontakt mehr mit <persName>Dondey-Dupré</persName>
+                    hat, dessen Sohn sehr unehrlich ist. Er bittet <persName>HP</persName> nun, die
+                    Pakete nicht an <persName>Dondey-Dupré</persName>, sondern zu
+                        <persName>Lance</persName> zu schicken. Er selbst habe im März zwei Briefe
+                    geschrieben, einen davon mit einer Einlage an Frau v<persName>on
+                        Hammer</persName>. <persName>Trébutien</persName> ist überrascht, dass HP
+                    den ersten der beiden Briefe in der Sendung <persName>Pélicier</persName>s, der
+                    sie an den Schwager <persName>HP</persName>s weitergeleitet hat, nicht erhalten
+                    habe. </p><p><persName>HP</persName> braucht keinen Zweifel daran haben, dass
+                        <persName>Trébutien</persName> nochmals die „Mémoires sur les coffrets de M.
+                    Blacas“ vor allem den Stil betreffend durchschaut. Da Herr
+                        <persName>Blacas</persName> die „Mémoires“ auf seine Kosten drucken lassen
+                    möchte, schlägt er vor, dies in Paris und nicht in Caen machen zu lassen. Was
+                    „Mithra“ betrifft, gibt es zur Zeit nichts Neues. </p><p>Er kann noch keinen genauen Termin für seine Reise nach Wien sagen,
+                    wahrscheinlich wird es Ende September und spätestens Anfang Oktober sein. Es
+                    wäre auch schön, wenn Frau <persName>Rosalie</persName> heuer diese Reise machen
+                    würde. </p><p>Der von einem Journalisten angekündigte Artikel über seine „Geschichten von 1001
+                    Nacht“ ist in einer englischen Zeitung erschienen. Er hat von ihm zwei Nummern
+                    davon bekommen, in dem die Rede ist von der Meinungsverschiedenheit zwischen
+                        <persName>HP</persName> und <persName>de Sacy</persName>, wenn auch nur ganz
+                    oberflächlich. Er wird ihn ihm bei nächster Gelegenheit schicken. In der
+                    gleichen Ausgabe wurde auch über „Mithra“ gesprochen. </p><p><persName>HP</persName> hat <persName>Trébutien</persName> versprochen, den 6.
+                    Band seiner „Geschichte des Osmanischen Reiches“ zu schicken. Falls er ihm den
+                    5. Band geschickt haben sollte, so ist dieser wie die anderen Pakete, noch nicht
+                    angekommen. Während <persName>HP</persName> in diesem Sommer am letzten Band
+                    seiner Geschichte arbeite, wird sich <persName>Trébutien</persName> mit der
+                    Übersetzung von „Yousouf et Zuleikha“ beschäftigen. Zuvor wird er noch sein
+                    kleines Werk über Les Rochers von Mme <persName>de Sévigné</persName> fertig
+                    machen, das kurz vor seiner Abreise nach Wien erscheinen wird.</p><p><persName>Trébutien</persName> bittet <persName>HP</persName>, ihm über den
+                    Gesundheitszustand seines Sohnes zu berichten, und Frau <persName>von
+                        Hammer</persName> möge ihm Neuigkeiten von <persName>Isa</persName>,
+                        <persName>Eveline</persName> und <persName>Max</persName> mitteilen. Am Ende
+                    ersucht er <persName>HP</persName> nochmals, nichts über
+                        <persName>Dondey-Dupré</persName> zu schicken, denn er habe keinen Kontakt
+                    mehr zu ihm.</p></div><div type="letter" subtype="original"><opener><dateline>Caen, le 11 Avril 1830</dateline><salute>Monsieur et cher ami,</salute></opener><p>Votre lettre du 31 mars n’arrive à l’instant par la poste, et je vous réponds
+                        dès aujourd’hui, par la même voie, sans perdre de temps comme vous voyez. Il
+                        y a maintenant dans notre correspondance quelque chose de vraiment
+                        extraordinaire, et que je ne pus concevoir: vous vous plaignez de la disette
+                        de mes lettres; j’aurais de mon côté aussi bien des doléances à faire sur la
+                        rarité des vôtres, puisque depuis près de six mois j’en ai reçu à peine deux
+                        ou trois. Aucun des envois dont vous me parlez ne m’est parvenu jusqu’à
+                        présent, et ne me parviendra probablement pas; ainsi je n’ai reçu ni la
+                        lettre de Mme <persName>de hammer</persName> écrite au commencement de
+                        Novembre ni le Siège de Vienne, ni le portefeuille arabe, ni aucun autre
+                        objet. – Je ne sais en vérité pas ce que tout cela peut être devenu; J’ai
+                        écrit au moins vingt fois à Paris pour obtenir des renseignements, et
+                        toujours on répondait qu’on n’avait rien reçu pour moi; je vais m’adresser
+                        directement à <persName>Pélicier</persName> lui-même. Je croyais vous avoir
+                        dit que depuis longtemps, je n’avais plus aucune relation avec les
+                            <persName>Dondey-Dupré</persName> dont le fils est un homme de la plus
+                        insigne mauvaise foi; et, si je me trompe, je vous avais prié en même temps
+                        de faire remettre vos paquets chez <persName>Lance</persName><note type="comment" place="bottom"><p> Ein Pariser Buchhändler, mit dem HP
+                                1835 in Korrespondenz stand.</p></note> qui a très souvent les
+                        occasions pour Caen d’où il est originaire; de plus, c’est un homme très
+                        obligeant, plein de probité et d’exactitude. A l’avenir ne m’adressez donc
+                        plus absolument rien chez
+                            <persName>Dondey</persName><persName>[-Dupré].</persName></p><p>Quoique je n’entendisse presque plus parler de vous, au point que je
+                        commençais à craindre que vous n’eussiez été emporté dans la débâcle du
+                            Danube<note type="comment" place="bottom"><p> Nachdem die Donau 13
+                                Wochen lang zugefroren gewesen war, kam es am 28. Februar 1830 durch
+                                einen Eisstoß um Mitternacht zu einer verheerenden Überschwemmung
+                                der donauseitigen Vorstädte Wiens, als das Wasser schlagartig um
+                                eineinhalb Meter anstieg; dieses Ereignis forderte 74 Tote; erst am
+                                frühen Nachmittag des 1. März sank der Wasserspiegel wieder und
+                                gegen Abend setzten sich die Eismassen auf der Donau in Bewegung.
+                            </p></note> dont les journaux ont rapporté les désastres il y a quelque
+                        temps, je n’en ai pas moins continué de vous écrire assez fréquemment. Je
+                        vous ai même encore adressé dans le courant du mois de mars deux lettres
+                        avec une de quatre pages pour Mme <persName>de Hammer</persName>; je suis
+                        surpris que vous n’ayez point reçu la première dans l’envoi de
+                            <persName>Pélicier</persName> que vous a apporté M. votre beau-frère,
+                        car je l’avais envoyée à Paris dans les premiers jours du mois; elle vous
+                        parviendra sans doute plus tard<note type="comment" place="bottom"><p> Es
+                                handelt sich offensichtlich um die Briefe vom 8. März 1830 an HP und
+                                seine Frau. Den Brief vom 30. März stellt
+                                    <persName>Trebutien</persName> hier nicht in Rechnung, weil ihn
+                                HP vielleicht noch nicht erhalten haben kann.</p></note>.</p><p>Venons maintenant à une partie de votre lettre pour laquelle je suis vivement
+                        tenté de vous admonester. Est-ce que vous parlez sérieusement lorsque vous
+                        semblez être dans le doute si je voudrai me charger ou non de revoir votre
+                        Mémoire sur les deux coffrets de <persName>M. de Blacas</persName><note type="comment" place="bottom"><p> HP<hi rend="italic">, Mémoire sur deux
+                                    coffrets gnostiques du Moyen-Âge, du Cabinet de M. le Duc de
+                                    Blacas</hi><hi rend="italic">. Paris 1832</hi>.</p></note>. Par
+                        malheur je n’ai pas été à même de vous donner autant de preuves que
+                        d’assurances de mon dévouement pour vous, cependant je croyais que vous
+                        deviez assez me connaître pour savoir que ce serait un plaisir pour moi de
+                        vous rendre un petit service. Ainsi soyez donc persuadé que je suis tout
+                        prêt non seulement à revoir le style de votre manuscrit, mais encore à en
+                        lire les épreuves si cela est nécessaire. Puis que<persName> M. de
+                            Blacas</persName><note type="comment" place="bottom"><p> Pierre-Louis
+                                Jean Casimir <persName>de Blacas</persName><persName>
+                                    d’Aulps</persName> (1771–1839), französischer Staatsmann und
+                                Diplomat, ein Mäzen von Kulturschaffenden – u.a. galt er auch als
+                                Förderer J.F. <persName>Champollion</persName>s und des ägyptischen
+                                Museums im Louvre; er unterhielt ein gut bestücktes Kabinett von
+                                Antiquitäten, das<persName> Reinaud</persName> beschrieben hatte und
+                                in den sich die von HP beschriebenen Coffrets (Schatullen)
+                                    befanden; (<hi rend="italic">Wikipedia</hi>).</p></note><persName> </persName>s’est chargé de faire
+                        imprimer votre Mémoire à ses frais, il me paraît beaucoup plus naturel qu’il
+                        le fasse imprimer à Paris qu’à Caen; c’est là<note type="comment" place="bottom"><p> A: la</p></note> même une proposition qui a quelque
+                        chose d’extraordinaire. Je ne sais pas si je me trompe, mais cela aurait
+                        l’air de faire croire que sa Seigneurie veut revenir sur sa promesse, d’un
+                        autre côté vous devez bien sentir que s’il y eût eu bonne intention, la
+                        révision d’un manuscrit de quelques feuilles n’est pas chose si difficile
+                        que <persName>Reinaud</persName><note type="comment" place="bottom"><p>
+                                Joseph Toussaint <persName>Reinaud</persName> (1795–1867), ein
+                                erfolgreicher Schüler <persName>de Sacy</persName>s, veröffentlichte
+                                u.a. 1828 eine Beschreibung der Sammlungen des <persName>Duc de
+                                    Blacas</persName> und war dessen Mittelsmann zu HP bzw.
+                                    <persName>Trebutien</persName> in Sache der Finanzierung von HPs
+                                Arbeit.</p></note> n’eût bien trouvé dans Paris quelqu’un pour s’en
+                        charger. Au reste vous pouvez lui dire que je suis disposé à donner à cette
+                        publication tous les soins nécessaires et dont je serai capable. Comme vous
+                        le pensez fort bien, c’est pour vous seul que j’agirai ainsi, et non pour
+                            <persName>M. </persName>le Duc<persName> de Blacas</persName> dont je
+                        pense que le nom devrait s’écrire Black-ass. – J’ai une excellente raison
+                        pour n’avoir point répondu à la lettre où vous me parliez de cette affaire,
+                        c’est que cette lettre, comme les autres, ne m’est pas encore parvenue. Je
+                        ne pouvais pas non plus écrire à <persName>Reinaud</persName> pour lui
+                        proposer de revoir votre manuscrit puisque j’ignorais entièrement qu’il fût
+                        entre ses mains, car dans la lettre de l’année dernière, où vous m’en
+                        touchiez quelques mots, vous me disiez seulement, que votre travail devait
+                        être publié aux frais de <persName>M. de Blacas</persName>, sans entrer dans
+                            les<note type="comment" place="bottom"><p> A: unleserlich</p></note>
+                        détails. Je puis bien au reste lui écrire deux lignes pour lui dire que je
+                            […]<note type="comment" place="bottom"><p> A: unleserlich</p></note> à
+                        faire tout ce qui sera nécessaire pour faciliter et hâter la publication de
+                        votre […]<note type="comment" place="bottom"><p> A: unleserlich</p></note>
+                        Mémoire. Quant à ce qui concerne Mithra, je vous renvoie à mes lettres
+                        [parce qu’]il n’y a rien de nouveau depuis, et il y en aura peut-être pas
+                        encore d’ici à long [temps].</p><p>Je ne puis encore vous indiquer d’une manière précise l’époque de mon départ
+                        pour Vienne; tout ce que je peux vous dire aujourd’hui, c’est que je compte
+                        partir à la fin de Septembre ou au commencement d’Octobre au plus tard, si,
+                        comme je l’espère, il ne me survient pas de nouvelles traverses dans ce
+                        projet. Je serais charmé que Mme <persName>Rosalie</persName>
+                            [<persName>Rzewuska</persName>]<note type="comment" place="bottom"><p>
+                                Alexandra Rosalia <persName>Gräfin Rzewuska</persName><persName>,
+                                    </persName>geb.<persName> Lubomirska</persName> (1791–1865), die
+                                Gemahlin des Mäzens der „<hi rend="italic">Fundgruben des
+                                    Orients</hi>“.</p></note> de décidât à faire aussi son voyage
+                        cette année, et je vous remercie beaucoup de la communication de sa lettre
+                        que vous m’annoncez. – Je vous avais parlé il y a quelque temps d’un
+                        Reviewer qui devait annoncer mes 1001Nuits dans un journal anglais, cet
+                        article a paru dans „L’Athenaeum“<note type="comment" place="bottom"><p> Es
+                                handelt sich um die in London erschienene Zeitschrift <hi rend="italic">„The Athenaeum: A Journal of Literature, Science,
+                                    the Fine Arts, Music, and</hi> […]<hi rend="italic">“</hi>, in
+                                deren Ausgabe vom 27. Februar 1830 Nr 122, 113f., unter dem Titel
+                                    <hi rend="italic">„New Arabian Nights“</hi> die von
+                                    <persName>Trebutien</persName> besorgte Ausgabe der <hi rend="italic">Contes Inedits des Mille et Une Nuits, 3 Bde
+                                    Paris</hi> (bei <persName>Dondey-Dupré</persName>) und London
+                                (bei <persName>Treuttel</persName> und <persName>Würtz</persName>)
+                                in sehr eingehender und umfangreicher Weise, auch hinsichtlich der
+                                Diskussion der Herkunft der Erzählungen sowie der Verfasser bzw.
+                                Schreiber der vorliegenden Fassungen besprochen ist. </p></note>, il
+                        m’en a donné deux N[umér]os, et comme il est question bien que d’une manière
+                        assez superficielle de votre différend avec <persName>M. de Sacy</persName>,
+                        je vous en enverrai par la première occasion qui se présentera. Il a parlé
+                        aussi dans le même recueil de votre ouvrage sur Mithra; je n’ai point dans
+                        ce moment-ci le cahier où se trouve cet article, mais je tacherai de vous
+                        l’envoyer plus tard, car l’auteur m’a promis d’écrire à Londres pour qu’on
+                        lui en envoie quelques exemplaires. </p><p>Vous m’annoncez l’envoi prochain du sixième volume de votre histoire
+                        ottomane. Si vous m’avez adressé le cinquième, il en sera advenu com[me] des
+                        autres paquets, car je ne l’ai pas encore reçu. Tandis que vous [vous]
+                        occuperez cet été de la composition du dernier volume de votre histoire, je
+                        me propose de mon côté de travailler à ma traduction de Yousouf et
+                            Zuleikha<note type="comment" place="bottom"><p> Diese Übersetzung des
+                                berühmten Stoffes in der Fassung <persName>Dschami</persName>s hat
+                                    <persName>Trebutien</persName> offenbar nie fertiggestellt bzw.
+                                in Druck gebracht. Es handelt sich um die islamische Version der
+                                Geschichte der Frau des Potiphar, die auch im Alten Testament, im
+                                Koran und sogar in der griechischen Literatur aufscheint und
+                                offenbar in insgesamt zahllosen Variationen bearbeitet worden
+                                ist.</p></note>; j’en ai fait une version littérale l’an dernier,
+                        mais sous un rapport ce n’était point là le plus difficile, qui est
+                        d’approprier cet ouvrage au goût des lecteurs français tout en concernant le
+                        génie et le caractère oriental. Avant d’entreprendre autre chose je vais
+                        terminer mon opuscule sur les Rochers<note type="comment" place="bottom"><p>
+                                Das Schloss der Mme <persName>Sévigné</persName>.</p></note> de Mme
+                            <persName>de Sévigné</persName> qui est très avancé, cependant il ne
+                        paraît pas beaucoup avant mon départ pour Vienne, car je veux y donner tout
+                        le degré de perfection qu’il me sera possible; ces sortes d’ouvrages ne se
+                        soutiennent que par le style. Mais il faut que je vous fasse ici un aveu: Je
+                        me suis permis, je ne sais combien de digression politiques, libérales,
+                        voire même républicaines; Dieu sait combien elles sont à leur place dans un
+                        livre de cette nature! Je le sens aussi bien que personne, et pourtant je ne
+                        sais pas si j’aurais seul la force d’en faire le sacrifice, car je l’avoue à
+                        ma honte, ce sont les morceaux dont je suis le plus content. Il faut donc
+                        que j’emploie le secours d’autrui, et je ne vois que Mme <persName>de
+                            Hammer</persName> qui puisse me défendre contre moi-même, ainsi
+                        dites-lui que je la supplie de m’ordonner de supprimer tout ce qui serait
+                        étranger à mon sujet. <salute>C’est un véritable service qu’elle rendra au
+                            plus fidèle de ses adorateurs et au plus sincère de vos
+                        amis</salute></p><closer><signed>Trébutien</signed></closer><postscript>
+                        <p>Donnez-moi des nouvelles de M. votre fils, j’espère, lorsque vous
+                            m’écrirez, que vous m’apprendrez qu’il est entièrement rétabli; la belle
+                            saison va contribuer beaucoup sans doute à améliorer sa santé. Il faut
+                            espérer qu’après l’hiver rigoureux qui vient de se passer, il fera un
+                            bel été tout du moins jusqu’à présent le fait espérer. Nous venons
+                            d’avoir un mois de mars charmant et qui a été plus chaud je crois que le
+                            mois de juin de l’année dernière. – il y a bien longtemps que je n’ai,
+                            que je n’ai entendu parler <persName>d’Isa</persName><note type="comment" place="bottom"><p> HPs nun elfjährige Tochter
+                                        <persName>Isabella</persName>.</p></note>; je prie sa mère
+                            de m’en donner des nouvelles, lorsqu’elle aura la bonté de m’écrire,
+                            ainsi que de la jolie petite <persName>Eveline</persName> et du petit
+                                <persName>Max</persName><note type="comment" place="bottom"><p> HPs
+                                    sechsjährige Tochter <persName>Eveline</persName> und der um ein
+                                    Jahr jüngere Sohn <persName>Max</persName>.</p></note>. Mme
+                                <persName>de Hammer</persName> me doit vraiment une lettre pour
+                            réparer un peu les pertes irréparables dont je me trouve accablé par une
+                            fatalité qui a quelque chose d’inexplicable. Je vous le répète encore
+                            une fois, ne m’adressez plus rien par l’entremise de
+                                <persName>Dondey-Dupré</persName>, car je n’ai plus aucune espèce de
+                            rapport avec lui; Je puis vous assurer qu’il n’est point calomnie dans
+                            la brochure allemande que vous connaissez.
+                                <persName>Lance</persName><note type="comment" place="bottom"><p>
+                                    Der Pariser Buchhändler, den <persName>Trebutien</persName> nun
+                                    frequentierte, nachdem er <persName>Dondey-Dupre</persName>
+                                    wegen Betruges nicht mehr kontaktierte.</p></note> est fort
+                            exacte qu’on peut tout faire remettre chez lui avec sûreté. – Vous voyez
+                            que je vous écris longuement ainsi que vous me demandiez, et que je ne
+                            cesse mon griffonnage que là où me manque le papier.</p>
+                    </postscript></div></body></text></TEI>

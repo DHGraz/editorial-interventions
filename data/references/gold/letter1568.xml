@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1568"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Nordhausen 30. Septemb[er] 1814</dateline><salute>Hochwohlgeborner Herr, Hochzuverehrender Herr Rat, Hochgeschätzter
+                        gelehrter Freund und Gönner!</salute></opener><p>So angenehm mir Ihr geehrtes und freundschaftliches Schreiben vom 10.
+                        d[ieses] Aug[usts] d[ieses] J[ahres] ist, so schmerzlichen Anteil hat mir
+                        die darin enthaltene traurige Nachricht von Ihrem Unglück, den Fuß gebrochen
+                        zu haben, verursacht, und ich wünsche herzlich, daß Sie bei Empfang dieses
+                        [Briefes] völlig wieder hergestellt sein mögen. Leider hat sich mein
+                        hiesiges Asyl<note type="comment" place="bottom"><p>
+                                <persName>Wahl</persName> befand sich in Nordhausen, einer Stadt
+                                (etwa 100 km westlich von Halle) am Südrand des Harzes im Norden
+                                Thüringens und gehörte damals (1807–1813) zu dem von
+                                    <persName>Napoleon</persName> für seinen Bruder
+                                    <persName>Jerome</persName> geschaffenen Königreich
+                                Westphalen.</p></note> bis jetzt noch verzögert, so daß ich nunmehro
+                        erst 3t<hi rend="superscript">en</hi> October d.J. mit meiner Familie nach
+                        Halle zurückkehren kann<note type="comment" place="bottom"><p> Dies sollte
+                                sich noch bis in den Herbst 1814 verzögern.</p></note>. Nachdem ich
+                        alsdann[?] in Halle nun einigermaßen wieder in Ruhe und Ordnung gekommen
+                        sein werde, so soll auch die Ihnen für die Fundgruben versprochene Arbeit
+                        das erste sein, was ich befördern und Ihnen zum Gebrauch für dieses
+                        vortreffliche Magazin übersenden werde. In Rücksicht der Hall[ischen]
+                        Litt[eratur]z[eitung] muß ich Ihnen melden, daß die erwähnte Rezension des
+                        zweiten Bandes der Fundgruben, denen ich in Zukunft ein günstigeren Absatz
+                        wünsche, nicht von mir ist, ich aber auch nicht sagen kann, wer der
+                        Verfasser sein mag. Bloß die Rezension des ersten Bandes in dem b[…<note type="comment" place="bottom"><p> Dieses flüchtig geschriebene Wort
+                                bedeutet mit Sicherheit nicht „Göttinger“, am ehesten könnte es für
+                                „beigelegten“ gelten.</p></note>] gelehrten Anzeigen ist von mir. An
+                        den übrigen habe ich kein Anteil und werde auch wahrscheinlich in der Folge
+                        an diesen Rezensionen kein weiteren Anteil haben.–––</p><p>Betreff der von Ihnen durch die camessinaische Handlung mir zugesandten
+                        Exemplare von den Heften der Fundgruben, so wie solche herausgekommen sind,
+                        muß ich hier wiederholen, daß ich <hi rend="underline">nichts weiter</hi>
+                        bis hieher erhalten habe, als 1<hi rend="superscript">ten</hi> Band, 2<hi rend="superscript">ten</hi> Band, und 3<hi rend="superscript">ten</hi>
+                        Bandes 2<hi rend="superscript">tes</hi> Heft inclusive des 3<hi rend="superscript">ten</hi> und 4<hi rend="superscript">ten</hi> Heftes
+                        des dritten Bandes, so wie das 1<hi rend="superscript">te</hi> Heft des
+                        vierten Bandes ist bis izt nicht an mich gelangt, und ich ersuche Euer
+                        Hochwohlgeboren daher inständig um die baldige Mitteilung dieser mir noch
+                        immer fehlenden Hefte<note type="comment" place="bottom"><p> Dieser
+                                grammatikalisch verunglückte Satz ist wohl so zu verstehen, dass
+                                    <persName>Wahl</persName> alle aufgezählten Hefte in Händen
+                                hielt, aber nicht mehr, wobei er annahm, dass bereits mehr
+                                erschienen sei und ihm abgehe.</p></note>. Sollte die Camessinische
+                        Handlung oder ihr Kommissionär in Leipz[ig] etwa eine irrige Bestellung
+                        gemacht haben, oder sollte alles noch irgendwo liegen geblieben sein? Ich
+                        bitte die Sache in Untersuchung[?] zu nehmen. Hätte die Absendung etwa ihren
+                        Gang in die Expedition der Allg[emeinen] Litt[eratur]z[eitung] genommen, so
+                        könnte es leicht erklärlich sein, wenn von allen dem nichts an mich gelanget
+                        wäre, u[nd] ich müsste daher versuchen, diesen[?] Irrtum zu
+                            wi[e?]derst[…<note type="comment" place="bottom"><p> Dieses Wort ist
+                                sehr an den Blattrand gedrängt und unvollständig.</p></note>]. Es
+                        verlangt mich recht sehr, daß die besagter[?] Weise mir entgang[enen] Hefte
+                        recht bald in meinen Besitz gelangen. Ihr Hafis<note type="comment" place="bottom"><p> HPs Hafis-Ausgabe war 1812 und 1813 in zwei Bänden
+                                erschienen.</p></note> ist mir in meinen bisherig[en?] […<note type="comment" place="bottom"><p> Ein Wort mit vermutlich sechs
+                                Buchstaben konnte nicht gedeutet werden.</p></note>] leider noch
+                        nicht zu Gesicht gekommen und ich bin sehr begierig auf denselben, ob ich
+                        gleich bedaure, daß Sie, Ihrem Schreiben zu folge mit der Korrektheit des
+                        Druckes Ursache haben, unzufrieden zu sein.</p><p>Wenn ich in der Folge an der Beurteilung der schönen Fundgruben, und
+                        überhaupt anderer wichtiger Werke der persischen und übrigen orientalischen
+                        Literatur Anteil nehmen werde, so wird solches allenfalls in anderen
+                        gelehrten Anzeigen geschehen.–––</p><closer><salute>In <gap></gap>ster Zuversicht auf die Fortsetzung Ihrer gütigen und
+                        freundschaftlichen Gesinnungen gegen mich habe ich unverbrüchlich die Ehre
+                        zu sein Euer Hochwohlgeboren gehorsamster Diener <choice><abbr>u</abbr><expan>und</expan></choice> Freund</salute><signed>S.Fr. Günther <persName>Wahl</persName>.</signed></closer></div></body></text></TEI>

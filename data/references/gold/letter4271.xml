@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4271"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>13 Sep[tembe]r 1830</dateline><salute>My dear Sir</salute></opener><p>It is so long that I heard any news of the <choice><abbr>Css</abbr><expan>Countess</expan></choice>
+                            <persName>Ros[ali]e</persName> that I begin to fear some new misfortune
+                        must have befallen her, as I know she has many causes for anxiety. I should
+                        be very much obliged to you if you would give me a line to say whether you
+                        still expect her at Vienna this winter – and send it to the Foreign Office
+                        London – as I am likely to remain in England some time longer – Our Office,
+                        which in small matters, is the most dilatory in Europe, has ordered me to
+                        wait for the possibility of succeeding Mr.
+                            <persName>Bosanquet</persName><note type="comment" place="bottom"><p>
+                                George Jacob <persName>Bosanquet</persName> (1791–1866) war von 1827
+                                bis 1830 britischer Botschafter in Spanien, gefolgt von Henry Unwin
+                                    <persName>Addington</persName> (1790–1870) der das Amt von 1830
+                                bis 1833 innehatte. </p></note>- but has delayed making the
+                        arrangement so long, that I suspect I may at last return to Naples – In the
+                        meantime I amuse myself at home.</p><p>I recommend you to read if you can get it the Journal of
+                            <persName>Heber</persName><note type="comment" place="bottom"><p>
+                                Reginald <persName>Heber</persName> (21. April 1783–3. April 1826)
+                                war ein anglikanischer Geistlicher und Bischof der Church of
+                                England, Missionar und Literat, der heute hauptsächlich als
+                                Kirchenlieddichter und Erneuerer des englischen Kirchenlieds in
+                                Erinnerung ist. Nach seiner Graduierung und ausgedehnten Reise durch
+                                Skandinavien, Russland und Zentraleuropa wurde
+                                    <persName>Heber</persName> 1807 Pfarrer in Hodnet, Shropshire,
+                                England, und später Bischof von Kalkutta (1823–1826), einem Bistum,
+                                das heute Teil der Church of North India ist. Er verbrachte seine
+                                Amtszeit damit, die anglikanischen Gemeinden des gesamten
+                                Subkontinents zu bereisen. Er starb nach weniger als drei Jahren
+                                Aufenthalt in Indien</p></note> Bishop of Calcutta<note type="comment" place="bottom"><p> Reginald Heber, Amelia Shipley Heber,
+                                    <hi rend="italic">Narrative of a Journey through the Upper
+                                    Provinces of India, from Calcutta to Bombay, 1824-1825, 3 Bde.
+                                    Cambridge University Press, Cambridge und 1829 1828–1829</hi>.
+                                HP, [Seitentitel: Indische Literatur] 2) <hi rend="italic">Narrative
+                                    of a journey through the upper provinces of India, from Calcutta
+                                    to Bombay 1824‐1825 (with notes upon Ceylon) in account of a
+                                    journey to Madras and the southern provinces 1826, and letters
+                                    written in India, by the late right rev. Reginald Heber D.D.
+                                    lord bishop of Calcutta; second edition in three volumes. London
+                                    1828. gr. 8. Vol. I. 450 S.; Vol. II. 564 S.; Vol. III. 501
+                                    S</hi>.; in:<hi rend="italic"> Wiener Jahrbücher der Literatur,
+                                    Band 51 (1830), 16–87.</hi></p></note>, it is said to give the
+                        best general picture of India that is in print. You may have seen him
+                        formerly as young man travelling in Austria,</p><p>I remain Sir</p><closer><salute>Your ob[edien]t humble Ser[van]t</salute><signed>W.Fox Strangways</signed></closer></div></body></text></TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_511"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>London Oct[ober] 31 1804 </dateline><salute>My Dear Friend</salute></opener><p>I hasten to make a package of pamphlets for your on receiving sudden notice
+                        of Mr. <persName>Burrel</persName>s<note type="comment" place="bottom"><p>
+                                Nähere Details zur Person konnten nicht eruiert werden.</p></note>
+                        departure and to convey a print of my arms for <persName>Emir
+                            Beshir</persName>, the description<note type="comment" place="bottom"><p> Am 7. Jänner 1803 wurde <persName>Sidney Smith </persName>von
+                                König <persName>Georg III</persName>. eine Wappenerweiterung
+                                gewährt. Dies ist in einem Beitrag in: <hi rend="italic">The London
+                                    Gazette vom 15. Jänner 1803</hi> samt einer Beschreibung des
+                                Wappens abgedruckt. Das Motto des Wappens lautet „CŒUR DE LION“.
+                                Eine bildliche Darstellung ist unter <ref target="https://www.google.at/search?sca_esv=560946880&amp;q=coeur+de+lion+sidney+smith&amp;tbm=isch&amp;source=lnms&amp;sa=X&amp;ved=2ahUKEwjowv3Dv4GBAxUSCuwKHaLEDm8Q0pQJegQIDBAB&amp;biw=1920&amp;bih=899#imgrc=9-yUyLUa9Nsj5M">https://www.google.at/search?sca_esv=560946880&amp;q=coeur+de+lion+sidney+smith&amp;tbm=isch&amp;source=lnms&amp;sa=X&amp;ved=2ahUKEwjowv3Dv4GBAxUSCuwKHaLEDm8Q0pQJegQIDBAB&amp;biw=1920&amp;bih=899#imgrc=9-yUyLUa9Nsj5M</ref>
+                                online abrufbar. (29.8.2023). </p></note> of which I beg you to
+                        translate fairly<note type="comment" place="bottom"><p> Nachträglich
+                                oberhalb der Zeile eingefügt. </p></note> and send with the picture
+                        to him by a safe conveyance – perhaps it would be the best to paste the
+                        translation on the back. I will write to him as you suggested meanwhile you
+                        may assure him that I have mentioned his merits and claim in strong terms to
+                        the <hi rend="underline">King</hi> personally, and in writing to the
+                            late<note type="comment" place="bottom"><p> Nachträglich oberhalb der
+                                Zeile eingefügt.</p></note> Minister for foreign affairs<note type="comment" place="bottom"><p> Robert Banks
+                                    <persName>Jenkinson</persName>, 2. <persName>Earl of
+                                    Liverpool</persName> (7. Juni 1770 in London–4. Dezember 1828 in
+                                Kingston upon Thames, Surrey) war ein britischer Staatsmann und
+                                Premierminister des Vereinigten Königreichs von 1812 bis 1827. Im
+                                Kabinett von Henry <persName>Addington</persName> war er 1801 bis
+                                1804 Außenminister. In diesem Amt erreichte er 1802 den Vertrag von
+                                Amiens mit Frankreich. </p></note>, if nothing was done it was<note type="comment" place="bottom"><p> A:’twas. </p></note> the fault of the
+                        late ministry not mine. I am to see Mr. <persName>Pitt</persName> soon again
+                        to converse or rather finish a long conversation begun on <hi rend="underline">this subject</hi>, and <hi rend="underline">the Levant
+                            in general</hi> and our East Indian Empire. I see I am looked to <surplus>to</surplus>
+                        execute my own ideas but I do not close with any such prepositions till I
+                        see what powers or means are likely to be afforded to me – I had the offer
+                        to come out as Minister before. Mr. <persName>Arbuthnot</persName><note type="comment" place="bottom"><p> Charles <persName>Arbuthnot</persName>
+                                (14. März 1767–18. August 1850) war ein britischer Diplomat und
+                                Tory-Politiker. Er war zwischen 1804 und 1807 Botschafter im
+                                Osmanischen Reich und bekleidete eine Reihe von politischen Ämtern.
+                                    <persName>Arbuthnot</persName> trat 1793 in das Außenministerium
+                                ein, wo er William <persName>Grenville</persName>, 1.
+                                    <persName>Baron Grenville</persName>, beeindruckte.
+                                    <persName>Arbuthnot</persName> bekleidete auch eine Reihe von
+                                diplomatischen Posten, insbesondere als Generalkonsul in Portugal
+                                zwischen 1800 und 1801, als Minister in Schweden. Zwischen November
+                                1803 und Juni 1804 diente er unter Henry
+                                    <persName>Addington</persName> als Unterstaatssekretär für
+                                auswärtige Angelegenheiten. Am 6. Juni 1804 zum Botschafter im
+                                Osmanischen Reich ernannt, war <persName>Arbuthnot</persName> der
+                                erste Botschafter in Konstantinopel im Rahmen einer neuen
+                                Vereinbarung, bei der die Levante-Kompanie einen Generalkonsul
+                                stellte, in diesem Fall Isaac <persName>Morier</persName>, der sich
+                                um die Handelsgeschäfte kümmerte. 1806 handelte Arbuthnot einen
+                                Handelsvertrag mit dem <persName>Reis ül-Küttab</persName>, Ahmed
+                                    <persName>Vâsıf</persName>, aus. <persName>Arbuthnot</persName>
+                                wurde am 28. Februar 1799 in Cholmondeley House, Piccadilly, mit
+                                Marcia Mary Anne Clapcott <persName>Lisle</persName> verheiratet.
+                                Sie war seit 1795 Hofdame von <persName>Caroline of
+                                    Brunswick</persName>, Prinzessin von Wales. Sie starb am 24. Mai
+                                1806 in Konstantinopel. <persName>Arbuthnot</persName> wurde in den
+                                ersten Tagen des Jahres 1807 beauftragt, <persName>Selim
+                                    III.</persName> in das anglo-russische Lager gegen Frankreich zu
+                                bringen. Vor dem Hintergrund eines erneuten russisch-türkischen
+                                Krieges und der Umgehung von Zöllen im Rahmen des Handelsvertrags
+                                verfolgte <persName>Arbuthnot</persName> seine eigene Linie und war
+                                bereit, Gewalt anzuwenden. <persName>Selim</persName> und Horace
+                                    <persName>Sébastiani</persName> leisteten bei der
+                                Dardanellen-Operation erfolgreich Widerstand gegen eine britische
+                                Marineexpedition. Arbuthnot verließ Konstantinopel am 29. Januar
+                                1807; (<hi rend="italic">Wikipedia, englisch</hi>). HP lernte
+                                    <persName>Arbuthnot</persName> und dessen erste Gattin in
+                                Konstantinopel persönlich kennen und erwähnt diese – auch den Tod
+                                von Mrs. <persName>Arbuthnot</persName>, <hi rend="italic">„einer
+                                    schönen jungen Frau“</hi> – im 14. Band seiner <hi rend="italic">Erinnerungen</hi> (<hi rend="italic">Typoskript</hi>).</p></note> indeed before Mr.
+                            <persName>Drummond</persName> but I did not close with it because I did
+                        not see sufficient energy in our councils at that time to ensure due support
+                        – your very kind letters containing details reached me in due time they are
+                        not before me at this instant to enable me to answer them in detail at
+                        length,</p><p>I have been seriously ill from the effect of the North sea climate after
+                        Egypt – I am now so well reestablished that I think of going to sea again
+                        even <note type="comment" place="bottom"><p> Nachträglich oberhalb der Zeile
+                                eingefügt.</p></note> before the spring but not to cruise<note type="comment" place="bottom"><p> A: cruize.</p></note> in <hi rend="underline">this climate</hi> –</p><p>I beg you will be kindly attentive to Mr, <persName>Aveline</persName><note type="comment" place="bottom"><p> Nähere Details zur Person konnten
+                                nicht eruiert werden.</p></note> surgeon with the Ambassador Mr.
+                            <persName>Arbuthnot</persName> as I provided him with an introduction to
+                        you. – a man of his education must be a resource and an addition to your
+                        little retired society – pray let me hear from you often – never doubt the
+                        satisfaction it gives me, or my sincere attachment to you. My Uncle<note type="comment" place="bottom"><p> General Edward
+                                    <persName>Smith</persName>.</p></note> would join with me in
+                        best regards if he knew I was writing, he is growing old has quitted
+                            Walmer<note type="comment" place="bottom"><p> Ort in der Küste Kents.
+                                Walmer Castle war der Ausbildungsort für <persName>Pitt</persName>s
+                                Volunteers; (vgl. dazu <ref target="http://www.geocities.ws/cinqueportsvolunteers/HISTORY.htm">http://www.geocities.ws/cinqueportsvolunteers/HISTORY.htm</ref>).
+                            </p></note> entirely meaning to sell it, he has bought a house in town
+                        and now resides at Bristol Hotwells<note type="comment" place="bottom"><p>
+                                Hotwells ist ein Stadtteil der englischen Hafenstadt
+                            Bristol.</p></note> for the present. </p><p><persName>Eliza</persName> is well and with her sister
+                            <persName>Maria</persName> at Southhampton <persName>Maria</persName>
+                        you must know is well married to Capt[ai]n <persName>Vernon
+                            Graham</persName><note type="comment" place="bottom"><p> Maj.-Gen. Henry
+                                Charles Edward <persName>Vernon</persName> 1779–1861, Sohn von Henry
+                                    <persName>Vernon</persName> und Penelope
+                                    <persName>Graham</persName>, verheiratet ab 28. Februar 1804 mit
+                                Maria <persName>Cooke</persName> (1784-1829); (<hi rend="italic">The
+                                    Peerage online</hi>).</p></note> son of the traveller Mr.
+                            <persName>Vernon</persName><note type="comment" place="bottom"><p> Henry
+                                    <persName>Vernon</persName> (1748–1814). </p></note> with a very
+                        good fortune. I am not married nor a can a man make an establishment in war
+                        time so I console myself with the <hi rend="underline">Widows</hi>.
+                            <salute>Yours aff[ectionatel]y</salute> – </p><postscript>
+                        <p>I<note type="comment" place="bottom"><p> Dieser Absatz steht auf der
+                                    ersten Seite am oberen Rand im rechten Winkel zum
+                                Text.</p></note> add a portrait also for <persName>Emir
+                                Beschir</persName></p>
+                    </postscript><p>have you one</p><p>did you ever receive a copy of my arms </p><p>I sent you –</p><p>between you is<note type="comment" place="bottom"><p> Danach folgen 3 Zeichen
+                                oder Buchstaben. <graphic url="media/image75.png"/></p></note> the Sultan</p><p>It is reckoned extraordinary</p><p>that Mr. <persName>Drummond</persName> etc etc etc should </p><p>receive the first order of the Crescent before my brother<note type="comment" place="bottom"><p> Der osmanische Orden des halben Mondes, auch nur
+                                Halbmondorden genannt, war der erste Verdienstorden des Osmanischen
+                                Reichs. Gestiftet wurde er durch Sultan <persName>Selim
+                                    III.</persName> 1799–1801. Im Osmanischen Reich gab es bis um
+                                1800 keine Verdienstorden, die sich aus den christlichen Ritterorden
+                                entwickelt hatten. Stattdessen wurden Ehrenzeichen wie Vogelfedern
+                                (Çelenk) oder Ehrenpelze verschenkt. Aus Dankbarkeit für den Sieg
+                                über die französische Flotte in der Seeschlacht bei Abukir vor der
+                                ägyptischen Küste sandte <persName>Selim III</persName>. an Admiral
+                                    <persName>Nelson</persName> ein Kleinod mit dem Hilal
+                                (Mondsichel) aus Brillanten. <persName>Nelson</persName> nannte sich
+                                daraufhin Knight of the Crescent („Ritter vom halben Mond“),
+                                woraufhin <persName>Selim</persName> aus der ursprünglich einmaligen
+                                Dekoration einen Ritterorden nach europäischen Vorbild gebildet
+                                haben soll. 1801 war der Orden vollständig statuiert.</p></note> and
+                        me</p></div></body></text></TEI>

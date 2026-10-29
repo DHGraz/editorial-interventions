@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7561"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Dresden d. 16ten März 1849</dateline><salute>Hochwohlgeborener Gönner!</salute></opener><p>Dero Schreiben hat mich aus einer gänzlichen Ungewissheit über Ihr
+                        rätselhaftes Stillschweigen gezogen und ich bringe Ihnen hiermit auf der
+                        einen Seite mein herzli[ches] Beileid, auf der andern aber auch meinen
+                        Glückwunsch für die erwünschte Rettung dero Frau Tochter aus drohender
+                            Lebensgefahr<note type="comment" place="bottom"><p> HPs Tochter
+                                    <persName>Eveline</persName> war zu Jahresanfang 1849 in
+                                Gartenau bei Salzburg in einen Mühlgang, d.h. einen Wasserzulauf zu
+                                einer Mühle, gestürzt und gerade noch gerettet worden; s. dazu das
+                                Kapitel 14.2.2.4 „Eveline“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein
+                                    Altösterreichisches Gelehrtenleben Eine Annäherung; Graz 2021,
+                                    Bd 2</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note>. Der
+                        Herr scheint Ihnen und Ihrer verehrten Familie sehr gnädig zu sein, denn wie
+                        lange ist es her, als Ihr für die Wissenschaft unersetzliches Leben während
+                        der Wiener Belagerung<note type="comment" place="bottom"><p> Dies bezieht
+                                sich wohl auf das Artilleriegeschoss, das am 31. Oktober 1848 in HPs
+                                Arbeitszimmer, kurz nachdem er es verlassen hatte, einschlug, s.
+                                Walter Höflechner u.a.; <hi rend="italic">Joseph von
+                                    Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 2, S. 1226</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note> und
+                        jetzt wieder das Ihnen so teure Dasein Ihrer verehrten Frau Tochter in
+                        Todesgefahr schwebte? Möge der Himmel Sie und alle Ihnen teure noch lange
+                        mit seiner schützenden Hand vor allem Unglück beschirmen. Vielleicht ist es
+                        möglich, daß ich Ihnen selbst meine Verehrung noch innerhalb dieses Sommers
+                        ausdrücken darf wenn nämlich die Zeitumstände gestatten, daß ich mit meiner
+                        jungen Frau Ihre gütige Einladung annehme. Übrigens hat es allerdings mit
+                        dem Nichtfahrenkönnen meiner Frau seine Richtigkeit: sie vermag weder im
+                        Wagen noch im Dampfwagen noch Dampfboot eine Stunde ohne Erbrechen
+                        auszuhalten und nur wiederholte Versuche, sie allmälig durch kleine Touren
+                        an eine längere Reise zu gewöhnen, lassen mich hoffen, daß es doch am Ende
+                        noch möglich sein wird, mich Ihnen persönlich vorzustellen und Ihnen einen
+                        dankbare Verehrung zu bezeigen.</p><p>Der Herausgeber der hier in Dresden [eine] lithographierten Ausgabe des
+                            <persName>Abulfeda</persName><note type="comment" place="bottom"><p> S.
+                                dazu auch <persName>Grässe</persName>s Brief an HP ddo 1847 XII
+                                25.</p></note>, Herr <persName>Schier</persName>, hat mich gebeten,
+                        Euer Hochwohlgeboren in seinem Namen dringend zu ersuchen, ob Sie ihm nicht
+                        das auf beigehendem Zettel unterstrichene arabisch türkische Wort
+                        vokalisieren und mit richtiger Aussprache durch lateinische Buchstaben
+                        lesbar machen wollen. Er gibt nämlich eine Grammaire arabe<note type="comment" place="bottom"><p> Karl Heinrich Schier, <hi rend="italic">Grammaire arabe, par Charles Schier, Dresde usw.:
+                                    Arnold : Leipsic 1849, X, 456 S</hi>.</p></note> bei
+                            <persName>Arnold</persName> hier heraus und hat dieser einige Lesestücke
+                        beigefügt. Unter diesen ist auch die in seinen Melanges<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Mélanges de littérature orientale / extraits des
+                                    manuscrits de la bibliothèque royale de Dresde et traduits en
+                                    français, Dresden-Leipzig 1846</hi> – dieses Werk sollte
+                                offenbar in einzelnen Heften erscheinen, nachweisbar ist nur Heft 1
+                                aus 1846. </p></note> zum ersten Male abgedruckte Reisebeschreibung
+                        eines Türken nach Konstantinopel a[us] d[em] 16ten J[ahr]h[un]d[er]t und
+                        hierin kommt das Wort, das offenbar aus der arabischen Präposition und zwei
+                        türkischen Worten besteht, vor und ein Lustschloß des Sultan
+                            <persName>Bajasid</persName>s<note type="comment" place="bottom"><p> Es
+                                gab zwei Sultane dieses Namens <persName>Bajezid</persName> I
+                                (1360–1403) und <persName>Bajezid</persName> II. (1447–1512) – es
+                                dürfte hier wohl von <persName>Bajezid</persName> II. die Rede
+                                sein.</p></note> auf der Reise nach Konstantinopel bezeichnet, vor
+                        [sic]. Er hat sich schon an eine Masse Gelehrter gewendet, aber keiner hat
+                        es lesen können und der Sekretär der türk[ischen] Gesandtschaft zu Wien, an
+                        den er sich wandte, hat es ebenfalls falsch int[erpr]etiert, in dem das
+                        ganze Wort von ihm für türkisch gehalten wurde. Ich zweifle nicht, daß Sie
+                        das Richtige sofort finden. </p><p>Wie geht es denn jetzt in Wien? Bei uns fängt die Regierung endlich an, der
+                        Kammertyrannei, gegen die sich nämlich[?] eine etwas scharfe Adresse
+                        Gutgesinnter Luft machte, wofür aber die Verfechter der Freiheit in der
+                        Kammer die Verfasser und Unterzeichner derselben in Anklagestand versetzen
+                        wollen!! – einer solchen Freiheit [<note type="comment" place="bottom"><p>
+                                Hier befindet sich ein längeres Wort, das auf Grund des
+                                Durchscheines der Schrift auf der Rückseite des Blattes (das weite
+                                Strecken dieses Briefes dominiert) nicht gelesen werden konnte.
+                            </p></note>], bestimmt entgegenzutreten. Nur sieht man nicht ein, wie
+                        auch bei einer Auflösung der Kammer, zu der es kommen muß, da sie dem König
+                        das absolute Veto nehmen wollen und die Forteinhebung der Steuer nur bis
+                        Ende April genehmigen wollen, ein anderes Wahlresultat bei unserem schönen
+                        Wahlgesetze, nach welchem ohne Census jeder Mensch über 21 Jahren wählbar
+                        und Wäh[l]er[?] ist, herauskommen[?] soll. Den[n] das Agitieren der unteren
+                        Volksklassen durch die Vaterlandsvereine (so genannt wie lucus a non
+                            lucendo<note type="comment" place="bottom"><p> Eine Antiphrasis, die
+                                Negierung der Ableitung eines Wortes von eine anderen ähnlich
+                                klingenden; hier: der „Hain“ (lucus) rühre von nicht-leuchten
+                                (lucere) her, oder canis a non canendo (der Hund heißt Hund, weil er
+                                nicht singt); (<hi rend="italic">Wikipedia</hi>).</p></note>),
+                        übersteigt alle Begriffe.</p><p>Glücklicherweise ist das Ministerium <persName>Braun</persName><note type="comment" place="bottom"><p> Alexander Karl Hermann <persName>Braun
+                                </persName>(1807–1868) war ein liberaler Politiker und als solcher
+                                Landtagspräsident und Vorsitzender des Gesamtministeriums in
+                                Sachsen. Nach dem Studium der Rechte in Leipzig wurde er in seiner
+                                Heimatstadt Plauen als Advokat und Politiker tätig; ab 1839 zählte
+                                er zu den profiliertesten Landtagsmitgliedern der liberalen
+                                Opposition. Am 16. März 1848 wird <persName>Braun </persName>vom
+                                König zum Justizminister und in der Nachfolge von <persName>von
+                                    Könneritz</persName> zum Vorsitzenden des Gesamtministeriums
+                                ernannt, als welcher <persName>Braun </persName>eine Fülle von
+                                Reformen in die Wege leitete. Bei den Wahlen im Dezember 1848
+                                unterlag er einer demokratischen Mehrheit in beiden Kammern, blieb
+                                aber bis 24. Februar 1849 im Amt. In der Folge war <persName>Braun
+                                </persName>bis zu seinem Tode Amtshauptmann in Plauen; 1855 nahm er
+                                wieder ein Landtagsmandat an, 1867 ließ er sich trotz schwerer
+                                Krankheit in den konstituierenden Reichstag des Norddeutschen Bundes
+                                wählen; (<hi rend="italic">Sächsische Biografie –
+                                    http://saebi.isgv.de/
+                                biografie/Karl_Braun_(1807–1868)</hi>).</p></note> –
+                            <persName>Oberländer</persName><note type="comment" place="bottom"><p>
+                                Martin Gotthard <persName>Oberländer </persName>(1801–1868) war ein
+                                deutscher Jurist und Politiker, der in Leipzig studierte (und
+                                Verdacht geriet, Burschenschafter zu sein), 1825 wurden ihm in
+                                Zwickau Verwaltungs- und Gerichtsagenden übertragen, 1826 wurde er
+                                als Advokat zugelassen. 1832 wurde er Gerichtsaktuar und
+                                Vizestadtrichter in Zwickau. 1836 wurde er erstmals in den Landtag
+                                entsandt, wo er bald zu einem führenden Politiker der linken
+                                Opposition wurde. Im Zuge der Märzrevolution 1848 wurde er am 26.
+                                März 1848 Innenminister im Kabinett Karl Alexander Hermann
+                                    <persName>Braun</persName>s, als welcher er das Ziel der
+                                Entspannung der radikalen Politisierung durch Lösung der brisanten
+                                gewerblichen und sozialen Lage und einer Verbesserung der Situation
+                                der Frauen verfolgte. Im August 1848 wurde <persName>Oberländer
+                                </persName>von Erzherzog <persName>Johann </persName>als
+                                Reichsverweser zum Reichskommissar für die Reußischen Gebiete (d.h.
+                                die Ländereien der Familien <persName>Reuß</persName>) ernannt. Nach
+                                dem Rücktritt des Kabinetts <persName>Braun </persName>im Februar
+                                1849 arbeitete er als Geheimer Regierungsrat weiterhin im
+                                Innenminister im Versicherungswesen; (<hi rend="italic">Wikipedia</hi>).</p></note> nicht mehr da und dieser Letztere,
+                        der von unten nach oben regiert wissen wollte, ist bei allen Besseren jetzt
+                        in Mißkredit gekommen, seitdem er bei der berüchtigten Totenfeier
+                            <persName>Blum</persName>s als Leidtragender hinter der roten Fahne
+                            herlief<note type="comment" place="bottom"><p> Vgl. Dazu den Brief
+                                    <persName>Grässe</persName>s an HP ddo 1848 XI 28.</p></note>.
+                        Auf ihn existiert eine nicht unwitzige Charade<note type="comment" place="bottom"><p> Die Charade, Scharade ist ein Silbenrätsel, das im
+                                19. Jh. in Zeitschriften sehr verbreitet war.</p></note>. Sie
+                        lautet<supplied>:</supplied> die ersten zwei (Ober) stechen die Wenzel (die 4 Unter der
+                        deutschen Karten), die letzten zwei sind ein Täntzel (Länder) und das Ganze
+                        schnürt’s Ränzel. Wie aller Ehre bar diese <unclear>Männer</unclear> sind, geht daraus
+                        hervor, daß ein in Untersuchung befindlicher (wegen Aufwiegelung der
+                        Soldaten) früherer <choice><abbr>königl</abbr><expan>königlicher</expan></choice> Musikdirektor <persName>Böckel</persName>,
+                        der Redakteur eines Schandblattes, Volksblätter<note type="comment" place="bottom"><p> Möglicherweise die 1849 bis 1851 erscheinenden <hi rend="italic">„Vereinigten Volksblätter für Sachsen und
+                                    Thüringen“</hi>, unter deren Herausgebern allerdings kein
+                                „Böckel“ genannt wird; (KVK).</p></note> genannt, in die Kammer
+                        gewählt ward und bei der Vereidung statt die drei Finger einzeln in die Höhe
+                        zu halten, mit denselben gekrümmt eine Prise<note type="comment" place="bottom"><p> Die ursprüngliche Reihung der Worte lautete „eine
+                                Prise gekrümmt” und wurde durch übergesetzte Ziffern
+                            korrigiert.</p></note> haltend den Eid nachsprach und nach dieser
+                        blasphemischen Aktion dieselbe schnupfte, ohne deswegen von dem Präsidenten
+                        der IIIten Kammer, der ihm den Eid vorsprach, eine Reprimande<note type="comment" place="bottom"><p> Zurechtweisung.</p></note> zu
+                        erfahren. Ist so etwas schon einmal erhört[?] worden? Welche Schmähungen in
+                        der Kammer sonst noch ausgestoßen werden, haben Sie jedenfalls in den
+                        Zeitungen gelesen. <salute>Um baldige Antwort bittet Ihr ewig treu ergebener
+                            dankbarer Verehrer</salute></p><closer><signed>Dr. <persName>Grässe</persName><note type="comment" place="bottom"><p>
+                                Die Unterschrift scheint absichtlich durch ausufernde Schnörkel
+                                unlesbar gemacht zu sein.</p></note></signed></closer></div></body></text></TEI>

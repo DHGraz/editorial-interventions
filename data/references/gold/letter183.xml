@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_183"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Hochwohlgeborner Freiherr, Euere Exzellenz, Gnädiger Herr
+                        Internuntius</salute></opener><p>Ich<note type="comment" place="bottom"><p> Nach PvTh D.4.2.2.
+                            2/23.</p></note> habe die Ehre, Euerer Excellenz die Rechnung meiner
+                        Reiseausgaben vom ersten Junius 1800 bis ersten Junius 1801 und die
+                        Verrechnung der mir zum Ankauf von Manuskripten und Seltenheiten auf die
+                        Hand gegebenen fünfhundert Piaster beizufügen<note type="comment" place="bottom"><p> Die hier erwähnte Abrechnung ist in der unter dem
+                                28.01.1802 in London an <persName>Cobenzl</persName> (s. unter
+                                diesem Datum) datierten Gesamtabrechnung enthalten. Freilich ist
+                                fraglich, ob nicht <persName>Payer von Thurn</persName> die
+                                Abrechnungen in Zusammenhang mit der Erstellung der Abschrift unter
+                                dem 28.01.1802 erst zusammengefasst hat. </p></note>.</p><p>Die letzte Summe gehet rein auf; was mir aber von den Ausgaben der Reise,
+                        nämlich den 550 Piastern zu Gute komme, bin ich nicht im Stande zu sagen,
+                        weil ich alle meine Papiere zu Rhodos gelassen habe, und bitte E<supplied>uere</supplied>
+                        Excellenz daher in meine letzte Rechnung nachsehen zu lassen.</p><p>Was die Übermachung der angekauften Sachen betrifft, so habe ich die Ehre
+                        gehabt, dieselben alle bis auf die letzthin angekauften 20 Teile Antars (r)
+                        die 40 Teile (s)<note type="comment" place="bottom"><p> Dieser
+                                Klammerausdruck steht nach einer größeren Lücke erst ganz außen am
+                                Zeilen- bzw. Seitenrande.</p></note> und die Manuskripte i, K, L, m,
+                        o zu übermachen.</p><p>Ich wollte anfangs alle diese Bücher, so wie ich sie einzeln sammelte,
+                        überschicken, wie ich es mit dem XXI und XXIIten Teile Antars getan habe.
+                        Seitdem aber habe ich die Notwendigkeit eingesehen, die M[anu]sk[ri]pte noch
+                        hier zurückzubehalten, um dieselben mit andern zu vergleichen und bestimmen
+                        zu können, was vollständig und [was] mangelhaft sei.</p><p>Euere Exzellenz sehen, dass der mir gegebenen Kommission zufolge, ich so viel
+                        als möglich alles, was die Sammlungen von Märchen betrifft, zu erschöpfen
+                        trachte, und dass ich, indessen man noch die Existenz der 1001 Nacht
+                        bezweifelt, weit beträchtlichere Werke aufgefunden habe.</p><p>Den Preis derselben werden Euere Excellenz gering finden, wenn Sie denselben
+                        mit dem Marktpreise in Konstantinopel, wo ein einziger Band oft 1[00]–300
+                        Piaster kostet, zu vergleichen und zu bedenken geruhen, dass ich dieselben
+                        von verschiedenen Eigentümern gesammelt, dass ich alle Historienerzähler und
+                        Kaffeehäuser abgesucht und sogar besondere Leute ausgeschickt habe, um diese
+                        Bände zusammenzubringen.</p><p>Ein einziges ganzes Exemplar von diesen Werken konnte ich auf keine Weise an
+                        mich bringen, und wenn ich es mit Gold aufgewogen hätte, weil es die
+                        Scheiche der Historienerzähler, in deren Besitze sich diese Manuskripte
+                        befinden, und welche dieselben mir teilweise zum Lesen oder Abschreiben für
+                        Geld verleihen, sich derselben keineswegs entäußern wollen.</p><p>Mit der Abschreibung des Restes des Exemplars der 1001 Nacht, dessen Hälfte
+                        ich übermacht habe, sind in Rosette jetzt zwei Abschreiber beschäftigt.</p><p>Das Büchlein der arabischen Verkehrssprache und die Kasside<note type="comment" place="bottom"><p> Dieses Wort bezeichnet eine „der
+                                klassischen Formen der arabischen Dichtkunst“ bzw. ist auch „ein
+                                Sammelbegriff für jedes längere Gedicht, das anerkannten Regeln von
+                                Verslänge und Reim folgt“; (<hi rend="italic">Enzyklopädie des Islam
+                                    – </hi><ref target="http://www.eslam.de/begriffe/k/kasside.htm"><hi rend="italic">http://www.eslam.de/begriffe/k/kasside.htm</hi></ref>).</p></note>
+                        mit der türkischen Übersetzung und Erklärung habe ich hauptsächlich in
+                        Rücksicht für Anfänger in der k.k. orientalischen Akademie, welche das
+                        Arabische zu erlernen anfangen, eingekauft.</p><p>Ich bitte Euer Excellenz um die Gnade, mir bei H.
+                            <persName>Sigwald</persName> in Larnaka einen weiteren Vorschuss
+                        anzuweisen. <salute>Ich bin mit schuldiger Ehrfurcht, hochgeborner Freiherr,
+                            Euerer Excellenz, gnädiger Herr Internuntius,
+                        untertänigster</salute></p><closer><signed><persName>Hammer</persName></signed><dateline>An der der Tiger<lb/>25 Junius 1801</dateline></closer></div></body></text></TEI>

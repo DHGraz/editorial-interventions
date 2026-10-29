@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_15"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>[…] Ich<note type="comment" place="bottom"><p> Diesen sehr umfangreichen,
+                                vier Quartseiten umfassenden Brief Brief gibt <persName>Payer von
+                                    Thurn</persName> 17 nur in der obigen Schluss-Passage wörtlich,
+                                ansonsten kurz zusammenfassend wider: HP verbreitete sich in Bezug
+                                auf den Greif, <hi rend="italic">„</hi><hi rend="italic">den er mit
+                                    dem Simurg des </hi><persName>Firdusi</persName><hi rend="italic"> identifiziert</hi><hi rend="italic">“</hi>, und
+                                fragt auch an, <hi rend="italic">„</hi><hi rend="italic">wie er im
+                                    Deutschen den Plural von orientalischen in unsere Sprache
+                                    herübergenommenen Wörtern bilden soll und verbreitet sich über
+                                    die Transkription des arabischen, persischen und türkischen
+                                    Alphabets durch deutsche Zeichen</hi><hi rend="italic">“</hi>.
+                            </p></note> höre, daß <persName>Goethe</persName> durch das Land der
+                            Fajacken<note type="comment" place="bottom"><p> Wohl gemeint:
+                                Phäaken.</p></note> nach Italien zu reisen willens ist<note type="comment" place="bottom"><p> Über dieses Vorhaben
+                                    <persName>Goethe</persName>s – über Wien und Triest nach Ancona
+                                oder Neapel zu gehen –war HP nach <persName>Payer von
+                                    Thurn</persName> durch <persName>Herder</persName>s Sohn
+                                Wolfgang unterrichtet.</p></note>. Da wird er ja Nichts als
+                        höchstens gute Leute und gute Tafel finden, und wird ihn dieses wohl zu
+                        einem längeren Aufenthalte in Wien bewegen können? Darf ich Euer
+                        Hochwohlgeboren bitten, dem großen allgeliebten <persName>Wieland</persName>
+                        die Versicherung meiner Verehrung darzubringen, und den jungen H[errn]
+                            <persName>v[on]</persName> <persName>Herder</persName> meine Empfehlung
+                        zu entrichten – zweifelsohne hat er, wie ich ihn vor seiner Abreise bat,
+                        seinem verehrungswürdigen Vater in meinem Namen die Hand geküsset und Ew.
+                        Hochwohlgeboren mündlich von der Hochachtung und Ergebenheit versichert, mit
+                        der ich bin Euer Hochwohlgeboren gehorsamster Diener </p><closer><signed>J. Hammer</signed></closer></div></body></text></TEI>

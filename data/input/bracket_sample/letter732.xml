@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_732"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Graz, den 8. Oktober 1806.</dateline><salute>Verehrtester Freund!</salute></opener><p>Hätten<note type="comment" place="bottom"><p> Übernommen aus <hi rend="italic">Bachofen-Echt Beilagen II Brief
+                            27</hi>.</p></note> Sie wohl erwartet, daß seit Ihrem letzten Schreiben
+                        (3. Sept[ember]) alles eine so schnell veränderte Gestalt bekommen sollte? –
+                        Sie haben nun einen anderen Prinzen und so viele Gäste, daß ich mit Recht
+                        vermuten sollte, Ihre Sendung sei seinem[?] Ende nahe, wofern nicht neue
+                        Rücksichten auch darin eine Änderung hervorbringen. In Dalmatien oder
+                        vielmehr zwischen Ragusa und Cattaro haben die Franzosen durch die Russen
+                        und Montenegriner stark gelitten; kömmt nun noch ein russisches Heer dazu,
+                        so wird die wandelbare Gunst der Pforte sich bald wieder gegen Ruthenien
+                        wenden und dann mögen die neuen Prinzen sich wieder in ihre Winkel
+                        verkriechen, woher sie auf französischen Befehl sind hervorgezogen worden.
+                        Im Norden ist der Krieg seinem Ausbruche nahe und vielleicht fließt schon
+                        Blut in dem Augenblicke, da Sie diesen Brief lesen. Preussen scheint von
+                        seinem Schlummer erwacht zu sein und die bitteren Vorwürfe in den
+                        französischen Tagblättern! zeigen nur zu deutlich den Herd[?] der
+                        gegenwärtigen Strömung beider Kabinette. Unser Hof scheint dabei eine ebenso
+                        weise, als der Würde seiner Macht angemessene Maßregel ergriffen zu haben,
+                        welche für denselben, wenn sie konsequent geleitet wird, nicht anders als
+                        sehr vorteilhaft sein kann. </p><p>Ich suche in meinem eingeschränkten Zirkel, wenn ich nicht viel Gutes zu tun
+                        die Macht habe, wenigstens so viel Böses als möglich zu verhindern, welches
+                        in unserer besten Welt schon sehr viel ist, denn da sie keiner absoluten
+                        Perfektibilität fähig ist, so ist die Verminderung der Unvollkommenheiten
+                        das einzige erreichbare Ziel, auch für den geübtesten und unumschränktesten
+                        Staatsmann. Nur bedaure ich, daß das immerwährende Geschreibsel mir die
+                        Pflege meiner kleinen Feldwirtschaft in Obersteyer unmöglich macht – meine
+                        einzige liebe Beschäftigung, seit ich nun auch praktisch von der Nichtigkeit
+                        und Leerheit aller übrigen überzeugt bin. Mit der Dichtkunst – kurz mit
+                        allen Zweigen der Literatur will es nicht recht fort; es gibt hier zu Lande
+                        wenige unterrichtete Männer, die Buchläden sind leer und die unerbittliche
+                        Zensur erlaubt nicht, sie mit Werken zu füllen, auf welchen ein forschender
+                        Geist mit Wohlgefallen verweilen kann. <salute>Erhalten Sie mir Ihr Andenken
+                            und seien Sie von meiner vollkommensten Hochachtung überzeugt. Ihr
+                            ergebenster Diener</salute></p><closer><signed><persName>Saurau</persName></signed></closer></div></body></text></TEI>

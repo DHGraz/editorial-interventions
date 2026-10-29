@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_867"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Dresden d[en] 8 Octob[e]r 1807</dateline></opener><p>Also<note type="comment" place="bottom"><p> Auch, aber fehlerhaft, ohne das
+                                griechische Zitat und ohne jede Nennung des Briefschreibers, <hi rend="italic">Bachofen-Echt Beilagen II 57</hi>.</p></note> in
+                        Wien ist jetzt Ihr Aufenthalt, mein würdiger und edler Freund! Warum gaben
+                        Sie mir nicht einen einzigen Wink darüber<note type="comment" place="bottom"><p> HP erhielt am 14.07.1807 völlig überraschend den Befehl, sofort
+                                nach Wien zurückzukehren und brach auch tatsächlich am nächsten Tag
+                                bereits auf. – <hi rend="italic">BE-Erinnerungen
+                            168</hi>.</p></note>. Wie manches hätte ich Ihnen da durch sichere
+                        Gelegenheit zukommen lassen können. Das fatalste ist, daß ich erst vor einer
+                        Woche einen Brief von unserem edlen <persName>Müller</persName> an Sie, von
+                        dem Meinigen begleitet, an <persName>Härtel</persName> nach Leipzig zur
+                        Bestellung durch die bewußte Gelegenheit nach Jassy<note type="comment" place="bottom"><p> Wo sich HP zuvor dienstlich aufgehalten
+                            hatte.</p></note> schickte, den ich nun nicht reklamieren kann.
+                            <persName>Müller</persName>s Schicksal war, als er mir vor 10 Tagen
+                        schrieb, noch unentschieden und er sah voraus, daß[,] obgleich der König und
+                        die alles sänftigende, holde Königin ihn sehr baten, in Berlin zu bleiben
+                        und auf seine Mitwirkung bei der Zusammenschmelzung der Akademie mit den
+                        Universitäten Halle und Erlangen stark rechneten, doch vielleicht die ihm
+                        bisher gewordene Besoldung von 3000 Thr. dem neuen General-Kontrolleur
+                            <persName>v.</persName> <persName>Stein</persName><note type="comment" place="bottom"><p> Heinrich Friedrich Karl Reichsfreiherr
+                                    <persName>vom und zum Stein</persName> hatte eben am 30.09.1807
+                                mit außerordentlichen Vollmachten die Leitung der gesamten
+                                Zivilverwaltung des preußischen Staates übertragen erhalten.
+                            </p></note> zu hoch dünken könnte. Der König von Württemberg<note type="comment" place="bottom"><p> Es war dies
+                                    <persName>Friedrich I.</persName>, der 1806 die Königswürde
+                                angenommen hatte und dem Rheinbund beigetreten war.</p></note> bot
+                        ihm eben das und sonst größere Vorteile. In diesem Fall also würde er doch
+                        vielleicht zu Ostern noch nach Süddeutschland seinem Vaterland<note type="comment" place="bottom"><p> Johannes
+                                    <persName>von </persName><persName>Müller</persName> stammte aus
+                                Schaffhausen.</p></note> näher zu kommen suchen. So viel vorläufig
+                        von unserem Freund<note type="comment" place="bottom"><p>
+                                <persName>Müller</persName> ist am 29. Mai 1809 in Kassel, in
+                                französischen Diensten, gestorben, wo ihm König
+                                    <persName>Ludwig I. von Bayern</persName> ein Denkmal errichten
+                                ließ.</p></note>!</p><p>Außerordentlich freue ich mich von Ihnen zu hören, daß Sie an Ihren
+                            Reisen<note type="comment" place="bottom"><p> HP hat – allerdings viel
+                                später, 1818 und 1822 – Reisebeschreibungen
+                            veröffentlicht.</p></note> arbeiten. Ich beschwöre Sie, mein edler
+                        Freund, doch ja dies Vorhaben ungesäumt auszuführen und alle Schwierigkeiten
+                        und Bedenklichkeiten deswegen zu beseitigen. Wer sah so als Orientale, und
+                        doch mit allen Schätzen europäischer, ja ich bin stolz genug zu sagen,
+                        deutscher Kultur ausgerüstet, dies Grab der alten klassischen Welt, aus dem
+                        wir alle noch eine Auferstehung zu erleben hoffen, als Sie. Warum bin ich
+                        nicht bei Ihnen, um mit Ihnen über die Form und Einkleidung sprechen zu
+                        können! Da haben <persName>Murhard</persName> in Kassel, und
+                            <persName>Reimer</persName>s<note type="comment" place="bottom"><p>
+                                Heinrich Christoph
+                                    <persName>von </persName><persName>Reimers</persName>
+                                (1768–1812), kaiserlicher Staatsrat in St. Petersburg, hatte 1803
+                                das Werk <hi rend="italic">„Reise der russisch-kaiserlichen
+                                    ausserordentlichen Gesandtschaft an die Othomanische Pforte im
+                                    Jahr 1793. Drei Theile vertrauter Briefe eines Ehstländers an
+                                    einen seiner Freunde in Reval. Mit Kupfern und einer Karte. St.
+                                    Petersburg“</hi> veröffentlicht; (<hi rend="italic">Wikisource
+                                    20091113</hi>).</p></note> in Petersburg und selbst einige
+                        Franzosen und Engländer (besonders der arme [Schäher?] der
+                            <persName>Dallaway</persName>) neuerlich so viel Unfug auf diesem
+                        heiligen Boden geschrieben. Exoriare aliquis istis ex ossibus ultor!<note type="comment" place="bottom"><p> Möge sich aus diesen Gebeinen
+                                (irgend)ein Rächer erheben! Nach Vergil, Aeneis 4,625, wo nostris
+                                („aus unseren Gebeinen“) statt istis steht.</p></note> Schreiben Sie
+                        mir doch, wenn es möglich ist, etwas Genaueres über Plan und Umfang Ihrer
+                        Reisebeschreibung. Wird <persName>Schreyvogel</persName><note type="comment" place="bottom"><p> A: Schreivogel.</p></note> sie nicht in Verlag
+                        nehmen?</p><p>Ihre Ebene von Troja<note type="comment" place="bottom"><p> HPs 1799/1800
+                                verfasstes Weihegedicht auf die Ebene von Troja.</p></note>, das
+                        Original von Ihrer Hand, habe ich Ihnen zwar nicht, aber unserem Johannes
+                            <persName>v.</persName> <persName>Müller</persName> zurückgeschickt,
+                        durch den ich es damals erhielt. Zum Glück habe ich für mich eine Abschrift
+                        genommen und diese schicke ich Ihnen hier. Das letzte davon Homers
+                            Schule<note type="comment" place="bottom"><p> HP, <hi rend="italic">Die
+                                    Schule Homers. (Fragment einer Reise auf Chios im Jahre
+                                    1799)</hi>; in: <hi rend="italic">Neuer Teutscher Merkur 1
+                                    (1802) 13–19.</hi></p></note> wurde, wie Sie wissen, mit einigen
+                        Worten von mir im Merkur abgedruckt. Sollten Sie behindert werden, einen
+                        Gebrauch davon zu machen, so bitte ich Sie, mir diese Abschrift
+                        zurückzuschicken.</p><p>Zugleich lege ich Ihnen noch ein anderes M[anu]sc[rip]t bei, eine Übersetzung
+                        des Shipwreck von <persName>Falkoner</persName><note type="comment" place="bottom"><p> William Falkoner, <hi rend="italic">The shipwreck and
+                                    other poems, London 1762</hi> und zahlreiche weitere Auflagen.
+                                HP hatte eine – wohl vom ihm selbst angefertigte – Übersetzung
+                                dieses Werkes 1802 an <persName>Böttiger</persName>
+                            gesandt.</p></note>, das Ihr Eigentum ist, bei. Ich konnte keinen
+                        Verleger dazu finden, zweifle aber keinen Augenblick, daß, wenn Sie es einer
+                        nochmaligen Feile unterwerfen wollten, <persName>Geistinger</persName><note type="comment" place="bottom"><p> Der Verleger Josef
+                                    <persName>Geistinger</persName> (1769–1829), dessen Buchhandlung
+                                später von Carl <persName>Gerold</persName> aufgekauft worden
+                                ist.</p></note> in Wien es nicht nur verlegen, sondern auch mit
+                        einigen ausdrucksvollen Vignetten (in England gab man es mit herrlichen
+                        Holzstichen heraus) auszieren würde. Darum schicke ich es Ihnen hier zurück.
+                        Unser norddeutscher Buchhandel liegt in den letzten Zügen!<note type="comment" place="bottom"><p> Es ist hier daran zu erinnern, dass
+                                Preußen im Tilister Frieden nur knapp der vollständigen Auflösung
+                                entgangen ist und alle linkselbischen Besitzungen verloren
+                                hatte.</p></note></p><p>Soll ich Ihnen die Schirin<note type="comment" place="bottom"><p> HPs
+                                Gedicht, das <persName>Böttiger</persName> zur Drucklegung
+                                übernommen, aber nicht untergebracht hatte.</p></note>
+                        zurückschicken? Wahrlich es verlohnte sich der Mühe, daß Sie <graphic url="media/image23.jpeg"/><note type="comment" place="bottom"><p> Bei
+                                der zweiten Fahrt. Aristoteles, Nikomachische Ethik
+                            1109a.</p></note> dies Abenteuer noch einmal bestünden. Dann würde es
+                        unter Ihrer heilenden Pflege aus wie eine junge Frühlingssonne aufgehen.
+                        Aber einen Katascevasten<note type="comment" place="bottom"><p>
+                                Beihelfer.</p></note> dazu finde ich nirgends. Ich habe Ihnen
+                        ausführlich darüber in meinem letzten Brief geschrieben. Soll diese
+                        herrliche, nicht nur geschmackvoll gezeichnete Perlenschnur denn ganz
+                        verloren gehen?</p><p>Ich bin meiner wankenden Gesundheit wegen im Karlsbad und sonst viel
+                        abwesend, also ganz untätig gewesen. Jetzt bereite ich mich zu meinen
+                        archäologischen Wintervorlesungen. Ich werde diesmal über die Malerei der
+                        Alten lesen. Können Sie mir nichts dazu verschaffen?</p><p>Die schon durch Ihre außer Wien einladende Rezension werde ich an die
+                        Hallische (bald Berliner) Literaturzeitung geben und dabei die Ihnen nicht
+                        bezahlte Rezension des <unclear>Westihefts</unclear> nachdrücklich erinnern. Schuldig soll
+                        man es gewiß nicht bleiben. Hier lege ich Ihnen Gemmen von meinem Freund,
+                        dem Grafen <persName>Benzel-Sternau</persName>, dem Verfasser des goldenen
+                            Kalbes<note type="comment" place="bottom"><p> Karl Christian Ernst von
+                                Benzel-Sternau (Pseudonym Horatius Cocles), <hi rend="italic">Das
+                                    goldene Kalb. Eine Biographie, 4 Bde 1802–1804</hi>, gegen die
+                                sich anbahnende Judenhetze.</p></note>, in Karlsruhe bei. So sollten
+                        Sie orientalische Mythen und Parabeln an Sprüche des Korans knüpfen. Ich
+                        schicke Ihnen dies als eine Musterform. Setzen Sie Sprüche des Korans voran
+                        und fassen Sie diese Edelsteine mit Ihrem Gold ein.<note type="comment" place="bottom"><p> Der Schluss des Briefes fehlt.</p></note></p></div></body></text></TEI>

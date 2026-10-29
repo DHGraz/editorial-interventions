@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1285"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Dresden, d[en] 18 Januar 1812</dateline></opener><p><salute>Mein geliebter Freund!</salute> Alles ist mir durch
+                            <persName>Rühle</persName> richtig zugekommen. Dank für alles und
+                        besonders auch für den ausführlichsten Bericht, der mich über Manches klar
+                        sehen läßt. Dem Himmel sei Dank, daß der edle <persName>Rzewuski</persName>
+                        doch für die Fundgruben sorgte. Denn bei dem nun unvermeidlich ausbrechenden
+                        Kriege geht unser Buchhandel ganz zu Grunde. Dieselben Äußerungen taten die
+                        Pariser Buchhändler und den Sterbenden muß wenigstens gestattet sein zu
+                        sagen: ich sterbe. Das ist aber auch alles, was ich mir in dieser
+                        sonderbaren Zeit zu äußern erlaube, und deswegen kann schwerlich ein
+                        Verhaftbefehl gegen mich, dem man hier so gar die Ehre antut, ihn für einen
+                        Erzfranzosen zu halten, gegeben werde. Freund
+                            <persName>Griesinger</persName> schreibt mir von diesem Gerücht. Es läge
+                        mir doch sehr viel daran, die Quelle desselben aufzuspüren und Sie würden
+                        mich außerordentlich verpflichten, wenn Sie Ihre Sagazität<note type="comment" place="bottom"><p> Sagazität = Scharfsinn.</p></note>
+                        dazu aufbieten. Schreiben Sie mir nicht bald einige Worte darüber. Ein
+                        anderes liegt mir sehr am Herzen. Ein vermaledeiter <choice><sic>Kobolt</sic><corr>Kobold</corr></choice> steckt in
+                        der Zeitung für die elegante Welt<note type="comment" place="bottom"><p> Die
+                                    <hi rend="italic">„Zeitung für die elegante Welt“</hi> war eine
+                                literarisch-kulturelle Zeitschrift, die 1801 bis 1859 anfangs
+                                dreimal, dann viermal wöchentlich mit wechselnden Beiblättern in
+                                Leipzig erschien und thematisch Literatur, Kunst, Theater,
+                                Innendekoration und Gartengestaltung etc., nicht aber politische
+                                Themen behandelte; (<hi rend="italic">Wikipedia 20101028</hi>).
+                            </p></note>. Gleich nach meiner Rückkehr von Wien schrieb ich an den
+                        Redakteur und schickte zugleich das Blatt mit, was mir unser lieber Graf
+                            <persName>Harrach</persName> zu seiner Rechtfertigung anvertraut hatte.
+                        Da <persName>Mahlmann</persName> einen Unter-Redakteur hat und sich selbst
+                        um nichts bekümmert, so herrscht eine greuliche Verwirrung da. Kurz es ist
+                        nichts inseriert worden und nun kann ich auch nicht einmal das Blatt wieder
+                        erhalten. Wäre es den gar nicht möglich, jenes Blatt noch, in einem Abdruck
+                        zu erhalten? Bitten Sie doch den Grafen darum. Er wird ja die Nummer wissen
+                        und sie beim Verleger finden lassen können. Ich verspreche aufs heiligste,
+                        Sorge dafür zu tragen, daß die Anzeige abgedruckt werde. Gern will ich jene
+                        Mühe zum ersten Mal verloren haben, wenn ichs nur jetzt noch durchsetzen
+                        kann. Viele Punkte Ihres lieben Briefs bleiben hier unbeantwortet. Ich
+                        wollte mir aber nur das von der Brust wegschaffen, was mich am meisten
+                        drückt. Großen Dank für die lieblichen Gedichte, besonders für das mir noch
+                        ganz neue Wiens Gärten und Umgebungen<note type="comment" place="bottom"><p>
+                                HP, <hi rend="italic">Wien’s Gärten und Umgebungen, daraus auch
+                                    besonders abgedruckt</hi>; in: <hi rend="italic">Sartori’s
+                                    malerischen Taschenbuch, 1812</hi>.</p></note>. Es sind
+                        hochbegeisternde, herrliche Stellen darin. Wie viel habe ich von Ihrer Hand
+                        noch zu sehn! <salute><graphic url="media/image32.jpeg"/><note type="comment" place="bottom"><p> Reichtum, Gesundheit und
+                                    Friede.</p></note> zum neuen Jahr Ihr</salute></p><closer><signed>B[B<persName>öttiger</persName>]</signed></closer></div></body></text></TEI>

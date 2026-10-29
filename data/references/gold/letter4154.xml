@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4154"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Trébutien</persName> berichtet <persName>Caroline</persName>
+                    <persName>von Hammer</persName> neuerlich von seinen Erlebnissen beim Besuch des
+                    Schlosses Les Rochers von Mme <persName>de Sévigné</persName>, um ihr näher über
+                    seinen Empfang durch den neuen Besitzer zu berichten.</p></div><div type="letter" subtype="original"><opener><dateline>Caen, le 8 Mars 1830</dateline><salute>Madame,</salute></opener><p>Quoi que je vous aie déjà adressé une lettre d’une longueur vraiment
+                        effrayante sur ma visite aux Rochers, il me reste encore à vous raconter mon
+                        arrivée, et comment, moi, l’homme de France, peut-être le plus rempli de
+                        faveur pour la mémoire de Mme <persName>de Sévigné</persName>, je fus
+                        accueilli par le possesseur actuel du château, par celui qui habite
+                        maintenant les mêmes lieux qu’habita autrefois la femme célèbre, objet de
+                        notre culte.</p><p>Or, je vous prie, Madame, de vous rappeler le passage de la lettre où je vous
+                        ai narré fort longuement toutes les tribulations de notre route depuis Vitré
+                        jusqu’aux Rochers; imaginez-vous qu’après avoir passé des ravins, des
+                        fondrières, après avoir erré près d’une heure pendant l’obscurité la plus
+                        profonde au milieu d’un pays tout à fait inconnu, me voilà enfin arrivé le
+                        19 Septembre de l’an de grâce 1829, vers les huit heures du soir, devant
+                        l’entrée du château. C’est alors que dans toute l’effusion de mon cœur je
+                        rendis grâce à Dieu et aux Prophètes. On ne voyait ni m’entendait pas. Nous
+                        nous hasardons à ouvrir une entrance sur les hauts de laquelle est une tête
+                        de dragon qui avec une large gueule semble faire la peur aux gens qui
+                        arrivent; et nous entrions le monument avec notre voix une cour immense et
+                        où régnait une solitude complète. Il faisant tout noir et nous ne savions de
+                        quel côté tourner nos pas. Enfin j’ap[erçus] une lumière vers laquelle je
+                        commençais à me diriger, lorsque j’entendis quelque chose qui marchait dans
+                        l’ombre à peu de distance de moi. J’appelle et je vois s’approcher un homme
+                        tout couvert de poil, et qui ressemblait pas mal à un Orang-Outang<note type="comment" place="bottom"><p> Zu jener Zeit wurde die Bezeichnung
+                                „Orang-Utan“ mitunter auch noch für Schimpansen verwendet.
+                            </p></note>. – Ce n’était cependant qu’un domestique, car il est, – bien
+                        que vous sachiez que la plupart des paysans bretons sont ancêtres comme
+                        leurs ancêtres, vêtus d’habits de peaux de bêtes. Je priais ce brave homme
+                        de me faire parler à quelqu’un du château. Il me laissa planté au milieu de
+                        la cour, et au bout d’un gros quart d’heure, je le vis revenir avec une
+                        espèce de valet de chambre<note type="comment" place="bottom"><p> A:
+                                unleserlich, wahrscheinlich aber „valet de chambre“ –
+                                Kammerdiener.</p></note> à quoi j’exposais le but de mon voyage.
+                        „Venez, me dit-il, je vais parler à M. le Marquis.“ Je le suivis, et après
+                        l’avoir attendu quelques instants dans la cuisine, je le vis reparaître avec
+                        un flambeau à la main, et il me fit entrer dans un salon autour duquel
+                        étaient suspendus des portraits. Alors il prit sa chandelle: le Marquis
+                            <persName>de Villiers</persName>, la Duchesse<persName> de
+                            Chantillon</persName>! ... et il allait continuer comme un homme qui
+                        fait voir des figures de cire à la foire. Après toutes les transes que
+                        j’avais éprouvées pendant la route, je n’étais certes guère dans une
+                        situation d’esprit pour faire l’examen des portraits. Je dis donc au valet
+                        de chambre indicateur: Je sais combien l’heure à laquelle je me présente,
+                        est peu convenable, mais je vous ai expliqué par quelles raisons nous sommes
+                        arrivés si tard; et l’impossibilité absolue ou nous <surplus>nous</surplus> trouvâmes
+                        maintenant de retourner à Vitré, me met dans la nécessité de supplier
+                            <persName>M. </persName>le marquis<persName> de Nétumières</persName> de
+                        nous accorder l’hospitalité pour cette nuit. Je croyais, je l’avouerai
+                        franchement, que ma demande allait m’être octroyée sans difficulté aucune,
+                        pas ainsi n’en fût, je vous prie, de ne point juger de l’hospitalité des
+                        Français par celle de <persName>M. </persName>le marquis<persName> des
+                            Nétumières</persName><persName>.</persName> Son chambellan lui
+                        communiqua ma très humble supplique. Alors s’établit entre nous un
+                        pour-parler fort curieux dont vous aurez les détails dans mon opuscule, mais
+                        trop long pour pouvoir être rapporté ici, – il vous suffira connaître le
+                        résultat. Après des longues explications sur le but de mon voyage, interrogé
+                        qui j’étais, je déclarai mon nom en l’incitant pompeusement de mes titres
+                        d’Antiquités, d’homme de lettre, d’académicien, d’orientaliste et autres
+                        belles choses, le marquis fort peu sensible à ce qu’il paraît aux
+                        distributions littéraires, nous envoya fort gracieusement et fort poliment
+                        coucher au moulin. „J’ignorais, dis-je, qu’il y eût un moulin si près, comme
+                        c’est ma vraie place, je m’y serais rendu directement“. Je prie M. le
+                        marquis d’excuser ma méprise à cause de mon ignorance. Ici je dois vous
+                        avouer que la conduite du sur-dit marquis m’avait révolté et que j’ajoutai
+                        quelques observations peu mesurées. Outre le moulin il y avait encore une
+                        métairie, une petite ferme, voisinée du château, comme elle en était un peu
+                        moins éloignée, ce fut là que nous nous adressâmes. Ayant raconté notre
+                        aventure aux braves gens qui habitaient la métairie qui nous accueillirent
+                        avec une obligeance et une bonté dont je ne perdrais jamais le souvenir, ils
+                        nous allumèrent du feu et se mirent en quatre pour nous faire à souper. Mais
+                        il n’y avait qu’un lit dans la maison et il était occupé depuis par la femme
+                        du fermier accouchée depuis peu; ce digne homme était au désespoir de ne
+                        pouvoir nous l’offrir. Nous fûmes obligés de coucher sur un tas de foin<note type="comment" place="bottom"><p> A: foi</p></note> où j’ai passé la
+                        meilleure nuit que je n’ai point fait de ma vie. Ce qu’il y a de certain,
+                        c’est que je me rejouais beaucoup maintenant de l’aventure et je ne voudrais
+                        pour rien au monde qu’elle ne me fût pas arrivée; j’espère en tirer…<note type="comment" place="bottom"><p> A: Satz nicht beendet.</p></note></p><p>Le lendemain matin, en nous levant, nous trouvâmes un excellent déjeuner qui
+                        nous attendait. Les braves gens avaient fait main basse sur leurs pigeons et
+                        leurs volailles; et quand nous partîmes, il nous fût impossible de leur
+                        faire accepter d’argent. Ils étaient assez payés, disaient-ils, de nous
+                        avoir rendu service. Vous ne sauriez croire combien cela me déchargea le
+                        cœur de trouver aussi des chrétiens après les procédés révoltants du
+                        marquis. Après la scène de la veille, je croyais que ce dernier ne voulût
+                        pas me laisser visiter le château, mais lorsque je me présentai je fus
+                        conduit partout. –</p><p>Et cette lettre de mille pages, Madame, cette lettre si désirée et toujours
+                        vraiment attendue, elle est donc perdue sans espoir! Malédiction, mille fois
+                        de malédiction sur les courriers qui ont fait ce malheur! Je ne saurais vous
+                        dire combien cela m’affligea; car je vous l’avouerai je me faisais donner
+                        une fête de la lettre que j’espérais recevoir de vous en réponse à celle que
+                        je vous avais écrite sur les Rochers. Et il faut que ce soit précisément
+                        celle là qui se trouve perdue! Il y a de la fatalité. Il me restait encore
+                        deux feuilles d’oranger des Rochers; puisque celle que je vous avais
+                        adressée, s’est trouvée égarée, je vous en envoie maintenant une autre. Vous
+                        riez sans doute de me voir attacher du prix à ces choses semblables. J’en
+                        conviens que je passe jusqu’à la manie, l’intérêt que j’attache aux objets
+                        qui me rappellent des lieux ou des personnages célèbres. C’est ainsi que
+                        j’ai rapporté du Mont-Saint-Michel de la mousse que j’ai détachée d’une
+                        vieille muraille à quelques quatre cents pieds au-dessus de la mer dont les
+                        flots se brisaient au pied du rocher.</p><closer><salute>Je vous remercie beaucoup, Madame, de tout le bonheur que vous voulez
+                        bien me souhaiter; croyez, que ce vœu de votre patron est déjà grand pour
+                        moi, croyez aussi, que rien n’égale ma reconnaissance pour votre amitié
+                            [<note type="comment" place="bottom"><p> A: unleserlich, da die Seite
+                                umgebogen ist.</p></note>] toutes vos bontés.</salute><signed><persName>T[rebutien]</persName></signed></closer></div></body></text></TEI>

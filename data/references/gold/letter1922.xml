@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1922"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>4 juillet 1817</dateline><salute>Monsieur et cher ami<note type="comment" place="bottom"><p> Der
+                                vorliegende Brief wurde diktiert, weshalb es zu Abweichungen zu der
+                                sonst bei <persName>de </persName><persName>Sacy</persName> üblichen
+                                Orthographie kommen kann.</p></note>,</salute></opener><p>J´ai à répondre à un grand nombre de vos lettres, des mois de Mars et des
+                        suivans, jusqu`à celle du 4 Juin inclusivement. Ma dernière était du 8
+                        Avril, en sorte que je me trouve coupable de ne vous avoir point encore
+                        fait, ainsi qu`à M[ada]me
+                            <persName>de</persName> <persName>Hammer</persName>, mon copliment sur
+                        l´heureux avènement au monde de M. Charles Joseph Camille<note type="comment" place="bottom"><p>
+                                <persName>HPs</persName> Sohn Carl Joseph Camillo
+                                    <persName>von</persName> <persName>Hammer(-Purgstall)</persName>
+                                (1817–1879).</p></note>. Sans doute cet enfant est destiné à faire
+                        beaucoup de bruit un jour ici bas, puisqu´il remplit déjà les journaux de
+                        son nom. J´ai tiré son horoscope, et je tiens pour certain qu´il réunira la
+                        fortune de Charlemagne, à la beauté et à la sagesse de Joseph, et à toutes
+                        les vertus de Camille<note type="comment" place="bottom"><p> Camillo
+                                    <persName>von</persName> <persName>Lellis</persName> (1550–1614)
+                                wurde 1746 heiliggesprochen; (<hi rend="italic">Wikipedia
+                                    20101211</hi>).</p></note>.</p><p>ﭼنين طالعي كآمد آن ﭘور ازو ﭼد ﮔوين زهى ﭼشم بد دور ازو</p><p>ﭼو زاد آن كرامي بفال ﭼنين برافر وخت باغ ان نهال ﭼنين<note type="comment" place="bottom"><p> Persische Passage.</p></note></p><p>Je ne suis pas surpris, mon cher ami, que votre verse poëtique<note type="comment" place="bottom"><p> Es handelt sich mit größter
+                                Wahrscheinlichkeit um das Gedicht, das im Anschluss diskutiert wird.
+                                    <persName>HP </persName>wurde durch die Geburt seines Kindes
+                                dazu inspiriert.</p></note> ait été inflamé par un aussi heureux
+                        évènement, et que l´aurore de la satisfaction, ayant pris la place de la
+                        nuit du désir, la chaîne de l´action de grâces ait été mise en mouvement, et
+                        le pot-au-feu de la joie soit entré en ébullition. Qu´en cet instant le
+                        diamant de l´inspiration ait forcé les perles des paroles sublimes, et que
+                        le jouaillier de l´enthousiasme ait arrangé symétriquement les rubis et les
+                        saphirs des mots artistement cadencés, il n´y a pas là de quoi s´étonner.
+                        Mais que dirait le poëte arabe s´il voyait comment vous avez mal traité ces
+                        vers, en suivant aveuglement <persName>Carlyle</persName><note type="comment" place="bottom"><p> A: Carlisle. Carlyle, <hi rend="italic">Specimens of Arabian poetry: from the earliest
+                                    time to the extiction of the Khaliphat, with some account of the
+                                    authors. Cambridge, 1795</hi>. Eine zweite Ausgabe des Werkes
+                                erschien 1810.</p></note>, qui probablement ignorait les règles de
+                        la prosodie? les [sic] grammairiens ne vous pardonneraient peut-être pas-
+                        devantage votre manque de respect pour les règles du اعراب<note type="comment" place="bottom"><p> [iˁrāb], d.h. ar.
+                            (Wort-)Beugung.</p></note>, violés dans le mot <note type="comment" place="bottom"><p> [yabkū] ar. „sie weinen“ nach der „A-Konjugation“.
+                                    <persName>HP</persName> hatte als Abschluss des dritten Verses
+                                seines Gedichtes ursprünglich diese Verbform gewählt, was hier
+                                jedoch grammatikalisch nicht korrekt ist.
+                                    <persName>De </persName><persName>Sacy</persName> schlägt ihm
+                                dort die – in diesem Fall – korrekte Vergangenheitsform [bakaū]
+                                vor.</p></note>يبكوا [.] /// Dépêchez[-]vous donc de dire du fond du
+                        coeur un bon استغفر الله<note type="comment" place="bottom"><p> [astaġfir
+                                Allah], ar. Ausspruch bei Abwendung des Fehlers oder bösen Blickes,
+                                „ich nehme meine Zuflucht zu Gott“.</p></note> ou كردم<note type="comment" place="bottom"><p> [tauba kardam], pers. Entsprechung zu
+                                [astaġfir Allah].</p></note> توبه et écrivez ainsi ce distique<note type="comment" place="bottom"><p> Distichon.</p></note>:</p><p>أَ نْتَ ٱلَّذىِ وَلَدَتْکَ أُمُکَ بَاكيِاً</p><p>وٱلَّناسُ حَوًّلَکَ يَضْحَكوُنَ سُرُوراً</p><p>فآجْهَدْ لِنَفْسِکَ أَن تَكُونَ إِذَا بَكَوُا</p><p>في يومِ مَوْتِکَ ضاحكاً مسروراً<note type="comment" place="bottom"><p> [antā
+                                allaḏī waladatak<hi rend="superscript">a</hi> ummuk<hi rend="superscript">a</hi> bākiy<hi rend="superscript">an</hi>,
+                                wa an-nās<hi rend="superscript">u</hi> ḥawwalak<hi rend="superscript">a</hi> yaḍḥakūn<hi rend="superscript">a</hi>
+                                    surūr<hi rend="superscript">an</hi>, fa-aǧhid li-nafsik<hi rend="superscript">a</hi> an takūn<hi rend="superscript">a</hi>
+                                iḏā bakaū fī yaum<hi rend="superscript">i</hi> mautik<hi rend="superscript">a</hi> ḍāḥik<hi rend="superscript">an</hi>
+                                    masrūr<hi rend="superscript">an</hi>.] ar. „Du bist derjenige,
+                                den deine Mutter weinend zur Welt gebracht hat, und die Menschen um
+                                dich herum lachen vor Freude, so gib dir Mühe, zu lachen und
+                                fröhlich zu sein, wenn sie an dem Tag deines Todes weinen“. Dabei
+                                handelt es sich um das Gedicht, das <persName>HP</persName>
+                                anlässlich der Geburt seines Sohnes Carl ins Deutsche übersetzte, an
+                                all seine Freunde sandte und zudem in den <hi rend="italic">Fundgruben des Orients</hi> veröffentlichte. Seine Übersetzung
+                                hat folgenden Wortlaut: „Es lachten Alle froh am Tag´ der dich
+                                gebar: Dem Mutterschoos´ entsankst nur du allein in Thränen; Leb´
+                                so, daß an dem Tage wo du nahst der Bahr´ Du lachst, indeß sich Alle
+                                weinend nach dir sehnen“; <hi rend="italic">Fundgruben des Orients 5
+                                    (1816) 204</hi> (<hi rend="italic">„An meinen Sohn Carl an
+                                    seinem Geburtstage den 20</hi><hi rend="italic">ten</hi><hi rend="italic"> April 1817“</hi>). </p></note></p><p>Ces vers sont du الكامل<note type="comment" place="bottom"><p> [Baḥr
+                                al-Kāmil], d.h. das Werk „al-Šāmil fī al-Baḥr al-kāmil fī
+                                al-Dawr al-ʻāmil fī Uṣūl al-Taˁzīm wa-qawāˁid al-Tanǧīm“ von
+                                    <persName>Tabasi</persName>, DMG Muḥammad ibn Aḥmad Ṭabasī
+                                (gest. 1089 oder 1090). Enthält verschiedene Sprüche; <hi rend="italic">Princeton University Library;
+                                    (http://diglib.princeton.edu 20101127)</hi>.</p></note> بحر dont
+                        la mesure primitive est le pied متفاعلن<note type="comment" place="bottom"><p> [mutafāˁlan], arabisches Versmaß.</p></note>, six fois répété.
+                        Consultez la prosodie de <persName>Saint Clericus</persName><note type="comment" place="bottom"><p> A: S. Clericus. Es könnte allenfalls
+                                auch „Clerieus“ gelesen werden. Möglich ist, dass es sich bei dem
+                                Autor um Jean <persName>Le Clerc</persName> (1657–1637) handelt, der
+                                eine Abhandlung über Etymologie in folgendem Werk veröffentlicht
+                                hat: Martini/Le Clerc, Jean/Séville: <hi rend="italic">„Lexicon
+                                    philologicum, praecipue etymologicum et sacrum, in quo latinae
+                                    et a latinis auctoribus usurpatae tum purae tum barbarae voces
+                                    ex originibus declarantur, etc., auctore Matthia Martinio.
+                                    Accedunt Cadmus graeco-phoenix et glossarium Isidori, cum
+                                    emendationibus et notis J.-G. Graevii et auctario Theod.
+                                    Jansson. ab Almeloveen: praefixa est J. Clerici dissertatio
+                                    etymolo</hi>[gico]<hi rend="italic">“</hi>. <hi rend="italic">Utrecht, 1711, Trajecti-Batav/Broedelet</hi>. </p></note>, et
+                        vous reconnaîtrez la vérité de ce que je vous dis. – Je ne saurais dire de
+                        quel poëte est ce quatrain<note type="comment" place="bottom"><p>
+                                Vierzeiler.</p></note>, M. <persName>Rousseau</persName> à ce qui je
+                        l´ai montré, croit qu´il est de Thograï<note type="comment" place="bottom"><p>
+                                <persName>Thograi</persName>, auch: Thograi Masudi, eigentl. Hussein
+                                Ibn Ali <persName>al-Ispahni</persName> [sic] (fl. 1100) pers.
+                                Geheimschreiber, Siegelbewahrer und Alchemist. Er stand in den
+                                Diensten des Seldschukenfürsten
+                                    <persName>Maschud Ebn Muhammed</persName> [sic] (reg.
+                                1104–1117). <persName>Thograi</persName> soll großen Reichtum
+                                angehäuft und dadurch den Neid des ganzen Hofes auf sich gezogen
+                                haben, weshalb er schließlich beim Fürsten in Ungnade fiel und von
+                                diesem hingerichtet wurde; (<hi rend="italic">Schmieder
+                                    1832:99f</hi>).</p></note>, mais il n´est est pas certain.</p><p>Je vous avais annoncé l´arrivée de M. <persName>Rousseau</persName> en
+                        France. Il a laissé sa famille à Marseille, et est venu à Paris pour
+                        solliciter un autre poste que celui de Bagdad. Son désir était qu´on lui
+                        rendit le consulat général d´Alep, ou bien qu´on lui donnât celui
+                        d´Alexandrie. Il s´était flatté que cela souffrirait peu de difficulté,
+                        d´autant plus qu´il comptait sur la protection de S[on] A[ltesse] R[oyale]
+                        le Duc <persName>d´</persName><persName>Angoulême</persName><note type="comment" place="bottom"><p> Louis Antoine
+                                    <persName>de </persName><persName>Bourbon</persName>, Herzog
+                                    <persName>von </persName><persName>Angoulême</persName>
+                                (1775–1844) als <persName>Ludwig XIX.</persName> Prätendent auf den
+                                französischen Thron. Nachdem er seinem Vater
+                                    <persName>Karl</persName> X. (1757–1836) 1789 ins Exil gefolgt
+                                war, übernahm er 1792 die Führung des Emigrantenkorps in
+                                Deutschland, nach dessen Auflösung er 1799 Prinzessin
+                                    <persName>Marie Thérèse Charlotte</persName> von Frankreich
+                                (1778–1851) ehelichte. 1806 Asyl in Aylesbury bei Oxford, 1814
+                                Rückkehr nach Frankreich und Proklamation
+                                    <persName>Ludwig</persName>s XVIII. als König, danach u.a.
+                                Admiral von Frankreich, nach <persName>Napoleon</persName>s Rückkehr
+                                Generalleutnant von Frankreich im Kampf gegen diesen. 1823 warf er
+                                die spanische Revolution nieder, 1824 wird er durch die
+                                Thronbesteigung seines Vaters <persName>Dauphin</persName>; als sein
+                                Vater 1830 zur Abdankung gezwungen wird, verzichtet er ebenfalls auf
+                                die Krone, welche damit auf das Haus der
+                                    <persName>Orléans</persName> überging. Louis begleitete seinen
+                                Vater ins Exil nach Holyrood, nach Prag (1832) und schließlich nach
+                                Görz (1836), wo er als Graf von <persName>Marnes</persName> völlig
+                                zurückgezogen für den Rest seines Lebens verblieb; (<hi rend="italic">Wikipedia 20110110</hi>).</p></note>, à qui il
+                        avait envoyé trois chevaux arabes. Le prince l´a très bien acceuilli, et lui
+                        a fait présent d´une magnifique boïte d´or, enrichie de très beaux
+                        brillants, et ornée de son portrait. Il a appuyé sa demande avec intérêt.
+                        Mais au ministère la chose a paru impossible, du moins pour le moment. M.
+                            <persName>Rousseau</persName> en a conçu<note type="comment" place="bottom"><p> Lesung unsicher.</p></note> beaucoup de déplaisir, et
+                        en même temps il a été près de violentes douleurs de rhumatisme, et d´une
+                        toux opiniâtre. A cela s´est jointe la température froide et pluvieuse que
+                        nous avons éprouvé ici dans le mois de Mai, et l´inquiétude que lui donnait
+                        la santé de quelques uns de ses enfans, qu´il savait malades à Marseille. Il
+                        s´est tellement déplu ici qu´après un séjour de quarante jours environ, il
+                        est reparti, sans avoir rien fait, pour Marseille où il se propose
+                        d´attendre la décision du Ministère. Je n´ai point reçu de ses nouvelles
+                        depuis son départ, et il était si mal portant que j´en suis inquiet.-///</p><p>Pendant son séjour à Paris, M. <persName>Rousseau</persName> a fait imprimer
+                        des catalogues de ses collections de Manuscrits, Médailles, Tableaux,
+                        Pierres fines<note type="comment" place="bottom"><p> [Rousseau], <hi rend="italic">Catalogue d´une collection de médailles, de
+                                    pierres gravées et autres monuments d´antiquité = Catalogue
+                                    d´une collection de 500 manuscrits orientaux. Paris: Lenormand,
+                                    Tableaux. =</hi> [ibid.] (1817) <hi rend="italic">Catalogue
+                                    d´une collection de tableaux, de dessins et d´estampes. O.O.:
+                                    Imprimerie de Mad. Huzard =</hi> [ibid.]<hi rend="italic">
+                                    (1817) Catalogue d´une petite collection de pierres fines, de
+                                    productions naturelles et objets curieux de l´industrie persanne
+                                    et indienne, 1817, Imprimerie de Madame Huzard</hi>.</p></note>,
+                        etc. Chacune de ses collections dont vous recouvrez les catalogues avec les
+                        cahiers du journal des Savans, de Mai, <choice><sic>juin</sic><corr>Juin</corr></choice> et Juillet, est à vendre
+                        séparément. J´aurais bien voulu que notre gouvernement achetât celle des
+                        Manuscrits orientaux, que je n´ai pas vue cependant, M.
+                            <persName>Rousseau</persName> les ayant laissés à Marseille. Mais il
+                        faut y renoncer, faute de fonds. Votre Bibliothèque impériale ferait une
+                        belle acquisition, si elle achetait cette collection. Je vous prie, au nom
+                        de M. <persName>Rousseau</persName>, de faire ce que vous pourrez pour en
+                        lui en [sic] procurer la vente, et à cet effet, quoique les catalogues
+                        soient tirés à très petit nombre, Je [sic] vous en envoie deux exemplaires.
+                        Faites votre possible pour que l´Empereur ou l´Archiduc
+                            <persName>Jean</persName> en soient tentés<note type="comment" place="bottom"><p> Zum Verlauf der Verkaufsverhandlungen siehe die
+                                nachfolgenden Briefe
+                                    <persName>de </persName><persName>Sacy</persName>s.</p></note>.
+                        J´ignore le prix que M. <persName>Rousseau</persName> met à chacune de ses
+                        collections; je présume qu´il est un peu exagéré, mais pour vendre, il faut
+                        être deux, et sans doute il entendrait raison sur le prix.</p><p>M. <persName>Keene</persName> a passé deux fois chez moi, je suis allé pour
+                        le voir, sans que nous nous soyons jamais rencontrés. Je n´ai pas un moment
+                        à moi, et malgré tout mon désir de faire sa connaissance, Je [sic] ne puis
+                        sacrifier une heure à aller le chercher au boulevard de la Madeleine. Je
+                        crains qu´il n´ait déjà quitté Paris.</p><p>Je n´ai jamais pû deviner sur quoi roulent les Prolégomènes de M.
+                            <persName>Uwarow</persName> dont vous me parlez. Serait-ce sur les
+                        Dionysiaques de Nonnus<note type="comment" place="bottom"><p> Siehe
+                                Ouvaroff, <hi rend="italic">Nonnos von Panopolis der Dichter. Ein
+                                    Beytrag zur Geschichte der griechischen Poesie, St. Petersburg
+                                    1817</hi>. Auf Seite 3 findet sich folgende Passage, auf die
+                                hier wohl angespielt wird: <hi rend="italic">„Meine Absicht ist, nur
+                                    einen flüchtigen Entwurf des Gedichtes aufzustellen, höchstens
+                                    eine Art ästhätischer Prolegomena</hi> [sic] <hi rend="italic">zu liefern“.</hi></p></note>? Il y a longtemps que je n´ai eu
+                        de ses nouvelles. De grâce, mon cher ami, écrivez donc plus lisiblement, ou
+                        priez M[ada]me <persName>de Hammer</persName> de vous servir de secrétaire.
+                        J´aurai alors deux raisons de dire avec un poëte arabe:</p><p>وَصَلَت رُقْعَةُ الحبيب ابي كا مل فَحلًّتْ مَحلّ لُقْياهُ عندي</p><p>فتَلَقَّيْتُها باهلاً وسهلاً ثمّ الصقتُهَا بطَرّفي وخَدّي<note type="comment" place="bottom"><p> [waṣalat ruqˁa<hi rend="superscript">tu</hi>´l-ḥabīb
+                                Abī Kā-mil [sic], fa-ḥallat maḥall luqyāh<hi rend="superscript">u</hi> [sic] ˁindī, fa-talaqqait[u]hā bi-ahl<hi rend="superscript">an</hi> wa sahl<hi rend="superscript">an</hi>, ṯumm<hi rend="superscript">[a]</hi> alṣaqt[u]hā bi-ṭarafī
+                                wa ḫaddī] ar. <hi rend="italic">„das Schreiben des geliebten Abu
+                                    Kamil kam an, und es trat bei mir an die Stelle seines
+                                    Treffens</hi> [mit mir]<hi rend="italic">, so nahm ich es
+                                    willkommen heißend entgegen, und legte es an meine Seite und an
+                                    meine Wange.“</hi> Der Autor des Verses konnte nicht ausfindig
+                                gemacht werden. </p></note>
+                    </p><p>Est-il bien possible que je ne vous aie point fait part du mariage de ma
+                        fille aînée<note type="comment" place="bottom"><p> D.h. Marie-Antoinette
+                                    <persName>de </persName><persName>Sacy</persName>
+                                (1787–1859).</p></note>, qui a épousé le /// 31 Janvier 1816, M.
+                            <persName>Dejoantho</persName><note type="comment" place="bottom"><p> Zu
+                                dieser Person konnten keine Informationen gefunden
+                            werden.</p></note>, employé dans l´administration de l´instruction
+                        publique? J´aurais [pu]<note type="comment" place="bottom"><p> „aurais“ ist
+                                nicht eindeutig als solches zu lesen, vermutlich am Zeilenende
+                                (gegen den Rand hin) irrig geschrieben.</p></note> bien parier que
+                        je vous l´ai écrit. C´est elle qui est la mère de cette petite Victorine
+                        dont je vous ai parlé التي ليس فيما خلق الله ما يقابلها حسنا ولطافة ولا ما
+                        يَماثلها صفاءً الّا اكمل الكاملين<note type="comment" place="bottom"><p>
+                                [allatī la[i]sa fīmā ḫalaq Allah mā yuqābilhā ḥassan<hi rend="superscript">an</hi> wa laṭāfa<hi rend="superscript">tan</hi> wa lā mā yamāṯilhā [sic] ṣafāˀ<hi rend="superscript">an</hi> wa ẓarāfa<hi rend="superscript">tan</hi> illā akmal
+                                al-kāmilīn] ar. „derer es unter dem, was Allah geschaffen hat,
+                                nichts gibt, was ihr an Schönheit und Anmut gleich käme, und nichts,
+                                was ihr an Reinheit und Charme entspräche“.</p></note></p><p>Vous m´avez parlé deux ou trois fois dans vos belles lettres du Carmous
+                        imprimé à Constantinople, sans me dire si c´est l´original arabe, ou une
+                        traduction turque. J´aimerais beaucoup mieux que ce fut l´original.
+                        Toutefois j´ai prié M. <persName>Jouannin</persName> de me l´envoyer.</p><p>L´Inscription arabe du sabre a mis en défaut toute ma sagacité, et celle de
+                        M. <persName>Rousseau</persName>. Je vous avoue tout simplement que je n´y
+                        devine rien. En supposant que la principale inscription soit un passage de
+                        l´Alcoran, un seul mot deviné pourrait faire trouver tout le reste. – Mais
+                        je n´ai pas pu lire un mot d´une manière certaine. Quant aux écritures
+                        arabes dont vous me parlez, je ne sais à quoi m´en tenir. Je possède un
+                        manuscrit qui contient des exemples de diverses écritures, suivant le
+                        systême d´Ebn albawwab,طريقة ابن البواب<note type="comment" place="bottom"><p> [ṭarīqa<hi rend="superscript">t</hi> Ibn al-Bawwāb], d.h. die
+                                Methode des Ibn <persName>al-Bawwab</persName>, DMG Bū Ḥassan ˁAlī
+                                bin Hilāl bin ˁAbd al-ˁAzīz (ca. 961–1022) ar. Kalligraph. Er
+                                erhielt seinen Namen, weil sein Vater als bawwāb, d.h. als
+                                Türwächter tätig war. Er erlernte seine Schriftfertigkeit bei
+                                berühmten arabischen Kalligraphen wie etwa
+                                    <persName>Ibn Assad</persName>. Ibn
+                                    <persName>al-Bawwab</persName>s Werk (manẓuma) beschäftigt sich
+                                mit der Federführung Rāˀiya Ibn al-Bawwāb fī al-Ḫaṭṭ wa al-Qalam;
+                                    (<hi rend="italic">Wikipedia 20101128</hi>).</p></note> . Ce
+                        sont– قلم التوقيع – قلم الرقاع – قلم الثلث – قلم النسخ<note type="comment" place="bottom"><p> [v. unten nach oben, v. rechts nach links: qalam
+                                ar-riyāšī, qalam at-tauqīˁ, qalam ar-ruqāˁ, qalam aṯ-ṯuluṯ - qalam
+                                an-nasḫ]. Dabei handelt es sich um die Bezeichnungen verschiedener
+                                arabischer Schriftarten.</p></note> قلم الرياشى. J´y trouve bien peu
+                        de différence entre le ثلث<note type="comment" place="bottom"><p> [ṯuluṯ],
+                                ar. Schriftart. </p></note> , le رقاع<note type="comment" place="bottom"><p> [ruqāˁ], ar. Schriftart.</p></note> , le توقيع<note type="comment" place="bottom"><p> [tauqīˁ], ar. Schriftart.</p></note> ,
+                        et le رياشي<note type="comment" place="bottom"><p> [riyāšī], ar. Schriftart.
+                            </p></note> ; et c´est aussi ce qui résulte des exeples d´écriture<note type="comment" place="bottom"><p> A: ecriture.</p></note>, donnés par
+                            <persName>Herbin</persName><note type="comment" place="bottom"><p>
+                                Auguste-François-Julien Herbin, <hi rend="italic">Développemens des
+                                    principes de la langue arabe moderne, suivis d’un recueil de
+                                    phrases, de traductions interlinéaires, de proverbes arabes et
+                                    d’un essai de calligraphie orientale</hi>, […], <hi rend="italic">Paris, 1803</hi>.</p></note>. Ce jeune homme
+                        n´était pas fort en arabe, et plus d´une fois il a mal lû les exemples qu´il
+                        a gravés. Mais il avait parfaitement saisi le style des caractères arabes,
+                        Turcs [sic] etc. et comme il fréquentait beaucoup les Turcs de l´Ambassade,
+                        j´imagine qu´il a parlé avec assez d´exactitude. Mais comment vous, Mon cher
+                        ami, qui avez passé plusieurs années à<note type="comment" place="bottom"><p> A: a.</p></note> [sic] Constantinople, n´avez[–]vous pas étudié
+                        cela sur les lieux?</p><p>L´ouvrage de M. <persName>Sainte-Croix</persName> est achevé, mais il y
+                        fallait une table des matières; faute de trouver quelqu´un à qui je puisse
+                        confier ce travail, je m´en suis chargé moi-même; il est fort avancé;
+                        cependant je prévois que l´ouvrage ne paraîtra guère avant la fin de
+                        septembre. Vous y verrez mon opinion sur les mystères: je la crois d´autant
+                        plus vraie, qu´elle n´est point du tout l´effet d´aucun système, ni préjugé;
+                        elle s´est fermée par l´examen impartiel des autorités invoquées /// par M.
+                            <persName>de </persName><persName>Sainte-</persName><persName>Croix</persName><note type="comment" place="bottom"><p> A: Ste. Croix.</p></note> et que j´ai
+                        verfiées. En peu de mots, elle se réduit à ceci, que les mystères
+                        consistaient essentiellement en des rites et des cérémonies, qui dans
+                        l´origine furent des symboles des opérations de la nature; qu´il n´eurent
+                        point pour objet d´enseigner aucune doctrine, pas même celle d´une vie
+                        future, encore moins, celle de l´unité de Dieu, ou de l´origine humaine des
+                        divinités du paganisme; ou comment l´ont imaginé les Platoniens, l´histoire
+                        des âmes, avant, pendant, et après leur réunion a des corps matériels; que
+                        cependant les peines d´une vie future faisaient partie des scènes des
+                        mystères, parce que la représentation du séjour des morts extrait dans le
+                        cycle des aventures d´Isis, d´Osiris et Typhon<note type="comment" place="bottom"><p> Ceres, römische Göttin des Ackerbaus, der
+                                Fruchtbarkeit und der Ehe; (<hi rend="italic">Wikipedia
+                                    20101128</hi>).</p></note>, ou de Cérès<note type="comment" place="bottom"><p> Gestalt der griechischen Mythologie, Sohn der Gaia
+                                und des Tartaros, ein riesenhaftes Ungeheuer mit hundert Schlangen-
+                                oder Drachenköpfen, das die Sprache der Götter und vieler Tiere
+                                spricht. In späthellenistischer Zeit mit dem ägyptischen Gott Seth
+                                gleichgesetzt; (<hi rend="italic">Wikipedia
+                            20101128</hi>).</p></note>, Proserpine<note type="comment" place="bottom"><p> Proserpina ist in der römischen Mythologie die
+                                Königin der Unterwelt und Herrscherin über die Toten; sie ist eine
+                                Tochter des Jupiter und der Ceres. Entspricht der griechischen
+                                Persephone; (<hi rend="italic">Wikipedia 20101128</hi>).</p></note>
+                        et Pluton, et que par là les mystères contribuèrent à conserver et à
+                        consolider cette croyance, plus ancienne que leur institution, j´ajoute que
+                        le secret des mystères ne concerna jamais que les rites, les cérémonies, les
+                        symboles, les formules; que, quand à la doctrine, il est vraisemblable que
+                        depuis la naissance de la philosophie, les mystagogues se joignirent aux
+                        scènes des mystères, une doctrine fondée sur des allégories; que cette
+                        doctrine ne fut point un mystère, et qu´elle changea, suivant toute
+                        apparence, avec le cours des siècles, les mystagogues se conformant à
+                        l´école dominante.</p><p>Les mystères de Mithra sont un problème plus obscur que ceux de Cérès ou de
+                        Baccus. Leur ensemble contient trop de choses directement opposées au
+                        système religieux de <persName>Zoroastre</persName>, pour supposer qu´ils
+                        viennent immédiatement des Perses. D´un autre côté, plusieurs symboles et
+                        plusieurs termes usités<note type="comment" place="bottom"><p> Gebräuchlich,
+                                üblich.</p></note> dans ces mystères, sont évidemment d´origine
+                        persanne. Je suis assez porté à croire qu´ils peuvent être nés primitivement
+                        dans l´Assyrie ou la Chaldée. Le mot Mithra est incontestablement persan;
+                        Mais Mithra n´était point le soleil chez les anciens Persans. Les mots nama
+                        Sabasio ont bien l´air d´être persans; Je doute pendant qu´il y ait là le
+                        nom d´un divinité. Nama Sabasio peut avoir de l´analogie avec <note type="comment" place="bottom"><p> Die Lesung des Wortes in arabischer
+                                Schrift ist unsicher, am ehesten [nāma], was auf Persisch so viel
+                                wie „Buch“ bedeutet. Allerdings spricht
+                                    <persName>de </persName><persName>Sacy</persName> hier von einem
+                                Wort aus dem indischen Sprachraum, dessen Bedeutung nicht ermittelt
+                                werden konnte.</p></note>نامه dans le sens indien et سپاس<note type="comment" place="bottom"><p> [spās] (morphol.).</p></note> ou avec
+                            <note type="comment" place="bottom"><p> [nmāz wa spās] (morphol.). Die
+                                Lesung des ersten Wortes (d.h. des rechten) ist unsicher. Diese
+                                könnte auch [nmān] ergeben. </p></note>نماز سپاس ou même avec
+                            نام<note type="comment" place="bottom"><p> [nām], pers.
+                            „Name“.</p></note> et سپاس<note type="comment" place="bottom"><p> [spās]
+                                (morphol.).</p></note>. Il signifierait alors, que son nom soit
+                        loué. J´avais proposé à l´Académie de donner cette année pour sujet du prix
+                        des Recherches sur le culte /// et les monumens Mithratiques, parce qu´on
+                        n´a point assez comparé cela avec la doctrine du Zend- Avesta<note type="comment" place="bottom"><p> Das hl. Buch der Parsen, bestehend aus
+                                verschiedenen Texten verschiedener Zeitepochen, formuliert in einer
+                                als Nordostiranisch zu bezeichnenden Sprache, dem Avestischen; (<hi rend="italic">Wikipedia 20101128</hi>).</p></note>, relativement
+                        à Mithra. On a donné la préférence à un autre sujet, aussi proposé par moi,
+                        les diverses fêtes de Bacchus à Athênes; et je n´en suis pas fâché. Car
+                        peut-être eut-on abusé du premier sujet. Les savans qui, comme MM.
+                            <persName>Görres</persName><note type="comment" place="bottom"><p> A:
+                                Gorres.</p></note>, et <persName>Creuzer</persName><note type="comment" place="bottom"><p> A: Creutzer</p></note>, veulent faire
+                        du paganisme une religion spirituelle, toute allégorique, et vraiment
+                        philosophique, auraient pû profiter de cette occasion pour nous débiter
+                        leurs rêveries essentiellement anti-chrétiennes.</p><p>Je doute que je pusse trouver à Paris le papyrus Egyptien de Cadet<note type="comment" place="bottom"><p> Jean Marcel Cadet<hi rend="italic">,
+                                    Copie figurée d’un Rouleau de Papyrus trouvé à Thebes, Paris
+                                    1805</hi>.</p></note>. Toutefois je le ferai chercher; il
+                        coûtait autrefois trois louis.</p><p>Je n´ai pas renoncé, Mon [sic] cher ami, au désir de donner dans le journal
+                        des savans un Extrait de votre Etat de l´Empire othoman; mais il faut que
+                        j´en trouve le temps: déjà on m´a chargé des voyages
+                        <persName>d´</persName>Elphinstone dans le Caboulestan<note type="comment" place="bottom"><p> Silvestre de Sacy, <hi rend="italic">Description du
+                                    royaume de Caboul. Coup d´oeuil sur la nation des Afghans, et
+                                    Histoire de la monarchie des Dourânis, par M. Monstuart
+                                    Elphinstone (en anglais). Londres, 1815</hi> […]; in: <hi rend="italic">Journal des Savants, février 1818, 73–85, mars
+                                    1818, 166–174, avril 1818, 228–238</hi>.</p></note>, de
+                            <persName>Pottinger</persName> dans le Baloudchistan, et de
+                            <persName>Legh</persName><note type="comment" place="bottom"><p> A:
+                                Liegh.</p></note> en Egypte<note type="comment" place="bottom"><p>
+                                Silvestre de Sacy, <hi rend="italic">Voyage en Egypten, par M.
+                                    Legh</hi>; in<hi rend="italic">: Journal des Savants, décembre
+                                    1817, 707–720</hi>.</p></note>, et j´attends les vacances pour
+                        m´aquitter de cette tâche. L´extrait de votre ouvrage exige aussi un travail
+                        sérieux. Aujourd´hui j´ai à peine le temps de dîner, et Je [sic] n´ai gueres
+                        [sic] plus de loisir dans les vacances, qui ne diffèrent du reste de l´année
+                        que par la suspension de mes cours. Le travail administratif de
+                        l´instruction publique qui me fatigue et m´ennuye à l´excès, m´arrache à la
+                        littérature orientale. Si je ne suivais que mon goût, j´aurais déjà renoncé
+                        depuis longtemps à ces fonctions administratives. Mais j´ai trop perdu pour
+                        sacrifier cette place, et j´attends toujours une organisation définitive,
+                        pour me décider à me retirer ou à rester, si on me donne une place moins
+                        fatiguante. Ce qui me chagrinde et qui nuit à ma santé, c´est que depuis
+                        trois ans, je suis privé du plaisir de passer deux ou trois mois à la
+                        campagne, mais à tout cela il faut dire </p><p>کس عسل بی نیش ازین دکان نخورد کس رطب بی خار ازین بستان نچیند</p><p>ou bien encore ///</p><p>غمکین مشو که ساقی قدرت زجام دمر گدصافِ لطف میدهد وگاه دُرد قهر</p><p>Je ne vous ai point encore parlé de vos monumens de la prétendue idolatrie
+                        des Templiers<note type="comment" place="bottom"><p> Es ergab sich in der
+                                Folge eine Diskussion zwischen <persName>HP</persName> und
+                                    <persName>de </persName><persName>Sacy</persName> im Hinblick
+                                auf <persName>HP</persName>s Vorbereitungsarbeiten zu seiner <hi rend="italic">„Gegenrede wider die Einrede der Vertheidiger der
+                                    Templer“</hi>; in: <hi rend="italic">Fundgruben des Orients 6
+                                    (1818) 445–492</hi>.</p></note>, qui ne me paraissent gueres
+                        [sic] moins obscurs que les monumens mithriques. Je suis bien fâché de
+                        n´être pas de votre avis, sur le βαφύς μήθεος , ou plutôt βαφή μήθεος de
+                            Nicolaï<note type="comment" place="bottom"><p> Die zitierten
+                                griechischen Begriffe sind etymologische Spekulationen.</p></note>.
+                        Cela est ingénieux, si l´on veut, mais cela est faux, et Baffumet est
+                        certainement le nom de Mahomet<note type="comment" place="bottom"><p> Siehe
+                                hierzu HP, <hi rend="italic">Mysterium Baphometis revelatum, seu
+                                    Fratres Militiae Templi, &amp;c. Aposastiae, Idoloduliiae et
+                                    Impuritatis convicti per ipsa eorum monumenta</hi>; in: <hi rend="italic">Fundgruben des Orients 6 (1818) 3–120</hi>. Die
+                                Bezeichnung Baphomet, Baffumet etc. wird vielfach als Verballhornung
+                                des Namens Mohammed, als Bezeichnung für ein geheimes Götzenbild der
+                                Templer interpretiert, welches diese nach Angabe ihrer Feinde
+                                angebetet und vor allem bei der Aufnahme in den Orden geküsst haben
+                                sollen.</p></note>. Rappelez-vous ce que j´ai dit de cela dessus,
+                        dans le compte que j´ai rendu des alphabets hieroglyphiques du soi-disant
+                            Ibn-Wahschia<note type="comment" place="bottom"><p> A:
+                            Waschiyèh.</p></note>. Je suis entêté à cet égard, et je ne me rendrai
+                        que quand on me prouvera clairement que j´ai tort. D´après cela, je suis
+                        loin d´adopter votre تعالي ماته . Je n´adopte pas davantage votre نفع فنّ le
+                        produit de la gnose, της γνώσεως. فنّ signifie un genre, une espèce, il ne
+                        signifie pas par lui-même une science, une connaissance. Tout le reste de
+                        vos explications me paraît également forcé. Ces inscriptions sont en
+                        caractères latins; c´est à dire, qu´un desinateur ignorant a imité des
+                        caractères arabes qu´il ne connaissait pas, ou qu´il a défigurés à
+                            dessein<note type="comment" place="bottom"><p> Absichtlich. </p></note>.
+                        Je vois avec peine que vous vous décidiez à imprimer quelque chose
+                        là-dessus. pour [sic] moi, je n´y vois rien, je ne dis pas de vraisemblable,
+                        mais de tant soit peu plausible. Voilà mon opinion ورایک اولي<note type="comment" place="bottom"><p> [wa rāyik aulī [sic]], gemeint: [wa
+                                rāˀik aulā] ar. „deine Meinung zählt“.</p></note>
+                    </p><p>J´ai reçu les 6 exemplaires du 2e. cahier du 2. [sic] v[olume] des Mines<note type="comment" place="bottom"><p> D.h. das zweite Heft des zweiten
+                                Bandes, der 1811 erschien.</p></note>; j´ai remis à l´académie celui
+                        qui lui était destiné, et je suis chargé de vous transmettre ses
+                        remerciemens.</p><p>Du 9 juillet<note type="comment" place="bottom"><p> Am linken Rand des
+                                Briefes höchstwahrscheinlich von
+                                    <persName>de </persName><persName>Sacy</persName> angebracht.
+                            </p></note> Je vous ai envoyé, il y a quelques jours, par M.
+                            <persName>de</persName> <persName>Raab</persName>, deux exemplaires des
+                        catalogues de M. <persName>Rousseau</persName>, les journaux des savans de
+                        Mai, Juin et <choice><sic>juillet</sic><corr>Juillet</corr></choice>, trois autres exemplaires de ma lettre à un
+                        conseiller du Roi de Saxe<note type="comment" place="bottom"><p> Es dürfte
+                                sich wohl um Karl August <persName>Böttiger</persName> (1760–1835)
+                                oder allenfalls um Georg Wilhelm <persName>Beigel</persName>
+                                (1753–1837) handeln.</p></note> etc. J´y ai joint le dessin du sabre
+                        arabe[.]</p><p>Je chercherai les livres que vous me demandez; je ne connais l´histoire d´Ali
+                        bey qu´en Anglais. M. <persName>Reynouard</persName> a publié à Paris en
+                        1819 un volume sur le procès des templiers.– /// Quoiqu´il ne contienne rien
+                        de nouveau sur<note type="comment" place="bottom"><p> A: sûre.</p></note>
+                        les idoles, je pense vous faire plaisir en vous l´envoyant.</p><p>Je reçois une lettre de M. <persName>Rousseau</persName>, il est arrivé à
+                        Marseille en meilleure santé. Le Xe. Tome des notices<note type="comment" place="bottom"><p> Institut National de France [ed.], <hi rend="italic">Notices et extraits des manuscrits de la Bibliothèque Impériale
+                                    et autres bibliothèques, Paris 1818</hi>.</p></note> ne tardera
+                        pas à paraître.</p><closer><salute>Je finis cette lettre commencée, il y a dix jours, en vous priant de
+                        faire agréer mon hommage à Madame
+                            <persName>de</persName> <persName>Hammer</persName>, et de recevoir
+                        l´assurance de mon sincère et inviolable attachement,</salute><signed>Le B[ar]on <persName>Silvestre de Sacy</persName></signed></closer></div></body></text></TEI>

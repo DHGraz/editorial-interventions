@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1423"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Bagdad the 6<hi rend="superscript">th</hi> of March 1813</dateline><salute>My dear Sir, </salute></opener><p>My time has been for a long time past completely divided between official
+                        occupation and, bad-health, that the interruption in our correspondence has
+                        been involuntarily and unavoidable, nor indeed have I had leisure to bestow
+                        the requisite attention to my own affairs. I however lately recollected your
+                        desire to be furnished with a Catalogue of my Oriental Manuscripts, and I
+                        immediately sat down to comply with it. It was my original intention to have
+                        given a full account of each author with the plan of his work and a specimen
+                        of his style, and to have prefaced each Article or Class with a critical
+                        dissertation on the state of that particular branch of Literature in the
+                        East. This would have formed a valuable body of Oriental information – but I
+                        found it would require more time and attention I could reasonably hope to
+                        bestow on it, and I am compelled to send you the brouillon<note type="comment" place="bottom"><p> Französisch: Entwurf,
+                            Konzept.</p></note> of a mere List<note type="comment" place="bottom"><p> Tatsächlich beschränkt sich <persName>Rich</persName> auf eine
+                                reine Auflistung; s. <persName>Rich</persName>s Brief an HP vom
+                                12.11.1812.</p></note>, which I not have had leisure to get copied
+                        fairly, or even to correct the language, so I request your indulgence for
+                        it. – You will observe many rare works, and the whole collection goes on
+                        accumulating gradually; for Oriental Manuscripts are daily becoming scarcer,
+                        and it is almost the duty of one who lives in these countries, and has some
+                        knowledge of eastern literature to rescue the few that remain from
+                        destruction. – – It is needless I hope for me to add that copies of any of
+                        the books in my collection are entirely at your service. We have very
+                        tolerable scribes here whose abilities I have already had occasion to prove
+                        from having access to some valuable works of which I have been permitted to
+                        take copies. </p><p>I have already taken the liberty of offering a hint respecting the plan of
+                        the „Mines de l’Orient”. Allow me the further one of suggesting that each
+                        volume should be closed with a report, or review of what has been done in
+                        Oriental Literature during the year preceding<note type="comment" place="bottom"><p> Dem entsprachen in etwa die umfangreichen
+                                Literaturberichte HPs zu spezifischen Materien in den <hi rend="italic">Wiener Jahrbücher der Literatur</hi>; s. HPs
+                                Werkverzeichnis.</p></note> – this would be a gratifying document to
+                        those who have not individually the means of acquiring such extensive
+                        information – You could have no difficulty on the Continent and your friends
+                        in England would I suppose readily undertake to supply you with the
+                        necessary information from that quarter – with regard to myself I would
+                        engage to pursuit the part relating to the Calcutta Press<note type="comment" place="bottom"><p> Im letzten Viertel des 18. Jh.s wurde
+                                Kalkutta zum Zentrum eines eigenständigen Druckereiwesens, welches
+                                neben dem Druck auch Buchbinderei, Verlag auf Subkription und
+                                Bibliothekswesen umfasste. </p></note>. All these communications
+                        might be brought up into one memoir in French or Latin, that it might be
+                        more generally acceptable. </p><p>You may have heard that my father-in-law Sir James
+                            <persName>Mackintosh</persName> instituted a Literary Society<note type="comment" place="bottom"><p> Diese Gründung hatte 1804
+                                stattgefunden und verfolgte das Ziel <hi rend="italic">„</hi><hi rend="italic">promoting useful knowledge, particularly such as
+                                    is now immediately connected with India“</hi>. Nach der Gründung
+                                der Royal Asiatic Society of Great Britain and Ireland in London
+                                1823 wurde ihr die Literary Society of Bombay 1830 als <hi rend="italic">„</hi><hi rend="italic">Bombay Branch of the Royal
+                                    Asiatic Society (BBRAS)</hi><hi rend="italic">”</hi>
+                                angeschlossen; (<hi rend="italic">Wikipedia 20150615</hi>). Zum
+                                genauen Datum dieser Eingliederung werden verschiedene Angaben
+                                gemacht. Laut Auskunft des Archivs der RAS fand diese 1829 statt.
+                                Auf der Webseite der Asiatic Society of Mumbai – History wird als
+                                Zeitpunkt der Eingliederung allerdings das Jahr 1826 genannt – <hi rend="italic">„</hi><hi rend="italic">In 1826, the Literary
+                                    Society merged with the recently established Royal Society of
+                                    Great Britain and Ireland (RAS) as its Bombay Branch of the
+                                    Royal Asiatic Society (BBRAS)</hi>.<hi rend="italic">“</hi>;
+                                    (<hi rend="italic">http://asiaticsociety.org.in/index.php/history
+                                20170318</hi>).</p></note> in Bombay of which my brother-in-law Mr
+                            <persName>Erskine</persName><note type="comment" place="bottom"><p>
+                                William <persName>Erskine</persName>;
+                                <persName>(BARCH)</persName>.</p></note> is secretary, but they have
+                        not yet published a volume, nor have I, although I have been a member for
+                        four years, yet had leisure to contribute my share to it. The Asiatic
+                        Society at Calcutta<note type="comment" place="bottom"><p> The Asiatic
+                                Society war am 15.01.1784 von Sir William <persName>Jones</persName>
+                                in einer von Sir Robert <persName>Chambers</persName>, dem Chief
+                                Justice of the Supreme Court at the Fort William in Calcutta,
+                                präsidierten Sitzung als „Asiatick Society“ gegründet worden; 1825
+                                änderte man den Namen in „The Asiatic Society“ und 1832 in „The
+                                Asiatic Society of Bengal“; 1936 wurde daraus „The Royal Asiatic
+                                Society of Bengal”; (<hi rend="italic">Wikipedia
+                            20150615</hi>).</p></note> continues to put forth a volume whenever they
+                        have collected papers enough to form one. Should you be desirous of having
+                        any of the works published by the Oriental College of Fort William<note type="comment" place="bottom"><p> Das College of Fort William for
+                                Oriental studies wurde von Lord <persName>Wellesley</persName>, dem
+                                damaligen General-Gouveneur von Britisch-Indien im Mai 1800 am
+                                ersten Jahrestag des Sieges über Sultan <persName>Tipoo</persName>
+                                bei Seringapatam gegründet. In dieser Anstalt wurden zahlreiche
+                                Bücher aus dem Sanskrit, Arabischen, Persischen, Bengalischen, Hindi
+                                and Urdu in das Englische übersetzt. – Fort William liegt am linken
+                                Ufer des Ganges, heute innerhalb der Stadt Kalkutta (Kolkata); (<hi rend="italic">Wikipedia 20150615</hi>).</p></note> I can easily
+                        procure them. I recollect when I was in Constantinople you mentioned to
+                            me<note type="comment" place="bottom"><p> Dies könnte ein Hinweis auf
+                                ein erstes persönliches Treffen mit <persName>Rich </persName>sein,
+                                aus dem Jahr 1804 stammt ja auch der erste Brief von
+                                    <persName>Rich</persName> an HP von Malta aus; HP erwähnt
+                                allerdings in seinen Erinnerungen keine Treffen mit
+                                    <persName>Rich</persName> in Konstantinopel, vielmehr heißt es
+                                im <hi rend="italic">Typoskript der Erinnerungen zum Jahr 1814 XXIV
+                                    20–94/8 „</hi><hi rend="italic">zugleich erheiterte mich die
+                                    persönliche Bekanntschaft meines brieflichen Freundes
+                                    </hi><persName>Rich</persName><hi rend="italic">, des Residenten
+                                    der englischen Compagnie zu Bagdad, der mit seiner geistreichen
+                                    und liebenswürdigen Gattin den Urlaub eines Jahres </hi>[…]<hi rend="italic">“</hi>.</p></note> a friend of yours who was
+                        engaged in a treatise of Oriental music – pray what is become of it?<note type="comment" place="bottom"><p> Dies bezieht sich wohl auf Ignatius
+                                Mouradgea <persName>d’Ohsson</persName> (1740–1807), den in
+                                schwedischen diplomatischen Diensten stehenden armenischen
+                                Orientalisten, mit dem sich HP in Konstantinopel angefreundet und
+                                    <hi rend="italic">„</hi><hi rend="italic">über das Wesen
+                                    türkischer Musik</hi><hi rend="italic">“</hi> unterhalten hatte,
+                                als <persName>d’Ohsson</persName> eben über orientalische Musik
+                                arbeitete, aus welchem Manuskript er HP vorlas. Viel später hat HP
+                                dieses Thema in gemeinsamer Arbeit mit
+                                    <persName>Kiesewetter</persName> ernsthaft verfolgt, woraus
+                                    <persName>Kiesewetter</persName>s grundlegendes Werk <hi rend="italic">„Die Musik der Araber, nach Originalquellen
+                                    dargestellt von R. G. Kiesewetter, begleitet mit einem Vorwort
+                                    von dem Freiherrn v. Hammer-Purgstall. Mit VI Abbildungen im
+                                    Text und XXIV Seiten Noten-Beilagen, welche die Tonformeln der
+                                    alten Autoren, dann einige jetzt gangbare Volkweisen und Gesänge
+                                    enthalten“, Leipzig 1842</hi> resultieren sollte; (<hi rend="italic">Typoskript XIII 29–55/2</hi>).</p></note> Now<note type="comment" place="bottom"><p> Darnach ein getilgtes Wort.</p></note>
+                        I am upon the subject of music (to which both Mrs <persName>Rich</persName>
+                        and myself are passionately addicted), I must enquire if there be any good
+                        selection of the Chef d’ouevre of <persName>Haydn</persName>,
+                            <persName>Mozart</persName>, <persName>Graun</persName><note type="comment" place="bottom"><p> Es kommen hier drei Brüder in Frage:
+                                der weniger bekannte Kantor und Komponist August Friedrich
+                                    <persName>Graun</persName> (1698/99–1765), der Violonist,
+                                Komponist und Konzertmeister Johann Gottlieb
+                                    <persName>Graun</persName> (1703–1771), der ein Lehrer Wilhelm
+                                Friedemann <persName>Bach</persName>s war, und der Komponist und
+                                Kapellmeister Carl Heinrich <persName>Graun</persName> (1704–1759).
+                                Vermutlich bezieht sich <persName>Rich</persName> auf Johann
+                                Gottlieb <persName>Graun</persName>.</p></note>, and the other
+                        principal German composers published, and what would be the expense of such
+                        a work. Also who is the present favorite composer with the Harpsichord<note type="comment" place="bottom"><p> Englisches Wort für
+                            Cembalo.</p></note> performers in Vienna. Be so good as let me know also
+                        if Schultens<note type="comment" place="bottom"><p> Jan Jacob
+                                    <persName>Schultens</persName>
+                                <persName>(1716–1778)</persName> war ein niederländischer
+                                reformierter Theologe und Orientalist. Es kann sich aber auch um
+                                dessen Sohn Hendrik Albert <persName>Schultens</persName>
+                                (1749–1793) handeln, der ebenfalls Orientalist war; (<hi rend="italic">Wikipedia 20150615</hi>).</p></note> works are
+                        easily procurable in Germany, and what are
+                            <persName>Michaelis</persName><note type="comment" place="bottom"><p>
+                                Johann David <persName>Michaelis</persName> (<ref target="http://de.wikipedia.org/wiki/1717">1717</ref>–<ref target="http://de.wikipedia.org/wiki/1791">1791</ref>) war ein
+                                deutscher <ref target="http://de.wikipedia.org/wiki/Theologe">Theologe</ref> und <ref target="http://de.wikipedia.org/wiki/Orientalist">Orientalist</ref>; (<hi rend="italic">Wikipedia
+                                20150615</hi>).</p></note> works on the Semitic Languages. I make no
+                        apologies for thus trespassing on your Friendship. </p><p>I enclose you a critique<note type="comment" place="bottom"><p> Es konnte
+                                nicht ermittelt werden, worauf sich <persName>Rich</persName> hier
+                                bezieht.</p></note> on a very celebrated Turkish Book, which you
+                        will insert in the „Mines”, if you think it suits a place there. I beg you
+                        will tell the Count [<persName>Rzewuski</persName>] (with my best
+                        Compliments) that I am preparing something for him, which I have not been
+                        able to get ready for this conveyance, and I therefore defer writing to him
+                        until I shall be able to send it. <salute>Believe me to be, My dear Sir,
+                            most sincerely yours</salute></p><closer><signed>Claudius James <persName>Rich</persName></signed></closer><postscript>
+                        <p><persName>Morier</persName> forwarded a Packet from you for the secretary
+                            of the Asiatic Society<note type="comment" place="bottom"><p> 1813 war
+                                    Horace Hayman <persName>Wilson</persName> Sekretär der Asiatic
+                                    Society of Bengal; in einem Schreiben in dieser Funktion bedankt
+                                    sich <persName>Wilson</persName> am 01.12.1813 bei HP für die
+                                    Übersendung mehrerer Werke, woraus eine Korrespondenz zwischen
+                                    den beiden entsteht.</p></note>, which I have sent on – on
+                            preparing my books for the Binder, I find I have not got the first
+                            number of the second volume of the „Mines de l’Orient”, I therefore beg
+                            you will it <supplied>send</supplied> to me by the very first opportunity; I shall require
+                            two copies of it.</p>
+                    </postscript><note type="comment" place="inline">[Beilage] </note><p>List of the Literary Society of Bombay for the Year 1813</p><p>Annuary President</p><p>The Honorable Sir James <persName>Mackintosh</persName>, Knight</p><p>President</p><p>Robert <persName>Stuart</persName> Esqu.</p><p>Members </p><p>Bishop of Antipellus – Lieutenant Thomas <persName>Arthur -</persName> Luke
+                            <persName>Ashburner</persName> – Lieutenant General Hon<hi rend="superscript">ble</hi> J. <persName>Abercromby</persName> – Lieu<hi rend="superscript">tn</hi> Colonel j. <persName>Boden</persName> – Major
+                        W. <persName>Brookes</persName> – Major C. B <persName>Burr –</persName>
+                            Rev<hi rend="superscript">nd</hi> Arnold <persName>Burrows</persName> –
+                        P.b. <persName>Baird</persName> – Steph <persName>Babington</persName> –
+                            Cap<hi rend="superscript">t</hi> J. <persName>Briggs –</persName>
+                        William <persName>Bruce – </persName>Lewis <persName>Corkran – </persName>G.
+                            <persName>Colquhoun</persName> M.D. – Cap<hi rend="superscript">t</hi>
+                        J. G. <persName>Caulfield</persName> R.N. – Rev<hi rend="superscript">d</hi>
+                        W. <persName>Canning</persName> – James <persName>Calder</persName> – Dougal
+                            <persName>Christie</persName> – David <persName>Craw</persName> – John
+                        Copland – William <persName>Dowdeswell –</persName> Charles
+                            <persName>Daw</persName> – William <persName>Erskine –</persName> F. W.
+                            <persName>Ellis –</persName> Honorable Mountstuart <persName>Elphinstone
+                            – </persName>Lieutenant Edward <persName>Frederick –</persName> Charles
+                            <persName>Forbes –</persName> James <persName>Farish –</persName> Major
+                        W. <persName>Franklin – </persName>Lieu<hi rend="superscript">t</hi>
+                        <persName>Gregory</persName>, Lieut J. W. <persName>Graham –</persName>
+                        Major L.C. <persName>Harris –</persName> Lieut. Col. A <persName>Hay
+                            –</persName> Benjamin <persName>Heyne</persName> M.D. – James
+                            <persName>Hallet –</persName> Cap<hi rend="superscript">t</hi> W.
+                            <persName>Hamilton –</persName> John <persName>Hine –</persName> James
+                            <persName>Henderson –</persName> Lieut Hough – Edward W. <persName>Hunt
+                            –</persName> Lieut. S. <persName>Hallifax –</persName> Lieut. Basil
+                            <persName>Hall</persName> R. N. – David <persName>Ingles</persName>,
+                        Lieut. F. <persName>Irvine –</persName> James <persName>Inverarity
+                            –</persName> Andrew <persName>Jukes</persName> M.D. – George
+                            <persName>Keir</persName> M.D. – Thomas Maurice <persName>Keate
+                            –</persName> Thomas <persName>Leckmere –</persName> C.H.
+                            <persName>Locker –</persName>Major Edward Mone – J.
+                            <persName>Milne</persName> M.D. – J. <persName>Morley –</persName> W. L.
+                            <persName>Money –</persName> Hugh George <persName>Macklin –</persName>
+                        Lieut. W. <persName>Miles –</persName> W.A. <persName>Morgan –</persName>
+                        Will <persName>Morgan</persName> M.D. – Brigardier General John
+                            <persName>Malcolm –</persName> Lieut J. <persName>Macmurdo</persName>,
+                        W. <persName>Mackie –</persName> Lieutant General Oliver <persName>Nicholls
+                            –</persName> Lieut Colonel Jasper <persName>Nicholls –</persName> Edward
+                            <persName>Nash –</persName> William <persName>Newnham –</persName>
+                        Honorable Sir John <persName>Newbolt –</persName> Charles <persName>Norris
+                            –</persName> Charles <persName>Northcote –</persName> Georg Cumming
+                            <persName>Osborne –</persName> Major D. <persName>Price –
+                        </persName>Major General Charles <persName>Reynolds –</persName> John George
+                            <persName>Ravenshaw –</persName> Claudius James <persName>Rich
+                            –</persName> Lieut. A. <persName>Robertson –</persName> Byram
+                            <persName>Rowles –</persName> Cap<hi rend="superscript">t</hi> W.
+                            <persName>Rudland –</persName> Helenus <persName>Scott</persName>, M.D.
+                        – Henry <persName>Salt –</persName> Sir George <persName>Staunton</persName>
+                        Baronet – George <persName>Sotheby –</persName>Stuart Moncrief[f]
+                            <persName>Threipland –</persName> John <persName>Taylor</persName> M.D.
+                        – Captain Charles <persName>Tyler</persName> R.N. – Viscount
+                            <persName>Valentia – </persName>Lieut Colonel Alexander <persName>Walker
+                            –</persName> Rev<hi rend="superscript">d</hi> Nicholas <persName>Wade
+                            –</persName> O. <persName>Woodhouse –</persName> D.
+                            <persName>White</persName> M.D. – Major Monier <persName>Williams
+                            –</persName> John <persName>Wedderburn</persName></p><p>Treasurer</p><p>W.J. <persName>Money</persName></p><p>Secretraries</p><p>Lieutenant Edward <persName>Frederick</persName>, and Stephen
+                            <persName>Babington</persName> Esqu</p></div></body></text></TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_8017"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Döbling, am 16. Juli 1854</dateline><salute>Geehrter Herr Dr. und Professor!</salute></opener><p>Empfangen<note type="comment" place="bottom"><p> Aus: J.D.C. Brugger,
+                                Geschichte der Gründung und Entwicklung des Vereins der deutschen
+                                Reinsprache, Heidelberg 1862, 164–165. – Diesem Abdruck ist die
+                                Bemerkung <persName>Brugger</persName>s beigefügt: „Die drei mir von
+                                Freiherrn <persName>von Hammer-Purgstall</persName> übersandten
+                                Berichte sind folgende:</p><p>I. Auszüge aus dem handschriftlichen
+                                Werke Ahmed Ibn-el-Omeri’s: Die Bekanntmachung mit der edeln
+                                Kunstsprache.</p><p>II. Bericht über die zu Konstantinopel in Druck
+                                erscheinende Geschichte des Osmanischen Reiches Chairullah Efendi’s
+                                und über die höchst seltene Handschrift Ahmed Ib-nel-Omer’s, mit der
+                                Aufschrift: Bekanntmachung mit der edeln Kunstsprache.</p><p>III.
+                                Ueber den dritten Band von Charriere’s: Négociations de la France
+                                dans le Levant. Alle drei von <persName>Hammer-Purgstall</persName>
+                                in den Sitzungen der k.k. Hochwißanstalt (Akademie) in Wien
+                                erstattet.“</p></note> Sie mit meinem schönsten Danke für Ihre
+                        Erinnerung zu meinem 81. Geburtstage<note type="comment" place="bottom"><p>
+                                Hier ist daran zu erinnern, dass HP richtigerweise den Tag seiner
+                                Geburt als ersten Geburtstag zählt und nicht den Tag der Vollendung
+                                des ersten Lebensjahres, wie es allgemein üblich, vom Sprachlichen
+                                her aber fälschlich ist.</p></note> und für das Bändchen Ihrer aus
+                        wahrer und reiner Gesinnung entsprungenen Gedichte, die mich vielfach
+                        angesprochen und die ich in wenigen Tagen mit mir nach Hainfeld nehme, die
+                        drei beiliegenden akademischen Berichte, deren verspäteter Empfang allein
+                        Ursache ist, daß Sie so spät meinen Dank empfangen.</p><p>Ich lese nun der Gebrüder <persName>Grimm</persName> Wörterbuch<note type="comment" place="bottom"><p> Das riesige, von Jacob und Wilhelm
+                                    <persName>Grimm</persName> 1838 begonnene und 1961 mit dem 32.
+                                Band vollendete Deutsche Wörterbuch – als HP darin las, war eben der
+                                erste Band erschienen. – HP las tatsächlich Wörterbücher, um sich
+                                einen tieferen Einblick in die Struktur etc. einer Sprache zu
+                                verschaffen; er erwähnt dies mehrfach in seinen Erinnerungen, aber
+                                auch in Briefen; (s. auch das Kapitel 18.2 „Die Lektüre der
+                                Wörterbücher“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph
+                                    von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 2</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note>, das nur
+                        für Deutsche und nicht für Ausländer geschrieben ist, die sich unmöglich in
+                        der Auswahl der Wörter für den Gebrauch der Schriftsprache zu Recht finden
+                        können, denn wer würde zum Beispiel (in Süddeutschland vorzüglich) den
+                        verstehen, der bevielen statt langweilen schriebe. In Oestereich[sic]
+                        scheinen die Gebrüder <persName>Grimm</persName> gar keine Mitarbeiter zu
+                        haben und auch die bestehenden gedruckten Hilfsmittel nicht gehörig zu
+                        benützen; denn sonst würden sie zum Beispiel unter dem Worte aufmischen auch
+                        den in Oesterreich sehr üblichen guten Sprachgebrauch aufgeführt haben,
+                        vermöge dessen das Wort „durch Witz und Rührigkeit Leben in die Gesellschaft
+                        bringen“ heißt u.s.w. Daran, daß sehr unnötiger Weise fremde Wörter
+                        gebraucht werden, wo deutsche zu Gebot standen, werden Sie noch mehr Aerger
+                        genommen haben als <salute>Ihr mit großer Hochachtung ergebener
+                            Diener</salute></p><closer><signed><persName>Hammer-Purgstall</persName></signed></closer></div></body></text></TEI>

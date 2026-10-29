@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260301_020434",
+  "model_instance": "claude-sonnet-4-6",
+  "model_type": "claude",
+  "prompt_version": "editorial_interventions",
+  "temperature": 0.3,
+  "processing_time": "00:04:12",
+  "processing_time_seconds": 252.49419569969177,
+  "token_count": 165784,
+  "input_tokens": 154765,
+  "output_tokens": 11019,
+  "thinking_mode": null,
+  "date_processed": "2026-03-01 02:08:47",
+  "estimated_cost_usd": 0.62958
+}

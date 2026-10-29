@@ -1,0 +1,1802 @@
+[
+  {
+    "letter": 15,
+    "language": "de; el",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Böttiger, Karl August",
+      "id_r": "91"
+    },
+    "forw": [],
+    "date": {
+      "year": 1797,
+      "month": 1,
+      "day": 10
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 16,
+    "language": "de; el",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1797,
+      "month": 2,
+      "day": 3
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 21,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1797,
+      "month": 5,
+      "day": 18
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 31,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1798,
+      "month": 4,
+      "day": 16
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 38,
+    "language": "fr",
+    "writer": {
+      "name": "Müller, Johannes von",
+      "id_w": "543"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1798,
+      "month": 7,
+      "day": 11
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 41,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1798,
+      "month": 9,
+      "day": 27
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 58,
+    "language": "de",
+    "writer": {
+      "name": "Theimer, Elise",
+      "id_w": "758"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1799,
+      "month": 7,
+      "day": "[?]"
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 83,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Böttiger, Karl August",
+      "id_r": "91"
+    },
+    "forw": [],
+    "date": {
+      "year": 1799,
+      "month": 12,
+      "day": 10
+    },
+    "place": "[Konstantinopel-]Pera",
+    "geo_id": "750640"
+  },
+  {
+    "letter": 85,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1799,
+      "month": 12,
+      "day": 23
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 101,
+    "language": "de",
+    "writer": {
+      "name": "Theimer, Elise",
+      "id_w": "758"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1800,
+      "month": 3,
+      "day": 18
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 120,
+    "language": "de; el",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1800,
+      "month": 6,
+      "day": 20
+    },
+    "place": "Weimar",
+    "geo_id": "2812482"
+  },
+  {
+    "letter": 142,
+    "language": "fr",
+    "writer": {
+      "name": "Herbert of Rathkeal, Peter Philipp Freiherr von",
+      "id_w": "335"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1800,
+      "month": 12,
+      "day": 14
+    },
+    "place": "Pera",
+    "geo_id": "750640"
+  },
+  {
+    "letter": 147,
+    "language": "de",
+    "writer": {
+      "name": "Kücük, Hüseyin Pascha",
+      "id_w": "354"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1800,
+      "month": "[?]",
+      "day": "[?]"
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 174,
+    "language": "fr",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Herbert of Rathkeal, Peter Philipp Freiherr von",
+      "id_r": "335"
+    },
+    "forw": [],
+    "date": {
+      "year": 1801,
+      "month": 5,
+      "day": 1
+    },
+    "place": "Rosette",
+    "geo_id": "350203"
+  },
+  {
+    "letter": 175,
+    "language": "fr",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Herbert of Rathkeal, Peter Philipp Freiherr von",
+      "id_r": "335"
+    },
+    "forw": [],
+    "date": {
+      "year": 1801,
+      "month": 5,
+      "day": 3
+    },
+    "place": "Rosette",
+    "geo_id": "350203"
+  },
+  {
+    "letter": 179,
+    "language": "en; fr",
+    "writer": {
+      "name": "Smith, Sidney William Sir",
+      "id_w": "703"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1801,
+      "month": 5,
+      "day": 13
+    },
+    "place": "HMS Tiger vor Alexandria",
+    "geo_id": "361058"
+  },
+  {
+    "letter": 183,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Herbert of Rathkeal, Peter Philipp Freiherr von",
+      "id_r": "335"
+    },
+    "forw": [],
+    "date": {
+      "year": 1801,
+      "month": 6,
+      "day": 25
+    },
+    "place": "HMS Tiger",
+    "geo_id": null
+  },
+  {
+    "letter": 185,
+    "language": "fr",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Herbert of Rathkeal, Peter Philipp Freiherr von",
+      "id_r": "335"
+    },
+    "forw": [],
+    "date": {
+      "year": 1801,
+      "month": 6,
+      "day": "[?]"
+    },
+    "place": "HMS Tiger",
+    "geo_id": null
+  },
+  {
+    "letter": 214,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Cobenzl, Johann Ludwig Graf",
+      "id_r": "155"
+    },
+    "forw": [],
+    "date": {
+      "year": 1802,
+      "month": 1,
+      "day": 28
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 253,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Breitkopf und Härtel (Verleger)",
+      "id_r": "1386"
+    },
+    "forw": [],
+    "date": {
+      "year": 1802,
+      "month": 9,
+      "day": 9
+    },
+    "place": "Bukarest",
+    "geo_id": "683506"
+  },
+  {
+    "letter": 257,
+    "language": "en",
+    "writer": {
+      "name": "Cooke, Henry Frederick",
+      "id_w": "164"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1802,
+      "month": 9,
+      "day": 28
+    },
+    "place": "Brunswick",
+    "geo_id": "2945024"
+  },
+  {
+    "letter": 283,
+    "language": "en",
+    "writer": {
+      "name": "Bathurst, Henry",
+      "id_w": "1202"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": "[?]",
+      "month": "[?]",
+      "day": "[?]"
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 289,
+    "language": "de",
+    "writer": {
+      "name": "Theimer, Elise",
+      "id_w": "758"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1803,
+      "month": 1,
+      "day": 3
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 299,
+    "language": "en; ar",
+    "writer": {
+      "name": "Macbride, John David",
+      "id_w": "472"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1803,
+      "month": 2,
+      "day": 9
+    },
+    "place": "Oxford",
+    "geo_id": "2640729"
+  },
+  {
+    "letter": 336,
+    "language": "fr; it",
+    "writer": {
+      "name": "Chabert von Ostland, Thomas",
+      "id_w": "141"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1803,
+      "month": 5,
+      "day": 3
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 386,
+    "language": "en",
+    "writer": {
+      "name": "Smith, Sidney William Sir",
+      "id_w": "703"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1803,
+      "month": 9,
+      "day": 8
+    },
+    "place": "HMS Antelope at the mouth of the Thames",
+    "geo_id": null
+  },
+  {
+    "letter": 418,
+    "language": "fr",
+    "writer": {
+      "name": "Chabert von Ostland, Thomas",
+      "id_w": "141"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1803,
+      "month": 12,
+      "day": 16
+    },
+    "place": "Wien",
+    "geo_id": "3029241"
+  },
+  {
+    "letter": 436,
+    "language": "en",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1804,
+      "month": 2,
+      "day": 15
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 478,
+    "language": "en",
+    "writer": {
+      "name": "Cooke, Henry Frederick",
+      "id_w": "164"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1804,
+      "month": 7,
+      "day": 8
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 511,
+    "language": "en",
+    "writer": {
+      "name": "Smith, Sidney William Sir",
+      "id_w": "703"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1804,
+      "month": 10,
+      "day": 31
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 552,
+    "language": "fr; de",
+    "writer": {
+      "name": "Chabert von Ostland, Thomas",
+      "id_w": "141"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1805,
+      "month": 5,
+      "day": 3
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 569,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1805,
+      "month": 6,
+      "day": 10
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 574,
+    "language": "en",
+    "writer": {
+      "name": "Cooke, Henry Frederick",
+      "id_w": "164"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1805,
+      "month": 6,
+      "day": 20
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 732,
+    "language": "de",
+    "writer": {
+      "name": "Saurau, Franz Josef Graf",
+      "id_w": "667"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1806,
+      "month": 10,
+      "day": 8
+    },
+    "place": "Graz",
+    "geo_id": "2778067"
+  },
+  {
+    "letter": 752,
+    "language": "fr",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Stadion von Warthausen, Johann Philipp Graf",
+      "id_r": "716"
+    },
+    "forw": [],
+    "date": {
+      "year": 1806,
+      "month": 11,
+      "day": 24
+    },
+    "place": "Jassy",
+    "geo_id": "675810"
+  },
+  {
+    "letter": 780,
+    "language": "de",
+    "writer": {
+      "name": "Reinhard, Karl Friedrich Graf",
+      "id_w": "628"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1807,
+      "month": 2,
+      "day": 7
+    },
+    "place": "Lemberg",
+    "geo_id": "702550"
+  },
+  {
+    "letter": 867,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1807,
+      "month": 10,
+      "day": 8
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 1029,
+    "language": "fr; ar",
+    "writer": {
+      "name": "Silvestre de Sacy, Antoine Isaac",
+      "id_w": "661"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1809,
+      "month": 8,
+      "day": 14
+    },
+    "place": "Paris",
+    "geo_id": "2988507"
+  },
+  {
+    "letter": 1085,
+    "language": "de",
+    "writer": {
+      "name": "Theimer, Elise",
+      "id_w": "758"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1810,
+      "month": 4,
+      "day": 28
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 1176,
+    "language": "fr; ar",
+    "writer": {
+      "name": "Silvestre de Sacy, Antoine Isaac",
+      "id_w": "661"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1810,
+      "month": 12,
+      "day": 29
+    },
+    "place": "Paris",
+    "geo_id": "2988507"
+  },
+  {
+    "letter": 1177,
+    "language": "de",
+    "writer": {
+      "name": "Seetzen, Ulrich Jasper",
+      "id_w": "1022"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1810,
+      "month": "[?]",
+      "day": "[?]"
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 1178,
+    "language": "de; ar; en; fr",
+    "writer": {
+      "name": "Seetzen, Ulrich Jasper",
+      "id_w": "1022"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": "[?]",
+      "month": "[?]",
+      "day": "[?]"
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 1285,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1812,
+      "month": 1,
+      "day": 18
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 1342,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Cotta von Cottendorf, Johann Friedrich Freiherr von (senior)",
+      "id_r": "168"
+    },
+    "forw": [],
+    "date": {
+      "year": 1812,
+      "month": 7,
+      "day": 21
+    },
+    "place": "[Wien]",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 1343,
+    "language": "de",
+    "writer": {
+      "name": "Frank, Othmar",
+      "id_w": "251"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1812,
+      "month": 7,
+      "day": 26
+    },
+    "place": "München",
+    "geo_id": "2867714"
+  },
+  {
+    "letter": 1372,
+    "language": "fr",
+    "writer": {
+      "name": "Ohsson, Abraham Constantin Mouradgea d'",
+      "id_w": "570"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1812,
+      "month": 11,
+      "day": 5
+    },
+    "place": "Paris",
+    "geo_id": "2988507"
+  },
+  {
+    "letter": 1423,
+    "language": "en",
+    "writer": {
+      "name": "Rich, Claudius James; Rich, Mary",
+      "id_w": "636; 1035"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1813,
+      "month": 3,
+      "day": 6
+    },
+    "place": "Bagdad",
+    "geo_id": "98182"
+  },
+  {
+    "letter": 1568,
+    "language": "de",
+    "writer": {
+      "name": "Wahl, Samuel Friedrich",
+      "id_w": "795"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1814,
+      "month": 9,
+      "day": 30
+    },
+    "place": "Nordhausen",
+    "geo_id": "2861982"
+  },
+  {
+    "letter": 1689,
+    "language": "it",
+    "writer": {
+      "name": "Morelli, Jacopo",
+      "id_w": "532"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1815,
+      "month": 10,
+      "day": 14
+    },
+    "place": "Venedig",
+    "geo_id": "3164603"
+  },
+  {
+    "letter": 1772,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "NN",
+      "id_r": "1021"
+    },
+    "forw": [],
+    "date": {
+      "year": 1816,
+      "month": 5,
+      "day": 21
+    },
+    "place": "[Wien]",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 1922,
+    "language": "fr; ar",
+    "writer": {
+      "name": "Silvestre de Sacy, Antoine Isaac",
+      "id_w": "661"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1817,
+      "month": 7,
+      "day": 4
+    },
+    "place": "[Paris]",
+    "geo_id": "2988507"
+  },
+  {
+    "letter": 2012,
+    "language": "de; la",
+    "writer": {
+      "name": "Kurz, Franz Seraphin",
+      "id_w": "424"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1817,
+      "month": 12,
+      "day": 15
+    },
+    "place": "St. Florian",
+    "geo_id": "2771867"
+  },
+  {
+    "letter": 2098,
+    "language": "en",
+    "writer": {
+      "name": "Keene, Henry George",
+      "id_w": "382"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1818,
+      "month": 5,
+      "day": 27
+    },
+    "place": "Sidney College",
+    "geo_id": "2653941"
+  },
+  {
+    "letter": 2378,
+    "language": "it",
+    "writer": {
+      "name": "Bettio, Pietro",
+      "id_w": "78"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1819,
+      "month": 11,
+      "day": 26
+    },
+    "place": "Venedig",
+    "geo_id": "3164603"
+  },
+  {
+    "letter": 2382,
+    "language": "en; ar",
+    "writer": {
+      "name": "Keene, Henry George",
+      "id_w": "382"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1819,
+      "month": 11,
+      "day": 29
+    },
+    "place": "Hertford East India College",
+    "geo_id": "12265370"
+  },
+  {
+    "letter": 2825,
+    "language": "fr; ar",
+    "writer": {
+      "name": "Silvestre de Sacy, Antoine Isaac",
+      "id_w": "661"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1823,
+      "month": 1,
+      "day": 13
+    },
+    "place": "Paris",
+    "geo_id": "2988507"
+  },
+  {
+    "letter": 2864,
+    "language": "en",
+    "writer": {
+      "name": "Davy, Humphry",
+      "id_w": "183"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1823,
+      "month": 5,
+      "day": 10
+    },
+    "place": "London",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 2869,
+    "language": "en",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Wilson, Horace Hayman",
+      "id_r": "830"
+    },
+    "forw": [],
+    "date": {
+      "year": 1823,
+      "month": 5,
+      "day": 18
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 3016,
+    "language": "de",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1824,
+      "month": 6,
+      "day": 1
+    },
+    "place": "[Dresden]",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 3185,
+    "language": "it; ar",
+    "writer": {
+      "name": "Rosellini, Ippolito",
+      "id_w": "648"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1825,
+      "month": 9,
+      "day": 1
+    },
+    "place": "Pisa",
+    "geo_id": "3170647"
+  },
+  {
+    "letter": 3192,
+    "language": "de; el",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1825,
+      "month": 9,
+      "day": 15
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 3629,
+    "language": "fr; ar; it",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Trebutien de la Place, Francois-Guillaume-Stanislas",
+      "id_r": "771"
+    },
+    "forw": [],
+    "date": {
+      "year": 1828,
+      "month": 1,
+      "day": 14
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 3735,
+    "language": "it",
+    "writer": {
+      "name": "Bettio, Pietro",
+      "id_w": "78"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1828,
+      "month": 7,
+      "day": 11
+    },
+    "place": "Venedig",
+    "geo_id": "3164603"
+  },
+  {
+    "letter": 3940,
+    "language": "it",
+    "writer": {
+      "name": "Bettio, Pietro",
+      "id_w": "78"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1829,
+      "month": 4,
+      "day": 28
+    },
+    "place": "Venedig",
+    "geo_id": "3164603"
+  },
+  {
+    "letter": 4154,
+    "language": "fr",
+    "writer": {
+      "name": "Trebutien de la Place, Francois-Guillaume-Stanislas",
+      "id_w": "771"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Caroline",
+      "id_r": "1228"
+    },
+    "forw": [],
+    "date": {
+      "year": 1830,
+      "month": 3,
+      "day": 8
+    },
+    "place": "Caen",
+    "geo_id": "3029241"
+  },
+  {
+    "letter": 4178,
+    "language": "fr",
+    "writer": {
+      "name": "Trebutien de la Place, Francois-Guillaume-Stanislas",
+      "id_w": "771"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1830,
+      "month": 4,
+      "day": 11
+    },
+    "place": "Caen",
+    "geo_id": "3029241"
+  },
+  {
+    "letter": 4271,
+    "language": "en",
+    "writer": {
+      "name": "Fox-Strangways, William 4th Earl of Ilchester",
+      "id_w": "727"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1830,
+      "month": 9,
+      "day": 13
+    },
+    "place": "[London]",
+    "geo_id": 2643743
+  },
+  {
+    "letter": 4838,
+    "language": "de; ar",
+    "writer": {
+      "name": "Frähn, Christian Martin Joachim",
+      "id_w": "250"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1833,
+      "month": 8,
+      "day": 1
+    },
+    "place": "St. Petersburg",
+    "geo_id": "498817"
+  },
+  {
+    "letter": 4906,
+    "language": "fr; ar",
+    "writer": {
+      "name": "Silvestre de Sacy, Antoine Isaac",
+      "id_w": "661"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1833,
+      "month": 12,
+      "day": 21
+    },
+    "place": "[?]",
+    "geo_id": "unknown"
+  },
+  {
+    "letter": 4908,
+    "language": "en",
+    "writer": {
+      "name": "Smith, Henry",
+      "id_w": "702"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": "1833",
+      "month": "12",
+      "day": "27"
+    },
+    "place": "London King's College",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 5218,
+    "language": "la; el",
+    "writer": {
+      "name": "Böttiger, Karl August",
+      "id_w": "91"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1835,
+      "month": 4,
+      "day": 14
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 5487,
+    "language": "en",
+    "writer": {
+      "name": "Prinsep, James",
+      "id_w": "611"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1836,
+      "month": 9,
+      "day": 10
+    },
+    "place": "Kalkutta",
+    "geo_id": "1275004"
+  },
+  {
+    "letter": 5926,
+    "language": "it",
+    "writer": {
+      "name": "Catena, Bartolomeo",
+      "id_w": "138"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1839,
+      "month": 1,
+      "day": 19
+    },
+    "place": "Mailand",
+    "geo_id": "3173435"
+  },
+  {
+    "letter": 6384,
+    "language": "en",
+    "writer": {
+      "name": "Teano Fürstin Herzogin von Sermoneta und San Marco (geb. Gräfin Rzewuska), Kalixta",
+      "id_w": "753"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1842,
+      "month": 3,
+      "day": 19
+    },
+    "place": "Rom",
+    "geo_id": "3169070"
+  },
+  {
+    "letter": 6451,
+    "language": "de",
+    "writer": {
+      "name": "Fallmerayer, Philipp Jakob",
+      "id_w": "231"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1842,
+      "month": 9,
+      "day": 11
+    },
+    "place": "München",
+    "geo_id": "2867714"
+  },
+  {
+    "letter": 6526,
+    "language": "it",
+    "writer": {
+      "name": "Cantù, Cesare",
+      "id_w": "129"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1843,
+      "month": 2,
+      "day": "[?]"
+    },
+    "place": "Mailand",
+    "geo_id": "3173435"
+  },
+  {
+    "letter": 6534,
+    "language": "en; ar",
+    "writer": {
+      "name": "Bland, Natalius",
+      "id_w": 88
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1843,
+      "month": 3,
+      "day": 30
+    },
+    "place": "Randalls Park",
+    "geo_id": "2643743"
+  },
+  {
+    "letter": 6641,
+    "language": "fr",
+    "writer": {
+      "name": "Rossi, Francesco",
+      "id_w": "650"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1844,
+      "month": 1,
+      "day": 3
+    },
+    "place": "Mailand",
+    "geo_id": "3173435"
+  },
+  {
+    "letter": 6891,
+    "language": "it",
+    "writer": {
+      "name": "Rossi, Francesco",
+      "id_w": "650"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1845,
+      "month": 5,
+      "day": 1
+    },
+    "place": "Mailand",
+    "geo_id": "3173435"
+  },
+  {
+    "letter": 6947,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Endlicher, Stefan Ladislaus",
+      "id_r": "214"
+    },
+    "forw": [],
+    "date": {
+      "year": 1845,
+      "month": 8,
+      "day": 12
+    },
+    "place": "Hainfeld",
+    "geo_id": "2608087"
+  },
+  {
+    "letter": 6950,
+    "language": "it; la",
+    "writer": {
+      "name": "Bettio, Pietro",
+      "id_w": "78"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1845,
+      "month": 8,
+      "day": 18
+    },
+    "place": "Venedig",
+    "geo_id": "3164603"
+  },
+  {
+    "letter": 7159,
+    "language": "de",
+    "writer": {
+      "name": "Ludwig I. König von Bayern",
+      "id_w": "469"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1847,
+      "month": 3,
+      "day": 7
+    },
+    "place": "München",
+    "geo_id": "2867714"
+  },
+  {
+    "letter": 7271,
+    "language": "de; la",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Creuzer, Georg Friedrich",
+      "id_r": "172"
+    },
+    "forw": [],
+    "date": {
+      "year": 1847,
+      "month": 8,
+      "day": 21
+    },
+    "place": "Graz",
+    "geo_id": "2778067"
+  },
+  {
+    "letter": 7427,
+    "language": "en",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Wilson, Horace Hayman",
+      "id_r": "830"
+    },
+    "forw": [],
+    "date": {
+      "year": 1848,
+      "month": 5,
+      "day": 13
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 7514,
+    "language": "de",
+    "writer": {
+      "name": "Grässe, Johann Georg Theodor",
+      "id_w": "290"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1848,
+      "month": 11,
+      "day": 28
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 7523,
+    "language": "de",
+    "writer": {
+      "name": "Umbreit, Friedrich Wilhelm Carl",
+      "id_w": "782"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1848,
+      "month": 12,
+      "day": 24
+    },
+    "place": "Heidelberg",
+    "geo_id": "2907911"
+  },
+  {
+    "letter": 7561,
+    "language": "de",
+    "writer": {
+      "name": "Grässe, Johann Georg Theodor",
+      "id_w": "290"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1849,
+      "month": 3,
+      "day": 16
+    },
+    "place": "Dresden",
+    "geo_id": "2935022"
+  },
+  {
+    "letter": 7726,
+    "language": "it",
+    "writer": {
+      "name": "Rossi, Francesco",
+      "id_w": "650"
+    },
+    "recipient": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_r": "2000"
+    },
+    "forw": [],
+    "date": {
+      "year": 1850,
+      "month": 5,
+      "day": 10
+    },
+    "place": "Mailand",
+    "geo_id": "3173435"
+  },
+  {
+    "letter": 7982,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": null,
+      "id_r": "0"
+    },
+    "forw": [],
+    "date": {
+      "year": 1853,
+      "month": 10,
+      "day": 21
+    },
+    "place": "Wien",
+    "geo_id": "2761369"
+  },
+  {
+    "letter": 8017,
+    "language": "de",
+    "writer": {
+      "name": "Hammer-Purgstall, Joseph von",
+      "id_w": "2000"
+    },
+    "recipient": {
+      "name": "Gesellschaft für die Reinheit der deutschen Sprache in Heidelberg",
+      "id_r": "1301"
+    },
+    "forw": [],
+    "date": {
+      "year": 1854,
+      "month": 7,
+      "day": 16
+    },
+    "place": "Döbling",
+    "geo_id": "2600996"
+  }
+]

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4838"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>St. Petersburg d[en] 20 Jul[i]/1 Aug[ust] 1833.</dateline><salute>Verehrtester Herr wirklicher Hofrat.</salute></opener><p>In der Mitte Januar des Jahres hatte ich die Ehre, Euer Hochwohlgeboren
+                        zugleich mit einigen Zeilen <persName>Ibn-Foslan</persName>s Bulgaren und
+                        das Programm der orientalischen Preisfrage zu überschicken, und es wundert
+                        mich, daß diese Sendung, für deren Beförderung nach Wien ich Herrn
+                            <persName>von</persName> <persName>Kaisersfeld</persName> (den ich
+                        selbst nicht kenne) durch eine Freundin in Anspruch nehmen ließe, nach dem
+                        29. April, wie ich aus Ihrer letzten gütigen Zuschrift ersehe, nicht in
+                        Ihren Händen war. Ich will hoffen, daß sie nun längst schon Ihnen zugekommen
+                        sein wird.</p><p>Es sollte mich ungemein freuen, wenn Sie die Beantwortung der orientalischen
+                        Preisfrage (von deren Programm ich hier Ihren Wünschen zu Folge noch ein
+                        Paar Exemplare beifüge) übernehmen, und in der Hoffnung, daß mein Wunsch in
+                        Erfüllung gehe, sende ich hier von den mir, als bei Ihnen noch fehlend
+                        angegebenen Büchern: Rodoslownaja Kniga 2 Teile, Naunow ob <unclear>otnorkeniack</unclear>
+                        etc. und Istoria w Kasanskom Zarstwe, welches letztere Werk ich mir von der
+                        Akademie, von der es herausgegeben worden, für Sie erbeten habe. Das
+                            <graphic url="media/image105.png"/>
+                        <persName>Tschingischan</persName>s und <persName>Timur</persName>s besitzen
+                        Sie aller Wahrscheinlichkeit nach schon in Ihrer Bibliothek; denn ich müßte
+                        mich sehr irren, wenn ich Ihnen dieses Buch (es ist eines mit
+                            <persName>Chalfin</persName>s Tatarischer Chrestomathie) nicht zu seiner
+                        Zeit geschickt haben sollte. Indeß, da ich mich darin doch irren könnte,
+                        habe ich nach Kasan Auftrag zum Ankauf desselben gegeben, und werde es
+                        nachfolgen lassen, sobald ich es erhalten.</p><p>Die von mir für die Rodoslawnaja Kniga und den Naunow gezahlten 15 Rubel B.A.
+                        habe ich von den 85 Rubel 50 Kopeken genommen, welche Sie noch bei mir
+                        deoponiert hatten. Von diesem Gelde restiert also noch bei mir 70 Rubel
+                        50 Kopeken (schreibe siebenzig Rubel fünfzig Kopeken Bank-Assignation).</p><p>Auf einem hier beigeschlossenen Blättchen habe ich noch einige kleine
+                        Schriften angemerkt, die für die in Frage stehende Untersuchung wohl auch
+                        nicht ganz unbeachtet bleiben dürfen.</p><p>Die gedachten Übersetzungen von Jarlyken fanden sich in
+                            <persName>Nowikaw</persName>s Bibliothek T. I und
+                            <persName>Romanzow</persName>s Sobranie T. II. – Noch muß ich erinnern,
+                        daß so wenig die deutsche als die französische Übersetzung von
+                            <persName>Karamsin</persName>s Geschichte für diejenigen Exzerpte aus
+                        noch ungedruckten russischen Chroniken, welche in dem Programm von mir
+                        angedeutet worden sind, gebraucht werden kann.</p><p>Für das wertvolle Geschenk, das Sie mir mit dem 9ten Band Ihres großen Werkes
+                        zu machen die Güte gehabt, meinen verbindlichsten Dank.</p><p>Auf den Band LXI der Wiener Jahrbücher bin ich sehr neugierig. Das von Ihnen
+                        in dem ebengedachten Band Ihrer Osmanischen Geschichte vorkommende <graphic url="media/image106.png"/>, befindet sich dasselbe in ihrer oder in der
+                        kaiserlichen Bibliothek?</p><p>Was der General NN Ihnen von persischen Manuskripten, die noch außer den von
+                        mir zu seiner Zeit genannten aus Ardebil hierher gekommen sein sollten,
+                        gesagt hat, beruht, wie Sie auch selbst schon vermutet, auf einem
+                        Irrtum.</p><p>Daß auch Sie an den Augen so sehr gelitten, habe ich zu meinem großen
+                        Bedauern erfahren, aber mich gefreut, daß es sich jedoch bald damit
+                        gebessert hat. Ich leide fort und fort an den meinigen, was mich in meinen
+                        Arbeiten entsetzlich stört und mich fast ganz auf meine Correspondenz zu
+                        verzichten nötigt.</p><closer><salute>Mich der Fortdauer Ihrer mir so schätzbaren Freundschaft empfehlend,
+                        bitte ich Sie die erneute Versicherung der unwandelbaren Hochachtung zu
+                        genehmigen, womit ich die Ehre habe mich zu überschreiben Euer
+                        Hochwohlgeboren ergebenster Diener</salute><signed><persName>Frähn</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,40 @@
+# Encoding Rules for Editorial Interventions
+
+## General Remarks:
+- Maintain original historical spelling and orthography
+- Do not use attributes in TEI tags
+- For multiple intervention types in one sequence, separate with semicolon
+
+### IMPORTANT:
+Notation form is not prescriptive: Square brackets or [sic] markers indicate that an editorial intervention exists, but do not necessarily determine the TEI encoding — always derive the correct tag from the nature of the intervention, not its surface notation.
+
+
+## 1. Abbreviation
+- Use for intentional abbreviations by the original writer
+- Examples: abbreviated words with periods (d. M. = dieses Monats), month names (Jany = January), titles/forms of address (Mr = Monsieur), acronyms (FO = Foreign Office), shortened words by dropping letters from the end (arab = arabisch) or from the middle (Jhdte = Jahrhunderte)
+- Always use a choice tag with abbr tag for abbreviated form and expan tag for expanded form
+
+## 2. Correction
+- Use for apparent errors by the original writer requiring correction
+- Examples: wrong word choice, grammar or syntax errors
+- Use sic tag only if correction is unclear, or use a choice tag with sic and corr tags if correction is clear. Always use complete words in both tags
+
+## 3. Supplement
+- Use for missing content added by the editor for clarity/completeness
+- Examples: missing punctuation marks, unintentionally omitted words, assumed name parts or units
+- Use a supplied tag
+
+## 4. Omission
+- Use for text passages omitted by the editor
+- Examples: illegible/irrecoverable material
+- Use a gap tag. The gap tag is always an empty element with no text content
+
+## 5. Uncertainty
+- Use for text that has been reconstructed but remains uncertain.
+- Example:  illegible/damaged text where a reading has been attempted but cannot be confirmed, often accompanied by question marks
+- Use an unclear tag
+
+## 6. Redundant Text
+- Use for text present in the source which seems superfluous or redundant
+- Examples: unnecessary text repetitions
+- Use a surplus tag

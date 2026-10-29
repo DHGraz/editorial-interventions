@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_83"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Gegenüber von Konstantinopel den 10 Dez[ember] 1799</dateline></opener><p>Sie<note type="comment" place="bottom"><p> SLUB Dresden Mscr.Dresd.h.37,4°,
+                                Bd 68, Nr 19, S 113; hier nach Payer von Thurn, <hi rend="italic">Böttigerbriefe 32f</hi>. – Rudolf
+                                    <persName>Payer von Thurn</persName> hat einige wenige der weit
+                                über 300 Briefe <persName>Böttiger</persName>s an HP in Hainfeld
+                                eingesehen und in seinem Aufsatz <hi rend="italic">„Briefwechsel
+                                    zwischen C. A. Böttiger und Joseph von Hammer“, in: Chronik des
+                                    Wiener Goethe-Vereins 36 (1930) 13–40</hi> auszugsweise
+                                veröffentlicht und auch einige wenige Briefe HPs an
+                                    <persName>Böttiger</persName> (für deren liberale Gestattung der
+                                Benützung in Wien er der damaligen Sächsischen Landesbibliothek
+                                dankt), in sehr knappen Auszügen und unter z.T. falschen Datums-
+                                bzw. Ortsangaben angeschlossen. Die Auszüge aus HPs Briefen werden
+                                gegen Ende der zitierten Arbeit immer kürzer, was
+                                    <persName>Payer-Thurn</persName> (S. 39) durch die ungewöhnliche
+                                Aussage erklärt: <hi rend="italic">„Da der zur Verfügung stehende
+                                    Raum zu Ende geht, können nur mehr einige Briefstellen
+                                    </hi><persName>Hammer</persName><hi rend="italic">s Platz
+                                    finden, die sich hauptsächlich auf die Entstehung jener drei
+                                    Werke </hi><persName>Hammer</persName><hi rend="italic">s
+                                    beziehen, die für den Westöstlichen Diwan von Bedeutung sind. Es
+                                    sind dies: vor allem die Übersetzung des Hafis, Die Geschichte
+                                    der schönen Redekünste Persiens und Schirin.“</hi></p></note>
+                        werden bei Empfange dieses Briefes mein früheres durch die Diligence
+                        befördertes Schreiben<note type="comment" place="bottom"><p> Dies soll wohl
+                                bedeuten, dass HP das Schreiben mit der Internuniaturspost an
+                                    <persName>Raab</persName> und durch diesen mit der
+                                Diligence-Post weiterbefördern hat lassen.</p></note> vielleicht
+                        schon erhalten haben, mein teurer Freund, und ich wiederhohle daher Nichts
+                        als die Bitte, daß Sie mir in Ihrer Antwort, die ich auf jeden meiner Briefe
+                        und besonders aber auf jenen sobald als möglich erwarte, die Kosten
+                        desselben ansetzen, mit denen ich Sie nicht behelligen kann; Ihr Schreiben
+                        mit dem numismatischen Auftrage ist eben in dem rechten Augenblicke
+                        angekommen. Ich hatte bereits den beiliegenden Brief an
+                            <persName>Lerse</persName> geschrieben, der mir bei meiner Abreise von
+                        Wien ähnliche Kommissionen nahe ans Herz gelegt hatte. Die Liste hatte ich
+                        doppelt kopiert, und wollte Ihnen dabei eben so wie an
+                            <persName>Lerse</persName> Nachricht geben. Da aber Ihr Freund Freiherr
+                            <persName>von Seckendorf</persName> das Ganze vorerst allein, und im
+                        Stillen zu unterhandeln wünscht, so nehme ich keinen Anstand von dieser
+                        Gelegenheit keinen andern Gebrauch zu machen als gegen Sie. Ich werde an
+                            <persName>Lerse</persName> keine Silbe schreiben, und bin versichert,
+                        daß auch von Ihrer Seite Nichts verlauten wird, indem es von dort z.B. von
+                        Herrn <persName>von</persName> <persName>Goethe</persName>s Seite leicht zu
+                            <persName>Lerse</persName>'s Ohren kommen könnte. </p><p>Über die Kommission selbst habe ich Nichts zu sagen, als daß ich mit
+                            <persName>Cousinery</persName><note type="comment" place="bottom"><p>
+                                Französischer Numismatiker und Diplomat in der Levante;
+                            (BARCH).</p></note> lange unterhandelt habe, um seine Forderung von 2
+                        Piaster für jedes Stück auf den mäßigen Preis von 1000 fl<note type="comment" place="bottom"><p> Es ist unklar, wie diese Stelle zu
+                                verstehen ist. Denn selbst, wenn damit der Gesamtpreis des
+                                Münzankaufs gemeint ist, handelt es sich bei 1000 Gulden um eine
+                                gewaltige Summe.</p></note>. herabzusetzen. Weiter herab aber läßt
+                        er Nichts mehr. Ich tat dieses um alles Hin- und Herbieten zu ersparen. Ist
+                        Fr[ei]h[err] <persName>von Seckendorf</persName> mit dieser Sammlung, in der
+                        freilich kein Drittel von Silber ist, aber vielleicht mehr als 150 Lücken
+                        ausgefüllet werden, zufrieden, so darf er nur von Dresden aus einen Wechsel
+                        hieher an den Herrn <persName>von</persName> <persName>Hübsch</persName>,
+                        der ohnedies die Geschäfte des sächsischen Hofes besorgt, oder an ein
+                        anderes Handelshaus auf meinen Namen ausstellen.
+                            <persName>Cousinery</persName> schickt nach unserer Übereinkunft die
+                        Münzen von Smyrna hieher, und ich würde sie dann nach Wien oder Dresden
+                        unter der mir gegebenen Adresse abliefern. Der Zweck des letzten Hierseins
+                        von <persName>Cousinery</persName> war der Verkauf einiger Anticaglien, von
+                        denen er einen herrlichen Dianenkopf, der einem Türken in Kleinasien zum
+                        Feuerschlagen gedient hatte, an den russischen Gesandten für 1200 Piaster
+                        verkaufte; – Es ist hier ein ganz eigener geschmackvoller Luxus der
+                        Ministerfrauen solche antike Steine statt Diamanten in ihre Haare
+                        einzuflechten oder an dem Busen umgehängt zu tragen; und das steht mancher,
+                        z.B. der preussischen Gesandtin, die ein allerliebstes Weib ist,
+                        vortrefflich. </p><p>Die andere Beilage, die Sie hier finden sind zwei Rezensionen oder besser zu
+                        sagen Anzeigen der zwei ersten in der nun wieder arbeitenden türkischen
+                        Presse gedruckten Werke. Sie fragten mich einmal in einem Ihrer Briefe, ob
+                        ich an der A[llgemeinen]L[iteratur]Z[eitung]<note type="comment" place="bottom"><p> Gegründet 1785 in Jena.</p></note> Teil nehmen
+                        wollte, ich antwortete wenn sich die Gelegenheit darböte Etwas, das in mein
+                        Fach einschlüge, zu liefern. – Hier halte ich Wort und werde wenn Sie damit
+                        zufrieden sind, von den übrigen teils erschienenen, teils erscheinenden
+                        Büchern ähnliche Anzeigen machen.</p><p>Die englische Großbotschaft hat zwei interessante Männer mitgebracht.
+                            <persName>Carlyle</persName><note type="comment" place="bottom"><p> A.
+                                Carlysle. Es handelt sich aber um Joseph Dacre
+                                    <persName>Carlyle</persName> (1759–1804), Professor des
+                                Arabischen in Cambridge, der 1799 als Botschaftskaplan nach Istanbul
+                                kam, um hier seine Studien fortzusetzen; (BARCH).</p></note> mit dem
+                        ich mich bald nach seiner Ankunft verbrüdert habe, ein sanfter, gelehrter,
+                        und sehr religiöser Mann. Er ist dem englischen Ministerium wohlbekannt, ein
+                        besonderer Protege <persName>Pitt</persName>s und seines vorigen Erziehers
+                        und itzigen Freundes des Bischofs von London; wir machen alle unseren Touren
+                        gemeinschaftlich. Er hält darüber mit einer wahren mikrologischen
+                        Genauigkeit Buch, und da er dies bei seiner Rückreise zu drucken gedenkt, so
+                        werden Sie auch darin zugleich die genaueste Rechenschaft von dem, was ich
+                        sah, hörte u. s.w. finden; ich bin sein Dolmetsch, und seine Gesellschaft
+                        erleichtert mir hier und da das Sehen, weil ich in seinem Namen als des
+                        Rates der englischen Großbotschaft den Türken öfters vorsage, was ich will.
+                        Doch das hindert mich nicht, auch täglich, wiewohl nur mit einigen Zeilen,
+                        meine Bemerkungen aufzuzeichnen. Der andere ist
+                            Dr. <persName>Maclean</persName>, ein Schotte, der des Keltischen
+                        vollkommen mächtig ist, und von der Gesellschaft, die izt die neue Ausgabe
+                            Ossians<note type="comment" place="bottom"><p> Hier handelt es sich um
+                                die bekannten, einem fiktiven Dichter Ossian zugeschriebenen
+                                Gesänge, die tatsächlich aber von dem Schotten James
+                                    <persName>MacPherson</persName> (1736–1796) verfasst waren und
+                                trotz früher Kritik an der Echtheit eine ungeheure Wirkung in der
+                                Literatur nicht nur Britanniens zeitigten.</p></note> besorgt,
+                        ersucht ward, die Korrekturen zu übernehmen; er ging aber lieber hieher;
+                        vormals war er in China und Indien. Er hat eine keltische Sammlung der noch
+                        unbekannten Stücke Ossians bei sich, und ich hoffe mir durch ihn wenigstens
+                        eine oberflächliche Kenntnis der keltischen Sprache zu erwerben, um über
+                        ihre Verwandtschaft mit den mir bekannten noch lebenden Sprachen urteilen zu
+                        können. </p><p>Über [unleserlich], den Beide gekannt haben, kamen sie überein, that he was a
+                        very ignorant man. Von Musivarbeiten<note type="comment" place="bottom"><p>
+                                Einlegearbeiten.</p></note> habe ich noch nichts gesehen als die
+                        prächtigen Überreste in der Sofiakirche<note type="comment" place="bottom"><p> Hagia Sophia.</p></note>, die noch täglich verstümmelt werden,
+                        indem man Stücke herabschlägt un d dann wieder zerschlägt, um dieselben an
+                        diejenigen, die die Moschee zu besehen kommen, zu verkaufen. Ich will sehen,
+                        ein Paar solcher Stücke (sie sind nicht größer als ein Thaler) für Sie, mein
+                        Freund, zu bekommen; auf Ihre anderen Fragen, mein theurer Freund, antworte
+                        ich ein andermal; <salute>itzt schließe ich mit der Verehrung an alle großen
+                            Männer Weimars in treuer Hochschätzung von Ihrem</salute>
+                    </p><closer><signed><persName>Hammer</persName></signed></closer><postscript>
+                        <p>P.S. Tausend schönen Dank für Alles Neue der Literatur. Fahren Sie doch
+                            damit fort, ich bitte Sie; können Sie denn den Unfug des par nobile
+                                fratrum<note type="comment" place="bottom"><p> Vermutlich sind damit
+                                    die Brüder <persName>Schlegel</persName> gemeint.</p></note>
+                            nicht wenigstens in der A.L.Z. einstellen? – denn dort mögen Sie nach
+                            meinem Urteil ihr Unwesen recht treiben [sic].</p>
+                    </postscript></div></body></text></TEI>

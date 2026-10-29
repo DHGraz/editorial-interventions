@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3940"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Bettio</persName> hat die folgenden Werke für
+                        <persName>HP</persName> besorgt: Relazione della pace di Passarovitz;
+                    Ferrari, Notizie della lega; zudem das nächste Faszikel der Iscrizioni von
+                        Cicogna<note type="comment" place="bottom"><p> Es handelt sich um
+                            Faszikel VII über San Basilio.</p></note>.</p><p>Weitere Ausführungen zur Frage des Bibliotheksprojektes verspricht
+                        <persName>Bettio</persName> für einen folgenden Brief.</p></div><div type="letter" subtype="original"><opener><salute>Chiarissimo Sig[nor] Consig[lie]re</salute></opener><p>Rinvenni la Relazione della Pace di Passarowitz, e le Notizie della Lega del
+                        Ferrari per Fior[ini] 1. K[reuzer] 20, gliele spedisco insieme col fascicolo
+                        delle Iscrizioni del <persName>Cigogna</persName>, pel quale pagai pure
+                        Fior[ini] 1. K[reuzer] 20, cioè in tutto Fior[ini] 2 K[reuzer] 40.</p><p>Colgo la occasione che mi si presenta, e perciò in fretta le scrivo
+                        riservandomi ad informarla in altra occasione sullo stato, e sul progetto
+                        del Palazzo Ducale, e quindi della Biblioteca. <salute>Ella mi continui la
+                            preziosa sua benevoglienza, e mi consideri Il suo Obbedient[issi]mo
+                            Servo ed Amico</salute></p><closer><signed>P[ietro] <persName>Bettio</persName></signed><dateline>Venezia 28 Aprile 1829.</dateline></closer></div></body></text></TEI>

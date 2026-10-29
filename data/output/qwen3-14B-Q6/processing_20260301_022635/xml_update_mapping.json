@@ -1,0 +1,1842 @@
+{
+  "letter101.xml": [
+    {
+      "element_id": "L101_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[3]",
+      "context": "Es muss traurig sein jemanden zu lieben und nicht wiedergeliebt [zu] werden; wie sehr danke ich der guten Mutter Natur, die mich mit einer so großen Portion Phlegma versehen hat, daß ich die Leiden der Liebe wohl schwerlich erfahren werde. Vielleicht sind eben meine Gefühle auch nur im Schlummer und erwachen bei irgendeiner Erschütterung umso stärker; was glaubt mein lieber Bruder? Ich denke wenn auch das letzte [der Fall] wäre, so brauchte es bei mir wenigstens ein Erdbeben bis mein wohltätiger Schlummer gestört würde.",
+      "replacements": [
+        {
+          "original_item": "[zu]",
+          "tei_encoding": "<supplied>zu</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[der Fall]",
+          "tei_encoding": "<supplied>der Fall</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter120.xml": [
+    {
+      "element_id": "L120_div1_p8",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[8]/text()[3]",
+      "context": "Hartmann aus Herford hat diese Messe eine orientalische Perlenschnur herausgegeben, eine Blumenlese an orient[alischen] Dichtern auf Schönheit der Knaben und Mädchen.",
+      "replacements": [
+        {
+          "original_item": "orient[alischen]",
+          "tei_encoding": "<choice><abbr>orient</abbr><expan>orientalischen</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter142.xml": [
+    {
+      "element_id": "L142_div1_closer1_signed1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[1]/signed[1]/text()",
+      "context": "L[ieu]t[ena]nd Herbert of Rathkeal",
+      "replacements": [
+        {
+          "original_item": "L[ieu]t[ena]nd",
+          "tei_encoding": "<supplied>ieu</supplied><supplied>ena</supplied>",
+          "intervention_type": "Supplement; Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter147.xml": [
+    {
+      "element_id": "L147_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[1]",
+      "context": "Du schriebst mir, daß während Deiner Abreise nach Halp und Damaskus festgesetzt war, die Gewißheit von der Ankunft der großen Flotte S[einer] E[xzellenz] des Admirals Lord Smith, unseres Freundes, und der Armee des Comodore Sidney Smith, unseren Freund, bewogen habe, Dich nicht fortzulassen, sondern aufzuhalten, und daß, um Dir die Erlaubnis Deines Aufenthaltes zu erwirken, es nötig sei, durch den … Internuntius, unseren Freund, sich an das Ministerium in Wien zu wenden.",
+      "replacements": [
+        {
+          "original_item": "S[einer] E[xzellenz]",
+          "tei_encoding": "<choice><abbr>S</abbr><expan>Seiner</expan></choice> <choice><abbr>E</abbr><expan>Exzellenz</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter15.xml": [
+    {
+      "element_id": "L15_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[6]",
+      "context": "Da wird er ja Nichts als höchstens gute Leute und gute Tafel finden, und wird ihn dieses wohl zu einem längeren Aufenthalte in Wien bewegen können? Darf ich Euer Hochwohlgeboren bitten, dem großen allgeliebten Wieland die Versicherung meiner Verehrung darzubringen, und den jungen H[errn] von Herder meine Empfehlung zu entrichten – zweifelsohne hat er, wie ich ihn vor seiner Abreise bat, seinem verehrungswürdigen Vater in meinem Namen die Hand geküsset und Ew.",
+      "replacements": [
+        {
+          "original_item": "H[errn]",
+          "tei_encoding": "<choice><abbr>H</abbr><expan>Herrn</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter16.xml": [
+    {
+      "element_id": "L16_div1_opener1_dateline1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/opener[1]/dateline[1]/text()",
+      "context": "Weimar d[en] 3. Febr[uar] [17]97",
+      "replacements": [
+        {
+          "original_item": "d[en]",
+          "tei_encoding": "<choice><abbr>d</abbr><expan>den</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Febr[uar]",
+          "tei_encoding": "<choice><abbr>Febr</abbr><expan>Februar</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[17]97",
+          "tei_encoding": "<supplied>17</supplied>97",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter174.xml": [
+    {
+      "element_id": "L174_div1_p6",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[6]/text()[4]",
+      "context": "Ce dernier est généralement [connu] dans l’armée anglaise comme pillard et menteur. On lui fait tort en ceci. Voici les principaux traits de son caractère, que j’ai recueillis avec discernement. Il a beaucoup lu et beaucoup voyagé, il parle et écrit bien, mais il ne sait point agir. Il est extrêmement faible et en conséquence toujours extrêmement sur ses gardes de n’être dirigé par personne. Il ne finit jamais ce qu’il a commencé et oublie toujours ce qu’il a promis. Il s’imagine d’être un homme extraordinaire et il n’est que bizarre. C’est par bizarrerie qu’il s’est fait Turc, et qu’il a pris pour femme une Arabe divorcée, sœur d’un propriétaire d’un bain public, qui n’est ni jeune, ni belle, ni riche. Sa manière de traiter son monde est rebutante. Personne dans toute l’armée l’aime[sic].",
+      "replacements": [
+        {
+          "original_item": "[connu]",
+          "tei_encoding": "<supplied>connu</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "Personne dans toute l’armée l’aime[sic]",
+          "tei_encoding": "Personne dans toute l’armée l’aime<choice><sic>aime</sic><corr>aime</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter175.xml": [
+    {
+      "element_id": "L175_div1_p7",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[7]/text()[4]",
+      "context": "Je n’ai pas besoin d’ajouter ici, que si Votre Excellence voulait m’expédier une pareille commission, Elle ne pourrait pas le faire trop tôt en recommandant la lettre à Smyrne à une occasion sûre, ou peut-être mieux en la mettant sous un couvert du Capitaine Cashew ou d’Isa Bey et en la faisant remettre à l’agent de Pashew à C[onstantino]ple avec deux lignes pour le Pacha ou pour Isaac Bey.",
+      "replacements": [
+        {
+          "original_item": "C[onstantino]ple",
+          "tei_encoding": "C<supplied>onstantino</supplied>ple",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter179.xml": [
+    {
+      "element_id": "L179_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[3]",
+      "context": "If you come off to me with any news from the beys Captain Wilson of the Trusty will introduce you to the senior officers in the bay of Aboukir – for a passage you had better come by Capt[ai]n McKellars ferry.",
+      "replacements": [
+        {
+          "original_item": "Capt[ai]n",
+          "tei_encoding": "<choice><abbr>Capt</abbr><expan>Captain</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter183.xml": [
+    {
+      "element_id": "L183_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()",
+      "context": "Die letzte Summe gehet rein auf; was mir aber von den Ausgaben der Reise, nämlich den 550 Piastern zu Gute komme, bin ich nicht im Stande zu sagen, weil ich alle meine Papiere zu Rhodos gelassen habe, und bitte E[uere] Excellenz daher in meine letzte Rechnung nachsehen zu lassen.",
+      "replacements": [
+        {
+          "original_item": "E[uere]",
+          "tei_encoding": "<choice><abbr>E</abbr><expan>Euere</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter185.xml": [
+    {
+      "element_id": "L185_div1_p13",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[13]/text()[2]",
+      "context": "Je l’assurais ensuite de mon respect, et je m’en allais, réfléchissant, si outra la véritable raison de cet ordre que je savais fort bien être mon attachement pour Sir Sidney Smith, il ne pourrait pas y avoir quelque autre [chose] ostensible, que G[énéral] Hutchinson produirait s’il était pressé d’en donner, et je ne trouvais rien de si probable, qu’ une missive de l’Ambassadeur à Constantinople, qui comme Votre Excellence sait très bien, cherchant de paralyser Sir Sidney Smith autant qu’il peut, et voyant avec déplaisir les services que je lui ai rendus, peut avoir écrit au Général qu’il faut m’éloigner comme un homme suspect, comme un Agent d’une Cour amie des Français etc.",
+      "replacements": [
+        {
+          "original_item": "[chose]",
+          "tei_encoding": "<supplied>chose</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "G[énéral]",
+          "tei_encoding": "<choice><abbr>G</abbr><expan>Général</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter21.xml": [
+    {
+      "element_id": "L21_div1_p3",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[3]/text()[5]",
+      "context": "Aber wie es von Aeschylus über Herodot an die Griechen ausgeputzt, verkünstelt und in ihren Bildwerken aussta[Lücke] haben, davon werde ich bei Gelegenheit meiner Erklärungen Tischbeinischer Vasen allerlei Raritäten auszukramen finden.",
+      "replacements": [
+        {
+          "original_item": "[Lücke]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter214.xml": [
+    {
+      "element_id": "L214_div1_closer2_signed1_persName1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[2]/signed[1]/persName[1]/text()",
+      "context": "Joseph v[von] Hammer",
+      "replacements": [
+        {
+          "original_item": "v[von]",
+          "tei_encoding": "<choice><abbr>v</abbr><expan>von</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter253.xml": [
+    {
+      "element_id": "L253_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[2]",
+      "context": "Auch der Inhalt meines Briefes an den Herrn O[ber]K[onsistorial]R[at] betrifft eine Bestellung von Büchern, die ich seiner Wahl überlasse.",
+      "replacements": [
+        {
+          "original_item": "O[ber]K[onsistorial]R[at]",
+          "tei_encoding": "<choice><abbr>O</abbr><expan>Ober</expan></choice><choice><abbr>K</abbr><expan>Konsistorial</expan></choice><choice><abbr>R</abbr><expan>Rat</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter257.xml": [
+    {
+      "element_id": "L257_div1_p7",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[7]/text()[9]",
+      "context": "I can know[sic] read any French book understand every word I hear, converse grammatically and with some degree of fluency – That since five month consequently you may suppose my progress in German has not been near so great.",
+      "replacements": [
+        {
+          "original_item": "I can know[sic]",
+          "tei_encoding": "I can <choice><sic>know</sic><corr>read</corr></choice> any French book understand every word I hear, converse grammatically and with some degree of fluency – That since five month consequently you may suppose my progress in German has not been near so great.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter283.xml": [
+    {
+      "element_id": "L283_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[4]",
+      "context": "Hammer did him the favour to [c]all in Seymour Street; as it would [ha]ve given him particular pleasure [to] have seen a Gentleman, to whose [s]ociety and conversation Captain Bathurst was so much indebted, during the tiresome voyage.",
+      "replacements": [
+        {
+          "original_item": "[c]all",
+          "tei_encoding": "<supplied>c</supplied>all",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[ha]ve",
+          "tei_encoding": "<supplied>ha</supplied>ve",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[to]",
+          "tei_encoding": "<supplied>to</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[s]ociety",
+          "tei_encoding": "<supplied>s</supplied>ociety",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 4
+    }
+  ],
+  "letter289.xml": [
+    {
+      "element_id": "L289_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[18]",
+      "context": "Seine kaierliche Hoheit Konstantin, ein berühmter Kenner meines Geschlechts, zeichnete auch die Gräfin Lansčranscka vor allen anderen Weibern aus, aber ihr altmodischer Gemahl erkannte die Ehre nicht, denn als ihr der Prinz einmal zu einer bei uns ungewöhlichen Stunde einen Besuch machen wollte, war o weh[!], der H[er]r Gemahl da und bewies ihm mit so dürren Worten, daß auch sein Weib noch nach alten Sitten lebe, daß Se[ine] Kaiserliche Hoheit nie wieder kam.",
+      "replacements": [
+        {
+          "original_item": "weh[!]",
+          "tei_encoding": "weh<supplied>!</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "H[er]r",
+          "tei_encoding": "<choice><abbr>Hr</abbr><expan>Herr</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Se[ine]",
+          "tei_encoding": "<choice><abbr>Se</abbr><expan>Seine</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter299.xml": [
+    {
+      "element_id": "L299_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[2]",
+      "context": "Of the University by letter for I have seen none for a long time I hear from D[octo]r White that I have a great loss in missing two very accomplished Orientalists that are residents there Captain Sydenham of the East India Service now furlough from Bengal and Captain Scott late Persian Secretary to Hastings and translator of the and Ferishta’a History of Dekan the latter is just appointed teacher of the Asiatic languages at the New Royal Military College lately founded at Bagshot.",
+      "replacements": [
+        {
+          "original_item": "D[octo]r",
+          "tei_encoding": "<choice><abbr>D</abbr><expan>Doctor</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    },
+    {
+      "element_id": "L299_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[31]",
+      "context": "in silence and that he is the first that ever penetrated into the Sand[?].",
+      "replacements": [
+        {
+          "original_item": "Sand[?].",
+          "tei_encoding": "Sand<unclear>?</unclear>.",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter31.xml": [
+    {
+      "element_id": "L31_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[16]",
+      "context": "Sie lebte eine Zeit lang in Stuttgart, vorher aber an einem kleinen fürstl[ichen] Hofe in Rudolstadt.",
+      "replacements": [
+        {
+          "original_item": "fürstl[ichen]",
+          "tei_encoding": "<choice><abbr>fürstl</abbr><expan>fürstlich</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    },
+    {
+      "element_id": "L31_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[6]",
+      "context": "Wer hat die Rezension von Schlözers Osmanicis in der A[llgemeinen] Lit[eratur-]Z[eitung] gemacht[?].",
+      "replacements": [
+        {
+          "original_item": "A[llgemeinen]",
+          "tei_encoding": "<choice><abbr>A</abbr><expan>Allgemeinen</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Lit[eratur-]",
+          "tei_encoding": "<choice><abbr>Lit</abbr><expan>Literatur-</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Z[eitung]",
+          "tei_encoding": "<choice><abbr>Z</abbr><expan>Zeitung</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "gemacht[?]",
+          "tei_encoding": "gemacht<supplied>?</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 4
+    },
+    {
+      "element_id": "L31_div1_p6",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[6]/text()[1]",
+      "context": "H[er]r[n] von Joris Brief erwarte ich mit vieler Sehnsucht, und freue mich seiner schönen Aussichten auf Innsbruck; Sie werden gestehen, daß diese Freude sehr uneigennützig von mir ist, da ich durch diese Verpflanzung einen sehr interessanten Korrespondenten fast eher verliere, als ich ihn recht kennen lernte.",
+      "replacements": [
+        {
+          "original_item": "H[er]r[n]",
+          "tei_encoding": "<choice><abbr>Hr</abbr><expan>Herrn</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter336.xml": [
+    {
+      "element_id": "L336_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[2]",
+      "context": "J’ai remis, après le départ du dernier courrier, votre lettre à Munding, qui m’a promis, foi de menuisier, de préparer tout ce que vous lui demandez jusqu’à la fin de ce moi[s].",
+      "replacements": [
+        {
+          "original_item": "moi[s].",
+          "tei_encoding": "moi<supplied>s</supplied>.",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    },
+    {
+      "element_id": "L336_div1_p1_persName6",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/persName[6]/text()",
+      "context": "algré ses talents, et ses mérites, ne peut pas faire un pas en avant ; et lorsque ce pauvre sire de J[enisch] va devenir Excellence avec 10 mille florins d’appointements, le malheureux Brenner après avoir serv",
+      "replacements": [
+        {
+          "original_item": "J[enisch]",
+          "tei_encoding": "<choice><abbr>J</abbr><expan>Jenisch</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    },
+    {
+      "element_id": "L336_div1_p2_persName4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/persName[4]/text()",
+      "context": "de W[allenburg] hier ; je ne cesse de lui en parler, et il est prévenu très favorablement pour lui, ainsi que Domba",
+      "replacements": [
+        {
+          "original_item": "W[allenburg]",
+          "tei_encoding": "W<supplied>allenburg</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter38.xml": [
+    {
+      "element_id": "L38_div1_p9",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[9]/text()",
+      "context": "Je présente mes respect a Votre [Ausriss] compagnon de voyage; je ne sai si M. de K. se conviendra [Ausriss] m’avoir vu chez fe[?] son père; revillez lui dire très des chos[Ausriss]",
+      "replacements": [
+        {
+          "original_item": "[Ausriss]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "fe[?]",
+          "tei_encoding": "<unclear>fe</unclear>",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "choss[Ausriss]",
+          "tei_encoding": "choss<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter386.xml": [
+    {
+      "element_id": "L386_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[19]",
+      "context": "General Brune’s Rhapsody à propos de bottes about the pasha of Yannina proves this to be on the tapis and the capture of L’arab from Athens proves that the idea of revolutioning the morea is not given up, Amaxaris who is a thorough Greek will figure this scene I take for granted – he is lately become anxious to reenter the service he expressed himself so much disgusted with and has written me a most pathetic epistle to engage me to present a memorial to the Adm[iralit]y for his anear [sic] of pay – this injustice to his fair claim I will certainly present through Lord Keith who can best vouch for his services but I certainly cannot recommend him for employment and yet what are we to do since we do not adopt the plan of sending out jeunes de langues or educating them at home – I am sick of suggesting all these things, still however I go on “liberavi aminam meam” lately in a long memorial of prophecy on the Levant.",
+      "replacements": [
+        {
+          "original_item": "Adm[iralit]y",
+          "tei_encoding": "<choice><abbr>Adm</abbr><expan>Admiralty</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "y for his anear [sic]",
+          "tei_encoding": "y for his <choice><sic>anear</sic><corr>near</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter41.xml": [
+    {
+      "element_id": "L41_div1_opener1_dateline1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/opener[1]/dateline[1]/text()",
+      "context": "Weimar d[en] 27. Septemb[er] [17]98",
+      "replacements": [
+        {
+          "original_item": "d[en]",
+          "tei_encoding": "<choice><abbr>d</abbr><expan>den</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Septemb[er]",
+          "tei_encoding": "<choice><abbr>Septemb</abbr><expan>September</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[17]98",
+          "tei_encoding": "<supplied>17</supplied>98",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 3
+    },
+    {
+      "element_id": "L41_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[32]",
+      "context": "Vorige Woche bekam Wieland ein prächtiges Exemplar von seinen durch Sotheby wieder in Stanzen übersetzten Oberon vom Verf[asser] selbst zugeschickt.",
+      "replacements": [
+        {
+          "original_item": "Verf[asser]",
+          "tei_encoding": "<choice><abbr>Verf</abbr><expan>Verfasser</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter418.xml": [
+    {
+      "element_id": "L418_div1_p8",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[8]/text()[2]",
+      "context": "Quant au Moniteur, c’est votre faute, parce que vous ne vous êtes pas bien expliqué en en parlant à Seydl qui a cru que vous demandiez tout le moniteur, ce qui aurait coûté au-delà de mille flor[in] et à moi vous ne m’aviez dit que d’en payer le prix à Seydl.",
+      "replacements": [
+        {
+          "original_item": "flor[in]",
+          "tei_encoding": "flor<supplied>in</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter436.xml": [
+    {
+      "element_id": "L436_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[25]",
+      "context": "The man, who is at the head of the french republic appear in the light of a narrow-hearted littly [sic] tyrant and as an oppressor of all what is sacred to free-born men since we know the lady, to whom he bears an inveterate hated for her liberals ideas. He did not banish her from Paris, as it was rumoured about, but he prohibeted her making a house at Paris. She goes to Berlin, returns hither in Juny and intends writing a very comprehensive work upon German literature. She has got a [...] to visit Italy the winter after the next and engaged myself to accompany her – a consummation devoutly to be wished for.",
+      "replacements": [
+        {
+          "original_item": "hearted littly [sic]",
+          "tei_encoding": "narrow-hearted <choice><sic>littly</sic><corr>little</corr></choice>",
+          "intervention_type": "Correction"
+        },
+        {
+          "original_item": "a [...]",
+          "tei_encoding": "a <gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter478.xml": [
+    {
+      "element_id": "L478_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[4]",
+      "context": "Your letter from Constantinople I have to acknowledge, and thank you for; may I hope for their Continuance, believe me I shall not be backward in answering letter for letter, it is a correspondence so much in my favour, and so very advantage[e]ous to me, that from the pure motives of gain exclusive of affections I should be anxious to continue it – Respecting the portrait I will be frank and friendly on the subject – Do you think yourself that I should act judiciously in sending it to you? You may be confident that I never could procure it for you with her consent: What pleasure could you then feel in the obtaining by stealth what otherwise could not be obtained? To procure I must ask for it as if for myself, and she would be much surprised at so sudden a turn of affection, and entre nous, would instantly suspect its destination: therefore all things considered I am sure you see the great difficulty, the little chance of success, and I may say the impropriety in my attempting it – I will own to you, that if she chose to send it to you, I would be the go between, but until that happens I am sure you will see the impossibility of my attempting it.",
+      "replacements": [
+        {
+          "original_item": "advantage[e]ous",
+          "tei_encoding": "advantage<supplied>e</supplied>ous",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter511.xml": [
+    {
+      "element_id": "L511_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[13]",
+      "context": "I see I am looked to to[sic] execute my own ideas but I do not close with any such prepositions till I see what powers or means are likely to be afforded to me – I had the offer to come out as Minister before.",
+      "replacements": [
+        {
+          "original_item": "I see I am looked to to[sic]",
+          "tei_encoding": "I see I am looked to <choice><sic>to</sic><corr></corr></choice> execute my own ideas but I do not close with any such prepositions till I see what powers or means are likely to be afforded to me – I had the offer to come out as Minister before.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter552.xml": [
+    {
+      "element_id": "L552_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[15]",
+      "context": "A propos d’auteur, Je vous plains de tout mon cœur d’avoir été celui d’encyclop[ädischen] Uebersicht depuis que j’ai lu la critique contenue dans la gazette littéraire dite allgemeine.",
+      "replacements": [
+        {
+          "original_item": "d’encyclop[ädischen]",
+          "tei_encoding": "<choice><abbr>encyclop</abbr><expan>encyclopädischen</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter569.xml": [
+    {
+      "element_id": "L569_div1_p3",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[3]/text()[13]",
+      "context": "t kommen 3 bis 4 Reihen große kolorierte Bildwerke, dann oft einige Seiten Kursivhieroglyphen, bloß schw[arz?] und fast wie die Keilschrift gestaltet.",
+      "replacements": [
+        {
+          "original_item": "schw[arz?]",
+          "tei_encoding": "schw<unclear>arz</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter574.xml": [
+    {
+      "element_id": "L574_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[8]",
+      "context": "Lord Melville will not be impeached – the places he still enjoys under government (which he holds for life) are valued at 7000 £ for an[…] so that (after all) he is not great suffered – this discovering will do good and cause a little more honesty, or regularity with all the public money for the future –",
+      "replacements": [
+        {
+          "original_item": "an[…]",
+          "tei_encoding": "an<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter58.xml": [
+    {
+      "element_id": "L58_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[1]",
+      "context": "sehen nun auch noch aus meiner schnellen und ausführlichen Antwort, wie gut es war, dass Sie mir so [Ausriss]ten, dass Sie m[Ausriss] mir wollten.",
+      "replacements": [
+        {
+          "original_item": "[Ausriss]ten",
+          "tei_encoding": "<supplied>Ausriss</supplied>ten",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "m[Ausriss]",
+          "tei_encoding": "m<supplied>Ausriss</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter83.xml": [
+    {
+      "element_id": "L83_div1_p5",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[5]/text()[1]",
+      "context": "Über [unleserlich], den Beide gekannt haben, kamen sie überein, that he was a very ignorant man.",
+      "replacements": [
+        {
+          "original_item": "[unleserlich]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter85.xml": [
+    {
+      "element_id": "L85_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[3]",
+      "context": "Fr[eund?] Richter hat mir schon die ersten 6 Aushängebogen seines Titan mitgeteilt.",
+      "replacements": [
+        {
+          "original_item": "Fr[eund?]",
+          "tei_encoding": "<unclear>Freund</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1029.xml": [
+    {
+      "element_id": "L1029_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[2]",
+      "context": "Un libraire de Leipsik [sic] vient de me faire tenir de votre part un exemplaire du poëme de Schirin.",
+      "replacements": [
+        {
+          "original_item": "Un libraire de Leipsik [sic]",
+          "tei_encoding": "Un libraire de <choice><sic>Leipsik</sic><corr>Léipzic</corr></choice> vient de me faire tenir de votre part un exemplaire du poëme de Schirin.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    },
+    {
+      "element_id": "L1029_div2_p3",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[3]/text()",
+      "context": "Sie werden dadurch gesehen haben, dass ich nicht mehr Ihrer Vermutung über den Ursprung dieses Wortes anerkenne wie jene von Thomas Hyde, Reiske, des Prälaten Assemani, von Herrn Volney und schließlich von Herrn … [Ende fehlt]",
+      "replacements": [
+        {
+          "original_item": "[Ende fehlt]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1085.xml": [
+    {
+      "element_id": "L1085_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[4]",
+      "context": "7100[?] will er geben.",
+      "replacements": [
+        {
+          "original_item": "7100[?]",
+          "tei_encoding": "<unclear>7100</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1176.xml": [
+    {
+      "element_id": "L1176_div1_p3",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[3]/text()[2]",
+      "context": "Ma copie est chargée d’écritures et de corrections parce que l´ayant faite d´abord [...] corrigée ensuite .",
+      "replacements": [
+        {
+          "original_item": "d´abord [...]",
+          "tei_encoding": "d´abord<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1177.xml": [
+    {
+      "element_id": "L1177_div1_p23",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[23]/text()[10]",
+      "context": "Die Entfernung von Damask ungerechnet, die genau mit der Wahrheit übereinstimmt fand ich bey der Bereisung dieses Gebirgs in einem ansehnlichen Dorfe, dessen Name mir aber ietzt nicht beyfällt, eine alte Waly-Familie, welche die erbliche Würde eines [Dis]triktverwalters oder Distriktsherrn bekleidete, und aus diesem Grunde wohl adelich genannt werden konnte, weswegen sie auch in großem Ansehen auf dem Gebirge stand. Mehrere von dieser Familie besuchten mich, und Einer, der eine fast nie von mir gesehene Korpulenz besaß, ersuchte mich um medicinischen Rath, weil ihm seine Fettigkeit das Gehen ganz unmöglich machte. Sein Sohn, ein junger sehr wohlgebildeter und schöner Mann, besuchte mich auch etlichemale; er erkundigte sich sehr angelegentlich nach Europa und gab mir sein Vorhaben zu erkennen, eine Reise dahin zu unternehmen. Schon ein naher Verwandter von ihm – ich glaube sein Oheim – habe vor Jahren eine Reise dahin gemacht und viel Geld mit sich zurück gebracht. Auf seine Bitte schrieb ich ihm das französische Alphabet, und zeigte ihm den Werth der Karaktere durch Beysetzung des Arabischen und der Aussprache. Vielleicht hat dieser iunge Mensch, dem es nicht an Talenten zu fehlen schien, seitdem seine Reise wirklich nach Europa angetreten. – Ich erinner mich ietzt [des] Namens dieser Familie nicht und ich habe mein in Syrien ge[füh]rtes Tagebuch bereits von Kahira nach Teutschland abgesandt. Vielleicht ist dies die Abassische Familie, welche mehrmals in Teutschland einiges Aufsehen machte, und wovon unser räthselhafter spanischer Reisende ein Sprößling seyn dürfte. Indessen lassen wir dies bey Seite! Alle, die ihn kennenlernten, versicherten, [er] sey ein talent- und kenntnisvoller Mann gewesen, und wir [… ] hat viel Interessantes von ihm zu erwarten, wenn er einst sein Reisejournal, seine astronom[ischen] Beobachtungen und seine Zeichnungen bekannt macht.",
+      "replacements": [
+        {
+          "original_item": "[Dis]triktverwalters",
+          "tei_encoding": "<choice><abbr>Dis</abbr><expan>Districtverwalters</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[des]",
+          "tei_encoding": "<supplied>des</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "ge[füh]rtes",
+          "tei_encoding": "<choice><abbr>füh</abbr><expan>geführt</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[er]",
+          "tei_encoding": "<supplied>er</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[… ]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "astronom[ischen]",
+          "tei_encoding": "<choice><abbr>astronom</abbr><expan>astronomischen</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 6
+    }
+  ],
+  "letter1178.xml": [
+    {
+      "element_id": "L1178_div1_p18",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[18]/text()[2]",
+      "context": "Thun sie dies nicht: so ist all ihre arab[ische] Sprachkunde ganz ohne Werth, und darf auf keine öffentliche Achtung Anspruch machen. Denn d[aß] unsere Theologen, welche in der Regel die Pflanzschule unserer Orientalisten abgeben, das Orientalische zum Besserverstehen des Hebraischen und Syrischen studieren, das kommt mir vor, als [wenn] ein Asiate oder ein Afriker das Teutsche erlernen wollte, nicht um die reiche teutsche Litteratur kennen zu lernen, sondern bloß um ein paar Werke zu verstehen, welche im Plattenteutschen des nördlichen Teutschlands und im Dialekt der teutschen Siebenbürger geschrieben wurden! Die Litteratur der teutschen, hebraischen und syrischen Sprache verdient im Vergleich mit Litteratur vor andern orientalischen Sprachen kaum einer Erwähung, und zwar um so weniger, da die darinn vorhandenen wenigen Schriften schon hundertmal übersetzt und kommentirt wurden. Warum will man dann noch immer fortfahren, alle Theologen zu neuen Exegeten derselben zu machen? Warum wollen wir auf einem []ren Boden wilde Wicken sammeln, da uns näher ein reiches Weizenfeld zu seiner Erndte einladet? Eine Sprache verdient nur insoferne eine größere Achtung, als reicher ihre Litteratur an Zahl und Gehalt ist.",
+      "replacements": [
+        {
+          "original_item": "arab[ische]",
+          "tei_encoding": "<choice><abbr>arab</abbr><expan>arabische</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "d[aß]",
+          "tei_encoding": "<choice><abbr>d</abbr><expan>daß</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[wenn]",
+          "tei_encoding": "<supplied>wenn</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter732.xml": [
+    {
+      "element_id": "L732_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[2]",
+      "context": "Sept[ember]) alles eine so schnell veränderte Gestalt bekommen sollte? – Sie haben nun einen anderen Prinzen und so viele Gäste, daß ich mit Recht vermuten sollte, Ihre Sendung sei seinem[?] Ende nahe, wofern nicht neue Rücksichten auch darin eine Änderung hervorbringen. In Dalmatien oder vielmehr zwischen Ragusa und Cattaro haben die Franzosen durch die Russen und Montenegriner stark gelitten; kömmt nun noch ein russisches Heer dazu, so wird die wandelbare Gunst der Pforte sich bald wieder gegen Ruthenien wenden und dann mögen die neuen Prinzen sich wieder in ihre Winkel verkriechen, woher sie auf französischen Befehl sind hervorgezogen worden. Im Norden ist der Krieg seinem Ausbruche nahe und vielleicht fließt schon Blut in dem Augenblicke, da Sie diesen Brief lesen. Preussen scheint von seinem Schlummer erwacht zu sein und die bitteren Vorwürfe in den französischen Tagblättern! zeigen nur zu deutlich den Herd[?] der gegenwärtigen Strömung beider Kabinette.",
+      "replacements": [
+        {
+          "original_item": "Sept[ember])",
+          "tei_encoding": "<choice><abbr>Sept</abbr><expan>September</expan></choice>)",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Ihre Sendung sei seinem[?]",
+          "tei_encoding": "Ihre Sendung sei seinem<unclear>?</unclear>",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "Herd[?]",
+          "tei_encoding": "Herd<unclear>?</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter752.xml": [
+    {
+      "element_id": "L752_div1_closer1_dateline1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[1]/dateline[1]/text()",
+      "context": "Jassy le 24 Nov[embre] [1]806",
+      "replacements": [
+        {
+          "original_item": "Nov[embre]",
+          "tei_encoding": "<choice><abbr>Nov</abbr><expan>November</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[1]806",
+          "tei_encoding": "<supplied>1</supplied>806",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter780.xml": [
+    {
+      "element_id": "L780_div1_opener1_dateline1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/opener[1]/dateline[1]/text()",
+      "context": "Lemberg, den 4.[sic] Februar 1807.",
+      "replacements": [
+        {
+          "original_item": "den 4.[sic]",
+          "tei_encoding": "den <sic>4.</sic> Februar 1807.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter867.xml": [
+    {
+      "element_id": "L867_div1_p7",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[7]/text()[1]",
+      "context": "e Hallische (bald Berliner) Literaturzeitung geben und dabei die Ihnen nicht bezahlte Rezension des Westihefts [?] nachdrücklich erinnern.",
+      "replacements": [
+        {
+          "original_item": "Westihefts [?]",
+          "tei_encoding": "<unclear>Westihefts</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1285.xml": [
+    {
+      "element_id": "L1285_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[5]",
+      "context": "Ein vermaledeiter Kobolt [sic] steckt in der Zeitung für die elegante Welt.",
+      "replacements": [
+        {
+          "original_item": "Ein vermaledeiter Kobolt [sic]",
+          "tei_encoding": "Ein vermaledeiter <choice><sic>Kobolt</sic><corr>Kobold</corr></choice> steckt in der Zeitung für die elegante Welt.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1342.xml": [
+    {
+      "element_id": "L1342_div1_p3",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[3]/text()",
+      "context": "Zur Vermeidung der in den arab[ischen] Elegien so häufigen Druckfehler hab ich sie abschreiben lassen, doch hat der Abschreiber ein paar mal die Verse versetzt, was ich [durch] Zusetzung der Zahlen am Anfang der Zeilen bemerkt habe in dem IIten Hymnus, wo der Setzer die angemerkten Zahlen zu beobachten hat; die zu Ende der Zeile stehenden gehören zu den Noten.",
+      "replacements": [
+        {
+          "original_item": "arab[ischen]",
+          "tei_encoding": "<choice><abbr>arab</abbr><expan>arabisch</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[durch]",
+          "tei_encoding": "<supplied>durch</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter1343.xml": [
+    {
+      "element_id": "L1343_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[1]",
+      "context": "Können Sie mir[sic] wissen lassen, wer denn in Nürnberg von Kupfer und Wimmer Pakete an mich erhalten haben soll, so will ich Nachfrage halten.",
+      "replacements": [
+        {
+          "original_item": "Können Sie mir[sic]",
+          "tei_encoding": "Können Sie mir<choice><sic>wissen</sic><corr>sagen</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1372.xml": [
+    {
+      "element_id": "L1372_div1_closer1_signed1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[1]/signed[1]/text()[3]",
+      "context": "Constantin D’Ohsson Charge d’affaires de la Cour de [….]",
+      "replacements": [
+        {
+          "original_item": "[…]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1423.xml": [
+    {
+      "element_id": "L1423_div1_postscript1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/postscript[1]/p[1]/text()[2]",
+      "context": "Morier forwarded a Packet from you for the secretary of the Asiatic Society, which I have sent on – on preparing my books for the Binder, I find I have not got the first number of the second volume of the „Mines de l’Orient”, I therefore beg you will it [send] to me by the very first opportunity; I shall require two copies of it.",
+      "replacements": [
+        {
+          "original_item": "[send]",
+          "tei_encoding": "<supplied>send</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1568.xml": [
+    {
+      "element_id": "L1568_div1_closer1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[1]/salute[1]/text()",
+      "context": "In […]ster Zuversicht auf die Fortsetzung Ihrer gütigen und freundschaftlichen Gesinnungen gegen mich habe ich unverbrüchlich die Ehre zu sein Euer Hochwohlgeboren gehorsamster Diener u[nd] Freund",
+      "replacements": [
+        {
+          "original_item": "[…]ster",
+          "tei_encoding": "<gap/>ster",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "u[nd]",
+          "tei_encoding": "<choice><abbr>u</abbr><expan>und</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter1689.xml": [
+    {
+      "element_id": "L1689_div2_opener1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/opener[1]/salute[1]/text()",
+      "context": "Sig[nor] mio Stimatissimo",
+      "replacements": [
+        {
+          "original_item": "Sig[nor]",
+          "tei_encoding": "<choice><abbr>Sig</abbr><expan>Signore</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter1772.xml": [
+    {
+      "element_id": "L1772_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[10]",
+      "context": "us alle eine und dieselbe Benennung schneebedeckter hoher Berge sind, von der gemeinschaftlichen im Samskrit[sic!] erhaltenen Wurzel Him, woher auch das deutsche Wort Himmel abzuleiten ist; wie soll man aber dem Ve",
+      "replacements": [
+        {
+          "original_item": "Samskrit[sic!]",
+          "tei_encoding": "Samskrit<choice><sic>Samskrit</sic><corr>Sanskrit</corr></choice>",
+          "intervention_type": "Correction"
+        },
+        {
+          "original_item": "Verf[asser]",
+          "tei_encoding": "Verf<choice><abbr>Verf</abbr><expan>Verfasser</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter1922.xml": [
+    {
+      "element_id": "L1922_div1_p28",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[28]/text()[5]",
+      "context": "Rousseau, les journaux des savans de Mai, Juin et juillet [sic], trois autres exemplaires de ma lettre à un conseiller du Roi de Saxe etc.",
+      "replacements": [
+        {
+          "original_item": "Juin et juillet [sic]",
+          "tei_encoding": "Juin et juillet<choice><sic>Juin et juillet</sic><corr>Juin, Juillet et Août</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter2012.xml": [
+    {
+      "element_id": "L2012_div1_postscript1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/postscript[1]/p[1]/text()[4]",
+      "context": "In Kärnten lernte man der Nähe halber leichter lateinisch; aber die Bojer in Böhmen? Da dachte man [...] Tarquinio regnante und noch einige Jahrhunderte später an die Römer und ihre Sprache gewiss nicht.",
+      "replacements": [
+        {
+          "original_item": "man [...]",
+          "tei_encoding": "man<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter2098.xml": [
+    {
+      "element_id": "L2098_div1_postscript1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/postscript[1]/p[1]/text()[2]",
+      "context": "If my friend Professor Calvert should go on[e day to] Vienna, which is very doubtful, and should deliv[er] this letter in person, pray receive him with all the kindness and attention in your power; for you will find that he deserves it by his learning and amiable disposition. But no[w] I will send this by the post and give him your direction.",
+      "replacements": [
+        {
+          "original_item": "on[e day to]",
+          "tei_encoding": "on<supplied>e day to</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "deliv[er]",
+          "tei_encoding": "deliv<supplied>er</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "no[w]",
+          "tei_encoding": "no<supplied>w</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter2378.xml": [
+    {
+      "element_id": "L2378_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[3]",
+      "context": "L’altro jeri ricevei col mezzo di S[ua] E[ccellenza] il Sig[nor] Co[nte] Governatore le di Lei due opere che mi riuscirono gratissime. La ringrazio poi sommamente delle graziose espressioni fatte a moi favore con S[ua] E[ccallenza] il Sig[nor] Co[nte] di Saurau.",
+      "replacements": [
+        {
+          "original_item": "S[ua] E[ccellenza]",
+          "tei_encoding": "<choice><abbr>S.</abbr><expan>Sua</expan></choice><choice><abbr>E.</abbr><expan>Eccellenza</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Sig[nor] Co[nte]",
+          "tei_encoding": "<choice><abbr>Sig.</abbr><expan>Signore</expan></choice><choice><abbr>Co.</abbr><expan>Conte</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "S[ua] E[ccallenza]",
+          "tei_encoding": "<choice><sic>Eccallenza</sic><corr>Eccellenza</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 3
+    },
+    {
+      "element_id": "L2378_div2_p25",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[25]/text()",
+      "context": "Del trasporto dei navigli sul Lago di Grada nel 1439 parla anche il Laugier tanto nell’Originale francese al T[om]e VIe pag[ina] 199., quanto nella versione Italiana T[om]o VIo pag[ina] 176.",
+      "replacements": [
+        {
+          "original_item": "T[om]e",
+          "tei_encoding": "<choice><abbr>Tom</abbr><expan>Tomo</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "pag[ina]",
+          "tei_encoding": "<choice><abbr>pag</abbr><expan>pagina</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "T[om]o",
+          "tei_encoding": "<choice><abbr>Tom</abbr><expan>Tomo</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter2382.xml": [
+    {
+      "element_id": "L2382_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[2]",
+      "context": "But do not despair of us for I trust by the blessing of God there is yet pure religion loyalty and reason enough among us to [Ausriss]serve as an antidote to the poison.",
+      "replacements": [
+        {
+          "original_item": "[Ausriss]serve",
+          "tei_encoding": "<gap/>serve",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter2825.xml": [
+    {
+      "element_id": "L2825_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[4]",
+      "context": "Il n´en est pas de même de moi; depuis quelques mois ma santé est fort altérée; et mon estomach [sic] auquel pourtant je ne demande qu´un service très-modéré, me fait souffrir et me tourmente.",
+      "replacements": [
+        {
+          "original_item": "et mon estomach [sic]",
+          "tei_encoding": "et mon <choice><sic>estomach</sic><corr>estomac</corr></choice> auquel pourtant je ne demande qu´un service très-modéré, me fait souffrir et me tourmente.",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter2864.xml": [
+    {
+      "element_id": "L2864_div1_p5",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[5]/text()",
+      "context": "My selection[?] as President of the Royal Society calls for a considerable devotion of time and I think it my duty not to take it a mere part of honour.",
+      "replacements": [
+        {
+          "original_item": "My selection[?]",
+          "tei_encoding": "<unclear>selection</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter2869.xml": [
+    {
+      "element_id": "L2869_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[1]",
+      "context": "I wish they [sic] Jahrbucher had continued as they began but since my friend Collin (one of the two tutors of the Duke of Reichstadt retired from the redaction (just two years passed) I never could be persuaded upon to contribute a line to a Review, the redaction of which was entrusted to an obscure religious and politic Fanatic (Buchholz not to be confounded with the prussian writer of that name) who encumbers it not only with metaphysical nonsense, but also with fanatical bigotism sic stretching so far, that in one of the notes there is even an inquisitorial sneer on those, who don’t believe in the eternity of hell and damnation.",
+      "replacements": [
+        {
+          "original_item": "I wish they [sic]",
+          "tei_encoding": "I wish they <sic>they</sic>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter3016.xml": [
+    {
+      "element_id": "L3016_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[2]",
+      "context": "Wie sehr[?] hatte ich gewünscht, Sie bei mir zu haben, als ich die Neuigkeiten aus England bei zwei dort anwesenden Buchhändlern aus London, Bethe und Black durchsah!",
+      "replacements": [
+        {
+          "original_item": "Wie sehr[?]",
+          "tei_encoding": "<unclear>Wie sehr</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter3185.xml": [
+    {
+      "element_id": "L3185_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[2]",
+      "context": "Circa i primi giorni del passato Agosto mi avvenne d’incontrarmi con Vostra Signoria in Livorno senza avere il piacer di saperlo, nel magazino del Signor Santoni, custode [di mo]lti oggetti di egiziane antichità. Ivi Ella mi diresse [...]rla, chiedendomi di ripetere una certa voce, per [la qu]ale io dissi aver gli Arabi appellato una specie di [...] ad uso di scrivere; pioché vari strumenti di questo [...] pareami ivi di riscontrare, isieme ad [...] – tagiato a modo di : Quella voce Lücke della quale Ella dimostrò di non ammettere .",
+      "replacements": [
+        {
+          "original_item": "[di mo]lti",
+          "tei_encoding": "<supplied>di</supplied>molti",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "diresse [...]rla,",
+          "tei_encoding": "diresse<gap/>rla,",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "[la qu]ale",
+          "tei_encoding": "<supplied>la</supplied>quale",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "di [...]",
+          "tei_encoding": "di<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "questo [...]",
+          "tei_encoding": "questo<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "ad [...]",
+          "tei_encoding": "ad<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 6
+    },
+    {
+      "element_id": "L3185_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[3]",
+      "context": "– tagiato a modo di : Quella voce [Lücke] della quale Ella dimostrò di non ammettere [...] e l’esistenza. All’uscir di quel luogo fui fatto [cons]apevole del nome di Lei, onde grandissimo dispiacere [sent]ii di non aver potuto per non conoscerla profittarne [...] istruzione su di una cosa, la quale, sebbene mi [...]le di aver carta, pure è ragionevole ch’io non [...]li pieno di sospetto, allorché conobbi stato [da un] maestro contradetto. Tornato lo stesso giorno a Pisa, fu mio primo pensiero il riscontrar quella voc[e] nei Lessici, e tra gli altri nel Golio, ove mi ricor[davo] di averlo altre vlote veduto, trovailo sotto la radice II Q.",
+      "replacements": [
+        {
+          "original_item": "[Lücke]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "ammettere [...]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "[cons]apevole",
+          "tei_encoding": "<choice><abbr>cons</abbr><expan>consapevole</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "[sent]ii",
+          "tei_encoding": "<choice><abbr>sent</abbr><expan>sentii</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "profittarne [...]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "mi [...]le",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "non [...]li",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "[da un]",
+          "tei_encoding": "<supplied>da un</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "voc[e]",
+          "tei_encoding": "voc<supplied>e</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "ricor[davo]",
+          "tei_encoding": "<choice><abbr>ricor</abbr><expan>ricordavo</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 10
+    }
+  ],
+  "letter3192.xml": [
+    {
+      "element_id": "L3192_div1_closer1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/closer[1]/salute[1]/text()[1]",
+      "context": "Schreiben Sie mir nur recht bald, daß Sie [Siegel-Ausschnitt] frisch und gestärkt zurückkommend alles wohl zu Hause […] dafür soll Ihnen auch durch Gerolds Handlung in diesen Tagen der nun endlich fertig gebundne 3te Teil meiner Amalthea zukommen.",
+      "replacements": [
+        {
+          "original_item": "[Siegel-Ausschnitt]",
+          "tei_encoding": "<supplied>Siegel-Ausschnitt</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[…]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter3629.xml": [
+    {
+      "element_id": "L3629_div2_p7",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[7]/text()[2]",
+      "context": "Il y a six ou sept cents pas de la maison où je loge, un logis occupé actuellement par le professeur Ranke, l’un des historiens les plus modernes et les plus estimés de l’Allemagne, qui a quitté pour l’hiver sa chaire de Berlin pour passer ici [l]’hiver à ses recherches historiques dans la Bibliothèque Impériale et aux Archives. J’ai demandé ce qu’il paie pour deux petites chambres, les mois; c’est 50 francs; ainsi il faudra compter 50 à 60 francs le logis, 150 francs, au mois, la nourriture, de sorte qu’avec les autres frais de blanchissage, service, etc. on doit compter au moins 250 fr[ancs] le mois, à peu près, pour un étranger vivant convenablement.",
+      "replacements": [
+        {
+          "original_item": "[l]’hiver",
+          "tei_encoding": "passer ici <supplied>l</supplied>’hiver",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "fr[ancs]",
+          "tei_encoding": "250 <choice><abbr>fr</abbr><expan>francs</expan></choice> le mois",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter3735.xml": [
+    {
+      "element_id": "L3735_div2_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[2]/text()",
+      "context": "Stava scrivendo allorché giunsemi la sua 24 Giugno spirato col terzo Volume della sua Storia, pel quale la ringrazio assaissimo, siccome la ringrazio per le sue prestazioni intorno alli M[ano]ss[crit]ti e Studi Morelliani.",
+      "replacements": [
+        {
+          "original_item": "M[ano]ss[crit]ti",
+          "tei_encoding": "<choice><abbr>M</abbr><expan>Manoscritti</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter3940.xml": [
+    {
+      "element_id": "L3940_div2_p2_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[2]/salute[1]/text()",
+      "context": "Ella mi continui la preziosa sua benevoglienza, e mi consideri Il suo Obbedient[issi]mo Servo ed Amico",
+      "replacements": [
+        {
+          "original_item": "Obbedient[issi]mo",
+          "tei_encoding": "<choice><abbr>Obbedient</abbr><expan>obbedientissimo</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter4154.xml": [
+    {
+      "element_id": "L4154_div2_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[2]/text()[5]",
+      "context": "Je dis donc au valet de chambre indicateur: Je sais combien l’heure à laquelle je me présente, est peu convenable, mais je vous ai expliqué par quelles raisons nous sommes arrivés si tard; et l’impossibilité absolue ou nous [nous] trouvâmes maintenant de retourner à Vitré, me met dans la nécessité de supplier M.",
+      "replacements": [
+        {
+          "original_item": "[nous]",
+          "tei_encoding": "<supplied>nous</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter4178.xml": [
+    {
+      "element_id": "L4178_div2_p5",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[5]/text()[1]",
+      "context": "Si vous m’avez adressé le cinquième, il en sera advenu com[me] des autres paquets, car je ne l’ai pas encore reçu. Tandis que vous [vous] occuperez cet été de la composition du dernier volume de votre histoire, je me propose de mon côté",
+      "replacements": [
+        {
+          "original_item": "com[me]",
+          "tei_encoding": "com<supplied>me</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "[vous]",
+          "tei_encoding": "<supplied>vous</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter4271.xml": [
+    {
+      "element_id": "L4271_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[1]",
+      "context": "It is so long that I heard any news of the C[ounte]ss Rosalie that I begin to fear some new misfortune must have befallen her, as I know she has many causes for anxiety.",
+      "replacements": [
+        {
+          "original_item": "C[ounte]ss",
+          "tei_encoding": "C<supplied>ounte</supplied>ss",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter4838.xml": [
+    {
+      "element_id": "L4838_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[1]",
+      "context": "nsch in Erfüllung gehe, sende ich hier von den mir, als bei Ihnen noch fehlend angegebenen Büchern: Rodoslownaja Kniga 2 Teile, Naunow ob otnorkeniack[?] etc.",
+      "replacements": [
+        {
+          "original_item": "Rodoslownaja Kniga 2 Teile, Naunow ob otnorkeniack[?]",
+          "tei_encoding": "Rodoslownaja Kniga 2 Teile, Naunow ob <unclear>otnorkeniack</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter4906.xml": [
+    {
+      "element_id": "L4906_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[18]",
+      "context": "D´Ohsson n´ait pas continué son histoire des Mongols; je crois qu´il n´habite plus Paris[.] – Je ne partage pas le moins du monde l´opinion de M.",
+      "replacements": [
+        {
+          "original_item": "Paris[.]",
+          "tei_encoding": "Paris<supplied>.</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter4908.xml": [
+    {
+      "element_id": "L4908_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[8]",
+      "context": "Sotheby respecting his work, but, as he did not chuse [sic] to go through what he conceived to be a humiliating formality, it would be highly gratifying to him, if you would have his Bucolics removed under your own roof, and let it stand upon the shelves of your own private Library, as “a testimony of esteem from him to your private worth and of your inestimable public labours in the cause of Oriental Literature, Poetry and History”.",
+      "replacements": [
+        {
+          "original_item": "as he did not chuse [sic]",
+          "tei_encoding": "as he did not <choice><sic>chuse</sic><corr>choose</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter5218.xml": [
+    {
+      "element_id": "L5218_div1_p13",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[13]/text()",
+      "context": "Tu vero, qua fortunatissm[xxx] ia[m] depraedicat populus, fruxxx Zephyris in arce Tua Striensi, et recordare[???] amici, in cubiculo suo delitexxxx, sed??? Te medullitus amantixxxx",
+      "replacements": [
+        {
+          "original_item": "fortunatissm[xxx] ia[m]",
+          "tei_encoding": "fortunatissm<gap/>ia<supplied>m</supplied>",
+          "intervention_type": "Omission; Supplement"
+        },
+        {
+          "original_item": "recordare[???]",
+          "tei_encoding": "recordare<unclear> </unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter5487.xml": [
+    {
+      "element_id": "L5487_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[7]",
+      "context": "Helfer from your country who was one[?] [of] the lucky remnant[s] of the unfortunate Euphrates steam expedition.",
+      "replacements": [
+        {
+          "original_item": "one[?]",
+          "tei_encoding": "<unclear>one</unclear>",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "[of]",
+          "tei_encoding": "<supplied>of</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "remnant[s]",
+          "tei_encoding": "remnant<supplied>s</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter5926.xml": [
+    {
+      "element_id": "L5926_div2_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[2]/text()[2]",
+      "context": "Però non fidandomi di me stesso, ho invocata la cooperazione del Signo Conte Castiglioni e del Sig[no]r Prof[essor] Rossi, sottobibliotecario di Brera, i quali di buon grado aderirono.",
+      "replacements": [
+        {
+          "original_item": "Sig[no]r",
+          "tei_encoding": "<choice><abbr>Sig</abbr><expan>Signore</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "Prof[essor]",
+          "tei_encoding": "<choice><abbr>Prof</abbr><expan>Professor</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter6384.xml": [
+    {
+      "element_id": "L6384_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[4]",
+      "context": "We have hat here (but I did not see him) an Indian, worshipper of fire, but he had a lorgnet[te?] and talks nonsense, therefore made fiasco.",
+      "replacements": [
+        {
+          "original_item": "lorgnet[te?]",
+          "tei_encoding": "lorgnet<unclear>te</unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6451.xml": [
+    {
+      "element_id": "L6451_div1_opener1_dateline1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/opener[1]/dateline[1]/text()",
+      "context": "S[e]pt[em]b[er]r 1842",
+      "replacements": [
+        {
+          "original_item": "S[e]pt[em]b[er]r",
+          "tei_encoding": "S<supplied>e</supplied>pt<supplied>em</supplied>b<supplied>er</supplied>r 1842",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6526.xml": [
+    {
+      "element_id": "L6526_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[6]",
+      "context": "Per norma sua, il piego io gliel’ho diretto per mezzo dei librai Tender e Schaeffer, e fu ai primi di Settembre insieme con altri libri diretti als S[ignor] D[ottor] Bolza.",
+      "replacements": [
+        {
+          "original_item": "S[ignor] D[ottor]",
+          "tei_encoding": "<choice><abbr>S</abbr><expan>Signor</expan></choice> <choice><abbr>D</abbr><expan>Dottor</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6534.xml": [
+    {
+      "element_id": "L6534_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[9]",
+      "context": "I had hoped before answering your letter to have succeeded in obtaining the conveyance of the Strutt’s Antiquitiesto you, so that I I [sic] might be able to announce their departure to him[?] writing, but Lord Napier has gone to the East, and by way of Paris, instead of Vienna, so that the books still remain, and being a large packet, I have much difficulty in finding any person who will take charge of them, en courier, and I do not like to risk them as merchandize.",
+      "replacements": [
+        {
+          "original_item": "so that I I [sic]",
+          "tei_encoding": "so that I <choice><sic>I</sic><corr>it</corr></choice>",
+          "intervention_type": "Correction"
+        },
+        {
+          "original_item": "might be able to announce their departure to him[?]",
+          "tei_encoding": "might be able to announce their departure to him<unclear></unclear>",
+          "intervention_type": "Uncertainty"
+        }
+      ],
+      "num_replacements": 2
+    },
+    {
+      "element_id": "L6534_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[27]",
+      "context": "As it takes little room, I add the last Prospectus of our Text Society in which the list of publications is a little encreased [sic].",
+      "replacements": [
+        {
+          "original_item": "encreased [sic]",
+          "tei_encoding": "a little <choice><sic>encreased</sic><corr>increased</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6641.xml": [
+    {
+      "element_id": "L6641_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()[3]",
+      "context": "J’ai remis à Monsieur Labus [la] lettre de change que Vous m’avez envoyé pour lui, et je Vous [...] recu de la valeur dans la forme adaptée pour tous les souscriptions [...] même participe tout ce que Vous me ditez de lui, et j’ai recu en [...]rge des Vous exprimer les rémerciments de l’Institut pour votre [...]ase à la glorie de la science italienne. Je suis charmé des [...] Vous me faites à l’égard mon avancement; mais helas que .",
+      "replacements": [
+        {
+          "original_item": "[la]",
+          "tei_encoding": "<supplied>la</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "Vous [...]",
+          "tei_encoding": "Vous <gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "souscriptions [...]",
+          "tei_encoding": "souscriptions <gap/>",
+          "intervention_type": "Omission"
+        },
+        {
+          "original_item": "en [...]rge",
+          "tei_encoding": "en <unclear>...</unclear>rge",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "votre [...]ase",
+          "tei_encoding": "votre <unclear>...</unclear>ase",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "des [...]",
+          "tei_encoding": "des <gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 6
+    }
+  ],
+  "letter6891.xml": [
+    {
+      "element_id": "L6891_div2_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[1]/text()",
+      "context": "Il g[ior]no 13 Marzo feci una caduta per istrada, tanto disgraziata che mi spezzai il braccio destro vicino vicino all’articolazione del cubito.",
+      "replacements": [
+        {
+          "original_item": "g[ior]no",
+          "tei_encoding": "g<supplied>ior</supplied>no",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6947.xml": [
+    {
+      "element_id": "L6947_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[8]",
+      "context": "oder Jemand anderer der Seinigen habe auf der Fried[e]nsreise ausgest[…] es stehe uns frei uns an die Versammlung in Darmstadt anzuschließen; das vermuthe ich aus einer Äußerung eines mit dem letzten Bothen erhaltenen Briefes Umbreits, dem ich heut unter Einem der Wahrheit gemäß antworte; in jedem Fall werden Sie im October wenn die Zeitungen von den Darmstädter Beschlüssen voll seyn werden, eher in dem Falle sagen das Eisen so lang es noch warm zu schmieden als Ihr erst Anfangs November nach Wien zurückkehrender ergebenster Freund",
+      "replacements": [
+        {
+          "original_item": "Fried[e]nsreise ausgest[…]",
+          "tei_encoding": "<choice><abbr>Fried</abbr><expan>Frieden</expan></choice>sreise ausgest<gap/>",
+          "intervention_type": "Abbreviation; Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter6950.xml": [
+    {
+      "element_id": "L6950_div2_p10",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/p[10]/text()[2]",
+      "context": "L’Autore è Antonio Magnana Paroco attuale della Chiesa di S[ant]a Maria de’Giubenichi volgarmente Zobenigo. In tutte le sue epigrafi è intralciato ed oscuro: usa l’arbitrio di sigle non consacrate ed usate nelle epigrafi antiche. Di più gli accorciamenti delle parole sono irregolari, per es[e]mpio divitias essendo il sostantivo doveva essere intero, e non divit. Egualmente comite e non com. Perché porre V. Clar. al Petrarca? Cuius Homer[us] suctis.",
+      "replacements": [
+        {
+          "original_item": "S[ant]a",
+          "tei_encoding": "<choice><abbr>S</abbr><expan>Santa</expan></choice>",
+          "intervention_type": "Abbreviation"
+        },
+        {
+          "original_item": "es[e]mpio",
+          "tei_encoding": "es<supplied>e</supplied>mpio",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "Homer[us]",
+          "tei_encoding": "<choice><abbr>Homer</abbr><expan>Homerus</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter7159.xml": [
+    {
+      "element_id": "L7159_div1_opener1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/opener[1]/salute[1]/text()[2]",
+      "context": "Herr Hofrath Freyherr von Hammer-Burgstall[sic]!",
+      "replacements": [
+        {
+          "original_item": "Burgstall[sic]",
+          "tei_encoding": "<choice><sic>Burgstall</sic><corr>Purgstall</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter7271.xml": [
+    {
+      "element_id": "L7271_div1_p1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/salute[1]/text()",
+      "context": "Ihr aufrichtiger ergebenster verbu[n]den[ster?] Freund",
+      "replacements": [
+        {
+          "original_item": "verbu[n]den[ster?]",
+          "tei_encoding": "verbu<supplied>n</supplied>den<unclear>ster</unclear>",
+          "intervention_type": "Supplement; Uncertainty"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter7427.xml": [
+    {
+      "element_id": "L7427_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[3]",
+      "context": "Acknowledging the receipt of Your letter in answer to the notification of Your being named an honorary member of the Imperial Academy of Vienna, I have now the pleasure of transmitting to You two copys[sic] of the first publications of the Academy; one for the Royal Asiatic Society and one for Yourself as a member of our Academy which lives in hopes that the Royal Asiatic Society will be pleased to exchange with our Academy her publications.",
+      "replacements": [
+        {
+          "original_item": "I have now the pleasure of transmitting to You two copys[sic]",
+          "tei_encoding": "I have now the pleasure of transmitting to You two <choice><sic>copys</sic><corr>copies</corr></choice>",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter7514.xml": [
+    {
+      "element_id": "L7514_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[1]",
+      "context": "Worin dies bestanden, werden Sie daraus abnehmen, wenn ich Ihnen sage, daß die jü[?disch?] üblichen Verhältnisse meiner Schwiegereltern es nötig machten, daß ich meiner jetzigen Frau eher, als es bestimmt war, also den 1sten Dec[em]ber, an einem Freitage ehelichen mußte.",
+      "replacements": [
+        {
+          "original_item": "jü[?disch?]",
+          "tei_encoding": "jü<unclear>disch</unclear>",
+          "intervention_type": "Uncertainty"
+        },
+        {
+          "original_item": "Dec[em]ber,",
+          "tei_encoding": "<choice><abbr>Dec</abbr><expan>December</expan></choice>,",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter7523.xml": [
+    {
+      "element_id": "L7523_div1_p1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[1]/text()[4]",
+      "context": "Wollen wir nicht auch gegenseitig ausmachen, unsere Brief nicht mehr zu frankieren[?] – Es ist bequemer.",
+      "replacements": [
+        {
+          "original_item": "frankieren[?]",
+          "tei_encoding": "frankieren<supplied>?</supplied>",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter7561.xml": [
+    {
+      "element_id": "L7561_div1_p4",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[4]/text()[6]",
+      "context": "Sie lautet[:] die ersten zwei (Ober) stechen die Wenzel (die 4 Unter der deutschen Karten), die letzten zwei sind ein Täntzel (Länder) und das Ganze schnürt’s Ränzel. Wie aller Ehre bar diese Männer[?] sind, geht daraus hervor, daß ein in Untersuchung befindlicher (wegen Aufwiegelung der Soldaten) früherer königl[icher] Musikdirektor Böckel, der Redakteur eines Schandblattes, Volksblätter genannt, in die Kammer gewählt ward und bei der Vereidung statt die drei Finger einzeln in die Höhe zu halten, mit denselben gekrümmt eine Prise haltend den Eid nachsprach und nach dieser blasphemischen Aktion dieselbe schnupfte, ohne deswegen von dem Präsidenten der IIIten Kammer, der ihm den Eid vorsprach, eine Reprimande zu erfahren.",
+      "replacements": [
+        {
+          "original_item": "lautet[:]",
+          "tei_encoding": "lautet<supplied>:</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "Wie aller Ehre bar diese Männer[?]",
+          "tei_encoding": "Wie aller Ehre bar diese Männer<supplied>?</supplied>",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "königl[icher]",
+          "tei_encoding": "<choice><abbr>königl</abbr><expan>königlicher</expan></choice>",
+          "intervention_type": "Abbreviation"
+        }
+      ],
+      "num_replacements": 3
+    }
+  ],
+  "letter7726.xml": [
+    {
+      "element_id": "L7726_div2_closer1_salute1",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[2]/closer[1]/salute[1]/text()",
+      "context": "Carissimo, vivete Voi felice vostro devot[is]s[i]mo ed affezi[ionatissi]mo amico",
+      "replacements": [
+        {
+          "original_item": "devot[is]s[i]mo",
+          "tei_encoding": "devot<supplied>is</supplied>s<supplied>i</supplied>mo",
+          "intervention_type": "Supplement"
+        },
+        {
+          "original_item": "affezi[ionatissi]mo",
+          "tei_encoding": "affezi<supplied>ionatissi</supplied>mo",
+          "intervention_type": "Supplement"
+        }
+      ],
+      "num_replacements": 2
+    }
+  ],
+  "letter7982.xml": [
+    {
+      "element_id": "L7982_div1_p14",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[14]/text()[2]",
+      "context": "Flügel das Siegel, darauf der [unleserlich] aus der Susa (sic!) Jussuf,",
+      "replacements": [
+        {
+          "original_item": "[unleserlich]",
+          "tei_encoding": "<gap/>",
+          "intervention_type": "Omission"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ],
+  "letter8017.xml": [
+    {
+      "element_id": "L8017_div1_p2",
+      "xpath": "/TEI[1]/text[1]/body[1]/div[1]/p[2]/text()[3]",
+      "context": "In Oestereich[sic] scheinen die Gebrüder Grimm gar keine Mitarbeiter zu haben und auch die bestehenden gedruckten Hilfsmittel nicht gehörig zu benützen; denn sonst würden sie zum Beispiel unter dem Worte aufmischen auch den in Oesterreich sehr üblichen guten Sprachgebrauch aufgeführt haben, vermöge dessen das Wort „durch Witz und Rührigkeit Leben in die Gesellschaft bringen“ heißt u.",
+      "replacements": [
+        {
+          "original_item": "In Oestereich[sic]",
+          "tei_encoding": "In <choice><sic>Oestereich</sic><corr>Österreich</corr></choice> scheinen...",
+          "intervention_type": "Correction"
+        }
+      ],
+      "num_replacements": 1
+    }
+  ]
+}

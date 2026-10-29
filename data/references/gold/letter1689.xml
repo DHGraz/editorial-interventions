@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1689"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>                    Hager</persName>, ehemaliger Professor für orientalische Sprachen, der sich momentan in Mailand aufhält, hatte <persName>Morelli</persName> im Namen HPs in einem Brief (1815 VII 18) um ein 1803 gedrucktes Werk desselben über einige wenig bekannte venezianische Reisende<note type="comment" place="bottom"><p> Dieses Werk
+                        konnte nicht identifiziert werden, da es nicht im Buchhandel erschienen ist
+                        und dementsprechend in den Katalogen UBW, BMV fehlt und auch in der
+                        Bibliographie der <hi rend="italic">Geschichte des Osmanischen Reiches</hi>
+                        nicht
+                    aufscheint.</p></note> gebeten. Da dieses Werk jedoch nie im Buchhandel erhältlich gewesen ist, hat <persName>Morelli</persName> ein Exemplar aus seinem Privatbesitz an <persName>Hager</persName> geschickt, damit dieser es an HP weiterleite. Nachdem <persName>Morelli</persName> jedoch weder von <persName>Hager</persName> noch von HP Nachrichten erhalten hat, wendet es sich nunmehr direkt an HP mit dem Hinweis, <persName>Hager</persName> könnte das Buch auch im eigenen Namen weitergegeben haben. </p><p>Bei den Respektsbeteuerungen verweist <persName>Morelli</persName> auf ein persönliches Treffen mit HP in Venedig mehrere Jahre zuvor<note type="comment" place="bottom"><p>
+                        <persName>Morelli</persName> bezieht
+                        sich vermutlich auf HPs ersten Besuch in Venedig im Jahre 1798 während einer
+                        Reise, die ihn gemeinsam mit Freiherrn <persName>von </persName><persName>Krufft</persName> u.a. nach Venedig und Triest brachte. Zu dieser Reise
+                        siehe: HP, <hi rend="italic">Zeichnungen auf einer Reise von Wien über
+                            Triest und Venedig und von da zurück nach Tirol im Jahre 1798., Berlin
+                            1800</hi> (anonym). – Seit dem Tode <persName>Zanelli</persName>s 1778 leitete <persName>Morelli</persName> als
+                        Kustos praktisch die Marciana, obgleich er während der letzten Jahre der
+                        Republik noch patrizischen Bibliothekaren, die auf drei Jahre gewählt
+                        wurden, unterstand. 1797 wird <persName>Morelli</persName> hingegen bereits als
+                        „bibliotecario nazionale“ geführt, und als Bibliothekar nimmt er auch 1798
+                        (Mai) die Neuordnung der Bestände unter den Österreichern in Angriff; (<hi rend="italic">Zorzi</hi>).</p></note>.</p></div><div type="letter" subtype="original"><opener><salute><choice><abbr>Sig</abbr><expan>Signor</expan></choice> mio Stimatissimo</salute><dateline>Venezia 14 Ottobre 1815</dateline></opener><p>Il <choice><abbr>Sig</abbr><expan>Signor</expan></choice> <persName>Hager</persName> già Professore di Lingue Orientali a
+                        Milano sino dal giorno 18 Luglio di là mi scrisse che Ella bramava una mia
+                        Dissertazione imano ad alcuni Viaggiatori Veneziani poco noti, stampata
+                        nell’anno 1803, la quale non è mai stata vendibile, né alcun esemplare ora
+                        più se ne trova. Io in vista della sua degnissima persona mi sono privato
+                        ben volentieri di un esemplare, che ne aveva<note type="comment" place="bottom"><p> Gemeint ist wohl avevo.</p></note> duplicato, e
+                        glielo mandai ad esso <persName>Hager</persName>, in un pachetto; con mia
+                        lettera a Lei scritta non ho mai avuto alcun riscontro né
+                            dall’<persName>Hager</persName>, né da Lei se il libro sia stato da Lei
+                        ricevuto, o se sia per sfortuna andato perduto. La prego pertanto farmi il
+                        piacere di significarmi se di fatto quel mio libro sia a Lei pervenuto;
+                        mentre potrebbe anche esser successo, che il <choice><abbr>Sig</abbr><expan>Signor</expan></choice>
+                            <persName>Hager</persName> glielo avesse mandato in nome proprio. Le
+                        rinovo le mie proteste di stima e di rispetto, in conformità<note type="comment" place="bottom"><p> Korrigiert aus conforme.</p></note>
+                        de’sentimenti, che ben mi ricordo di averle espresso alquanti anni addietro
+                        qui in Venezia. <salute>E con perfetti sentimenti e pienezza d’animo mi
+                            pregio di sottoscrivermi suo dev[otissi]mo obbl[ligatissi]mo
+                            serv[itor]e</salute></p><closer><signed>Don Jacopo <persName>Morelli</persName>
+                        <lb/>R[egi]o Cons[igliere] Bibliotecario</signed></closer></div></body></text></TEI>

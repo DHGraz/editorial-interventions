@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6641"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p>In Besorgnis um den Gesundheitszustand von <persName>HP</persName>s Gattin wünscht <persName>Rossi</persName>
+                    dieser baldige Besserung<note type="comment" place="bottom"><p> S. dazu das Kapitel 11.5.1
+                        „Der Tod Carolinens – 1844“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                            Gelehrtenleben Eine Annäherung; Graz 2021, Bd 2</hi>
+                        <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note>. – <persName>Rossi</persName> hat den Wechselbrief <persName>HP</persName>s an <persName>Labus</persName> weitergeleitet, der <persName>HP</persName> namens des Istituto
+                <persName>HP</persName> danken lässt<note type="comment" place="bottom"><p> Es handelt sich
+                        um HPs Beitrag von 36 Lire zur Errichtung der Statue Bonaventura Cavalieris
+                        anlässlich des Congresso 1844.</p></note>. – Nachdem der Posten des Bibliotheksdirektors von Brera neu besetzt werden soll, unterrichtet <persName>Rossi</persName> <persName>HP</persName> über den Stand der Dinge<note type="comment" place="bottom"><p> Offensichtlich
+                        hatte die geringe Befassung <persName>Ferrario</persName>s
+                        mit der Bibliothek und sein fortgeschrittenes Alter (77 Jahre) zu seiner
+                        Versetzung in den Ruhestand geführt. <persName>Rossi</persName> wurde am 02.08.1844 als sein Nachfolger
+                    angelobt.</p></note>. Wie bereits nach dem Tode <persName>Gironi</persName>s scheint sich <persName>Labus</persName> Hoffnungen auf die Anstellung zu machen. <persName>Rossi</persName> schätzt seine eigenen Chancen zwar gereing, möchte aber
+                        nach 13 Jahren Bibliotheksdienst, davon
+                        sechs – nach dem Tode <persName>Gironi</persName>s
+                    – de facto als Bibliothekar – nicht die Gelegenheit versäumen.
+                   </p></div><div type="letter" subtype="original"><opener><salute>Monsieur le Baron</salute></opener><p>Je suis extrèmement touché du danger qui Vous ménace, Vous, Monsieur le
+                        Baron, qui êtes si digne d’être toujours heureux. Cependant comme le coup
+                        n’a pas été frappé, comme le mal, selon que Vous même me dites, n’avait pas
+                        fait des progrès dépuis un certain temps, j’espère que tous ces sombres
+                        nouages se dissiperont, et que l’avenir de vos jours sera si beau, comme
+                        Vous en<note type="comment" place="bottom"><p> Davor durchgestrichen
+                                „le“.</p></note> avez le droit. En demeurant, comme tout ce qui
+                        tient à Vous m’interesse infiniment, je ne puis me dispenser de Vous
+                        exprimer le vit désir, qui m’anime, d’apprendre de quelque manière que ce
+                        soit l’etat de la santé de votre Éponse cherie. J’ai remis à M[onsieu]r
+                            <persName>Labus</persName><note type="comment" place="bottom"><p> Das
+                                Blatt ist seitlich beschädigt, „s“ war zu ergänzen. Analoges gilt
+                                für die folgenden Ergänzungen [...] in diesem Brief.</p></note> [la]
+                        lettre de change que Vous m’avez envoyé pour lui, et je Vous [...] recu de
+                        la valeur dans la forme adaptée pour tous les souscriptions [...] même
+                        participe tout ce que Vous me ditez de lui, et j’ai recu en [...]rge des
+                        Vous exprimer les rémerciments de l’Institut pour votre [...]ase à la glorie
+                        de la science italienne. Je suis charmé des [...] Vous me faites à l’égard
+                        mon avancement; mais helas<note type="comment" place="bottom"><p> Danach
+                                durchgestrichen!</p></note> que [...] les accepter! On mettra la
+                        place en concours et je serais obligé [...] chances. On dit même en ville
+                        que M[onsieu]r <persName>Labus</persName> lui même se [...] rangs, comme
+                        jadis après la mort de M[onsieu]r <persName>Gironi</persName>, lorsque Vous
+                        [...]nt notre avocat en avez si bien paralysé<note type="comment" place="bottom"><p> Korrigiert aus „paralysés“.</p></note> les démarches.
+                        Qu’il serait [...] chose affreuse pour mois après 13 ans de service en
+                        bibliothèque, après [avoir] geré pour six ans les fonctions de
+                        bibliothècaire de fait, depuis la mort de <persName>Gironi</persName>
+                        jusqu’à ce jour, que de manquer le but de toute ma vie!</p><closer><salute>Veuillez, Monsieur le Baron, accuiller les souhaites les plus sincères
+                        pour le rétablissement de la santé de votre Éponse chérie, et veuillez aussi
+                        toujours me [regarder] comme votre très devoué serviteur et ami</salute><signed>François <persName>Rossi</persName></signed><dateline>[Milan], le 3 Janvier 1844</dateline></closer></div></body></text></TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_174"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Monsieur l’Internonce</salute></opener><p>J’ai<note type="comment" place="bottom"><p> Nach PvTh D.4.2.2
+                            2/23.</p></note> eu l’occasion de voir le traité conclu par le
+                        Gouvernement anglais en 1794 avec les Mamelouks. </p><p>Cette pièce ayant paru dans ce moment ici-bas, il est très probable qu’elle
+                        servira de base à la nouvelle Convention que les Anglais chercheront à
+                        conclure avec la Porte et les Mamelouks après l’évacuation du pays. J’ai
+                        pensé qu’elle pourrait être inconnue dans toute sa teneur, et j’en ai pris
+                        donc la copie ci-jointe. Dans chaque cas elle mérite être conservée comme
+                        une pièce diplomatique à laquelle l’Angleterre attachait un grand prix.</p><p>Ce traité eut été conclu quelques années plutôt si le chevalier Robert
+                            <persName>Ainslie</persName><note type="comment" place="bottom"><p> Es
+                                handelt sich hier vermutlich wohl um Sir Robert
+                                    <persName>Ainslie</persName>, 1st Baronet (1730–1812), der 1775
+                                zum britischen Botschafter bei der Pforte ernannt wurde, wo er Ende
+                                1776 eintraf und bis 1791 blieb; in weiterer Folge ist er Mitglied
+                                des Parlaments (BARCH), ohne dass ansonsten eine nähere Begründung
+                                angegeben werden kann. – Sir Robert Sharpe
+                                    <persName>Ainslie</persName> (1777–1858) haterst 1800 seinen
+                                ersten Posten angetreten; (<hi rend="italic">Wikipedia</hi>).</p></note> eut voulu écouter les propositions de M.
+                            <persName>Baldwin</persName><note type="comment" place="bottom"><p>
+                                George <persName>Baldwin </persName>(1743/44-1826); siehe Fußnote im
+                                Brief HP an <persName>Herbert-Rathkeal</persName> ddo 1801 I
+                            30.</p></note> et il fut terminé sous le ministère de M.
+                            <persName>Liston</persName><note type="comment" place="bottom"><p>
+                                Vermutlich Robert <persName>Liston </persName>(1742–1836) britischer
+                                Diplomat und Botschafter in Spanien, Schweden, bei der Pforte
+                                (1793–1795) – <hi rend="italic">„he hated it there and left on 4
+                                    November 1795“</hi> –, USA, bei der Batavischen Republik, in
+                                Dänemark und ab 1812 neuerlich bei der Pforte; (<hi rend="italic">Wikipedia</hi>).</p></note> qui y apportait toutes les
+                        facilités.</p><p>M. <persName>Baldwin</persName> a sans doute des grands mérites et des
+                        grandes connaissances dans le commerce ; mais ayant voulu conseiller ici les
+                        Amiraux et les Généraux qui se sont moqués de lui, il a quitté l’Égypte et
+                        s’est rembarqué pour l’Angleterre dit-on.</p><p>Votre Excellence voit par la quantité de mes écritures, qu’Elle reçoit avec
+                        cette expédition, que j’y ai employé jusqu’ici tout mon temps de repos.
+                        C’est demain que je compte à commencer des recherches littéraires, si rien
+                        ne me survient.</p><p>Le hasard a voulu que j’occupe ici à Rosette la même chambre, qu’ont habitée
+                        avant moi deux hommes fameux et très studieux; C’est Worthley
+                            <persName>Montague</persName> le fameux voyageur<note type="comment" place="bottom"><p> Wohl Edward Wort(h)ley <persName>Montague</persName>
+                                (1678–1761), der 1716 als Botschafter an den osmanischen Hofe
+                                gesandt wurde und später auch Schatzkanzler wurde, später aber im
+                                Schatten seiner Frau, der Dichterin Lady Mary <persName>Wortley
+                                    Montague </persName>stand. Aus ihrer Feder stammt das Werk <hi rend="italic">„Turkish Embassy Letters“</hi> eine Briefsammlung
+                                von Lady Mary <persName>Wortley Montague</persName>s Überlegungen zu
+                                ihren Reisen durch das Osmanische Reich zwischen 1716 und 1718. Sie
+                                sammelte und überarbeitete sie im Laufe ihres Lebens und ließ die
+                                Manuskripte im Freundeskreis zirkulieren, und sie wurden erstmals
+                                1763 nach ihrem Tod veröffentlicht. Mary und Edward
+                                    <persName>Wortley Montague</persName>, die beide aus
+                                wohlhabenden und aristokratischen Familien stammten, heirateten im
+                                Jahr 1712. Mary spielte eine aktive Rolle bei der Förderung von
+                                Edwards ehrgeiziger politischer Karriere. Im Jahr 1716 wurde Edward
+                                zum außerordentlichen Botschafter am türkischen Hof ernannt, wovon
+                                er und Mary eine zwanzigjährige Tätigkeit im Ausland erwarteten.
+                                Eine von Edward <persName>Montague</persName>s Aufgaben war es,
+                                britische Vermittlung anzubieten, um den sich anbahnenden Krieg
+                                zwischen der Türkei und Österreich zu entschärfen, was er auch in
+                                Wien versuchte, allerdings mit wenig Erfolg. Nach nur zwei Jahren
+                                wurde er nach England zurückgerufen, und das Paar reiste auf dem
+                                Rückweg durch Italien und Frankreich. Die Türkischen
+                                Botschaftsbriefe bestehen aus achtundfünfzig Briefen an Freunde und
+                                Verwandte, die sie von verschiedenen Orten ihrer Reise aus
+                                geschrieben haben. Zweiundzwanzig Briefe beschreiben ihre Reisen in
+                                Europa auf dem Weg in die Türkei, siebenundzwanzig wurden aus der
+                                Türkei in Adrianopel oder Konstantinopel geschrieben, und neun
+                                stammen von ihrer Rückreise. Obwohl die meisten Briefe in Europa
+                                geschrieben wurden, erregten <persName>Montague</persName>s
+                                Beschreibungen der Türkei die meiste Aufmerksamkeit, insbesondere
+                                ihre Beschreibungen von Frauen vorbehaltenen Orten (Beitrag <hi rend="italic">„Turkish Embassy Letters“</hi> in <hi rend="italic">Wikipedia</hi>, englisch sowie Beiträge Edward und
+                                Mary Wort(h]ley <persName>Montague</persName> in <hi rend="italic">Wikipedia</hi>, englisch).</p></note>, dont mon hôtesse est une
+                        parente, et dernièrement le Général <persName>Menou</persName> pendant dix
+                        mois avant qu’il prenne le Commandement de l’armée. Ce dernier est
+                        généralement [connu] dans l’armée anglaise comme pillard et menteur. On lui
+                        fait tort en ceci. Voici les principaux traits de son caractère, que j’ai
+                        recueillis avec discernement. Il a beaucoup lu et beaucoup voyagé, il parle
+                        et écrit bien, mais il ne sait point agir. Il est extrêmement faible et en
+                        conséquence toujours extrêmement sur ses gardes de n’être dirigé par
+                        personne. Il ne finit jamais ce qu’il a commencé et oublie toujours ce qu’il
+                        a promis. Il s’imagine d’être un homme extraordinaire et il n’est que
+                        bizarre. C’est par bizarrerie qu’il s’est fait Turc, et qu’il a pris pour
+                        femme une Arabe divorcée, sœur d’un propriétaire d’un bain public, qui n’est
+                        ni jeune, ni belle, ni riche. Sa manière de traiter son monde est rebutante.
+                        Personne dans toute l’armée l’aime[sic]. N’ayant pas un grand caractère il
+                        cherche à y suppléer par une opiniâtreté imperturbable, qui persévère
+                        jusqu’à l’extrémité sans qu’il songe cependant à aucun moyen de salut. On
+                        doit lui faire la justice qu’il déteste la corruption et qu’il est
+                        extrêmement rigoureux sur ce point. Il déteste les Anglais et se croit aimé
+                        des habitants du pays qui le détestent également. Multorum patiens, in
+                        patientia firmitudinem simulari.</p><closer><salute>J’ai l’honneur d’être avec le respect le plus profond Monsieur
+                        l’Internonce de Votre Excellence le très humble et très obéissant</salute><signed><persName>Hammer</persName></signed><dateline>1 Mai 1801 Rosette</dateline></closer><postscript>
+                        <p>Ns. Je joine la copie de la lettre de <persName>Friant</persName><note type="comment" place="bottom"><p> Louis <persName>Friant</persName>
+                                    comte de l’Empire (1758–1829) war einer der Generäle
+                                        <persName>Napoleon</persName>s, die in den meisten seiner
+                                    Schlachten kämpften und vielfach verwundet wurden, auch in
+                                    Ägypten hat er sich mehrfach ausgezeichnet; (<hi rend="italic">Wikipedia 20170422</hi>).</p></note> mentioneè dans mes
+                            relations precedentes</p>
+                    </postscript></div><div type="letter" subtype="translation"><p>Monsieur l‘Internonce!</p><p>Ich hatte die Gelegenheit, den Vertrag zu sehen, der 1794 zwischen der
+                        englischen Regierung und den Mameluken geschlossen worden war. Dieses
+                        Schriftstück, das im Augenblick hier unten erschienen ist, wird sehr
+                        wahrscheinlich als Grundlage für das neue Abkommen dienen, das die
+                        Engländer, nach der Räumung Ägyptens, mit der Pforte und den Mameluken zu
+                        schließen versuchen werden. Ich dachte, dass es in seiner ganzen Länge
+                        unbekannt sein könnte, und ich habe daher die beiliegende Kopie davon
+                        gemacht. In jedem Fall sollte es als diplomatisches Schriftstück, dem
+                        England große Bedeutung beimisst, aufbewahrt zu werden. Der Vertrag wäre
+                        schon einige Jahre früher geschlossen worden, wenn der Ritter Robert
+                            <persName>Ainslie</persName> auf die Vorschläge von Herrn
+                            <persName>Baldwin</persName> gehört hätte, und er ist unter dem
+                        Ministerium von Herrn <persName>Liston</persName> mühelos fertiggestellt
+                        worden.</p><p> Herr <persName>Baldwin</persName> hat ohne Zweifel große Verdienste und
+                        große Kenntnisse, was den Handel betrifft, aber da er hier die Admirale und
+                        Generäle beraten wollte, die sich über ihn lustig machten, hat er Ägypten
+                        verlassen und ist angeblich nach England zurückgefahren.</p><p> Eure Exzellenz sieht durch die Menge meiner Schreiben, die Sie mit dieser
+                        Sendung bekommt, dass ich dafür bis jetzt meine Zeit der Ruhepause
+                        verwendete. Morgen rechne ich damit, meine literarischen Recherchen zu
+                        beginnen, wenn mir nichts dazwischenkommt.</p><p> Der Zufall wollte es, dass ich hier in Rosette das gleiche Zimmer habe, wo
+                        vor mir zwei berühmte und gelehrte Männer wohnten. Das ist Worthley
+                            <persName>Montague</persName>, der berühmte Reisende, dessen Verwandte
+                        meine Hausfrau ist, und zuletzt General <persName>Menou</persName> zehn
+                        Monate lang, bevor er das Armeekommando übernahm. Letzterer ist im
+                        Allgemeinen in der englischen Armee als Plünderer und Lügner bekannt. Man
+                        tut ihm damit unrecht. Seine hauptsächlichen Charaktereigenschaften, die ich
+                        wahrgenommen habe, sind folgende: Er hat viel gelesen und ist viel gereist,
+                        er spricht und schreibt gut, aber er kann nicht handeln. Er ist
+                        außergewöhnlich schwach und folglich immer extrem auf der Hut, von jemandem
+                        dirigiert zu werden. Er beendet nie, was er begonnen hat und vergisst immer,
+                        was er versprochen hat. Er glaubt ein außergewöhnlicher Mensch zu sein, er
+                        ist aber nur eigenartig. Durch seine Sonderlichkeit hat er sich zum Türken
+                        gemacht und er hat eine geschiedene Araberin zur Frau genommen, die
+                        Schwester des Eigentümers eines öffentlichen Bades, die weder jung, noch
+                        schön oder reich ist. Seine Art, wie er andere behandelt, ist widerlich.
+                        Niemand in der ganzen Armee mag ihn. Da er keinen starken Charakter hat,
+                        versucht er diesen durch eine bis zum Äußersten gehende unerschütterliche
+                        Halsstarrigkeit zu ersetzen, ohne dass er jedoch an irgendeine Möglichkeit
+                        des Seelenheils denkt. Man muss aber gerecht zu ihm sein und sagen, dass er
+                        Korruption verabscheut, und dass er extrem streng in diesem Punkt ist. Er
+                        verabscheut die Engländer und glaubt sich von den Bewohnern des Landes
+                        geliebt, die ihn ebenfalls verabscheuen. Multorum patiens, in patientia
+                        firmitudinem simulari. […]</p><closer><signed><persName>Hammer</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,37 @@
+# Python bytecode and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Editor settings
+.vscode/
+
+# API keys (copy keys.example.py to llm_processing/keys.py)
+keys.py
+
+# Local model files of the LLM engine
+llm_processing/models/
+
+# Local outputs: XML written back by evaluation/update_xml_files.py
+/xml_edited/
+
+# Unpublished full letter corpus, copied into data/sampling/analysis/ to run the sampling scripts
+# (see README); it must never be committed
+/data/sampling/analysis/letters-all/
+/data/sampling/analysis/corresp-metadata.json
+/data/sampling/analysis/editorial_interventions_brackets_analysis.xlsx
+/data/sampling/analysis/Briefliste*.xlsx
+
+# Local outputs of the sampling scripts (the published copies are in data/input/ and
+# data/sampling/brackets_statistics.xlsx)
+/data/sampling/bracket_sample/
+/data/sampling/brackets_sample.json
+/data/sampling/brackets_sample.xlsx
+/data/sampling/analysis/editorial_interventions_brackets*.xlsx
+/data/sampling/analysis/brackets_per_letter.xlsx

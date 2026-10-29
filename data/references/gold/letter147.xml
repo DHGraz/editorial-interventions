@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_147"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><note type="comment" place="inline">[Übersetzung, Übersetzer unbekannt]</note><opener><salute>Mein<note type="comment" place="bottom"><p> Die Übersetzung befindet
+                                sich mit dem Originaltext in türkischer Sprache und in arabischer
+                                Schrift auf einem Bogen; anbei das Originalkuvert samt unversehrtem
+                                Siegel. – Der Kapudan Pascha war der Oberbefehlshaber und Minister
+                                der osmanischen Marine und als solcher Mitglied des Staatsrates des
+                                Sultans. – <persName>Küçük Hüseyin </persName>Pasha (1757–1803), ein
+                                Georgier, war vom 11.03.1792 bis zu seinem Tod am 07.12.1803 Kapudan
+                                Pascha; (<hi rend="italic">Wikipedia 20150511</hi>) – HP hatte zu
+                                ihm eine sehr gute freundschaftliche Beziehung aufgebaut, erhielt
+                                von ihm wichtige Informationen und widmete ihm sogar einen
+                                poetischen Nachruf.</p></note> eifriger Freund
+                            <persName>Hammer</persName></salute></opener><p>Ich grüße Dich und tue Dir hiemit zu wissen:</p><p>Du schriebst mir, daß während Deiner Abreise nach Halp und Damaskus
+                        festgesetzt war, die Gewißheit von der Ankunft der großen Flotte <choice><abbr>S E</abbr><expan>Seiner
+                        Exzellenz</expan></choice> des Admirals Lord <persName>Smith</persName>, unseres Freundes,
+                        und der Armee des Comodore
+                            <persName>Sidney</persName> <persName>Smith</persName>, unseren Freund,
+                        bewogen habe, Dich nicht fortzulassen, sondern aufzuhalten, und daß, um Dir
+                        die Erlaubnis Deines Aufenthaltes zu erwirken, es nötig sei, durch den
+                            […<note type="comment" place="bottom"><p> Dieses ehrende Epitheton wurde
+                                sehr gedrängt und am Zeilenende eng an den Rand gedrängten Wortteil
+                                „Inter“ geschrieben und ist nicht wirklich zu
+                        entziffern.</p></note>] Internuntius, unseren Freund, sich an das
+                        Ministerium in Wien zu wenden. Unser Freund, der Comodore, hat mir deshalb
+                        anempfohlen, und ich bin vollkommen davon unterrichtet. Die Briefe, die Du
+                        mir an den obengenannten Herrn Minister beigeschlossen hast, sind richtig
+                        übergeben worden.</p><closer><salute>Ich hoffe, daß Du Dich meiner gütig erinnern wirst.</salute><signed><persName>Hussein</persName> Capitain des Meeres</signed></closer><note type="comment" place="inline">[Adresse auf dem Briefbogen:]</note><p>An unseren Freund <persName>Hammer</persName>, den Reisenden des geraden
+                        Weges mit schiefem Kopfputz<note type="comment" place="bottom"><p> Dies
+                                dürfte sich darauf bezogen haben, dass HP eine damalige Mode, den
+                                Kalpak etwas schief aufzusetzen pflegte, so dass auf einer Seite der
+                                darunter getragene rote Fez sichtbar wurde – HP erwähnt diese Mode
+                                in seinen <hi rend="italic">„Erinnerungen“</hi>.</p></note>
+                    </p><note type="comment" place="inline">[Adresse auf dem Kuvert:]</note><p>Le Mr <persName>Hammer</persName> le jeune milord, ne’que puis de Mr le
+                        Comodore <persName>Smith</persName></p><p>Capitan Pacha to Sir S. <persName>Smith</persName></p></div></body></text></TEI>

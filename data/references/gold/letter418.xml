@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_418"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Vienne ce 16 Xbre [1803]</dateline></opener><p>C<note type="comment" place="bottom"><p> Die Jahreszahl der Datierung
+                            </p></note>e n’est que depuis quelques jours que nous avons reçu le
+                        cour[r]ier du 10 9bre et qui sait quand arrivera celui qui devrait être déjà
+                        ici. <persName>Harrach </persName>continue à ne me rien envoyer pour vous ;
+                        ni journaux, ni almanachs. Je ne le rencontre pas même à la rue pour le
+                        gronder. – </p><p>Je viens de remplier hier toutes vos commissions des gazettes et journaux que
+                        vous n’aviez demandés. Je me suis abonné :</p><p>1<hi rend="superscript">ier</hi> pour le Mercure de Ratisbonne à l’adresse de
+                            <persName>Condilli Beharnek</persName> à Péra – f. 22.-</p><p>2<hi rend="superscript">e</hi> …..allg[emeine] Zeit[ung] à M. de
+                            <persName>Bielefeld</persName>, 38.-<note type="comment" place="bottom"><p> Seite abgerissen</p></note></p><p>6<hi rend="superscript">e</hi> Gazette de Francfort à M. Prior f. 25.-</p><p>7<hi rend="superscript">e </hi> Le Moniteur à commencer du 1<hi rend="superscript">ier</hi> Vendemiaire<note type="comment" place="bottom"><p> Erster Monat des französischen Revolutionskalenders
+                                (22. September bis 21. Oktober); deutsch „Weinlesemonat oder
+                                Weinmonat“.</p></note> 94.-</p><p>Total f. 206 dont j’ai débité votre compte de façon que je ne reste plus à
+                        vous devoir que f. 121,- [<note type="comment" place="bottom"><p>
+                                Unleserlich</p></note>]</p><p>Quant au Moniteur, c’est votre faute, parce que vous ne vous êtes pas bien
+                        expliqué en en parlant à <persName>Seydl </persName>qui a cru que vous
+                                    demandiez tout le moniteur, ce qui aurait coûté au-delà de mille <choice><abbr>flor</abbr><expan>florin</expan></choice> et
+                        à moi vous ne m’aviez dit que d’en payer le prix à
+                            <persName>Seydl.</persName> Ce n’est que par votre dernière lettre que
+                            j’ai<note type="comment" place="bottom"><p> Zwei Zeilen wurden am
+                                unteren Rand weggerissen.</p></note> […]</p><p>Quant à nos nouvelles, il n’y en a que deux seules qui méritent de vous être
+                        communiquées, parce que vous ne pouvez pas les trouver dans les gazettes, et
+                        qu’elles intéressent généralement. Ces deux qualités sont, à mon avis,
+                        indispensables pour chaque événement qu’on écrit jusqu’à Constantinople et
+                        il est très rare de trouver des nouvelles de cette sorte. Voilà la vraie
+                        raison de mon silence à cet égard. Une lettre courte n’a jamais ennuyé, et
+                        je sais le bavardage qui tue. Tant que vous vous plaindrez de la brièveté de
+                        mes lettres je louerai de moi, ou de votre amitié. Vous savez que celle-ci a
+                        aussi une coquetterie. Avoir donc crainte de vous ennuyer, je finis en vous
+                        embrassant de tout mon cœur. </p><closer><salute>Votre ami très aff[ectueux]</salute><signed>Chabert</signed></closer><postscript>
+                        <p>P.S. : Je vous demande pardon de ne pas vous avoir dit les deux nouvelles
+                            ci-dessus : vous les demanderez à <persName>Testa </persName>à qui je
+                            les ai écrites.</p>
+                    </postscript><p>Les lettres pour <persName>Stametz</persName> sont toujours exactement
+                        remises le même jour – </p><graphic url="media/image62.png"/></div><div type="letter" subtype="translation"><p>Wien, 16. Dezember 1804</p><p>Es ist erst einige Tage her, dass der Kurier vom 10. November angekommen ist
+                        und wer weiß, wann jener, der schon hier sein müsste, ankommen wird.
+                            <persName>Harrach</persName> schickt mir weiterhin nichts für Sie, weder
+                        Zeitungen noch Almanachs. Ich treffe ihn sogar nicht einmal auf der Straße,
+                        um mit ihm zu schimpfen. – Ich habe gestern alle Ihre Aufträge an Gazetten
+                        und Zeitungen, um dies Sie mich gebeten haben, erledigt. Ich habe Folgendes
+                        abonniert:</p><p>1. Den „Merkur von Regensburg“ an die Adresse von <persName>Condilli
+                            Beharnek</persName> in Pera – 22 Gulden</p><p>2. Die „(…) allgemeine Zeitung“ für Herrn <persName>von Bielefeld</persName>
+                        38. – </p><p>[…]<note type="comment" place="bottom"><p> Zwei Zeilen wurden am unteren Rand
+                                weggerissen.</p></note></p><p>6. Die Zeitung von Frankfurt für Herrn <persName>Prior</persName>, 25.
+                        -Gulden</p><p>7. „Le Moniteur“ mit Beginn des ersten Vendémiaire, 94 .-</p><p>Summe: 206. – Gulden, die ich von Ihrem Konto genommen habe, sodass ich Ihnen
+                        nur mehr 121.- Gulden schulde. </p><p>Was „Le Moniteur“ betrifft, so ist es Ihr Fehler, da sie sich nicht gut
+                        ausgedrückt haben, als sie davon mit Seydl sprachen, der glaubte, dass Sie
+                        den ganzen „Moniteur“ wollten, was über 1000 Gulden gekostet hätte und mir
+                        haben Sie nur gesagt, Sie würden <persName>Seydl</persName> den Preis
+                        bezahlen. Ich habe erst durch Ihren letzten Brief [<note type="comment" place="bottom"><p> Zwei Zeilen wurden am unteren Rand
+                            weggerissen.</p></note>]</p><p>Was unsere Neuigkeiten betrifft, so gibt es nur zwei, die es verdienen, Ihnen
+                        übermittelt zu werden, weil Sie sie nicht in den Gazetten finden können und
+                        sie allgemein von Interesse sind. Diese beiden Faktoren sind meiner Meinung
+                        nach unerlässlich für jedes Ereignis, das man bis Konstantinopel schreibt
+                        und es ist selten, Neuigkeiten dieser Art zu finden. Das ist der wahre Grund
+                        für mein Schweigen in dieser Hinsicht. Ein kurzer Brief hat nie gelangweilt,
+                        und ich kenne das Geschwätz, das ruiniert. Solange Sie sich über die Kürze
+                        meiner Briefe beschweren, werde ich mit mir und Ihrer Freundschaft zufrieden
+                        sein. Sie wissen, dass jene auch eine Eitelkeit hat. Da ich also befürchte,
+                        Sie zu langweilen, mache ich Schluss und umarme Sie von ganzem Herzen.</p><closer><salute>Ihr sehr ergebener Freund</salute><signed><persName>Chabert</persName></signed></closer><postscript>
+                        <p>P.S.: Ich bitte Sie um Entschuldigung, dass ich Ihnen die beiden oben
+                            erwähnten Neuigkeiten nicht gesagt habe: Fragen Sie
+                                <persName>Testa</persName> danach, dem ich sie geschrieben habe.</p>
+                        <p>Die Briefe für Stametz sind immer genau am selben Tag übermittelt worden
+                            –</p>
+                    </postscript></div></body></text></TEI>

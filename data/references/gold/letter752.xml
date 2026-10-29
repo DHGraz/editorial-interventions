@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_752"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><note type="comment" place="inline">Nro 30</note><opener><salute>Monseigneur</salute></opener><p>Hier<note type="comment" place="bottom"><p> Nach PvTh D.2 1/23.</p></note>
+                        soir est arrivé au Grand Trésorier la nouvelle donnée par l’Ispravnik
+                            <persName>de Soroca</persName>, que les Russes ont jeté des pontons à
+                        Mohilov, et que l’avant-garde d’un Corps de Russes de soixante-cinq mille
+                        hommes, qui doit entrer en Moldavie et Valachie sous les ordres du Général
+                            <persName>Michelson</persName> a déjà passé les frontières.</p><p> Retenu chez moi par une fièvre quotidienne qui m’a saisi depuis trois jours,
+                        j’ai écrit sur le champ le billet ci-joint à M.
+                            <persName>de Rodofinikin</persName>, auquel il m’a envoyé un couple
+                        d’heures après la réponse également ci-jointe.</p><p> Pendant la nuit les Boyards se sont tenus assemblés et ont expédié les
+                        ordres nécessaires aux Commissaires de Cerches( ?) pour l’approvisionnement
+                        et pour la facilitation de la marche de ce Corps de troupes.</p><p> Ne voulant pas expédier ma dépêche avant d’avoir eu une communication
+                        officielle du Consulat de Russie, j’ai écrit ce matin derechef à M.
+                            <persName>de Rodofinikin</persName> pour lui demander encore une fois la
+                        confirmation des nouvelles, que j’avais reçues pendant la nuit. Il vient de
+                        m’envoyer dans ce moment le Colonel Pierre <persName>Pisani</persName>
+                        arrivé comme Courrier de Petersbourg pour m’annoncer de bouche qu’il venait
+                        de recevoir dans ce moment la nouvelle officielle de l’entrée d’un petit
+                        corps de troupes comme Amis et Alliés de la Porte en Moldavie et
+                        Valachie.</p><p> D’après les renseignements, que j’ai pu me procurer jusqu’ ici les Généraux
+                        russes nommément le Prince <persName>Dolgorouky</persName><note type="comment" place="bottom"><p> Die <persName>Dolgorouky</persName>
+                                oder auch <persName>Doulgoroukov</persName> waren ein altes
+                                russisches Fürstengeschlecht, das sich vom hl. Wladimir herleitete
+                                und zahlreiche hohe Militärs und Verwaltungsbeamte stellte. Hier
+                                könnte es sich um Sergueï Nikolaïevitch
+                                    <persName>Dolgoroukov</persName> (1769–1829), aber auch um
+                                Mikhaïl Petrovitch <persName>Dolgoroukov</persName> (1780–1808)
+                                handeln.</p></note> ont assuré les Capitaines de frontières, qu’ils
+                        allaient <hi rend="underline">passer</hi> seulement comme amis, et sans se
+                        mêler le moins du monde du Gouvernement, et de l’administration des deux
+                        provinces; Ils procéderont immédiatement à Yassy d’où, disent-ils, de
+                        nouvelles directions seront données pour leur marche.</p><p> J’avoue que je ne m’étais pas attendu de voir entrer les Russes en ennemis
+                        dans ces deux provinces, et moins encore en amis.</p><p> Est-ce pour s’ouvrir un débouché en Dalmatie et pour établir une ligne de
+                        communication des rivages du Dnjestre aux bouches de Cattaro comme je l’ai
+                        supposé dans un de mes très humbles rapports précédents? Est-ce pour mettre
+                        ces deux provinces à l’abri du cas possible de nous échoir en indemnité,
+                        est-ce seulement pour soutenir par une pareille démarche le langage nouveau,
+                        que tiennent ici depuis quelque temps les Agents de Russie, en qualifiant
+                        cette puissance de co-gouvernante des deux principautés ? Langage, dont j’ai
+                        eu l’honneur d’instruire Votre Excellence dans le temps et qui m’est
+                        autorisé à ce que je sache, par aucun traité.</p><p> Enfin voilà une démarche d’une grande importance, qui me paraît une grande
+                        faute de la part de la Russie dans le moment actuel, et qui peut avoir des
+                        suites incalculables pour elle et pour l’Empire ottoman.</p><p>La sagesse de Votre Excellence appréciera la justesse de mes conjectures, et
+                        les explications avec les ministères de Saint Cloud, de Versailles et de
+                        Constantinople, les rapports de M. l’Internonce suppléeront à la
+                        défectuosité de mes lumières. Car si comme dit M.
+                            <persName>de Rodofinikin</persName> ce passage se fait du consentement
+                        de la Porte Vous êtes instruit sans doute Monseigneur de Constantinople de
+                        cet arrangement secret, et je m’épuiserais ici en suppositions inutiles.</p><p> Je ne doute point, que M. <persName>Bolconnof </persName>ne soit
+                        immédiatement relevé par M. <persName>de Rodofinikin </persName>qui restera
+                        probablement comme Agent diplomatique dans les deux Principautés, et à moins
+                        de recevoir de Votre Excellence de nouvelles instructions pour le cas
+                        imprévu dans les miennes pour cette entrée de troupes, je tâcherai de
+                        diriger ma conduite envers les Généraux Russes dans l’esprit des procédés,
+                        qui me sont prescrits pour ces Agents.</p><p> J’ignore encore quel parti prendra M. <persName>Reinhard</persName>.
+                        Probablement il s’en ira et dans ce cas je serai requis de me charger des
+                        archives du Consulat, ce que je ferai sur sa réquisition, comme je l’eusse
+                        fait sur la réquisition du Consul russe en cas de rupture.</p><p> M. <persName>Reinhard</persName> expédie incessamment un Courrier au Camp de
+                        l’Empereur <persName>Napoléon</persName>; il m’a prié par le billet ci-joint
+                        d’inclure dans ma dépêche une lettre pour M.
+                            <persName>de la Rochefoucauld</persName> ce que j’ai cru ne devoir point
+                        lui refuser, puisque Votre Excellence sera toujours maître de retarder la
+                        lettre, que j’ai l’honneur de joindre ici.</p><p> L’autre pli plus grand ci-joint à la même adresse a été remis à la poste
+                        d’hier, et doit en chaque cas être remis de quelques jours plus tard, que la
+                        lettre, seule censée, d’avoir été acheminée par estafette. Je profiterai de
+                        mon côté de l’offre contenue dans le billet de M.
+                            <persName>Reinhard</persName> en me servant de son Courrier, qu’il
+                        expédie ce soir à Bucarest pour donner la nouvelle à mon Collègue, comme je
+                        la donne aussi, par estafette aux Gouverneurs et aux Commandants de la
+                        Transylvanie et à M. l’Internonce.</p><p>Dans les circonstances critiques, on peut amener encore, j’aurai, pour
+                        m’acquitter comme il faut des devoirs de ma place, plus que jamais besoin de
+                        santé et de paix.</p><p> En priant le ciel de me rendre la première je supplie Votre Excellence de
+                        m’obtenir par sa Haute intercession un moment plutôt des Grâces souveraines
+                        l’indispensable augmentation de quinze cents florins, ce qui est bien le
+                        moins qu’il me faut pour être prévu de remplir les fonctions de ma place
+                        avec probité et décence.</p><closer><salute>J’ai l’honneur d’être avec le plus profond respect et la soumission la
+                        plus parfaite Monseigneur de Votre Excellence le très humble et très
+                        obéissant</salute><signed>Jos[eph] <persName>de Hammer</persName></signed><dateline>Jassy le 24 <choice><abbr>Nov</abbr><expan>Novembre</expan></choice> <supplied>1</supplied>806</dateline></closer><postscript>
+                        <p>À Son Excellence</p>
+                    </postscript><p>Monseigneur le Comte <persName>de Stadion-Thannhausen</persName></p><p>Ministre des affaires étrangères</p></div><div type="letter" subtype="translation"><p>Nr. 30</p><p>Monseigneur!</p><p>Gestern ist beim großen Schatzmeister die Nachricht von Ispravnik de
+                            <persName>Soroca</persName> angekommen, dass die Russen in Mohilow
+                        Pontons errichtet haben und dass die Vorhut eines Corps der Russen von
+                        65.000 Mann, das in Moldawien und der Walachei unter den Befehlen des
+                        General <persName>Michelson</persName> einfallen soll, schon die Grenzen
+                        passiert habe.</p><p>Ich muss täglich durch Fieber, das ich seit drei Tagen habe, zu Hause bleiben
+                        und ich habe sofort das hier beigelegte Schreiben an Herrn von
+                            <persName>Rodofinikin</persName> geschrieben, worauf er mir ein paar
+                        Stunden später die Antwort, die ebenfalls hier beigelegt ist, geschickt hat. </p><p> In der Nacht haben die Bojaren eine Versammlung abgehalten und die
+                        notwendigen Befehle für die Versorgung und die Marscherleichterung dieses
+                        Corps an die Kommissare von Cerches geschickt.</p><p> Da ich meine Depesche nicht abschicken wollte, bevor ich nicht eine
+                        offizielle Mitteilung des Konsulats von Russland habe, habe ich heute Morgen
+                        noch einmal an Herrn von <persName>Rodofinikin</persName> geschrieben, um
+                        ihn noch einmal um die Bestätigung er Nachrichten zu bitten, die ich in der
+                        Nacht bekommen habe. Er hat mir soeben Oberst Pierre <persName>Pisani
+                        </persName>geschickt, der als Kurier aus St. Petersburg gekommen ist, um mir
+                        mündlich mitzuteilen, dass er soeben in diesem Augenblick die offizielle
+                        Nachricht des Einmarsches eines kleinen Truppencorps als Freunde und
+                        Alliierte der Pforte in Moldawien und der Walachei bekommen hat.</p><p> Nach den Auskünften, die ich mir bis jetzt beschaffen konnte, haben die
+                        russischen Generäle, namentlich der Fürst <persName>Dolgorouky</persName>,
+                        den Hauptleuten an den Grenzen versichert, dass sie nur als Freunde
+                        durchmarschierten, ohne sich im Geringsten in die Regierung und die
+                        Verwaltung der beiden Provinzen einzumischen. Sie werden sich sofort nach
+                        Jassy begeben, wo sie angeblich neue Anweisungen für ihren Weitermarsch
+                        bekommen werden.</p><p> Ich gebe zu, dass ich den Einmarsch der Russen in diesen beiden Provinzen
+                        nicht als Feinde und noch weniger als Freunde erwartet habe. Geschah dies,
+                        um sich einen Ausgang nach Dalmatien zu öffnen oder um eine Verbindungslinie
+                        vom Djestre zur Bucht von Catarro herzustellen, wie ich es in einem meiner
+                        untertänigen vorangegangenen Berichte vermutete? Geschah dies, um diese
+                        beiden Provinzen für den möglichen Fall zu schützen, dass sie uns als
+                        Entschädigung zufallen, oder war es nur, um durch einen solchen Vorstoß den
+                        neuen Ton zu unterstützen, den hier seit einiger Zeit die Agenten Russlands
+                        angeschlagen haben, indem sie diese Macht als Mit-Regierende der beiden
+                        Fürstentümer bezeichnet? Ein Ton, über den ich seinerseits die Ehre hatte,
+                        Eure Exzellenz zu informieren und der für mich, soviel ich weiß, durch
+                        keinen Vertrag gestattet ist.</p><p> Das ist schließlich ein sehr bedeutungsvoller Schritt, der mir als großer
+                        Fehler Russlands im Augenblick vorkommt und unberechenbare Folgen für
+                        Russland und für das Osmanische Reich haben kann.</p><p> Die Klugheit Eurer Exzellenz wird die Richtigkeit meiner Vermutungen
+                        einschätzen und die Erklärungen mit den Ministern von Saint Cloud, von
+                        Versailles und von Konstantinopel, die Berichte von Herrn Internuntius
+                        werden meine mangelnden Kenntnisse ergänzen. Denn wenn, wie Herr von
+                            <persName>Rodofinikin</persName> sagt, dieser Durchmarsch mit Zustimmung
+                        der Pforte erfolgt, sind Sie, Gnädiger Herr, sicher von dieser geheimen
+                        Abmachung in Kenntnis gesetzt worden und ich würde mich hier mit
+                        überflüssigen Vermutungen abmühen.</p><p> Ich bezweifle nicht, dass Herr <persName>Bolkonnof</persName> sofort von
+                        Herrn von <persName>Rodifinikin</persName> abgelöst wird, der wahrscheinlich
+                        als diplomatischer Agent in den beiden Fürstentümern bleiben wird und, es
+                        sei denn ich bekomme von Eurer Exzellenz neue Instruktionen für den
+                        unvorhergesehenen Fall des Einmarsches von Truppen, werde ich versuchen,
+                        mein Verhalten den russischen Generälen gegenüber im Sinne der
+                        Verhaltensweise, die mir für diese Agenten vorgeschrieben sind,
+                        anpassen.</p><p> Ich weiß noch nicht, welchen Entschluss Herr <persName>Reinhard</persName>
+                        fassen wird. Wahrscheinlich wird er weggehen und in diesem Fall werde ich
+                        angefordert werden, um mich um die Archive des Konsulats zu kümmern, was ich
+                        auf seine Aufforderung hin machen werde, wie ich es auf Aufforderung des
+                        russischen Konsuls im Falle des Bruchs gemacht hätte.</p><p> Herr <persName>Reinhard</persName> schickt ununterbrochen einen Kurier ins
+                        Lager von Kaiser <persName>Napoleon</persName>; er hat mich durch das hier
+                        beigelegte Schreiben gebeten, in meiner Depesche einen Brief für Herrn der
+                        la <persName>Rochefoucauld</persName> mitzuschicken, was ich ihm nicht
+                        verwehren zu dürfen glaubte, da Eure Exzellenz immer in der Lage sein wird,
+                        den Brief zurückzuhalten, den ich die Ehre habe, hier beizulegen.</p><p> Der andere, größere Briefumschlag an dieselbe Andresse, der hier beigelegt
+                        ist, wurde vorgestern mit der Post zugestellt und muss auf jeden Fall um
+                        einige Tage später abgesandt worden sein als der Brief, der, wie man
+                        annimmt, allein mit der Stafette auf den Weg geschickt wurde. Ich
+                        meinerseits werde das Angebot im Schreiben von Herrn
+                            <persName>Reinhard</persName> nutzen, indem ich mich seines Kuriers
+                        bediene, den er heute Abend nach Bukarest abschickt und die Nachricht meinem
+                        Kollegen zu geben, wie ich sie auch durch Stafette an die Gouverneure und
+                        Kommandanten von Transsylvanien und an den Herrn Internuntius schicke.</p><p> Man kann unter den kritischen Umständen noch hinzufügen, dass ich mehr
+                        Gesundheit und Frieden als zuvor brauchen werde, um die Aufgaben meiner
+                        Stellung, wie es sich gehört, zu erledigen. Indem ich den Himmel bitte, mir
+                        die erste zu gewähren, bitte ich Eure Exzellenz inständig, mir durch Ihre
+                        Hohe Fürsprache einen Augenblick früher von den herrschaftlichen Gnaden die
+                        unerlässliche Erhöhung von 1500 Florin zu verschaffen; das ist wohl das
+                        Geringste, was ich brauche, um die Funktionen meines Postens mit
+                        Rechtschaffenheit und Anstand erfüllen zu können. […]</p><closer><signed>Joseph von <persName>Hammer</persName></signed></closer></div></body></text></TEI>

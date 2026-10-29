@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3016"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>d[en] 1 Juny XXIV.</dateline><salute>Geliebter Freund!</salute></opener><p>Nur drei Worte. Denn ich sitze bis über die Ohren in Arbeit. Wäre
+                            <persName>Wilken</persName> in Berlin gewesen, so wäre Ihnen nicht die
+                        schnöde Antwort auf die gute Resolution des Königs zugefertigt worden<note type="comment" place="bottom"><p> Hier geht es um die Subskribierung,
+                                das HP bezüglich der Drucklegung seiner Übersetzung des
+                                    <persName>Marc Aurel</persName> in das Persische ausgeschrieben
+                                hatte.</p></note>. Er wohnt jetzt hier und wird in 6 Wochen nach
+                        Wien kommen. So viel ist indess gewiß, daß bei dem großen Mangel in der
+                        Kasse alle Ministerien in Berlin jetzt knickern müssen. Immer werden die
+                        Leute sagen: also der Perser Schach [sic] muß das Buch auf seine Kosten
+                        drucken und verteilen lassen. <persName>Wilken</persName> hat noch die
+                        Briefe bei sich. Wir wohnen eine Stunde auseinander. Also bitte ich noch um
+                        einen Posttag Frist wegen der Zurücksendung. Sie wissen doch, daß
+                            <persName>de Sacy</persName> mit dem franz[ösischen?] Ministerium auf
+                        einem sehr gespannten Verhältnis steht?</p><p>Und wenn Sie mich auf die Folter legten, ich vermöchte Ihnen jetzt nicht mehr
+                        die Literaturzeitung anzugeben, worin die von mir bezeichnete Rezension
+                        Ihres Mahomed<note type="comment" place="bottom"><p> HP, <hi rend="italic">Mohammed oder die Eroberung von Mekka. Ein historisches
+                                    Schauspiel von dem Verfasser der Schirin und des Rosenöls,
+                                    Berlin 1823</hi>.</p></note> stand. Am Ende sind es wohl die
+                        Heidelberger Jahrb[ücher] gewesen. Bedenken Sie, Freund, daß ich täglich
+                        wohl tausend Dinge meinem Kopf umwühlen muß. Da vermischt sich das Einzelne.
+                        Halten Sie es ja nicht für eine Ausflucht. Dazu kommt, daß ich auf einem
+                        fernen Garten wohne, fern von meinen Büchern. Doch will ich immer noch
+                        forschen.</p><p>Ich gratuliere schon zu dem neuen Fund wegen des Baphomet. Aber, mein edler
+                        Freund, prüfen Sie ja recht genau. Ich traue diesen Franzosen nicht über den
+                        Weg!</p><p>Es ist doch unbegreiflich, daß auch jetzt noch kein Haji Baba in Wien zu
+                        haben war<note type="comment" place="bottom"><p> HP sollte auf
+                                    <persName>Böttiger</persName>s Wunsch eine Einbegleitung zur
+                                Übersetzung von <persName>Schott</persName> schreiben; s. den Brief
+                                    <persName>Böttiger</persName>s an HP vom 23.04.1824.
+                        </p></note>. Ich hatte nur das Original in Leipzig gekauft. Wie <unclear>sehr</unclear>
+                        hatte ich gewünscht, Sie bei mir zu haben, als ich die Neuigkeiten aus
+                        England bei zwei dort anwesenden Buchhändlern aus London,
+                            <persName>Bethe</persName><note type="comment" place="bottom"><p> Es
+                                handelt von einem gerade von der Leipziger Messe zurückgekehrten Mr.
+                                    <persName>Bethe</persName>, der im Morning Chronicle
+                                offensichtlich einen Beitrag zu Walter <persName>Scott</persName>s
+                                Walladmore verfasste; (<hi rend="italic">The London Magazine 10,
+                                    1824 353</hi>).</p></note> und <persName>Black</persName>
+                        durchsah!</p><p>Schon vor 4 Wochen schickte ich an Freund <persName>Griesinger</persName> ein
+                        Blatt des artistischen Notizenblattes für Sie, worin ich Ihr Porträt
+                        angezeigt habe. Ich nehme das Einzige, was ich noch habe, und lege es Ihnen
+                        bei. Tausend Weihrauchkörner den Hausgöttern. Mit Treue und Liebe Ihr </p><closer><signed>B[<persName>öttiger</persName>]</signed></closer></div></body></text></TEI>

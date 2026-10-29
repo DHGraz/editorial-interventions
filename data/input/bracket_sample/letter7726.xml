@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7726"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p>Ein Brief <persName>HP</persName>s (19. April 1850) berichtet über dessen Krankheit im März und April des Jahres, aber auch bereits über die neuerliche Genesung. Den ebenfalls darin ausgesprochenen Dank für seine Bemühungen um <persName>HP</persName>s Sohn weist <persName>Rossi</persName> zurück. – <persName>HP</persName>s Grüße an Pompeo <persName>Litta</persName> werden von diesem erwiedert. – <persName>Litta</persName> ist mittlerweile aus dem Istituto ausgeschieden. In der Sitzung des 2. Mai 1850, der ersten nach den Umwälzungen, ist durch eine Regierungsdepesche <persName>Kramer</persName> (Chemie) und <persName>De Cristoforis</persName> (Mechanik) die Pension aberkannt, die effektive Mitgliedschaft jedoch belassen worden. In Abwesenheit aus dem Körper des Istituto ausgeschlossen worden sind <persName>Borromeo</persName><note type="comment" place="bottom"><p> Vitaliano <persName>Borromeo-Arese</persName> (1792–1874) nahm an den Aufständen von 1821, 1831
+                        und 1848 teil (dort als Mitglied der provisorischen Regierung) und wurde
+                        1853 zum Senator des Königreiches ernannt; (<hi rend="italic">ABI</hi>).
+                        Seit 1840 war er Ehrenmitglied des Istituto; (<hi rend="italic">BI/G</hi>).</p></note>, <persName>Aporti</persName> und <persName>Rezzonico</persName>, von der Amnestie <persName>Cattaneo</persName> und <persName>Cadolino</persName>.</p></div><div type="letter" subtype="original"><opener><salute>Amico onorevolissimo e carissimo</salute></opener><p>Mi dolse d’intendere dalla vostra del 19 p[rossimo] p[assato] la lunga
+                        malattia che vi travagliò nei mesi di Febbrajo e Marzo passati, ma perché la
+                        riseppi, quando n’eravate di già guarito, così insieme al dolore ne
+                        ricevetti anche la consolazione. Ambrosoli mi significo la cortese
+                        accoglienza che Voi gli faceste; di che io pure voglio ringraziarvi; ma
+                        soprattutto debbo ringraziarvi dei sentimenti di simpatia che mi dimostraste
+                        per il caso che mi avvenne. E Voi a questi sentimenti voleste anche
+                        aggiungere quei ringraziamenti che più volte mi ripeteste, per quel niente
+                        ch’io feci per vostro Figlio. Io debbo riconoscere in ciò la profonda bontà
+                        dell’animo vostro: ma basta, caro Hammer, non più questo discorso! Guai a
+                        me, se non fossi stato capace pur di quel niente! ne avrei riportato ben
+                        grandi rimorsi! Al Conte Pompeo <persName>Litta</persName> ho significato le
+                        espressioni che per lui mi mandaste nell’ultima vostra: egli mi rispose che
+                        io dica a Voi tutto quello che possa dire in suo nome, avendo egli per Voi
+                        somma affezione. Ma egli, per quello che ho d’altronde inteso, avrebbe
+                        dichiarato con lettera di non riguardarsi più come appartenente al nostro
+                        Istituto. Nella seduta del 2 Maggio corr[ent]te che fu la prima dopo le
+                        vicende, venne letto un dispaccio del Governo, per il quale era tolta a lui,
+                        a <persName>Kramer</persName> ed a <persName>De Cristoforis</persName> la
+                        pensione, lasciandoli come membri effettivi non pensionati in causa della
+                        parte presa nei trascorsi sconvolgimenti politici in odio e<note type="comment" place="bottom"><p> „in odio e“ über der Zeile
+                                eingefügt.</p></note> contra il legittimo Governo<note type="comment" place="bottom"><p> Von „causa“ a „Governo“ alle Wörter
+                                teilweise unterstrichen.</p></note>. Di<note type="comment" place="bottom"><p> Davor durchgestrichen „con“.</p></note>
+                        <persName>Litta</persName> Voi conoscete il valore ed il nome;
+                            <persName>Kramer</persName> per le sue cognizioni chimiche non è
+                        solamente utile, ma assolutamente necessario alle funzioni del nostro
+                        Istituto; di <persName>De Cristoforis</persName> è molto utile l’opera per
+                        le sue cognizioni meccaniche. Si teme che anche questi due vogliano imitare
+                        l’esempio di <persName>Litta</persName>. Per il medesimo preallegato motivo
+                        furono esclusi dal Corpo <persName>Borromeo</persName>,
+                            <persName>Aporti</persName>, Rezzonico, esclusi dall’amnistia,
+                            <persName>Cattaneo</persName> e <persName>Cadolino</persName>, tutti
+                        assenti. </p><closer><salute>Carissimo, vivete Voi felice vostro devot[is]s[i]mo ed
+                        affezi[ionatissi]mo amico</salute><signed>Francesco <persName>Rossi</persName></signed><dateline>Milano, 10 Maggio, 1850</dateline></closer></div></body></text></TEI>

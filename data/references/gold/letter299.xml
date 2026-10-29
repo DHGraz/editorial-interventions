@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_299"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>Of<note type="comment" place="bottom"><p> In der linken oberen Ecke ist die
+                                Zahl „3“ eingefügt. </p></note> the University by letter for I have
+            seen none for a long time I hear from <choice><abbr>Dr</abbr><expan>Doctor</expan></choice>
+                            <persName>White</persName><note type="comment" place="bottom"><p> Joseph
+                                    <persName>White</persName> (1745–1814), Orientalist und
+                                Theologe. Seine Talente und Kenntnisse zogen die Aufmerksamkeit
+                                einiger wohlhabender Nachbarn auf sich, die es ihm ermöglichten,
+                                seine Studien in Ruscomb und erneut in Gloucester fortzusetzen, und
+                                die Großzügigkeit von John <persName>Moore</persName> (1730–1805)
+                                [q. v.] (später Bischof von Bangor und Erzbischof von Canterbury)
+                                ermöglichte es ihm, am 6. Juni 1765 als Bürgerlicher in das Wadham
+                                College in Oxford einzutreten. Auf Wunsch seines Gönners widmete er
+                                sich dem Studium des Syrischen, Arabischen und Persischen und wurde
+                                1775 einstimmig auf den Laudian Chair of Arabic gewählt. Auf
+                                Vorschlag von Bischof <persName>Lowth</persName> beauftragten die
+                                Delegierten der Clarendon-Presse White mit der Fertigstellung und
+                                Herausgabe einer Ausgabe der philoxenischen (oder vielmehr
+                                harklenischen) Fassung des Neuen Testaments, für die Glocester
+                                    <persName>Ridley</persName> Materialien hinterlassen hatte, die
+                                auf zwei Manuskripten basierten, die er aus dem Osten mitgebracht
+                                und anschließend dem New College vorgelegt hatte.
+                                    <persName>Ridley</persName>s Materialien waren jedoch von
+                                geringem Nutzen für <persName>White</persName>, der sowohl die
+                                Manuskripte kopieren als auch den Text selbst übersetzen musste.
+                                Seine Ausgabe erschien 1778 und stellte sowohl seine Gelehrsamkeit
+                                als auch seine Genauigkeit in einem günstigen Licht dar; und da
+                                keine andere Ausgabe dieser wichtigen Version jemals erschienen ist,
+                                ist es das Werk, an das man sich noch heute erinnert. Ein Band mit
+                                Kommentaren, den er einst als Ergänzung zu der Ausgabe plante, ist
+                                nie erschienen. Von 1780–1783 war er damit beschäftigt, eine Ausgabe
+                                des persischen Textes der „'Institutes of Timur'“ vorzubereiten,
+                                während das Ganze 1783 auf Kosten der Ostindischen Kompanie
+                                erschien. Dem Text lag eine Übersetzung ins Englische aus der Feder
+                                von Major <persName>Davy</persName>, dem damaligen persischen
+                                Sekretär des Generalgouverneurs von Bengalen, bei. 1783 wurde
+                                    <persName>White</persName>, der bereits zu den Predigern in der
+                                Whitehall Chapel gehörte, für 1784 auf den neu gegründeten
+                                Bampton-Lehrstuhl berufen. Sein Forschungsthema war ein Vergleich
+                                zwischen dem „Mahometismus“ und dem Christentum, für dessen
+                                Behandlung ihn seine Studien gut qualifiziert hatten. Er war jedoch
+                                von seinen rhetorischen Fähigkeiten etwas zurückhaltend, und da er
+                                die Ernennung als die Chance seines Lebens betrachtete, wagte er den
+                                gefährlichen Schritt, sich heimlich mit einigen Personen
+                                zusammenzutun, in deren Eigenschaft er Vertrauen hatte, und einem
+                                von ihnen, Samuel <persName>Badcock</persName> einem Geistlichen in
+                                ärmlichen Verhältnissen, vertraute er die Zusammenstellung eines
+                                ganzen Diskurses und großer Teile anderer, einschließlich des
+                                Exordiums, an. Das Ergebnis rechtfertigte seine Auswahl der
+                                Koadjutoren; die Predigten, die unter anderem eine höfliche Antwort
+                                an <persName>Gibbon</persName> sowie eine Antwort an
+                                    <persName>Hume</persName> enthielten, wurden bei ihrer
+                                Darbietung sehr bewundert und von der Presse positiv aufgenommen;
+                                    <persName>Badcock</persName>, der als Zeitungsschreiber einiges
+                                unternahm, um den Verkauf des Buches zu forcieren, von dem mehrere
+                                Ausgaben schnell vergriffen waren, schwieg, während ihm gebührende
+                                Lobpreisungen <persName>White</persName> zufielen; aber sein
+                                Schweigen war nicht grundlos, und der Tag, an dem eine wichtige
+                                Bevorzugung <persName>White</persName> belohnen sollte, wurde von
+                                beiden sehnlichst erwartet. 1787 wurde <persName>White</persName>
+                                durch <persName>Moore</persName>s Interesse vom Dekan und dem
+                                Kapitel von Ely dem Pfarrhaus von Melton in Suffolk präsentiert und
+                                in der Annahme, dass dies alles sein würde, was die
+                                Bampton-Vorlesungen hervorbringen würden, beeilte er sich mit dem
+                                Druck eines gelehrten Werkes, der arabischen Beschreibung Ägyptens
+                                von <persName>Abdullatif</persName>, einem Schriftsteller des
+                                letzten Jahrhunderts des Kalifats. Doch er verzweifelte zu früh;
+                                denn Anfang 1788 erhielt er durch Lordkanzler
+                                    <persName>Thurlow</persName> die Pfründe der Kathedrale von
+                                Gloucester deren Wert beträchtlich war. Seine Beförderung kam nicht
+                                zu früh. Kurz nach der Verleihung starb
+                                <persName>Badcock</persName>, und <persName>White</persName>
+                                forderte in seinem Kondolenzbrief an seine Schwester diese auf, alle
+                                seine Briefe, die in <persName>Badcock</persName>s Papieren zu
+                                finden sein könnten, zurückzuschicken; aber Miss
+                                    <persName>Badcock</persName>, die den Wert der Korrespondenz
+                                kannte oder erahnte, schloss sich der Meinung von R.
+                                    <persName>Gabriel</persName> ein, dem ihr Bruder als Kurator
+                                gedient hatte und der einige Geschäfte mit
+                                    <persName>White</persName> gemacht hatte, die ihm einen Hinweis
+                                auf die Beziehungen zwischen den beiden Männern gaben, an. Unter den
+                                Papieren fand sich eine Schuldverschreibung von 500 Pfund, die
+                                    <persName>White</persName> zunächst unter Berufung auf einen
+                                Rechtsfehler und mit der Behauptung, es handele sich um eine Hilfe,
+                                die nie tatsächlich geleistet worden sei, die er aber anschließend
+                                zu erneuern bereit war, in der Hoffnung, dadurch zu verhindern, dass
+                                die Wahrheit über die Vorträge ins Ausland gelangt. Seine Zustimmung
+                                kam zu spät. <persName>Gabriel</persName> hatte die Geschichte
+                                inzwischen in Umlauf gebracht, und da er von mehreren Seiten
+                                aufgefordert worden war, Beweise für seine Behauptung vorzulegen,
+                                veröffentlichte er schließlich eine Reihe von Briefen
+                                    <persName>White</persName>s an <persName>Badcock</persName>, die
+                                unwiderlegbare Beweise für die gemeinsame Urheberschaft enthielten
+                                und auch darauf hindeuteten, dass für die Diskurse noch andere
+                                Personen eingesetzt worden waren. <persName>Gabriel</persName>s
+                                Pamphlet erschien in mehreren Auflagen, und zusätzliche Schlagkraft
+                                erhielt es durch eine Erwiderung eines Parteigängers von
+                                    <persName>White</persName>, in der <persName>Gabriel</persName>
+                                heftig angegriffen wurde, seine Beschuldigungen aber unbeantwortet
+                                blieben. <persName>White</persName> schwieg so lange wie möglich.
+                                Als er schließlich 1790 gezwungen war, zu antworten, veröffentlichte
+                                er einen Bericht über seine literarischen Verpflichtungen, in dem er
+                                offenbar versuchte, nichts zu verbergen, aber dennoch behauptete,
+                                dass die 500-Pfund-Obligation der Hilfe für eine geplante Geschichte
+                                Ägyptens diente, deren Vorläufer sein <hi rend="italic">„Abdullatif“</hi> sein sollte. Seine Broschüre scheint die
+                                Öffentlichkeit zufriedengestellt zu haben, aber
+                                    <persName>White</persName> versuchte nicht erneut, die Rolle des
+                                Volkspredigers zu übernehmen. Zwischen 1790 und 1800 veröffentlichte
+                                er wenig. Im letzten Jahr erschien schließlich seine Ausgabe von <hi rend="italic">„Abdullatif“</hi> mit einer Widmung an Sir William
+                                    <persName>Scott</persName>. Er hatte den Text sechzehn Jahre
+                                zuvor abgefasst, aber, da er damit nicht zufrieden war, hatte er die
+                                Exemplare <persName>Paulus</persName> von Jena, der später als
+                                Führer des Rationalismus berühmt wurde, vorgelegt, der das Werk in
+                                Deutschland herausgab. <persName>White</persName>s Ausgabe
+                                verkörperte eine Übersetzung, die von dem jüngeren Edward
+                                    <persName>Pococke </persName>begonnen, aber von <persName>White
+                                </persName>selbst vollendet worden war. Dies ist der einzige jemals
+                                erschienene Teil eines großen Werkes über Ägypten, das er geplant zu
+                                haben scheint und das <persName>Badcock </persName>stilistisch
+                                populär gemacht haben sollte. Die Zeit war jedoch noch keineswegs
+                                reif für ein solches Werk, und die von <persName>White
+                                </persName>1804 veröffentlichte aufwendige Monographie über
+                                Pompejus‘ Säule wurde veraltet, sobald die Wissenschaft der
+                                Ägyptologie begann. Der Rest von <persName>White</persName>s
+                                literarischem Werk konzentrierte sich auf das Textstudium des Alten
+                                und Neuen Testaments und brachte ihm 1804 die Regius-Professur für
+                                Hebräisch in Oxford ein, die mit einem Kanonikat der Christus-Kirche
+                                verbunden war. Neben verschiedenen Pamphleten, in denen er sich für
+                                eine Neuübersetzung der Bibel einsetzte und eine Neuausgabe der
+                                Septuaginta vorschlug, die auf dem damals in Mailand entdeckten
+                                Hexaplar-Syriakischen Manuskript basieren sollte, veröffentlichte er
+                                1800 einen <hi rend="italic">„Diatessaron or Harmony of the
+                                    Gospels“</hi> und bemühte sich in seiner Ausgabe des <hi rend="italic">„New Testament in Greek“</hi> (1. Auflage 1808;
+                                oft nachgedruckt) um die Vereinfachung und Popularisierung von
+                                Griesbachs <hi rend="italic">„Kritischen Studien“</hi>. Sein letztes
+                                Werk, <hi rend="italic">„Criseos Griesbachianae in Novum Testamentum
+                                    Synopsis“</hi> (1811), enthält eine Zusammenfassung der
+                                wichtigsten Ergebnisse. Sowohl als Theologe als auch als Kritiker
+                                war er ultrakonservativ; (<hi rend="italic">Wikipedia</hi>).</p></note> that I have a great loss in missing two
+                        very accomplished Orientalists that are residents there Capt[ain]
+                            <persName>Sydenham</persName><note type="comment" place="bottom"><p>
+                                Vermutlich Benjamin <persName>Sydenham</persName>,(1777–1828) diente
+                                bei den Madras Engineers und war Assistent von Colin
+                                    <persName>Mackenzie </persName>und wurde ein enger Freund Arthur
+                                    <persName>Wellesley</persName>, dem späteren Fürsten
+                                    <persName>Wellington</persName>. Er nahm and der Belagerung von
+                                Seringpatam teil. Von ihm stammt ein Brief und Beschreibungen bzw.
+                                Zeichnungen vom Hof Sultan <persName>Tipu</persName>s ( <ref target="http://www.sothebys.com/en/auctions/ecatalogue/lot.17.html/2012/english-literature-history-childrens-books-and-illustrations">http://www.sothebys.com/en/auctions/ecatalogue/lot.17.html/2012/english-literature-history-childrens-books-and-illustrations</ref>).</p></note>
+                        of the East India Service now furlough from Bengal and Capt[ain]
+                            <persName>Scott</persName><note type="comment" place="bottom"><p>
+                                Jonathan <persName>Scott</persName> (1754–1829) war ein englischer
+                                Orientalist, der vor allem durch seine Übersetzung von <hi rend="italic">„Tausendundeiner Nacht“</hi> bekannt wurde.
+                                    <persName>Scott</persName> erhielt seine erste Ausbildung an der
+                                Shrewsbury Royal Free Grammar School, verließ sie jedoch in seinem
+                                dreizehnten Lebensjahr, um mit seinen beiden älteren Brüdern, John
+                                und Richard, nach Indien zu reisen. Jonathan wurde 1770 als Kadett
+                                und zwei Jahre später als Fähnrich bei der 29. einheimischen
+                                Infanterie der Carnatic eingesetzt. Im Jahr 1777 wurde er Leutnant
+                                und 1778 Hauptmann. Er erhielt die Schirmherrschaft von Warren
+                                    <persName>Hastings</persName>, dem damaligen Generalgouverneur
+                                von Bengalen, der ihn zu seinem persischen Sekretär ernannte.
+                                    <persName>Scott</persName> beteiligte sich 1784 an der Gründung
+                                der Royal Asiatic Society of Bengal, deren Mitglied er bis 1799
+                                blieb. <persName>Hastings</persName> verließ Indien im Februar 1785,
+                                und da <persName>Scott</persName> im Januar desselben Jahres von
+                                seinem Amt zurücktrat, kann davon ausgegangen werden, dass er etwa
+                                zur gleichen Zeit nach England zurückkehrte. Im Jahre 1802 wurde
+                                    <persName>Scott</persName> zum Professor für orientalische
+                                Sprachen am Royal Military College ernannt, trat aber 1805 von
+                                diesem Posten zurück. Etwa zur gleichen Zeit hatte er eine ähnliche
+                                Position am East India College in Haileybury inne. 1805 wurde ihm
+                                von der Universität Oxford in Anerkennung seiner Verdienste um die
+                                orientalische Literatur der Ehrentitel D.C.L. verliehen. Samuel
+                                    <persName>Lee</persName>, der Orientalist, wurde von
+                                    <persName>Scott</persName> unterstützt.</p></note> late Persian
+                        Secretary to <persName>Hastings</persName> and translator of the <graphic url="media/image57.png"/><note type="comment" place="bottom"><p>
+                                Möglicherweise <persName>Scott</persName>s 1786 veröffentlichte
+                                Übersetzung “A Translation of the Memoirs of Eradut Khan; being
+                                anecdotes by a Hindoo Noble, of the Emperor Alumgeer Aurungzebe, and
+                                his successors Shaw Alum and Jehaundar Shaw”.</p></note> and
+                        Ferishta’a History of Dekan<note type="comment" place="bottom"><p>
+                                Translation of Ferishita's History of the Dekkan from the first
+                                Mahummedan Conquests, with a continuation from other native writers,
+                                to the reduction of its last Monarchs by the Emperor Alumgeer
+                                Arungzebe. 2 Bde. London 1794.</p></note> the latter is just
+                        appointed teacher of the Asiatic languages at the New Royal Military
+                            College<note type="comment" place="bottom"><p> Das 1801 gegründete Royal
+                                Military College (RMC), das 1802 in Great Marlow und High Wycombe in
+                                Buckinghamshire, England, gegründet wurde, aber im Oktober 1812 nach
+                                Sandhurst, Berkshire, umzog, war eine Militärakademie der britischen
+                                Armee zur Ausbildung von Infanterie- und Kavallerieoffizieren der
+                                britischen und indischen Armee. </p></note> lately founded at
+                            Bagshot<note type="comment" place="bottom"><p> A: Bagshott. </p></note>.
+                        The Calcutta College is dissolved. The India Company having refused to
+                        ratify it on account as they all edge of the expense. The professor’s were
+                        all appointed for Persian Arabic Sanscrit Tamulic<note type="comment" place="bottom"><p>
+                                <ref target="https://www.merriam-webster.com/dictionary/Tamilian">https://www.merriam-webster.com/dictionary/Tamilian</ref>
+                            </p></note> Hindouee<note type="comment" place="bottom"><p> Eine Ende
+                                des 18. bzw. Anfang des 19. Jahrhunderts gebräuchliche
+                                Schreibweise.</p></note> etc the students had kept a term or two. As
+                        a proof that Asiatic literature though little studied is highly honored I
+                        need only mention the two cenotaphs which have been raised at Oxford to the
+                        memory of Sir Wi[llia]m <persName>Jones</persName>. One in University
+                        College chapel erected by his widow represents him seated at a desk writing
+                        and three Brahmans on a mat dictating to him, this is the most admired<note type="comment" place="bottom"><p>
+                                <ref target="https://oxfordandempire.web.ox.ac.uk/article/sir-william-jones">https://oxfordandempire.web.ox.ac.uk/article/sir-william-jones</ref>.</p></note>.
+                        The other in St. Mary’s church is a tablet monument with a figure of justice
+                        on one side and an Hindoo on the other. Both are the work of
+                            <persName>Flaxman</persName><note type="comment" place="bottom"><p> John
+                                    <persName>Flaxman</persName> (1755–1826) war ein britischer
+                                Bildhauer und Medailleur.</p></note> our most eminent statuary etc.
+                        who bids fair to raise the English School of Sculpture to a respectable
+                        height. From its present insignificance the latter was ordered by the
+                        University of Calcutta at the time of his decease. I meditate a tour in
+                        Spain next autumn. I have an ardent wish to travel and think I shall find
+                        interesting remains of the Moors there in the Southern Provinces. The
+                        Alhambra is of course my grand object. The accommodation will be bad but it
+                        will be an apprenticeship to one Asiatic if I ever find courage and
+                        opportunity to undertake one. I fear I shall not make much […<note type="comment" place="bottom"><p> Der erste Buchstabe dieses kurzen
+                                Wortes ist unleserlich.</p></note>]ant of the Escorial mms
+                            manuscripts<note type="comment" place="bottom"><p> A: mms.</p></note> as
+                        they are written chiefly in Cufic. If I go you shall find me a very punctual
+                        correspondent. Mrs. <persName>Ibbetson</persName><note type="comment" place="bottom"><p> Nähere Angaben zur Person konnten nicht gefunden
+                                werden. </p></note> a very particular friend of mine whom I have
+                        known from childhood wishes to go to Lisbon and this will be an excellent
+                        opportunity as my Sister can remain with her among the English while I
+                        ramble about. I have been learning the language and find it remarkably easy.
+                        I hope with a little practice to speak it fluently for I believe out of
+                        Madrid French will be but of little use. Sir Sidney
+                            <persName>Smith</persName> has had some honorable augmentations to his
+                        coat of arms<note type="comment" place="bottom"><p> „Coeur de Lion“. Das vom
+                                englischen König (<persName>Georg III.</persName>) an den Admiral
+                                Sir. William <persName>Sidney Smith</persName> für seine Verdienste
+                                verliehene Ehrenwappen. Ein Lamm mit der Fahne des Königreich
+                                Jerusalems und ein Tiger mit dem Union-Jack-Banner halten das
+                                Schild, auf dem die geborstene Stadtmauer Jerusalems zu sehen ist.
+                                Darüber ein osmanischer Turban und eine Krone mit Leopardenkopf.
+                                    (<ref target="https://www.zvab.com/kunst-grafik-poster/ENGLAND-Wappen-Coeur-Lion-englischen-K%C3%B6nig/22848291296/bd#&amp;gid=1&amp;pid=1">https://www.zvab.com/kunst-grafik-poster/ENGLAND-Wappen-Coeur-Lion-englischen-K%C3%B6nig/22848291296/bd#&amp;gid=1&amp;pid=1</ref>)</p></note>
+                        granted him and supporters<note type="comment" place="bottom"><p>
+                                Schildhalter. </p></note>which are peculiar to noblemen. One a tiger
+                        the other a lamb with the motto a Coeur de lion which remarkably happy. Mr.
+                            <persName>Drummond</persName><note type="comment" place="bottom"><p>
+                                <persName>Drummond</persName>, Sir <persName>William</persName>
+                                (1770?–1828), Gelehrter und Diplomat, war Mitglied und schließlich
+                                Oberhaupt der Drummonds of Logie-Almond. 1801 wurde er als
+                                außerordentlicher Gesandter und Ministerbevollmächtigter an den Hof
+                                von Neapel entsandt, als er vom Geheimen Rat vereidigt wurde, und
+                                1803 als Botschafter an der Osmanischen Pforte, als er mit dem
+                                Halbmondorden geehrt wurde, der am 8. September 1803 in der „London
+                                Gazette“ durch eine Lizenz bestätigt wurde. Im Jahr 1806 war er
+                                erneut außerordentlicher Gesandter am Hof von Neapel und startete
+                                ein erfolgloses Vorhaben, um Prinz <persName>Leopold von
+                                    Sizilien</persName> die Regentschaft Spaniens zu sichern. Seine
+                                diplomatische Karriere endete 1809 In der Zwischenzeit hatte er 1793
+                                    <hi rend="italic">„Philosophische Skizzen über die Prinzipien
+                                    von Gesellschaft und Regierung“</hi> (anonym) veröffentlicht,
+                                dann <hi rend="italic">„A Review of the Governments of Sparta and
+                                    Athens’“ (London, 1795)</hi> 1798 folgte <hi rend="italic">„The
+                                    Satires of Persius translated with notes“</hi> und 1805 eine
+                                philosophische Abhandlung mit dem Titel <hi rend="italic">„Academical Questions“</hi>. Im Jahr 1810 veröffentlichte er
+                                zusammen mit Robert <persName>Walpole</persName>
+                                <hi rend="italic">„Herculanesia, or Archæological and Philological
+                                    Dissertations, containing a manuscript found among the ruins of
+                                    Herculaneum.“</hi> Der erste Teil eines Gedichts in Blankversen
+                                über <hi rend="italic">„Odin“</hi> wurde 1817 veröffentlicht; darin
+                                wird <persName>Odin</persName> mit <persName>Pharnaces</persName>,
+                                dem Sohn von <persName>Mithridates</persName>, identifiziert. Die
+                                gleiche Hartnäckigkeit der Spekulation kennzeichnet
+                                    <persName>Drummond</persName>s wichtigstes Werk – <hi rend="italic">„Origines, or Remarks on the Origin of several
+                                    Empires, States, and Cities“</hi>, wie z.B. <hi rend="italic">„Assyria and Babylon“</hi>, das von 1824–1829 in vier Bänden
+                                veröffentlicht wurde. Aber sein vielleicht kühnstes Werk war <hi rend="italic">„Œdipus Judaicus“</hi>, das 1811 für den
+                                Privatgebrauch gedruckt wurde. Es ist ein Versuch zu beweisen, dass
+                                viele Teile des Alten Testaments Allegorien sind, die hauptsächlich
+                                aus der Astronomie stammen (so ist Josua ein Typus der Sonne im
+                                Zeichen des Widders Ram, Jericho der Mond in ihren verschiedenen
+                                Vierteln), und wurde von einem sehr polemischen Vorwort begleitet,
+                                das separat veröffentlicht wurde); (DNB).</p></note> Ambassador at
+                        Naples succeeds Lord <persName>Elgin</persName>. Sir Thomas
+                            <persName>Wilson</persName><note type="comment" place="bottom"><p>
+                                Robert Thomas <persName>Wilson</persName> (1777–1849) war ein
+                                britischer General und Politiker. 1800 trat er als Major in das von
+                                Baron von <persName>Hompesch</persName> errichtete Regiment und
+                                folgte dem General <persName>Abercromby</persName> 1801 nach
+                                Ägypten. Nach der Kapitulation vom 28. Juni 1801 kehrte
+                                    <persName>Wilson</persName> nach England zurück und gab das Werk
+                                    <hi rend="italic">„An historical account of the British
+                                    Expedition to Egypt“ (2 Bde, London 1802) </hi>heraus, das
+                                großes Aufsehen erregte, weil er darin erzählte, dass
+                                    <persName>Napoleon</persName> in Jaffa seine pestkranken
+                                Soldaten habe vergiften und die türkischen Gefangenen niederschießen
+                                lassen.</p></note> has published an interesting narrative of our
+                        Egyptian campaign. He commanded one of the regiments in that service.
+                            <persName>Denon</persName>s<note type="comment" place="bottom"><p> A: De
+                                Non’s.</p></note> Egypt<note type="comment" place="bottom"><p>
+                                Vivant Denon, Travels in Upper and Lower Egypt: In Company with
+                                Several Divisions of the French Army, During the Campaigns of
+                                General Bonaparte in that Country, and Published Under His Immediate
+                                Patronage, translated by Arthur Aikins, 3 Bde London,
+                            1803.</p></note> is out the engravings are curious but there too many
+                        trifling ones which raise the original to an enormous price. He passes over
+                            <persName>Norden</persName><note type="comment" place="bottom"><p>
+                                Frederic Louis <persName>Norden</persName> (deutsche Namensform
+                                Friedrich Ludwig Norden) (1708–1742) war ein dänischer
+                                Marineoffizier und Forschungsreisender. Nachdem er sich von
+                                1734–1737 in Florenz und Rom aufgehalten hatte, bereiste er
+                                1737–1738 im Auftrag des dänischen Königs Ägypten; (<hi rend="italic">Mémoire sur les ruines de Thèbes en Égypte. London
+                                    1741, Voyage d’Egypte et de Nubie. Kopenhagen 1752;
+                                1755.</hi>)</p></note>
+                        <persName>Pococke</persName><note type="comment" place="bottom"><p> Richard
+                                    <persName>Pococke</persName> (1704–1765) war ein englischer
+                                Prälat und Anthropologe. Am bekanntesten ist er jedoch für seine
+                                Reiseschriften und Tagebücher. Er scheint weit mehr Zeit mit Reisen
+                                verbracht zu haben als mit der Erfüllung seiner Pflichten als
+                                Kirchenmann und unternahm von 1733–1741 zwei Grand Tours mit seinem
+                                Cousin Jeremiah <persName>Milles</persName>. Die erste (1733–34)
+                                führte nach Frankreich und Italien und die zweite (1736–37) in die
+                                Niederlande, nach Deutschland, Österreich, Polen und Ungarn. Von
+                                1737-41 besuchte er den Nahen Osten,besuchte Ägypten, Palästina,
+                                Libanon &amp; Syrien, Kleinasien und Griechenland. Diese Reisen
+                                wurden später in seiner Beschreibung des Ostens von 1743 und 1745
+                                veröffentlicht (<hi rend="italic">A Description of the East and Some
+                                    other Countries, Vol. I: Observations on Egypt, W. Boyer,
+                                    London, 1743</hi>. – <hi rend="italic">A Description of the East
+                                    and Some other Countries, Vol. II, W. Boyer, London, 1745</hi> –
+                                divided into two parts)</p></note> etc. in silence and<note type="comment" place="bottom"><p> Die Lesung der beiden vorangegangenen
+                                Wort ist nicht gesichtert.</p></note>
+                        <graphic url="media/image58.png"/> that he is the first that ever penetrated
+                        into the <unclear>Sand</unclear>. His grand discovery is a book not in hieroglyphics but in
+                        an unknown letter found under the arm of a mummy<note type="comment" place="bottom"><p> Vgl. dazu Band drei des vorgenannten Werkes. (Seite
+                                71 der englischen Ausgabe aus 1803). </p></note>. Perhaps if the
+                        mummies in the various museums in Europe were examined more books might be
+                        found and with the assistance of Coptic their meaning be conjectured,
+                            <persName>Akerblat</persName><note type="comment" place="bottom"><p>
+                                A:Akerblat. Johan David <persName>Åkerblad</persName> (1763–1819)
+                                war ein schwedischer Diplomat, Paläograf und Orientalist. Ab 1778
+                                studierte <persName>Åkerblad</persName> klassische und orientalische
+                                Sprachen an der Universität Uppsala. 1782 verteidigte er vor
+                                Professor Eric Michael <persName>Fant</persName> seine
+                                Abschlussarbeit mit dem Titel <hi rend="italic">De primis sub rege
+                                    Gustavo I extra Septentrionem initis fæderibus</hi>. Ab 1783
+                                arbeitete er wegen seiner Sprachkenntnisse für die Königliche
+                                Kanzlei in Konstantinopel. Von 1784–1789 arbeitete er in Kleinasien,
+                                Syrien, Palästina, Ägypten und Nordafrika. Nach seiner Rückkehr 1789
+                                arbeitete er als Sekretär und Übersetzer für diplomatische Missionen
+                                ins Türkische. Ab 1791 arbeitete er wiederum in Konstantinopel und
+                                unternahm parallel die ersten Forschungsreisen, unter anderem nach
+                                Troja. Ab 1800 forschte er an der Georg-August-Universität
+                                Göttingen, Paris, Den Haag und in Rom. Dabei konzentrierte er sich
+                                auf die toten Sprachen Ägyptens. So sammelte er Material für ein
+                                Wörterbuch der koptischen Sprache. 1800 wurde er zum
+                                korrespondierenden Mitglied der Göttinger Akademie der
+                                Wissenschaften gewählt. <persName>Åkerblad</persName> war einer der
+                                ersten Wissenschaftler, die sich intensiver mit dem Stein von
+                                Rosette beschäftigten. Er arbeitete ab 1802 mit einer Kopie des
+                                Steins, die er von dem französischen Philologen Antoine-Isaac
+                                Silvestre <persName>de Sacy</persName> erhielt. Dabei konzentrierte
+                                er sich auf das Demotische und die Hieroglyphen. Er schaffte es, die
+                                Namen <persName>Alexander</persName> und
+                                    <persName>Ptolemaios</persName> als erster zuzuordnen. Nach zwei
+                                Monaten hatte er alle Eigennamen im demotischen Text zuordnen
+                                können. Dabei nutzte er seine Kenntnisse der koptischen Sprache und
+                                entdeckte, dass das Demotische ein phonetisches Alphabet nutzte,
+                                welches aus 29 Buchstaben bestand.</p></note> a Swede has published
+                        a new translation of the Oxford Phoenician inscription<note type="comment" place="bottom"><p> Johan David Akerblad, Inscriptionis phoenicieæ
+                                Oxoniensis nova interpretatio, 1802. </p></note>. I suspect some may
+                        possible be found in Spain. Do you know anything of the subject and
+                            whether<note type="comment" place="bottom"><p> Die im SAH sich
+                                befindlichen Briefbögen gehören eindeutig zusammen, obwohl der
+                                Schluss dieses Briefes sich auf zwei Werke bezieht, welche erst nach
+                                dem eindeutig zu datierenden Datum des Briefes im Jahr 1803
+                                veröffentlicht wurden.</p></note> there be any elementary work on
+                        it: The Costume of Turkey<note type="comment" place="bottom"><p> Oktavian
+                                Dalvimart, <hi rend="italic">The costume of Turkey, illustrated by a
+                                    series of engravings; with descriptions in English and French,
+                                    London Bulmer 1804</hi>. (<ref target="https://babel.hathitrust.org/cgi/pt?id=inu.30000001416852&amp;view=1up&amp;seq=124">https://babel.hathitrust.org/cgi/pt?id=inu.30000001416852&amp;view=1up&amp;seq=124</ref>);
+                                zu den Radierungen vgl. (<ref target="https://world4.eu/costume-of-turkey/">https://world4.eu/costume-of-turkey/</ref>).</p></note> and Sir
+                        R[obert] <persName>Ainley</persName>s Views in Egypt<note type="comment" place="bottom"><p> Luigi Mayer, <hi rend="italic">Views in Egypt, from
+                                    the original drawings, in the possession of Sir Robert Ainslie,
+                                    taken during his embassy to Constantinople by Luigi Mayer;
+                                    engraved by and under the direction of Thomas Milton; with
+                                    historical observations, and incidental illustrations of the
+                                    manners and customs of the natives of that country , London,
+                                    Published by printed by: T. Bensley for R. Bowyer
+                            1805</hi>.</p></note> to mention as remotely connected with Eastern
+                        Literature they are splendid publications. <salute>It will give me great
+                            pleasure to hear from you often and be assured I am sincerely
+                            your</salute></p><closer><signed>John David <persName>Macbride</persName></signed></closer><note type="comment" place="inline">Extract of a letter from Mr
+                            <persName>Macbride</persName> Exter College Oxford 9 February
+                            [1803]<note type="comment" place="bottom"><p> Dieser Extrakt findet sich
+                                als Beilage zum Brief von <persName>HP</persName> an
+                                    <persName>Böttiger</persName> ddo 1803 IV 9.</p></note></note><list rend="numbered">
+                        <item>I wrote to Mr <persName>Nicols</persName><note type="comment" place="bottom"><p> George <persName>Nicol</persName> (1740?–1828)
+                                    Buchhändler und Verleger in London. Im Jahr 1800 wurde das
+                                    Geschäft in George und William <persName>Nicol</persName> (laut
+                                    „MyHeritage²“ wurde William 1777 geboren) umbenannt, vermutlich,
+                                    um die Beteiligung von Georges Sohn widerzuspiegeln. Um 1821 zog
+                                    das Geschäft von 58 nach 51 Pall Mall um. Nachdem sich sein
+                                    Vater 1825 zur Ruhe gesetzt hatte, führte William das Geschäft
+                                    unter beiden Namen bis 1837 und von 1838–1855 allein unter dem
+                                    Namen William <persName>Nicol</persName> weiter. Von welchem der
+                                    beiden Herrn <persName>Nicol</persName> das Schreiben stammt
+                                    kann nicht eindeutig beantwortet werden. </p></note> and
+                            received the following answer: </item>
+                    </list><p>Sir, I have great pleasure in informing you that last Sunday night and not
+                        longer ago the printing of Mr. <persName>Hammer’s</persName> very curious
+                            M[anu]s[cript]<note type="comment" place="bottom"><p> Es handelt sich
+                                dabei um eine Übersetzung von <persName>Wahshiyya</persName> Werk
+                                über antike Alphabete, welche HP auf seiner Seereise von Ägypten
+                                nach England verfertigt hat. Die Drucklegung gestaltete sich
+                                schwierig und das Werk mit dem Titel <hi rend="italic">„Ancient
+                                    Alphabets and Hieroglyphic Characters explained with an Account
+                                    of Egyptian Priests, their Classes, Inition, and Sacrifices, in
+                                    the Arabic Language by Ahmad Bin Abubekr Bin Washih; and in
+                                    English by Joseph Hammer, Secretary to the Imperial Legation at
+                                    Constantinople</hi>, ist erst 1806 bei, G. und W. Nicol
+                                erschienen. </p></note> was settled. – the plan now agreed upon is
+                        this. Earl <persName>Spencer</persName> and Sir Joseph
+                            <persName>Banks</persName> are to run all the eventual risks of the
+                        expense which I have agreed to pay in the first instance and Mr.
+                            <persName>Wilkins</persName> gives his assistance gratuitously.</p><list rend="numbered">
+                        <item>As a prove that Arabic Litterature though little studied in highly
+                            honours, I need only mention the two Cenotaphs which have been raised at
+                            Oxford to the memory of S[ir] W[illiam] <persName>Jones</persName><note type="comment" place="bottom"><p>
+                                    <ref target="https://oxfordandempire.web.ox.ac.uk/article/sir-william-jones">https://oxfordandempire.web.ox.ac.uk/article/sir-william-jones</ref>;
+                                    vgl dazu <ref target="https://www.britishmuseum.org/collection/object/P_1900-0824-211">https://www.britishmuseum.org/collection/object/P_1900-0824-211</ref>
+                                    und <ref target="https://books.google.at/books?id=SncHAAAAQAAJ&amp;pg=PA153&amp;lpg=PA153&amp;dq=tablet+monument+Sir+William+Jones+oxford&amp;source=bl&amp;ots=nb_8iYRVS8&amp;sig=ACfU3U3kWDU-kv2j7LxCx2XJG0ibSysJQQ&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjTwZed9K7qAhVKzqQKHU3iARwQ6AEwAnoECAQQAQ#v=onepage&amp;q=tablet%20monument%20Sir%20William%20Jones%20oxford&amp;f=false">https://books.google.at/books?id=SncHAAAAQAAJ&amp;pg=PA153&amp;lpg=PA153&amp;dq=tablet+monument+Sir+William+Jones+oxford&amp;source=bl&amp;ots=nb_8iYRVS8&amp;sig=ACfU3U3kWDU-kv2j7LxCx2XJG0ibSysJQQ&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjTwZed9K7qAhVKzqQKHU3iARwQ6AEwAnoECAQQAQ#v=onepage&amp;q=tablet%20monument%20Sir%20William%20Jones%20oxford&amp;f=false</ref>.</p></note>.
+                            One in University College Chapel created by his widow represents him at
+                            a desk writing and three Brahmans on a mat dictating to them; this is
+                            the most admired. The other one in St Mary’s Church is a tablet monument
+                            with a figure of justice on one side and a Hindoo on the other. Both are
+                            the work of Flaxman our most eminent statuary. The latter was ordered by
+                            the members of the Universities at Calcutta at the time of his decease.
+                        </item>
+                    </list><p>Captain <persName>Scott</persName> late Persian Secretary of
+                            <persName>Hastings</persName><note type="comment" place="bottom"><p>
+                                Warren <persName>Hastings</persName> (1732–1818) war
+                                Generalgouverneur in Britisch-Ostindien.</p></note> and translator
+                        of Ferishta’s history of Dekkan, has been appointed teacher of the asiatic
+                        languages at the new Royal Military College lately founded at Bagshot<note type="comment" place="bottom"><p> A: Bagshott. </p></note>. </p></div></body></text></TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_386"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Antelope at the mouth of <lb/>The Thames Sept[embe]r 8<hi rend="superscript">th</hi> 1803</dateline><salute>My dear friend</salute></opener><p>I have at length an opportunity to writing to you without reserve by the
+                        return of Mr. <persName>Thornton</persName><note type="comment" place="bottom"><p> Englischer Kaufmann in Konstantinopel; vgl. dazu Band
+                                9 der Erinnerungen (Typoskript) HPs. </p></note> who I have engaged
+                        to call on my on his way to the continent. – I have had great delicacy in
+                        writing to you by any other than such a Channel as this having long seen
+                        this storm brewing and fearing to commit a neutral person – I assure you I
+                        have felt the want of unreserved communications with you, my consolation has
+                        been that at least I was not deprived of your letters. I am however I see
+                        condemned to have no more of your excellent <hi rend="underline">details</hi> for the present. Ce qui est differé n’est pas perdu il
+                        faut espérer<note type="comment" place="bottom"><p> „aufgehoben ist nicht
+                                aufgeschoben, muss man hoffen“; (Übersetzung von Sylvia
+                                Kowatsch).</p></note> – I never can loose the idea that we shall
+                        have to do great things together again before the world is at an end. I am
+                        at the present much against my will and opinion vegetating in a stupid
+                        defensive system – my intercourse with principals of all departments <hi rend="underline">except the one most my own</hi> is perfect – my speech
+                        in parliament has turned out to be too true for it to be forgiven me and
+                        therefore I am not gratified by <hi rend="underline">active</hi> service,
+                        still however I trust the enemy will make the opportunity for me what may be
+                        done and might have been done before if great men would be really great in
+                        enterprise and in liberal confidence in their subordinate officers – a great
+                        field is opening but the fine season has been lost in preparations: the
+                        enemy are not better officers in this request than ourselves – and my firm
+                        opinion is that B[<persName>onaparte</persName>] will be obliged to
+                        relinquish his plan of <hi rend="underline">invading</hi> England by the
+                        vengeance of his troops to embark under the certainty of meeting our Naval
+                        force in their passage across the sea without any naval force of their own
+                        adequate to protect them: he will be obliged to console himself to by
+                        turning his thoughts <hi rend="underline">eastwards</hi> and he will hope to
+                        be more able to cross the <hi rend="underline">Adriatic</hi> than the <hi rend="underline">channel</hi>. Gen[era]l
+                            <persName>Brune’</persName>s<note type="comment" place="bottom"><p>
+                                Guillaume-Marie-Anne <persName>Brune </persName>(13. März 1763 in
+                                Brive-la-Gaillarde, Corrèze–2. August 1815 in Avignon ermordet) war
+                                ein Maréchal d’Empire. Ab 1802 Gesandter in Konstantinopel.
+                            </p></note> Rhapsody à propos de bottes<note type="comment" place="bottom"><p> A: apropos de bottes.</p></note> about the pasha of
+                            Yannina<note type="comment" place="bottom"><p>
+                                <persName>Tepedelenli Ali</persName> Pascha oder Ali
+                                    <persName>Pascha von Janina</persName> (auch „Löwe von Ioannina“
+                                genannt; um 1741 im Dorf Beçisht bei Tepedelen–5. Februar 1822 bei
+                                Yanya) war ein osmanischer Pascha albanischer Abstammung, der große
+                                Teile des damals osmanischen Albaniens und Griechenlands
+                                beherrschte. 1797 unternahm er einen Angriff auf Himara, das von den
+                                christlich-orthodoxen Sulioten gehalten wurde. Mehr als 6000
+                                Menschen starben, und <persName>Ali Pascha</persName> siegte über
+                                die Sulioten. Für diesen mutigen Akt erhielt er von der Hohen Pforte
+                                den Beinamen Aslan (Löwe). Die Sulioten gaben sich jedoch nicht
+                                geschlagen, und <persName>Ali Pascha </persName>setzte den Krieg
+                                gegen sie fort, bis die Sulioten 1803 aufgaben und damit den Weg
+                                nach Korfu freimachten.</p></note> proves this to be on the tapis
+                        and the capture of <hi rend="underline">L’arab</hi><note type="comment" place="bottom"><p> Am 14. Juni 1803 wurde die französische Brigg L’Arab
+                                von Konteradmiral Richard <persName>Moubray</persName>, welche sich
+                                auf dem Weg von Athen nach Lorient befand, erobert; (vgl. dazu John
+                                William Norie, <hi rend="italic">The Naval Gazetteer, Biographer,
+                                    and Chronologist; Containing a History of the Late Wars, from
+                                    Their Commencement in 1793, to Their Conclusion in 1801; and
+                                    from Their Re-commencement in 1803, to Their Final Conclusion in
+                                    1815 ... A New ... Edition, 1827, 325</hi>; vgl. dazu den
+                                Beitrag über Sir Richard Hussey <persName>Moubray</persName>
+                                (Hussey) (Blog more than Nelson, <ref target="https://morethannelson.com/officer/sir-richard-hussey-moubray-hussey/">https://morethannelson.com/officer/sir-richard-hussey-moubray-hussey/</ref>
+                                )</p></note> from <hi rend="underline">Athens</hi> proves that the
+                        idea of revolutioning the morea<note type="comment" place="bottom"><p> Morea
+                                (griechisch: Μορέας oder Μωριάς) war der Name der Halbinsel
+                                Peloponnes in Südgriechenland während des Mittelalters und der
+                                frühen Neuzeit. Der Name wurde für die byzantinische Provinz, die
+                                als Despotat der Morea bekannt war, vom Osmanischen Reich für das
+                                Morea Eyalet und später von der Republik Venedig für das kurzlebige
+                                Königreich der Morea verwendet; (<hi rend="italic">Wikipedia
+                                    englisch</hi>).</p></note> is not given up,
+                            <persName>Amaxaris</persName><note type="comment" place="bottom"><p>
+                                <persName>Amaxaris</persName>, ein gebürtiger Zypriote, war Sidney
+                                    <persName>Smith</persName> Dolmetsch für Türkisch. HP machte
+                                dessen Bekanntschaft an Bord der Tigre. In seinen Erinnerungen
+                                (Typoskript) Band 4 schreibt HP, dass dieser nur mangelhafte
+                                Kenntnisse in der türkischen Sprache hatte und daher zum Amt des
+                                Dolmetschers nicht geeignet war. </p></note> who is a thorough Greek
+                        will figure this scene I take for granted – he is lately become anxious to
+                        reenter the service he expressed himself so much disgusted with and has
+                        written me a most pathetic epistle to engage me to present a memorial to the
+            <choice><abbr>Admy</abbr><expan>Admirality</expan></choice> for his <sic>anear</sic> of pay – this injustice to his fair claim I
+                        will certainly present through Lord <persName>Keith</persName> who can best
+                        vouch for his services but I certainly cannot recommend him for employment
+                        and yet what are we to do since we do not adopt the plan of sending out
+                        jeunes de langues or educating them at home – I am sick of suggesting all
+                        these things, still however I go on “<hi rend="underline">liberavi aminam
+                            meam</hi><note type="comment" place="bottom"><p> Bernard of Clairvaux,
+                                    <hi rend="italic">Letter to Abbot Suger, Epistles no. 371 (c.
+                                    1147)</hi> (<ref target="https://yquotes.com/bernard-of-clairvaux/12620/">https://yquotes.com/bernard-of-clairvaux/12620/</ref>).
+                            </p></note>” lately in a long memorial of prophecy on the Levant. I
+                        receive thanks in return and<note type="comment" place="bottom"><p> Dieses
+                                Wort ist durch eine Überschreibung schlecht leserlich doch aufgrund
+                                des Kontexts ist „and“ anzunehmen. </p></note> a friendly assurance
+                        that my <hi rend="underline">hints</hi> shall be attended<note type="comment" place="bottom"><p> A: attented. </p></note> to in case
+                            <hi rend="underline">circumstances arise</hi>, <hi rend="underline">you
+                            know</hi> I want to g[…]<note type="comment" place="bottom"><p> Dieses
+                                wohl aus ursprünglich vier Buchstaben bestehende Wort wurde
+                                nachträglich überschrieben. Gemeint ist wohl „go“. </p></note> home
+                        , the rise of those circumstances guided to our purpose of preserving
+                        Empires from destruction and consulships on the wreck thereof – I see evils
+                        a far off and want to see the remedy anticipated, but there is no fashion
+                        and nothing that is not the fashion can go down – we are very tame indeed,
+                        and I am so out of practice that I have been very near withdrawing myself
+                        for such jog trot mechanical duties – <hi rend="underline">you can</hi> feel
+                        for me. A<note type="comment" place="bottom"><p> Wer oder was damit gemeint
+                                ist konnte nicht eindeutig geklärt werden. Das sich
+                                    <persName>Smith</persName> hier auf die Admiralität bezieht wäre
+                                möglich. </p></note> earnestly advises me not to do so and then I
+                            <hi rend="underline">wait</hi> events instead of <hi rend="underline">making</hi> them as I could do; I have some irons in the <hi rend="underline">fire</hi> but the time is not come for the smith to
+                        strike – I have besides no <hi rend="underline">Hammer</hi> therefor to let
+                        the iron cool I keep them in the fire till the time shall come – so much for
+                        War and politics – and now for the never failing theme Love – I have a
+                        variety of mistakes but no wife yet nor is that pos[s]ible in peace – I have
+                        commiserated you in your Lamentations and I assure you I pleaded your cause
+                        till they bid me hold my tongue – I said that as an Austrian mission had
+                        furnished our family with a wife<note type="comment" place="bottom"><p>
+                                Spencer <persName>Smith</persName> Frau
+                                    <persName>Constance</persName> war die Tochter des Internuntius
+                                Baron Herbert <persName>von Rathkeal</persName>. </p></note> I
+                        thought we could do no less in return the same. – They all esteem you, The
+                        [sic] General<note type="comment" place="bottom"><p> General Edward
+                                    <persName>Smith</persName>, Sidney <persName>Smith</persName>
+                                Onkel, verheiratet mit Penelople geborene
+                                    <persName>Bowyer</persName>, verwitwete
+                                    <persName>Cooke</persName>. </p></note> is in good health and
+                        much as yours as you know – <persName>Eliza</persName><note type="comment" place="bottom"><p> HP hat Eliza <persName>Cooke</persName> (1778–1837)
+                                (General <persName>Smith</persName>s Stieftochter) während seines
+                                Aufenthaltes in England kennengelernt und hegte zärtliche, wenn auch
+                                unerwiderte Gefühle für diese. </p></note> in improving health,
+                            <persName>Maria</persName><note type="comment" place="bottom"><p>
+                                <persName>Eliza</persName>s Schwester. (1784–1827 oder 1829 / the
+                                peerage oder geni); ab 1804 verehelicht mit Henry Charles
+                                    <persName>Vernon-Graham</persName> (1779–1861).</p></note> good
+                        humour[e]d and gay. The Col[one]l<note type="comment" place="bottom"><p>
+                                Generalmajor Sir George <persName>Cooke</persName> KCB (26. August
+                                1766–3. Februar 1837) war ein britischer Armeeoffizier, der die 1.
+                                Division unter dem Oberbefehl des Prinzen von Oranien in der
+                                Schlacht von Waterloo befehligte. Er wurde in Harrow und an der
+                                Militärschule in Caen in der Normandie ausgebildet und 1784 zum
+                                Fähnrich der 10. Grenadiergarde ernannt. Seine Brüder waren General
+                                Sir Henry Frederick <persName>Cooke</persName> und der
+                                Marineoffizier Edward <persName>Cooke</persName>, seine Schwester
+                                Penelope Anne "Kitty" <persName>Cooke</persName>. 1792 wurde er zum
+                                Leutnant befördert, kurz darauf zum Hauptmann. Im März 1794 trat er
+                                in die Garde in Flandern ein und wurde zum Adjutanten von
+                                Generalmajor Sir Samuel <persName>Hulse</persName> ernannt. Er
+                                diente während der französischen Revolutionskriege in Flandern und
+                                Holland und wurde am Ende dieser Kriege zum Oberstleutnant seines
+                                Regiments befördert, obwohl er 1799 schwer verwundet wurde. Von 1803
+                                bis Anfang 1805 war er stellvertretender Generaladjutant des
+                                Nordwestdistrikts. Nachdem er 1808 den Rang eines Obersts a.D.
+                                erhalten hatte, nahm er 1809 an der unglücklichen Schelde-Expedition
+                                teil. Nach Stationen in Cádiz ging er 1813 mit der Gardebrigade nach
+                                Holland und nahm im folgenden Jahr an der unglücklichen Belagerung
+                                von Bergen op Zoom teil, wo er als <hi rend="italic">„umsichtiger
+                                    und humaner Kommandant"</hi> beschrieben wurde. 1815 gehörte er
+                                zu <persName>Wellington</persName>s Stab bei der Schlacht von
+                                Waterloo, wo er seinen rechten Arm verlor. Für seine Verdienste bei
+                                Waterloo wurde er am 22. Juni 1815 zum Ritter des Bath-Ordens (KCB)
+                                und zum Ritter des Heiligen Georg von Russland ernannt; (<hi rend="italic">Wikipedia, englisch</hi>). </p></note> just came
+                        home from America after a most miraculous escape in an open boat from the
+                        Wreck of his ship<note type="comment" place="bottom"><p> Am 28. Juni 1803
+                                kollidierte das Postschiff „Lady Hobart“ mit einem Eisberg. Mit zwei
+                                Booten verließen der Kapitän William <persName>Fellows</persName>,
+                                seine Mannschaft und fünf Passagiere, darunter George
+                                    <persName>Cooke</persName> das Schiff; (vgl. dazu Fellowes, W.
+                                D. (William Dorset), <hi rend="italic">A narrative of the loss of
+                                    His Majesty's packet the Lady Hobart, on an island of ice in the
+                                    Atlantic Ocean, 28th of June 1803, London 1803</hi>).
+                            </p></note> which struck on an ice island they were seven days in a boat
+                        wet and cold with little food and sail[e]d above 300 miles to Land
+                            (Newfoundland)<note type="comment" place="bottom"><p> Nachträglich über
+                                der Zeile eingefügt. </p></note>. – <persName>Henry</persName><note type="comment" place="bottom"><p> Henry Frederick
+                                    <persName>Cooke</persName> (1783–1837) 1803 war er Leutnant und
+                                Kapitän; (vgl. dazu auch dessen Briefe an HP).</p></note> is [sic]
+                        come home, both brothers are <hi rend="underline">well placed</hi> in
+                        service. Spencer<note type="comment" place="bottom"><p> John Spencer
+                                    <persName>Smith</persName> FRS (11. September 1769–5. Juni 1845)
+                                war ein britischer Diplomat, Politiker und Schriftsteller. Ehemann
+                                von Constance <persName>Smith</persName> (geborene
+                                    <persName>Herbert</persName>) (Byrons Florence).
+                                    <persName>Smith</persName> trat 1790 als Fähnrich in die
+                                britische Armee ein, später wurde er zum Leutnant befördert. Als
+                                Frankreich Großbritannien im Februar 1793 den Krieg erklärte, hielt
+                                er sich mit seinem älteren Bruder Sidney <persName>Smith</persName>
+                                in der Türkei auf, der ihm eine Stelle in der britischen Botschaft
+                                in Konstantinopel verschaffte. Er war Privatsekretär des
+                                Botschafters Robert <persName>Liston</persName> und wurde
+                                Geschäftsträger, nachdem Liston Konstantinopel im November 1795
+                                verlassen hatte. Im Jahr 1798 wurde er offiziell zum
+                                Legationssekretär ernannt und diente weiterhin als Geschäftsträger
+                                ad interim. <persName>Smith</persName> verließ Konstantinopel 1801
+                                und kam gerade rechtzeitig in England an, um bei den
+                                Parlamentswahlen 1802 für den Bezirk Dover kandidieren zu können.
+                                Während seiner Zeit als Parlamentsabgeordneter wurde er 1803/04 als
+                                Sondergesandter nach Württemberg entsandt. Bei den Parlamentswahlen
+                                von 1806 zog sich <persName>Smith</persName> aus Dover zurück und
+                                ließ sich bald darauf in der Normandie nieder, wo er über eine
+                                Vielzahl wissenschaftlicher Themen schrieb. Er starb am 5. Juni 1845
+                                in Caen. Im SAH befinden sich zahlreiche Briefe von
+                                    <persName>Spencer Smith</persName> an HP (1825–1845).</p></note>
+                        on the eve of departure for his destination<note type="comment" place="bottom"><p> Rückkehr nach England. </p></note>. My Eldest
+                            brother<note type="comment" place="bottom"><p> Charles Douglass
+                                    <persName>Smith</persName> (ca. 1761–19. Februar 1855) war ein
+                                britischer Armeeoffizier und Kolonialverwalter. Bezüglich seiner
+                                Tätigkeit in Walmer vgl. den Brief von Henry
+                                    <persName>Cooke</persName> an HP vom 10. Februar
+                            1804.</p></note> Major of Mr. <persName>Pitt</persName>’s corp<note type="comment" place="bottom"><p> Der Lord Warden of the Cinque Ports
+                                ist der Inhaber des ältesten militärischen Amts in England. Er
+                                repräsentiert den britischen Monarchen in den Cinque Ports, einem
+                                Bund von ursprünglich fünf, heute 14 Hafenstädten in Kent und
+                                Sussex: William <persName>Pitt</persName> bekleidete zwischen
+                                1792–1806 dieses Amt. In <hi rend="italic">„A list of the officers
+                                    of the Cinque Ports Volunteers in 1805, Great Britain. Army.
+                                    Volunteers“, 1805</hi> wird auf Seite 2 Major Colonel Charles
+                                Douglas <persName>Smith</persName> mit Datum 10. September 1803
+                                angeführt. <ref target="https://books.google.at/books?id=SZ1WAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q=smith&amp;f=false">https://books.google.at/books?id=SZ1WAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q=smith&amp;f=false</ref>.
+                            </p></note> by the choice of the latter one</p><closer><salute>Adieu<note type="comment" place="bottom"><p> Dies wurde im rechten
+                                Winkel am rechten Rand von unten nach oben verlaufend –
+                                offensichtlich aus Platzmangel – geschrieben </p></note> I am in
+                        haste to save the packet your last letter was that by
+                            <persName>Thornton</persName><note type="comment" place="bottom"><p>
+                                Einem in Konstantinopel ansässigen Kaufmann.</p></note>. </salute></closer></div></body></text></TEI>

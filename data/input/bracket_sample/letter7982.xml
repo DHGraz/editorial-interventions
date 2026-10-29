@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7982"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>Im<note type="comment" place="bottom"><p> Der nachfolgende Text ist der der
+                                im Nachlass im Archiv von Hainfeld erliegenden handschriftlichen
+                                Kopie des Testaments, die nicht durchwegs vollständig zu sein
+                                scheint. Die Bemerkungen „unleserlich“ und „[sic]“ sind der
+                                Abschrift entnommen. Die Schreibung der Namen wurde der des übrigen
+                                Textes angepasst.</p></note> Namen des dreieinigen Gottes, des
+                        ewigen Lichtes, Wortes und Geistes</p><p>Ich begehre in meinem Grab in Weidling an der Seite meiner liebsten Gattin
+                            <persName>Caroline</persName> bestattet zu werden, so einfach als
+                        möglich. Die Totenmesse in der Stadt soll durch ein
+                            <persName>Mozart</persName>sches Requiem verherrlicht und den durch den
+                        Partezettel dazu Geladenen auch ein Exemplar der in meinem Pulte
+                        befindlichen Grabschriften gegeben, der Rest zu Hainfeld in der Totenkapelle
+                        (wo auch das das Datum des Todes auszufüllen) zur Verteilung niedergelegt
+                        werden. Nach Abzug der Legitima verfüge ich über mein Vermögen
+                        folgendermaßen:</p><p>Um den Großmut meiner seligen Freundin der Gräfin
+                            <persName>Purgstall</persName>, welche mich zum Erben des Namens und
+                        Gutes eingesetzt, einigermaßen mich dankbar zu erzeigen, verordne ich, daß
+                        die aus dem Verkaufe des Hauses (samt Mobiliar) in Döbling gelöste Summe auf
+                        10.000 fl. vervollständigt und diese Summe mit Entrichtung der
+                        vorgeschriebenen Taxen dem Fidei-Commiß Hainfeld so einverleibt werde, daß
+                        der jedesmalige Besitzer de Fidei-Commißes die Interessen davon beziehe; ich
+                        entspreche hiedurch nicht nur meinem eigenen Gefühle der Dankbarkeit,
+                        sondern auch dem Wunsche meiner seligen Frau, welche in ihrem mir
+                        hinterlassenen Billette den Wunsch geäußert, daß, wenn ich das Haus in
+                        Döbling verkaufen sollte, der Betrag nach Hainfeld verwendet werden
+                        möge.</p><p> Meinem Sohn <persName>Carl</persName>, dem Besitzer des Fidei-Commisses von
+                        Hainfeld habe ich schon bei Lebzeiten die Bibliothek, welche nicht zum
+                        Fidei-Commiß gehört, geschenkt. Demselben vermache ich auch das abgelöste
+                        Mobiliar des Schlosses. </p><p> Nebst diesen Praelegaten mache ich noch die folgenden zu Gunsten meiner
+                        Brüder, Schwester und anderer Personen. Meinen Brüdern
+                            <persName>Franz</persName> und <persName>Wilhelm</persName> jedem eine
+                        meiner Bankaktien von 1000 fl., meinen Schwestern die Zinsen von 4000 5%igen
+                        Obligationen, das ist 200 fl. das Jahr, welche ich ihnen auch bisher
+                        gegeben. Nach ihrem Tode aber fallen die 4000 fl. Kapital meinen Enkeln zu
+                        gleichen Teilen zu. Herrn Gustav Gabriel <persName>Seidl</persName> eine
+                        meiner Bankaktien von 1000 fl mit meinem poetischen Nachlasse für die Mühe
+                        der Herausgabe desselben, dessen Ertrag ihm gehört. Herrn Regierungsrat
+                        Ritter Alois <persName>von Auer</persName> meine in einer Kiste befindlichen
+                        Erinnerungen aus meinem Leben zur typographischen Ausstattung derselben,
+                        indem ich seiner Freundschaft die sorgfältige Korrektur der Beilagen, welche
+                        Briefe in verschiedenen Sprachen enthalten, bestens empfehle. Der Ertrag des
+                        Verkaufes gehört ihm.</p><p>Die fünfte meiner Bankaktien bestimme ich zu einem Stipendium für einen
+                        jungen studierenden Orientalistens, der nicht in der Orientalischen Akademie
+                        versorgt ist, dem jeweiligen Direktor der Akademie. Der die Verleihung des
+                        Stipendiums zusteht, das sich nur bis zur Vollendung der Studien erstrecken
+                        soll.</p><p>Nach diesen Praelegaten fällt der Rest meines Vermögens meinen Enkeln, den
+                        Kindern meines Sohnes <persName>Carl</persName> und meiner Tochter
+                            <persName>Eveline</persName> zu gleichen Teilen zu, doch so, daß ihre
+                        Eltern den Fruchtgenuß des Kapitals ihr Lebe lang beziehen. </p><p>Meiner Tochter <persName>Isabelle</persName>, welche keine Kinder hat,
+                        vermache ich alle Diamanten meiner Orden und meinem Schwager Herrn Wilhelm
+                        Ritter <persName>von Henikstein</persName>, den ich zugleich zum Executor
+                        des Testaments ernenne, als Andenken alle Ketten meiner Orden.</p><p>Dem Joanneum zu Graz die Zeichnung von <persName>Lawrence</persName>; der
+                        Hofbibliothek vermache ich meine orientalischen Handschriften. Der k.k.
+                        Orientalischen Akademie meine Divansbriefe, dem k.k. Antikenkabinett die
+                        goldene und silberne Medaille meines Portraits, welche mir meine Kinder
+                        geschenkt. – Meinem Schriftführer, Herrn <persName>Castle von
+                            Molineux</persName>, hundert Gulden, meinen Leuten ein Jahresgehalt und
+                        so viele 10 fl. als sie mir Jahre gedient.</p><p>Der kaiserlichen Akademie der Wissenschaften, um deren Gründung ich mir durch
+                        10 Jahre so viele Mühe gegeben, vermache ich alle meine eigenen Schriften
+                        über orientalische Gegenstände und empfehle ihrem Wohlwollen die Vollendung
+                        der durch meinen Tod vielleicht unterbrochenen Geschichte der arabischen
+                        Literatur, durch die dazu nötigen Register; der kaiserlichen Akademie
+                        vermache ich auch den Ertrag des Verlages und die Kupferplatten der
+                        Fundgruben des Orients. Der Ertrag aller auf meine Kosten gedruckten und im
+                        Verlag der<persName> Gerold</persName>schen Buchhandlung befindlichen Werke
+                        fällt meinen Enkeln und so lange ihre Eltern leben, diesen zu. Meine Büste,
+                        die in meiner Bibliothek steht, vermache ich meiner Tochter
+                            <persName>Isabelle</persName>. Ihr und ihrer Schwester und meines
+                        seligen Sohnes <persName>Max</persName> Porträt gehören nach Hainfeld, so
+                        wie alle meine Diplome von gelehrten Gesellschaften, der Ordensverleihungen
+                        ins dortige Archiv; die orientalischen Inschriften meiner Wiener Bibliothek
+                        in die von Hainfeld.</p><p>Endlich verfüge ich noch über meine Dosen, Siegel, Ringe und anderen
+                        Gegenstände als Andenken wie folgt:</p><p>Von den 5 goldenen Dosen, die sich in meiner (nach Hainfeld gehörigen)
+                        Schatulle befinden (im 1. Kasten nächst meinem Pulte) gehört:</p><list rend="numbered">
+                        <item>Die mit dem Porträt S. M. Kaiser <persName>Ferdinand</persName>s,
+                            meinem Sohn <persName>Carl</persName></item>
+                        <item>Die mit den drei Tauben meiner Tochter
+                            <persName>Isabelle</persName></item>
+                        <item>Die kleine längliche aus dem Nachlasse der Gräfin
+                                <persName>Purgstall</persName> meiner Tochter
+                                <persName>Eveline</persName></item>
+                        <item>Die blau emailierte mit der Landschaft des Bosporus meiner
+                            Schwiegertochter <persName>Carlotta</persName></item>
+                        <item>Die aus dem Verlasse meines seligen Schwiegervaters stammende meiner
+                            Base Frau <persName>von Bonora</persName>.</item>
+                    </list><p>Meiner Patin<note type="comment" place="bottom"><p> Das heißt: meinem
+                                Patenkinde.</p></note>, der Tochter meines Freundes Carl
+                            <persName>Umbreit</persName> zu Heidelberg die goldene in meiner
+                        Siegeschatulle befindliche Kette. Meinem Paten, dem Sohn des
+                        Hofbibliothekars <persName>Grässe</persName> zu Dresden die goldene kleine
+                        Uhr von Degen.</p><p>Meinem Paten, dem Sohn Fr. <persName>Flügel</persName> das Siegel, darauf der
+                        [unleserlich] aus der Susa (sic!) Jussuf,</p><p>Meinem Freunde Herrn Dr. Carl <persName>Umbreit</persName>, meine große
+                        goldene Uhr mit Kette, die ich beständig trage.</p><p>Das als Krone gefaßte goldene Siegel, meinem Freunde Nathalius
+                            <persName>Bland</persName>; meine beiden großen türkischen Siegel dem
+                        k.k. Antikenkabinett.</p><p>Das als Welt-Ei gefaßte, mit dem Hammer, so auch das mit dem stählernen
+                        Hammer, meinem Sohne <persName>Carl</persName>. Die beiden Shawl-Westen
+                        meinen Töchtern <persName>Isabelle</persName> und
+                            <persName>Eveline</persName>; meiner Schwiegertochter
+                            <persName>Carlotta</persName> die 2 silbernen Gefäße, die ich meiner
+                        seligen Frau bei ihrer ersten Entbindung gab und das mir von meiner liebsten
+                            <persName>Caroline</persName> am Tage der silbernen Hochzeit gegebene
+                        meiner Tochter <persName>Eveline</persName>. Meiner Tochter
+                            <persName>Isabelle</persName> den Punschnapf mit persischen Inschriften.
+                        – Meiner Freundin Frau <persName>Elise</persName>
+                        <persName>Biedermann</persName>, geb. <persName>Gurgel</persName>, das
+                        Uhrangehänge mit dem Sistrum und dem als Spiegel gefaßten Carneol samt dem
+                        an meinem Fenster hängenden Gemälde Rose und Nachtigall. Meinem Freunde
+                            <persName>Fladung</persName> die Bonbonniere mit dem goldenen Sonnen
+                        Löwen und seinem Porträt, das am Fenster hängt. Meinen beiden
+                        Schwiegersöhnen, Freiherrn Hr. <persName>von Tondern</persName> und Dr.
+                            <persName>von Bernd</persName>, die beiden Schatullen, die auf meinem
+                        Schreibpulte stehen, dem Ersten das englische Desk, dem zweiten die andere.
+                        Das Kistchen mit Hieroglyphen und das aus der Platane von Bujukdere
+                        geschnittene Uhrengehäuse.<note type="comment" place="bottom"><p> Hier ist
+                                Abschrift offensichtlich unvollständig.</p></note> Die Buddhistische
+                        Tonfigur meinem Freunde <persName>Wartinger</persName>. Meinem Schwager
+                        Obrist Fritz Ritter <persName>von Henikstei</persName><persName>n</persName>
+                        das als Steigbügel gefaßte Siegel. Meinem Schwager General Alfred
+                            <persName>von Henikstein</persName> das schöne Carneol-Siegel mit der
+                        Inschrift: „Im Wein ist Sinn, der nicht in der Traube“. Meiner Freundin
+                        Sophie <persName>von Scharnhorst</persName> die Bonbonniere aus Lazur mit
+                        silbernem Boden mit der Inschrift „Die Süßigkeit des (unleserlich) liegt im
+                        Glauben“.</p><p> Meiner Freundin Gräfin Rosalie <persName>Rzewuska</persName> die von ihr
+                        geschenkte Uhr, die auf meinem Pulte steht. Meinem Freunde Ottokar Freiherrn
+                            <persName>von Schlechta</persName> das Siegel mit der Inschrift
+                        (unleserlich) und das topasene Riechbüchschen, das ich immer bei mir trug.
+                        Meinem Freunde Sir Thomas Dyke <persName>Acland</persName> das Siegel mit
+                        der Inschrift χαιρεω και ευπραττεω, dann mein großes Siegel mit den beiden
+                        goldenen Schwingen das Sonnenballes; mein Siegel mit der nordischen
+                        Hieroglyphe <graphic url="media/image258.png"/> Herrn Anton
+                            <persName>Heschl</persName>; den kristallenen Würfel mit den
+                        6 französischen Inschriften und den anderen mit dem Namen Gottes in 6
+                        verschiedenen Sprachen dem Johanneum in Graz.</p><p> Herrn Bezirkskommissär Carl <persName>Steinhauser</persName> und seiner Frau
+                        zwei goldene in schwarzem Holze eingelegte Medaillen. Zwei andere Herrn
+                        Ministerialsekretär <persName>Beck</persName> und seinem Sohne, meinem Paten
+                            <persName>Max</persName>. Dem Letzteren noch das orientalische
+                        Kaffeegeschirr mit den 12 Tassen. Das als türkischer Bund gefaßte Siegel
+                        meinem Freunde Herrn Anton <persName>von Raab</persName>. Der messingene
+                        Stempel mit der arabischen Inschrift: „Mein Begehr ist nicht Geld“, welches
+                        den auf meine Kosten herausgegeben Werken vorgesetzt ist, der
+                        morgenländischen Gesellschaft in Leipzig. Meinem Schwager Freiherrn Rudolph
+                            <persName>von Erggelet</persName> die auf meinem Pulte stehenden kleinen
+                        Büsten <persName>Goethe</persName>s und <persName>Rousseau</persName>s,
+                        seiner Gemahlin <persName>Marie</persName> und Tochter
+                            <persName>Pauline</persName>
+                        <persName>von Weckbecker</persName> die als Ringe gefaßten Siegel, das eine
+                        mit Saphir und das andere mit Granat. Meiner Nichte Gräfin
+                            <persName>Cebrian</persName> den als Ring gefaßten antiken Kopf; die
+                        beiden Gemälde, die an meinem Fensterahmen hängen, beide das Werk ihrer
+                        seligen Schwester Henriette meiner Schwägerin Amalie
+                            <persName>Klein</persName> und ihrem Gemahl; meinen vier Nichten,
+                        geborne <persName>Klein</persName>, die zwei kleinen Siegel mit den
+                        Inschriften „was vorbei ist vorbei und das auch vorüber gehen“, samt den 2
+                        andern, worauf inshallah und mashallah. Meiner Nichte Minna
+                            <persName>Conrad</persName>, geb. <persName>Knobloch</persName>, das
+                        Siegel mit dem Pegasus. </p><p>Meiner Tochter <persName>Isabelle</persName> wird die Verteilung der übrigen
+                        Siegel und Medaillen an meine Freunde sowie die der Porzellan-Schalen
+                        überlassen.</p><p>Sollte ich um die Zeit der Tag- und Nachtgleiche oder der Sonnenwende
+                        sterben, so ist in der Grabkapelle von Hainfeld eine weiße Marmortafel mit
+                        der Inschrift einzumauern:</p><p> Dem Andenken Freiherrn Josephs Hammer-Purgstall</p><p> Er wandte sich zum Licht, zur Lieb ohn Ende</p><p> (Im schönsten Mond der Sommersonnenwende) oder</p><p> (Im heilgen Mond der Wintersonnenwende)</p><p>Wenn mein Tod im März oder September stattfindet:</p><p> Im Monat wo die Tag‘ und Nächte gleich</p><p> Ist er zurückgekehrt in Gottes Reich</p><p>Und nun lebt Alle wohl Ihr Liebsten und Lieben, in Wahrheit und Liebe der
+                        Eure bis in den Tod.</p><closer><dateline>Wien am 21. Oktober 1853<lb/>Am 10. Oktober 1855 (unleserlich)</dateline><signed>J. Hammer-Purgstall“<note type="comment" place="bottom"><p> Diesem
+                                Testament hat HP unter dem 16. Jänner 1856 ein Kodizill beigefügt:
+                                    <hi rend="italic">„Da ich das Fidei-Commiß zu Gunsten meines
+                                    Sohnes </hi><persName>Carl</persName><hi rend="italic"> und
+                                    seines ältesten Sohnes vermehrt habe, vermache ich jedem meiner
+                                    anderen Enkel, das ist den Brüdern und Schwestern
+                                    </hi><persName>Richard</persName><hi rend="italic">s und jedem
+                                    der Kinder meiner Tochter </hi><persName>Eveline</persName><hi rend="italic">, die Summe von 1000 fl. Als Andenken an Frau
+                                    Adele </hi><persName>von Sattner</persName><hi rend="italic">
+                                    deren Porträt mit dem daneben hängenden Sakontales.“</hi></p><p>
+                                Testament und Kodizill wurden <hi rend="italic">„bei Gelegenheit der
+                                    Totfallsaufnahme nach dem </hi>[am] <hi rend="italic">23. November 1856 in Wien, Stadt No 943 verstorbenen Herrn
+                                    Josef Freiherrn </hi><persName>von
+                                    Hammer</persName>-<persName>Purgstall</persName><hi rend="italic"> offen aufgefundene, aus 3 mittelst Faden
+                                    zusammengenähten und mit Siegel verbundenen halben Bogen
+                                    bestehende Testament samt Kodizill, wurde von mir in Gegenwart
+                                    des Sohnes Herr </hi><persName>Carl</persName><hi rend="italic">
+                                    Freiherrn </hi><persName>von Hammer-Purgstall</persName><hi rend="italic"> und des Herrn Wilhelm Ritter </hi><persName>von
+                                    Henikstein</persName><hi rend="italic"> kundgemacht.
+                                    </hi></p><p><hi rend="italic">Wien 27. November 1856</hi>
+                                <hi rend="italic"> Franz Edler </hi><persName>von
+                                    Zellenberg</persName><hi rend="italic"> m.p</hi></p><p>
+                                <hi rend="italic"> Ratssekretär des Wiener
+                            Landesgerichts“</hi></p></note></signed></closer></div></body></text></TEI>

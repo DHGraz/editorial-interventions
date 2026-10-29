@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_780"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Lemberg, den 4.[sic] Februar 1807.</dateline></opener><p>Ich<note type="comment" place="bottom"><p> Übernommen aus <hi rend="italic">BE-Erinnerungen 474f. (Anhang 2 Nr 3</hi>), auch <hi rend="italic">BE Beilagen II 45</hi>.</p></note> expediere heute
+                        Herrn <persName>Fossetti</persName> nach Warschau an den Minister, um die
+                        Kunde von meinen Aventuren zu überbringen. Ich habe nur Zeit, mein lieber
+                            <persName>Hammer</persName>, Ihnen wenige Worte zu sagen.</p><p>Der Graf <persName>Wurmser</persName> hat mich mit zuvorkommender
+                        Verbindlichkeit aufgenommen, die ich ohne Zweifel zum Großteil Ihnen zu
+                        danken habe. Er befindet sich unglücklicherweise gerade nicht wohl.
+                        Bekanntschaften habe ich um meiner Geschäfte willen noch keine gemacht. Die
+                        Zeit, in der wir hierher gekommen sind, ist für unseren Beutel nicht
+                        günstig. Künftige Woche fangen die Notablen an, wozu sich der ganze
+                        polnische Adel versammelt. Man fordert ungeheueres Geld für eine Wohnung und
+                        es ist noch ungewiß, ob wir eine erhalten werden. Ich habe mit dem Grafen
+                            <persName>Wurmser</persName> vorläufig wegen der Papiere gesprochen.
+                        Senden Sie sie immer ab mit einem Attestat von Ihnen, daß es Schriften, zum
+                        französischen Konsulat in Jassy gehörig, sind. In Czernowiz wird sich eine
+                        Ordre zum freien Durchlaß vorfinden, oder die Koffer werden plombiert
+                        werden, und das übrige wird sich hier ergeben. Der zweite Koffer muß
+                        geöffnet und gezahlt werden, er ist nicht voll und die Papiere sind
+                        unwichtig. Die Kiste mag bleiben, wie sie ist. Was fehlt, um den Koffer
+                        anzufüllen, könnte etwa mit Büchern oder andern Sachen, wenn einige
+                        unverkauft geblieben sind, belegt werden. Überhaupt muß ich ja nicht Ihre
+                        Nachrichten erwarten, aber wegen der Papiere ist keine Zeit zu verlieren und
+                        ich bitte Sie, zu ihrem Transport sogleich Anstalt zu machen.</p><p>Der einzige Brief, den meine Frau hier von ihrer Mutter erhalten hat,
+                        enthielt eine Antwort auf Ihre Bücher-Adresse. Hier ist sie. Wann erhalten
+                        wir endlich Briefe von Ihnen? <salute>Leben Sie wohl!</salute></p><closer><signed><persName>Reinhard</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_120"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Weimar den 20 Juny 1800</dateline></opener><p>Ob<note type="comment" place="bottom"><p> Auch bei PvTh <hi rend="italic">Böttigerbriefe 35f</hi>.</p></note> und wo dieses Blatt den
+                            <graphic url="media/image20.jpeg"/><note type="comment" place="bottom"><p> „den vielgewandten Mann“, die häufige Bezeichnung des Odysseus
+                                bei <persName>Homer</persName>.</p></note>, meinen lieben Freund
+                            <persName>Hammer</persName> treffen werde, liegt auf den Knien der
+                        Götter. Doch will ich es auf gut Glück beschreiben.</p><p>Ihre Reisebriefe<note type="comment" place="bottom"><p> HP, Zeichnungen auf
+                                einer Reise von Wien über Triest nach Venedig und von da zurück nach
+                                Tyrol und Salzburg im Jahr 1798. Mit 1 Karte, die 1800 (anonym) in
+                                Berlin erschienen.</p></note>, die unter dem Titel Zeichnungen in
+                        sehr sauberem Gewand diese Messe erschienen sind, gefallen überall. Der
+                        Schreiber, sagt man, kann uns einmal <persName>Forster</persName>s
+                            Ansichten<note type="comment" place="bottom"><p> Georg Forster,
+                                Ansichten vom Niederrhein, von Brabant, Holland, England und
+                                Frankreich im April, May und Juny 1790, 3 Bde Berlin 1794, 1800 und
+                                1804. </p></note> fortsetzen. Ihr Verleger, der Buchhändler
+                            <persName>Sander</persName> in Berlin wird Ihnen Ihren Wünschen gemäß
+                        als Honorar gern die Bücher anschaffen, die Sie zu haben wünschen. Damit muß
+                        es aber wohl Zeit haben, bis Sie aus dem Land der Pergamentschriften wieder
+                        zu unseren black letter-books zurückkehren. Von Ihrer Schirin ist nun auch
+                        die zweite Hälfte nebst der Weihe auf der Ebene von Troja gedichtet<note type="comment" place="bottom"><p> HP hatte zwei Weihegesänge – <hi rend="italic">„An den Ufern des Bosporus“</hi> und <hi rend="italic">„Auf Trojas Ebene“</hi> – verfasst, von denen er
+                                je einen den beiden Teilen der <hi rend="italic">Schirin</hi>
+                                voranstellte.</p></note> in meinen Händen. Vater
+                            <persName>Wieland</persName> ist freilich jetzt weniger als jemals
+                        gestimmt, sich der etwas mühsamen Rezension zu unterziehen, da er seit
+                        einiger Zeit merklich an Kräften abnimmt. Aber es soll doch auf jeden Fall
+                        bald erscheinen und von einem unserer gelehrtesten Männer eingeführt –
+                        werden. Und wäre es nicht Diebstahl an den reinsten Genüssen, die dem
+                        Menschen werden können, wenn dieser reiche, balsamische, noch nie eröffnete
+                        Blumengarten auch nur einen Monat über die Gebühr verschlossen bliebe?</p><p>Unser gemeinschaftlicher Freund verkündet mir herrliche Proben Ihrer
+                            hedöporischen<note type="comment" place="bottom"><p> hedoeporisch =
+                                Reisebeschreibungen erstellend.</p></note> Ausbeute aus Ihrer
+                        besonderen Güte gegen mich. Glücklicher, der Sie aus klassischem Boden
+                        solche Mnemosyna<note type="comment" place="bottom"><p> Bachofen-Echt, <hi rend="italic">Erinnerungen</hi>.</p></note> schicken können! Sie
+                        sollen im Larario<note type="comment" place="bottom"><p> Kapelle der
+                                Hausgötter.</p></note> meiner Freundschaft herrliche<note type="comment" place="bottom"><p> A: herlige.</p></note> Zimelien<note type="comment" place="bottom"><p> Prunkstücke.</p></note> sein, und ich
+                        will oft der <persName>Venus</persName>
+                        <graphic url="media/image21.jpeg"/><note type="comment" place="bottom"><p>
+                                Der Venus der guten (Meeres-)Fahrt.</p></note> zurufen.</p><p><graphic url="media/image22.jpeg"/><note type="comment" place="bottom"><p> Werde ihm alles nach Wunsch und komme auf
+                        glücklicher Fahrt er zum Hafen. Theokrit, Eidyllia 7,62</p></note></p><p>Von Ihnen erwarten wir nur eine Reise, die allein schon ihrem Verfasser die
+                        Unsterblichkeit sichert, und die der stolze Brite mit allem seinem Appoint
+                        so nie machen könnte. Sie vereinen in sich allein eine ganze Akademie, einen
+                        Hain von Weisen. Eben wird auch in Leipzig
+                            <persName>Küttner</persName>s<note type="comment" place="bottom"><p> A:
+                                Kütners.</p></note> (der so gut über England schrieb) Reise von
+                        Kopenhagen bis Istrien und Pola<note type="comment" place="bottom"><p> Carl
+                                Gottlob Küttner, Reise durch Deutschland, Dänemark, Schweden,
+                                Norwegen und einen Theil von Italien in den Jahren 1797–1799, 4 Bde
+                                mit Karten Leipzig 1804.</p></note> in 4 Bänden, die er als
+                        Begleiter eines reichen Engländers in den Jahren 1796–1798 machte.</p><p>Achten Sie ja auf die Flora und Fauna der Provinzen, die Sie durchreisen, mit
+                        den jetzigen griechischen und fränkischen Trivialnamen; auf die
+                        Volksüberlieferungen über einheimische Naturereignisse und Meteore, die oft
+                        einen süßen Kern aller Weisheit enthalten; auf die alluviones et eluviones
+                        maris, die viele Küsten in Kleinasien, Syrien usw. ganz verändert haben
+                        müssen; auf Mittel, die Hieroglyphe durch Parallelinschriften zu entziffern,
+                        und lassen Sie keine Trümmer alter Baukunst, keine Scherbe alter Plastik und
+                        keinen Überrest alter Münzen unangetastet. Doch trage ich Wasser ins
+                        Meer!</p><p>Ich wollte, Sie könnten durch Ihre englischen Freunde in Konstantinopel
+                            <persName>Rennell</persName>s-Geographie des
+                            <persName>Herodot</persName><note type="comment" place="bottom"><p>
+                                James Rennell, The Geographical System of Herodotus, London
+                                1800.</p></note> bekommen. Wie würden Sie da als Augenzeuge
+                        kombinieren können, was er nur mutmaßend zusammenstellte. Auch sollten Sie
+                            St. <persName>Vincent</persName>s<note type="comment" place="bottom"><p>
+                                Es handelt sich um William <persName>Vincent</persName>s „The
+                                periplus of the Erythrean sea ... Containing, an account of the
+                                navigation of the ancients, ... With dissertations”, 2 Bde London
+                                1800–1805 – Zusatz in KVK: „A translation of 'Periplus maris
+                                Erythraei' from the Greek, edited by William Vincent”. –
+                                    <persName>Böttiger</persName> war möglicherweise vom englischen
+                                Admiral John<persName> Jervis Earl of St. Vincent</persName>
+                                beeindruckt oder von dem Autor
+                                    <persName>Bory de St. Vincent</persName>, der zur
+                                Naturgeschichte diverser Inseln publizierte.</p></note> so eben
+                        erschienenen Periplus<note type="comment" place="bottom"><p>
+                                Küstenbeschreibung.</p></note> des erythräischen Meers<note type="comment" place="bottom"><p> Nach <persName>Herodot</persName> und
+                                    <persName>Strabo</persName> das Rote Meer bzw. der Indische
+                                Ozean einschließlich des Persischen Golfs; nach anderen die
+                                nördliche Ägäis.</p></note>,in den Händen haben.</p><p>Ein Prof. <persName>Hartmann</persName> aus Herford hat diese Messe eine
+                        orientalische Perlenschnur<note type="comment" place="bottom"><p> Anton
+                                Theodor Hartmann, Asiatische Perlenschnur, 2 Bde Berlin
+                            1800.</p></note> herausgegeben, eine Blumenlese an orient[alischen]
+                        Dichtern auf Schönheit der Knaben und Mädchen. Ich zürne
+                            <persName>Herder</persName>n, daß er die Ihrige nicht fördert, und
+                        lieber dem <persName>Kant</persName> streitet. Doch ist sein Werk, die
+                            Kalligone<note type="comment" place="bottom"><p> Johann Gottfried
+                                Herder, <hi rend="italic">Kalligone, 3 Bde Riga
+                            1800</hi>.</p></note>, gegen <persName>Kant</persName>s Kritik der
+                        Urteilskraft, ein reicher Beitrag zur wahren Ästhetik. Könnten Sie doch nur
+                        gleich an den dritten Teil seiner erhabenen Abhandlung, über das Erhabene
+                        und über die Ideale lesen! <persName>Goethe</persName> hat im 7. Teil seiner
+                        Werke die Elegien und Epigramme gesammelt, die wir früher in den Horen und
+                        [im] Almanach gelesen haben. <persName>Schiller</persName> widmet sich jetzt
+                        ganz dem Trauerspiel. Vor wenigen Tagen ist seine Maria Stuart aufgeführt
+                            worden<note type="comment" place="bottom"><p> Nämlich am 14.06.1800 in
+                                Weimar.</p></note>. Es sind kühne Wagstücke darin. Unter anderem
+                        läßt er die beiden Königinnen wirklich zusammen kommen, was nach der
+                        Geschichte <persName>Maria</persName> von <persName>Elisabeth</persName> so
+                        oft vergeblich bat, und schützt gerade dadurch die Peripetie des Stücks. Als
+                        Vorübung hatte er <persName>Shakespeare</persName>s Macbeth<note type="comment" place="bottom"><p> Diese Bearbeitung erschien 1801 in
+                                Tübingen.</p></note> neu bearbeitet. Sein Wallenstein ist eben in
+                        2 Bänden gedruckt erschienen<note type="comment" place="bottom"><p>
+                                Tübingen, Cotta 1800.</p></note>. Sollte ich Ihnen nach Schiras oder
+                        Aleppo, wo Sie vielleicht jetzt hausen, durch einen Flug Brieftauben, wovon
+                        jeder ein Blatt angebunden würde, ein einziges Buch schicken, so wären es
+                        die Piccolomini aus Wallenstein.</p><closer><salute>Möge ich bald etwas von Ihnen hören! Dem Freunde unter jeder Zone
+                        treu</salute><signed><persName>Böttiger</persName></signed></closer></div></body></text></TEI>

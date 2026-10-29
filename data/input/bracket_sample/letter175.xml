@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_175"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>Étant au<note type="comment" place="bottom"><p> Nach PvTh D.4.4.2
+                            2/23.</p></note> Caire et à Alexandrie dans le danger imminent de
+                        devenir la prise de l’avidité des Commissaires anglais ou des avanies des
+                        Turcs, je l’ai cru être de mon devoir d’écrire la lettre ci-jointe et de
+                        donner en conséquence à cette demande tout le poids, que je pouvais lui
+                        donner sans être chargé d’une commission publique. J’y ai touché avec
+                        dessein le cas si la Cour Imp[ériale] était encore en guerre, puisque
+                        j’entends partout répéter ce raisonnement, qu’alors tous les biens des
+                        sujets Imp[ériaux] pourraient être confisqués puisqu’ ils étaient restés
+                        dans le pays de l’ennemi. J’ai contesté cette question avec Sir
+                            <persName>Sidney [Smith]</persName> lui-même, qui quoique reconnaissant
+                        l’inviolabilité de tous les biens des sujets Imp[ériaux] comme neutres ne
+                        veut point reconnaitre, qu’ils eussent eu le même droit comme les sujets
+                        d’une puissance en guerre avec la France, et Votre Excellence peut être
+                        convaincu qu’à l’occasion de pareilles contestations j’ai donné l’étendue-ci
+                        si fortement à l’appui de la vérité et de la justice.</p><p>Je me hâte d’informer Votre Excellence de ceci, puisque je crains que cette
+                        question ne soit pas encore terminée et qu’elle soit plus d’une fois
+                        renouvelée au Caire et à Alexandrie. Il est sûr que si j’eusse dans ce
+                        moment une commission publique de la part de Votre Excellence j’en ferais le
+                        meilleur usage, puisque prenant à l’appui de la considération personnelle
+                        dont je jouis elle me donnerait le pouvoir d’agir avec succès.</p><p>Je propose donc à Votre Excellence de me donner la commission spécielle et
+                        publique d’appuyer de concert avec le Consul Général Imp[érial] ou avec ses
+                        agents près des Commandants anglais et turcs toutes les demandes des sujets
+                        Imp[ériaux] relatives à la sûreté de leurs personnes et leurs biens<hi rend="underline">.</hi></p><p>Avec un pareil papier signé de la part de Votre Excellence je pourrais faire
+                        valoir comme officielles toutes les représentations que je ne fais dans ce
+                        moment que comme particulières, je me pourrais présenter avec les Agents
+                        Imp[ériaux] devant les Commandants anglais ou turcs, je pourrais signer
+                        conjointement avec eux les représentations écrites, et je me ferais
+                        présenter comme commissaire ad hoc par S[ir]
+                            <persName>Sidney [Smith]</persName> aux Commandants turcs et
+                        anglais.</p><p>Je proposerai même à Votre Excellence d’insérer dans cette commission le
+                        pouvoir de la déléguer momentanément à tel individu que je croirais
+                        convenable, puisqu’il se pourrait que les circonstances m’appelassent dans
+                        un endroit tandis qu’il y aurait des choses à faire dans l’autre, et que
+                        tout le succès de cette intercession officielle dépendra du crédit personnel
+                        de celui qui en est chargé.</p><p>Si je l’avais dans ce moment je le déléguerais à quelque officier ou
+                        Administrateur anglais qui marchera demain ou après-demain avec l’armée vers
+                        Ralimanije. Il pourrait à son entrée au Caire agir de concert avec M.
+                            <persName>Rossetti</persName> jusqu’ à ce que j’y arrivasse moi-même.
+                        Car comme j’ai eu l’honneur de le détailler à Votre Excellence dans une de
+                        mes lettres précédentes, les circonstances m’ont décidé à rester dans ce
+                        moment à Rosette<note type="comment" place="bottom"><p> Rosette, heute Rasid
+                                im Nildelta ist bekannt geworden als Fundort der berühmten Bilingue
+                                in drei Schriften, die, 1799 von den Franzosen aufgefunden, bei
+                                ihrem Abzug aus Ägypten den Briten überlassen werden musste und die
+                                sich heute als „Stein von Rosette“ im British Museum befindet; nach
+                                einer Nachzeichnung der Zeichen ist <persName>Champollion</persName>
+                                die Entzifferung der Hieroglyphen gelungen.</p></note>.</p><p>Je n’ai pas besoin d’ajouter ici, que si Votre Excellence voulait m’expédier
+                        une pareille commission, Elle ne pourrait pas le faire trop tôt en
+                        recommandant la lettre à Smyrne à une occasion sûre, ou peut-être mieux en
+                        la mettant sous un couvert du Capitaine <persName>Cashew</persName> ou
+                            d’<persName>Isa B</persName>ey et en la faisant remettre à l’agent de
+                            <persName>Pashew</persName><note type="comment" place="bottom"><p> Es
+                                müsste Cachew heißen– nicht Ca<hi rend="bold">s</hi>hew.</p></note>
+                        à C[onstantino]ple avec deux lignes pour le Pacha ou pour <persName>Isaac
+                            B</persName>ey.</p><p>La lettre de Votre Excellence avec la Patente n’est pas encore arrivée. Quand
+                        j’aurais vu le contenu de la lettre, je verrai si elle ne me peut pas servir
+                        en attendant comme une espèce de pièce publique pour légitimer mes
+                        démarches. Si une pareille autorité m’est nécessaire ici, pour donner à mes
+                        démarches le poids suffisant, elle le sera beaucoup plus encore au Caire, où
+                        ce n’est pas le Capudan-Pacha qui commande et où en conséquence les dangers
+                        pour la vie et les biens de tous les Européens sont d’autant plus menaçants
+                        ; Enfin elle me sera surtout nécessaire si Sir <persName>Sidney</persName>
+                        ne vient pas rejoindre l’armée à terre, et s’il va comme on dit commander
+                        quelque détachement de la flotte.</p><closer><salute>J’ai l’honneur d’être avec le respect le plus profond et la soumission
+                        la plus parfaite<lb/>Monsieur l’Internonce de Votre Excellence le très humble et très
+                        obéissant</salute><signed><persName>Hammer</persName></signed><dateline>Rosette 3 Mai 1801</dateline></closer></div><div type="letter" subtype="translation"><p>Monsieur l’Internonce!</p><p>Da ich in Kairo und in Alexandria in der drohenden Gefahr war, Beute der Gier
+                        der englischen Kommissare und der Kränkungen der Türken zu werden, hielt ich
+                        es für meine Pflicht, den beigelegten Brief zu schreiben und in der Folge
+                        diesem Ansuchen eine möglichst große Bedeutung zu geben, ohne einen
+                        offiziellen Auftrag zu haben. Ich habe darin mit Absicht den Fall erwähnt,
+                        falls der Kaiserhof noch im Krieg wäre, da ich überall höre, dass dann alle
+                        Güter der kaiserlichen Untertanen konfisziert werden könnten, da sie im Land
+                        des Feindes geblieben waren. Ich habe über diese Frage mit Sir
+                            <persName>Sidney Smith</persName> selbst gestritten, der, obwohl er die
+                        Unantastbarkeit aller Güter der kaiserlichen Untertanen als Neutrale
+                        anerkennt, nicht anerkennen will, dass sie dieselben Rechte haben wie die
+                        Angehörigen einer Macht, die im Krieg mit Frankreich ist und Eure Exzellenz
+                        kann überzeugt sein, dass ich bei ähnlichen Protesten den Beweis der
+                        Wahrheit und Gerechtigkeit in so deutlichem Ausmaß gegeben habe. Ich beeile
+                        mich, Eure Exzellenz darüber zu informieren, da ich befürchte, dass die
+                        Frage noch nicht beantwortet ist und sie mehr als einmal in Kairo und
+                        Alexandria wieder zur Sprache kommen wird. Es ist sicher, dass ich, wenn ich
+                        in diesem Augenblick einen offiziellen Auftrag von Eurer Exzellenz hätte,
+                        den besten Gebrauch davon machen würde, da er mir, indem ich meine
+                        persönlichen Beobachtungen als Beweis nehme, die Macht geben würde. mit
+                        Erfolg zu handeln.</p><p> Ich schlage Eurer Exzellenz also vor, mir einen offiziellen Sonderauftrag zu
+                        geben, um den kaiserlichen Generalkonsul oder seine Agenten bei den
+                        englischen und türkischen Kommandanten bei allen Ansuchen der Angehörigen
+                        des Kaiserreichs hinsichtlich der Sicherheit ihrer Person und ihrer Güter zu
+                        unterstützen.</p><p> Mit einem solchen Papier, unterschrieben von Eurer Exzellenz, könnte ich
+                        alle Repräsentationen offiziell machen, die ich jetzt nur als persönliche
+                        mache und ich könnte mich mit den kaiserlichen Agenten vor den englischen
+                        und türkischen Kommandanten präsentieren und gemeinsam mit ihnen die
+                        schriftlichen Darstellungen unterschreiben, ich könnte mich als Kommissar ad
+                        hoc von Herrn <persName>Sidney Smith</persName> den türkischen und
+                        englischen Kommandanten vorstellen lassen.</p><p> Ich werde Eurer Exzellenz sogar vorschlagen, in diesem Auftrag die Vollmacht
+                        hinzuzufügen, ihn an einen anderen, den ich für geeignet halte,
+                        weiterzugeben, da es sein kann, dass die Umstände mich an einen Ort rufen,
+                        während es an dem anderen Dinge zu erledigen geben könnte, und dass der
+                        ganze Erfolg dieser offiziellen Unterstützung vom persönlichen Ansehen
+                        desjenigen abhängen wird, der damit beauftragt ist.</p><p> Wenn ich ihn im Augenblick hätte, würde ich ihn an irgendeinen Offizier oder
+                        englischen Verwalter entsenden, der morgen oder übermorgen mit der Armee
+                        nach Ralimanije marschiert. Er könnte bei seinem Einmarsch in Kairo zusammen
+                        mit Herrn <persName>Rossetti</persName> agieren, bis ich selbst dorthin
+                        kommen werde. Denn, wie ich die Ehre hatte, Eurer Exzellenz genau in einem
+                        meiner vorangegangenen Briefe zu beschreiben, haben mich die Umstände
+                        gezwungen, in diesem Augenblick in Rosette zu bleiben. </p><p> Ich muss hier nicht hinzufügen, dass, wenn Eure Exzellenz mir einen solchen
+                        Auftrag zukommen lassen wollten, dies nicht zu früh sein könnte, den Brief
+                        nach Smyrna eingeschrieben, mit einer sicheren Gelegenheit oder noch besser,
+                        indem Sie ihn in einen Umschlag für den Kapitän (Hauptmann)
+                            <persName>Cashew</persName> oder <persName>Isa</persName> Bey geben oder
+                        indem Sie ihn dem Agenten von <persName>Cashew</persName><note type="comment" place="bottom"><p> A: Pashew</p></note> in Konstantinopel
+                        übergeben mit zwei Zeilen für den Pascha oder für <persName>Isaac</persName>
+                        Bey.</p><p> Der Brief Eurer Exzellenz mit dem Patent ist noch nicht angekommen. Wenn ich
+                        den Inhalt des Briefes gelesen habe, werde ich sehen, ob es nicht in der
+                        Zwischenzeit als offizielles Schriftstück dienen kann, um mein Vorgehen zu
+                        legitimieren. Wenn so eine Amtsbefugnis für mich hier notwendig ist, um
+                        meinen Schritten hier das ausreichende Gewicht zu verleihen, wird es noch
+                        weit nötiger in Kairo sein, wo nicht der Kapudan-Pascha den Befehl gibt und
+                        wo folglich die Gefahren für das Leben und den Besitz aller Europäer noch
+                        sehr bedroht sind. Schließlich wird sie (Amtsbefugnis) für mich vor allem
+                        notwendig sein, wenn Sir Sidney nicht zur Armee auf dem Land zurückkehrt,
+                        und wenn er, wie man sagt, das Kommando irgendeiner Abteilung der Flotte
+                        bekommen wird. […]</p><closer><signed><persName>Hammer</persName></signed></closer></div></body></text></TEI>

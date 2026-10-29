@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7523"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Heidelberg, den 24<hi rend="superscript">ten</hi> Dec[ember]
+                        1848.</dateline><salute>Hochverehrter teuerster Freund!</salute></opener><p>Nachdem ich lange auf Nachricht von Ihnen geharrt, bringt mir Ihr Brief, daß
+                            der meinige verloren gegangen <supplied>ist</supplied>. Derselbe ist aber wenigstens schon fünf
+                        Wochen oder noch länger abgegangen und daher sehr spät auf einen Augenblick
+                        in Ihre Hände gekommen<note type="comment" place="bottom"><p> Dies bezieht
+                                sich auf<persName> Umbreit</persName>s Brief an HP ddo 1848 XI
+                                29.</p></note>. Übrigens enthält derselbe – der kürzeste, den ich je
+                        geschrieben – nichts als die dringende Bitte, mir schleunigst nur mit
+                        einigen Worten Kunde über Ihr Befinden zu geben, da wir, Freund
+                            <persName>Creuzer</persName> mit einbegriffen, besorgt um Sie waren,
+                        weil wir Ihren Aufenthalt während der anarchischen Zustände in Wien nicht
+                        wußten. Gott lob, daß ich doch wenigstens einige Zeilen nun von Ihnen wieder
+                        besitze, und sehe, daß Sie wohl sind. Wären Sie nur nicht so einsam! – Für
+                        die gütige Mitteilung der Beilage danke ich schönstens. Auf meinem Briefe
+                        sollen Sie meine volle Beistimmung sogleich mit Augen sehen. Noch Eins bei
+                        der Gelegenheit: ich bin nicht Komtur, sondern nur Ritter unseres Zähringer
+                        Löwenordens und des Ernestinischen Hausordens; mein Titel ist: Geheimer
+                        Kirchenrat und Professor der Theologie<note type="comment" place="bottom"><p> Diese Mitteilung ist im Zusammenhang mit der potentiellen
+                                Erwählung <persName>Umbreit</persName>s zum korrespondierenden
+                                Mitglied der Akademie in Wien gedacht.</p></note>. Wollen wir nicht
+                        auch gegenseitig ausmachen, unsere Brief nicht mehr zu frankieren<supplied>?</supplied> – Es
+                        ist bequemer. Ich habe neulich mir schon erlaubt, den Anfang in dieser
+                        Freiheit zu machen.</p><p>Ein schweres Jahr geht zu Ende. Möge das neue erfreulicher sein! Ich wünsche
+                        Ihnen beim Übergange den frohen Mut, den nur allein Gott gibt. Er sei
+                        gnädigst mit Ihnen und den Ihrigen! – In meinem Hause steht es gut.</p><closer><salute>Soviel für heute. Wie gestern und vorgestern, seit 1819 immer derselbe
+                        in besonderer Liebe und Treu Ihr ganz ergebenster</salute><signed><persName>Umbreit</persName></signed></closer></div></body></text></TEI>

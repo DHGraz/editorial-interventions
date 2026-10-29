@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6534"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Randall’s Park March 30<hi rend="superscript">th</hi> 1843</dateline><salute>My dear Baron <persName>Hammer</persName><note type="comment" place="bottom"><p> Oberhalb der Anrede befinden sich diese Zeichen, von
+                                denen unklar ist, ob sie von <persName>Bland</persName> oder von HP
+                                stammen:</p><p><graphic url="media/image65.png"/></p></note>,</salute></opener><p>I should have had much more pleasure in receiving your kind letter if it had
+                        not contained the melancholy news with which it commenced. Mrs.
+                            <persName>Bland</persName> and myself beg to assure you of our deep
+                        sympathy in all that interests yourself and your family, and we desire to be
+                        permitted to offer to Mad<hi rend="superscript">me</hi>
+                        <persName>v[on] Hammer</persName> our condolences and regrets<note type="comment" place="bottom"><p>
+                                <persName>Caroline</persName>s Schwester
+                                    <persName>Henriette</persName> (geboren 1801) verstarb am
+                                28.01.1843. Ab 1841 war sie in zweiter Ehe mit William
+                                    <persName>Russell</persName> (1804–1895)
+                        verheiratet.</p></note>. Mrs. <persName>Bland</persName> has a large family
+                        of relatives, <persName>Russell</persName>s, the name of your lamented
+                        friend. I had hoped before answering your letter to have succeeded in
+                        obtaining the conveyance of the <persName>Strutt</persName>’s
+                            Antiquities<note type="comment" place="bottom"><p> Vgl.
+                                    <persName>Bland</persName> an HP ddo 1843 I 5. Von 1771 begann
+                                er im Reading Room des British Museum mit seiner Sammlung
+                                antiquarischer Kenntnisse. Sein erstes Buch erschien 1773 (<hi rend="italic">„The Regal and Ecclesiastical Antiquities of
+                                    England“</hi>). Hierfür reproduzierte er als erster als Graveur
+                                alte handgemalte Objekte. Es folgten zwischen 1774 und 1776 <hi rend="italic">Manners, Customs, Arms, Habits etc. of the People
+                                    of England und in 1777–8</hi> zwei Bände seiner <hi rend="italic">„Chronicle of England“.</hi></p></note>to you, so
+                        that I <surplus>I</surplus> might be able to announce their departure to <unclear>him</unclear><note type="comment" place="bottom"><p> Diese beiden Worte sind nachträglich
+                                auf kleinem Raume nachgetragen, die Lesung ist sehr
+                            unsicher.</p></note> writing, but Lord <persName>Napier</persName><note type="comment" place="bottom"><p> Vgl. dazu die Fußnote zum Brief
+                                    <persName>Bland</persName>s an HP ddo 1843 I 5. </p></note> has
+                        gone to the East, and by way of Paris, instead of Vienna, so that the books
+                        still remain, and being a large packet, I have much difficulty in finding
+                        any person who will take charge of them, en courier, and I do not like to
+                        risk them as merchandize. <persName>Duff</persName><note type="comment" place="bottom"><p> George Skene <persName>Duff</persName> (1814–1889)
+                                war ein schottischer Politiker; (<hi rend="italic">Wikipedia
+                                    20170505</hi>).</p></note> the late attaché at Vienna, expects
+                        to forward them for me by some of our Messengers; if not, I shall, as a last
+                        resource apply to Baron <persName>Lebzeltern</persName><note type="comment" place="bottom"><p> 1843 war Baron <persName>Lebzeltern</persName>
+                                Sekretär der österreichischen Botschaft in London; ( <hi rend="italic">The Royal Kalendar, and Court and City Register
+                                    for England, Scotland, Ireland, and the Colonies, London 1843,
+                                    187</hi>).</p></note>, to whom you recommended me, but I did not
+                        like to employ my credentials on a very large parcel at first, for fear of
+                        losing my credit, but followed the old rule of Fairy Tale in reserving a
+                        charm until beset by very great danger. Meanwhile I send you some Spring
+                            Hooks<note type="comment" place="bottom"><p> Spring hook =
+                                Karabinerhaken.</p></note>, which I had by no means forgotten, but
+                        for the same reason, waited to see whether those or the box of books were
+                        most in need of assistance . I hope these will suit you; I will with great
+                        pleasure get as many more as you like, bespeaking them of any particular
+                        size you may wish. I send you by request of Mr.
+                            <persName>Falconer</persName><note type="comment" place="bottom"><p>
+                                Forbes <persName>Falconer</persName> (1805–1853), war Schüler von
+                                    <persName>de Sacy, de Chezy</persName> und von
+                                    <persName>Garcin de Tassy</persName> für Hindustani. Nach seiner
+                                Rückkehr unterrichte er orientalische Sprachen und war zeitweise
+                                Professor für an der Universität von London. Er veröffentlichte
+                                unter anderem eine persische Grammatik, Arbeiten über Bostan und
+                                Gedichte von <persName>Jami;</persName> (<hi rend="italic">Wikipedia
+                                    20170515</hi>).</p></note>, a friend of mine, his account of the
+                        Sindibad Nameh<note type="comment" place="bottom"><p> Forbes Falconer, <hi rend="italic">Analytical account of the Sindibad Namah or Book
+                                    of Sindibad, a persian manuscript poem in the library of the
+                                    East-India company, London 1841</hi>.</p></note>, which escaped
+                        perhaps your notice in the Asiatic Journal, appearing as it did, in separate
+                        notices in the Nos of 1840<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Asiatic Journal and Monthly register, Band 35,
+                                    1841, 169–180</hi> und <hi rend="italic">Band 36, 1841, 4–18 und
+                                    99–108</hi>.</p></note>. He was a little diffident about sending
+                        it you, at first, as it contains a difference of opinion from yours<note type="comment" place="bottom"><p> Vgl. dazu Forbes Falconer, <hi rend="italic">Analytical account of the Sindibad Namah or Book
+                                    of Sindibad, a persian manuscript poem in the library of the
+                                    East-India company, London 1841, Seite 2</hi>.</p></note>, on
+                        the poem of Azraki, but I assured him you were too much accustomed to the
+                        notice of the <persName>Fleischer</persName>s<note type="comment" place="bottom"><p> Heinrich Leberecht <persName>Fleischer;</persName>
+                                (BARCH). </p></note> of Germany, and the
+                            <persName>Schmidt’</persName>s<note type="comment" place="bottom"><p>
+                                Isaak Jakob <persName>Schmidt</persName> (1779-1847) war ein
+                                deutscher Kalmückenforscher, Mongolist, Tibetologe und Buddhologe.
+                                Er übersetzte die Bibel ins Kalmückische und Mongolische; (BARCH).
+                            </p></note> of Petersburg to be offended by the grasp of an English
+                            Falkner<note type="comment" place="bottom"><p> Das Wort Falconer wurde
+                                mit Falkner überschrieben.</p></note>. He is a very learned and also
+                        modest young man and translates Persian poetry, I think better than any
+                        English poetical versions since Sir W[illiam]
+                            <persName>Jones</persName><note type="comment" place="bottom"><p> Sir
+                                William <persName>Jones</persName> (1746–1794) war ein britischer
+                                Indologe und Jurist. Er war ab 1783 Richter am Obersten Gericht in
+                                Kalkutta. Er ist besonders durch seine Arbeiten zur indogermanischen
+                                Sprachfamilie bekannt sowie Gründer der Asiatic Society von
+                                Kalkutta; (<hi rend="italic">Wikipedia 20170516</hi>).</p></note>.
+                        You will see he mentions the Atish Kadah<note type="comment" place="bottom"><p> Vgl. dazu <hi rend="italic">The Atesh Kedah, or Fire-Temple by
+                                    Haji Luft Ali Beg, of Isphahan, now first edited, from the
+                                    collations of all known Mss, by Nathaniel Bland, London
+                                    1844</hi> (<hi rend="italic">„To the Baron Hammer Purgstall, to
+                                    whom European Literature is indebted for its earliest Biography
+                                    of the Persian Poets, this text is dedicated with the expression
+                                    of the editors sincere friendship and esteem”</hi>).</p></note>,
+                        which he just then fell upon in the E[ast] India House Library; subsequently
+                        however to my announcement of my own copies. As it takes little room, I add
+                        the last Prospectus of our Text Soc[iety]<note type="comment" place="bottom"><p> Der Oriental Translation Fund of Great Britain and Ireland
+                                wurde 1828 eingerichtet um den Verlag von orientalischen Werken zu
+                                ermöglichen; (<hi rend="italic">Wikipedia 20170906 Stichwort Royal
+                                    Asiatic Society</hi>). </p></note> in which the list of
+                        publications is a <hi rend="underline">little</hi> <choice><sic>encreased</sic><corr>increased</corr></choice>. I have
+                        copied the two poems of Ahli of Shiraz<note type="comment" place="bottom"><p> Mawlānā Moḥammad <persName> Ahlī Šīrāzī</persName>
+                                (858/1454?–942/1535), ein persischer Dichter (<hi rend="italic">Encyclopaedia Iranica 20170516</hi>).</p></note> of which there
+                        are only very few M[anu]S[cript]S in England, and I think they are generally
+                        rare. The <graphic url="media/image66.png"/> is very pretty, <graphic url="media/image67.png"/> remarkable for its ingenious and laborious
+                        arrangements of measure and rhyme. Nothing have yet been published of his.
+                        Are there many copies in the Libraries of Vienna? In your „Redekünste
+                            Persiens”<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte der schönen Redekünste Persiens: mit einer
+                                    Blüthenlese aus zweyhundert persischen Dichtern, Wien
+                                1818.</hi></p></note> you quote also from the other Ahli (of
+                            Khorasan<note type="comment" place="bottom"><p> The Biographical
+                                Dictionary of the Society for the Diffusion of Useful Knowledge,
+                                2. Aufl. London 1842, Bd 1 518 „<hi rend="italic">Ahli of
+                                    Khora’sa’n, a Persian poet who lived in the first half of the
+                                    sixteenth century. The author of the „A’tash Kadá” gives several
+                                    extracts from his works, but a very meagre account of the poet;
+                                    which is in substance as follows: „He was born in the town of
+                                    Tarshíz, and was the author of a Diván, or collections of odes.
+                                    For a considerable period he sojourned in Hindustan. He also
+                                    composed a celebrated work with the title of „Sakináma”, which
+                                    according to Fakír Hasan, is not surpassed”. We are not aware
+                                    that any of this poet’s works are yet in print, and we believe
+                                    that the manuscripts of the are very rare in this country.
+                                    </hi><persName>Von Hammer</persName><hi rend="italic"> in his
+                                    valuable work, „Geschichte der Schönen Redekünste Persiens”,
+                                    page 376, gives a brief notice of this poet, with several
+                                    extracts from his works, which may probably have been accessible
+                                    to that learned orientalist (Atash Kadá, India House
+                                MS)”.</hi></p></note>) where did you find his works. They are
+                        nowhere here. The Atish Kedeh gives only 12 lines of him. Among your
+                        M[anu]S[cript] I see <hi rend="underline">Obeid Zákáni</hi><note type="comment" place="bottom"><p> Nizam
+                                    <persName>al-Din Ubaydullah Zakani</persName>, oder
+                                    <persName>Ubayd-i Zakani</persName> (ca 1300–1371 CE), war ein
+                                persischer Poet und Satirist des 14. Jh.s. Eines seiner bekanntesten
+                                Werke ist die <hi rend="italic">Fabel „Masnavi Mush-O-Gorbeh (Maus
+                                    und Katze)“</hi>; (<hi rend="italic">Wikipedia
+                                20170516</hi>).</p></note>. Does it contain a little trifle, called
+                        the Cat and Mouse (<graphic url="media/image68.png"/>) Your Catalogue<note type="comment" place="bottom"><p> Diese Bemerkung kann sich auf
+                                zweierlei beziehen: Einmal auf den Handschriften-Katalog, den HP vor
+                                langer Zeit schon in den <hi rend="italic">Fundgruben des
+                                    Orients</hi> erstellt hat oder auf jenen, den er für den Verkauf
+                                seiner Handschriften an die Hofbibliothek zusammengestellt hat.
+                                Nicht kann sich diese Aussage auf jenen Katalog, der anlässlich der
+                                geplanten Versteigerung von HPs Bibliothek nach dessen Tod vorgelegt
+                                wurde (die nicht stattfand, da Sachsen die gesamte Bibliothek
+                                aufkaufte), auch nicht für den Fall, dass dieser Katalog bereits vor
+                                HPs Tod von diesem selbst erstellt worden sei, keine der drei dort
+                                unter einer Nummer 117 ausgewiesenen Objekte entspricht der Vorgaben
+                                im Text. </p></note> (N.117)<note type="comment" place="bottom"><p>
+                                N 117 ist darüber eingefügt.</p></note> does not mention it, though
+                        it is called his <graphic url="media/image69.png"/>. It is everywhere
+                        attributed to him, and has his name at the end, but I have found no
+                        authority for it in Tezkerrehs<note type="comment" place="bottom"><p>
+                                Tezkire bezeichnet ein bibliographisches Wörterbuch oder ein
+                                bibliographisches Handbuch. Die meisten dieser Werke befassen sich
+                                mit Dichtern, manche auch mit Regierungsmitgliedern oder mit
+                                Künstlern im Allgemeinen. Die ersten dieser Memoranden lassen sich
+                                in der frühen arabischen Literatur vor dem 10. Jh. finden. Über die
+                                persische Literatur wurde diese Gattung auch der osmanischen
+                                Literatur bekannt und erlebte dort im 16. Jh. ihre Blütezeit; ( <hi rend="italic">Wikipedia 20170516</hi>). Auf persische Tenkires
+                                bezieht sich auf William <persName>Ousely</persName> (<hi rend="italic">Travels in Various Countries of the East: More
+                                    Particularly Persia. A Work Wherein the Author Has Described, as
+                                    Far as His Own Observations Extended, the State of Those
+                                    Countries in 1810, 1811, and 1812; and Has Endeavoured to
+                                    Illustrate Many Subjects of Antiquarian Research, History,
+                                    Geography, Philology and Miscellaneous Literature, with Extracts
+                                    from Rare and Valuable Oriental Manuscripts, Band 1., London
+                                    1819, Seite 48</hi>). </p></note>. You will laugh at my interest
+                        in it, but there are some curious things attached to the subject; it is free
+                        from that Author’s chief fault. – Your Catalogue also (N.148) mentions a
+                        Jaghatai Makhzan al Asrar<note type="comment" place="bottom"><p> Makhzan
+                                al-Asrar, <hi rend="italic">„The Treasury of Mysteries“</hi>,
+                                darüber eingefügt: “a ‘Nachahmung’ in subject or only in name?”
+                            </p></note> is it a translation? I have a beautiful M[anu]S[cript] of a
+                        work of <persName>Alishir</persName><note type="comment" place="bottom"><p>
+                                Mir <persName>ʿAli Schir Nawāʾi</persName> (Mīr ʿAlī-Šīr Nawāʾī),
+                                (1441–1501) eigentlich Nizām od-Din ʿAli Schir, bekannt unter dem
+                                Dichternamen Nawā'ī (persisch: „der Weinende“), war ein
+                                zentralasiatischer türkischer Politiker, Bauherr, Mystiker und
+                                Dichter am Hofe der Timuriden in Herat. Er gilt als einer der
+                                bedeutendsten Dichter der tschagataischen Sprache, welche zu den
+                                Turksprachen gehört; ( <hi rend="italic">Wikipedia
+                                20170516</hi>).</p></note> in Jagatai; I had intended to bring it to
+                        show you last winter. I have been completely analogizing and arranging your
+                        Catalogue for reference for my own use, which brings this things under my
+                        observation. As to Abū’l <persName>Mâáni</persName><note type="comment" place="bottom"><p> Vgl. dazu <persName>Bland
+                                    </persName>an<persName> </persName>HP 1842 IX [?]. </p></note>,
+                        I have not yet succeeded in finding him. I shall however go through the
+                        whole of the India House Library (2000 vols) before I give it up. In the
+                        meantime I am boldly<note type="comment" place="bottom"><p> Zwischen „am“
+                                und „announcing“ eingefügt.</p></note> announcing him as being
+                            <persName>Cabus Ben Weshmgir</persName><note type="comment" place="bottom"><p>
+                                <persName>Kabus ben Weschmegir</persName> war ein delemitischer
+                                Herrscher, dessen Enkel <persName>Keik’awus </persName>(ben Iskender
+                                ben K’abus ben Weschmegir) eine Ethik für seinen Sohn
+                                    <persName>Gilanschah</persName> verfasste und nach dem Namen
+                                seines berühmten Großvaters benannte; (vgl. dazu Albrecht Krafft,
+                                    <hi rend="italic">Die arabischen, persischen und türkischen
+                                    Handschriften der K. K. Orientalischen Akademie zu Wien, Wien
+                                    1842, 186</hi>). </p></note>, in my notice of the Atish Kedeh,
+                        forthcoming in the next Vols of the As[iatic] Soc[iety] Transactions<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Account of the Atesh Kedah, a Biographical Work on
+                                    Persian Poets, By Hajji Lutf Ali Beg, of Isphahan, By N. Bland…
+                                    Read June 24, 1843</hi>; in: <hi rend="italic">Journal of the
+                                    Royal Asiatic Society, Band 7, 1843, 357</hi>.</p></note>. When
+                        a better is found, I will give up my suppositions. I find dozens of Mir
+                            <persName>Abū’l </persName><persName>Maani’s</persName> in different
+                        Tezkerehs, but they seem only from scribes. I have also seen a
+                        M[anu]S[cript] of that very name, but it is Turkish, Insha. – I am now doing
+                        all in my power to forward the publication<note type="comment" place="bottom"><p> Der zweite Band von HP’s, <hi rend="italic">Narrative
+                                    of Travels in Europe, Asia, and Africa in the Seventeenth
+                                    Century </hi>ist erst 1850 in London erschienen.</p></note> of
+                            <persName>Evlia</persName> Effendi<note type="comment" place="bottom"><p> Finkel C., <hi rend="italic">Joseph von Hammer-Purgstall’s
+                                    English Translation of the First Books of Evliya Çelebi's
+                                    Seyahatnâme (Book of Travels)</hi>; in: <hi rend="italic">Journal of the Royal Asiatic Society of Great Britain &amp;
+                                    Ireland, 25 (1) (2015) 41–55 (</hi><ref target="https://www.jstor.org/stable/43307960"><seg rend="italic" style="font-size:8pt">https://www.jstor.org/stable/43307960</seg></ref><hi rend="italic">)</hi>; abstract online 20170517: “<hi rend="italic">In 2007 the translation into English of the first
+                                    two books of Evliya Çelebi's (EÇ) Seyahatnâme by the celebrated
+                                    Austrian diplomat and orientalist Joseph
+                                    </hi><persName>von Hammer-Purgstall</persName><hi rend="italic">
+                                    was republished in the Royal Asiatic Society (RAS) series
+                                    Classics of Islam. </hi><persName>Hammer</persName><hi rend="italic">'s translation was based on what is now ms. RAS 22
+                                    in the RAS Library, and was first published under the auspices
+                                    of the Oriental Translation Fund (OTF) in three parts: in 1834
+                                    (as Vol. I/i), 1846 (Vol. I/ii) and 1850 (Vol. II). It includes
+                                    EÇ's account of his home city of Istanbul (Vol. I) and his first
+                                    trip away – to Bursa in 1640 – as well as subsequent travels
+                                    during the 1640s, including to Crimea, the Caucasus and northern
+                                    Anatolia (Vol. II). The Committee of the OTF agreed to buy the
+                                    manuscript and its continuation, now ms. RAS 23, from
+                                    </hi><persName>Hammer</persName><hi rend="italic"> in
+                                    1832”.</hi></p></note>. It was discontinued after Mr.
+                            <persName>Mitchell</persName>’s death<note type="comment" place="bottom"><p> Vgl. dazu: <hi rend="italic">The Gentleman's Magazine 158
+                                    (1835) 441</hi> Obituary <hi rend="italic">„August 19. At
+                                    Cirencester-place aged 27, Mr. James Mitchell, Secretary to the
+                                    Oriental Translation Committee, and translator of the Oriental
+                                    MSS in the British Museum.”</hi></p></note>, (who got the first
+                        part through the press) because, I fear, there was no Turkish reader to
+                        arrange it, for the printers were very stupid about making out the proper
+                        names etc. I have taken a portion of your sheets and the vol. of the
+                        original, so if there is any difficulty for them, I may be able to make it
+                        clear, and thus I hope to promote the object in some degree. Your hint about
+                            <hi rend="underline">Al Hadhr</hi><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Baron von Hammer, and the Ruins of Al Hadhr, in:
+                                    The Journal of the Royal Geographic Society of London, Band 12,
+                                    1842, 261f</hi>.; <ref target="https://www.jstor.org/stable/1798003"><seg style="font-size:8pt">https://www.jstor.org/stable/1798003</seg></ref>
+                            </p></note> I have communicated to the Geographical Society to do what
+                        they think proper with it. Prof. <persName>v[on] Szabo</persName>’s ideas on
+                        Zend and Hungarian<note type="comment" place="bottom"><p> Vgl. dazu: <hi rend="italic">Gemeinnützige Blätter zur Belehrung und
+                                    Unterhaltung; als gleichzeitige Begleiter der vereinigten Ofner
+                                    und Pester Zeitung von Christoph Rösler, Ofen 1829, Bd 13,
+                                    449</hi>.</p></note> I have translated and arranged for the
+                        Philological Society and the paper is now in their hands<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„On the Descent of the Magyar from the Ancient
+                                    Persians.“ By Joseph von Szabó. Professor of History, Lyceum,
+                                    Oedenburg. Communicated by Mr. Bland</hi>; in: <hi rend="italic">Proceedings of the Philological Society for 1842–1843 and
+                                    1843–44, vol. 1, Nr. 12 (1843) 127</hi>.</p></note>, and when I
+                        am again in London I will read it at the meeting, for as all there do not
+                        read German, few or more Zend , and not one Hungarian, I must be the
+                            <graphic url="media/image70.png"/> myself. If it is printed I will send
+                        you a copy, that the Oedenburger Philolog may not die unblessed and his
+                        ghost haunt me in the shape of a Babylonian Cylinder. You will soon have the
+                            Dabistan<note type="comment" place="bottom"><p> Muhammad Muhsin Fani.
+                                    <hi rend="italic">The Dabistan, Or School of Manners, Translated
+                                    from the Original Persian with Notes and Illustrations by David
+                                    Shea and Anthony Troyer ... Edited, with a Preliminary
+                                    Discourse, by the Latter, 3 Bände, Oriental Translation Fund,
+                                    Paris 1843</hi>; – Zu <persName>Troyer</persName> s. BARCH s.v.
+                                Troyer von Aufkirchen und Thurn.</p></note> long promised, and this
+                        year’s harvest will produce some interesting crops. But I have now written
+                        quite enough to plague you, particularly my Queries. You will I am sure,
+                        soon allow me again the pleasure of hearing from you, and I trust, with
+                        better news than the last. Mrs. <persName>Bland</persName> desires to unite
+                        in very kind compliments and regards to Madame <persName>von
+                            Hammer</persName> and your Daughter, and yourself.</p><closer><salute>Believe me to be with great regard and esteem. Dear Sir your sincerely
+                        attached friend</salute><signed>N[athaniel] <persName>Bland</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_179"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Tigre off Alexandria<lb/>13th May</dateline><salute>My dear <persName>Hammer</persName></salute></opener><p>I thank you for all the details you give me on the melancholy subject of our
+                        poor friends Death – I feel his loss most sensibly I makes ones fear for
+                        every one near and dear to me for gods sake take care of yourself – I cannot
+                        touch on this subject anymore its painful. Your manner of treating the
+                        subject which interests our anxious minds for Syria and Egypt<note type="comment" place="bottom"><p> Wort über der Zeile
+                            verbessert.</p></note> accord so perfectly with mine that I need say
+                        nothing by way of instruction to you. I am determined never to relinquish
+                        the object before us entirely<hi rend="underline">, </hi><hi rend="underline">mais je vois qui’l faut reculer pour mieux
+                            sautes</hi>,<note type="comment" place="bottom"><p> durch Aufschieben
+                                wird es nur schlimmer, Übersetzung Sylvia Kowatsch</p></note> it is
+                        the only sort of retreat I never permit myself - During<note type="comment" place="bottom"><p> Zu den nachfolgenden Passagen vgl. Band 7 der
+                                Erinnerungen (353–356) sowie Life and Correspondence of Admiral Sir
+                                William Sidney Smith, g. c. b., vol. I. by John Barrow, Band 1,
+                                London Bentley, 1848, 425–428.</p></note> my absence I beg of you to
+                        cultivate the Capitan pasha<note type="comment" place="bottom"><p> Kapudan
+                                Pascha war der höchste militärische Rang der osmanischen Marine. Der
+                                Titel ist erst ab 1567 belegt. Zuvor führte der oberste
+                                Flottenkommandant den Titel Derya Bey (Meeres-Bey) oder Reis Kapudan
+                                (Kapitänanführer). Der Kapudan Pascha war meist ein Pascha von zwei
+                                oder drei Rossschweifen und Mitglied des Staatsrats des Sultans und
+                                wirkte sowohl als Oberbefehlshaber und Minister der Marine als auch
+                                gleichzeitig als Gouverneur mehrerer maritimer Provinzen (Vilâyet
+                                Cezayir), darunter insbesondere die Inseln Rhodos und Kreta und von
+                                1570 bis 1703 auch Zypern. Während er sich im Winter hauptsächlich
+                                in den Marinearsenalen von Galata und Gelibolu aufhielt, war er in
+                                den Sommermonaten zwischen den maritimen Provinzen unterwegs und
+                                nahm seine Verpflichtungen als Gouverneur wahr. Während seiner
+                                Abwesenheit vom Stützpunkt vertrat ihn der Tersane Emini (Verwalter
+                                des Marinearsenals; auch Tersane-i Amire Emini, Verwalter der
+                                kaiserlichen Marinearsenale), sein Adjutant. <persName>Küçük Hüseyin
+                                    Pascha </persName>(1757–7. Dezember 1803), auch bekannt als
+                                    <persName>Tayazade Damat Küçük Hüseyin Pascha</persName>, war
+                                ein osmanischer Staatsmann und Admiral, der vom 11. März 1792 bis
+                                zum 7. Dezember 1803 Kapudan Pascha (Großadmiral der osmanischen
+                                Marine) war. Er war ein Damat („Bräutigam“) der osmanischen
+                                Dynastie, nachdem er eine osmanische Prinzessin, <persName>Esma
+                                    Sultan</persName>, geheiratet hatte. Der gebürtige Georgier
+                                befehligte die osmanische Marine, zunächst im Kampf gegen die
+                                Piraten im Mittelmeer und dann während der Französischen
+                                Revolutionskriege Er war einer der Unterzeichner der Kapitulation
+                                von Alexandria (1801); (<hi rend="italic">Wikipedia,
+                                englisch</hi>).</p></note> and par maniere de conversation let him
+                        know all he ought to know to influence his decision as to the necessity<note type="comment" place="bottom"><p> Die Worte „the necessity“ wurden
+                                nachträglich über der Zeile eingefügt. </p></note> of interposition
+                        between the rapacious cruel set of people under his orders and the poor
+                        persecuted natives, these are not subjects to make formal representations on
+                        in my <hi rend="underline">present </hi>situation- at the same time I have
+                        no objection he should know that employed or not employed by my superiors I
+                        have ever the same interest in seeing things go on right and in such a way
+                        as shall be conducive to our success in the great question of expulsion of
+                        the enemy and the establishment<note type="comment" place="bottom"><p> Die
+                                Worte „the establishment “ wurden nachträglich über der Zeile
+                                eingefügt.</p></note> such tranquility as shall leave them no
+                        discontented party to correct themselves and recur to in future. I have no
+                        delicacy int this scene and repeat instantly to those who can and ought to
+                        act “il faut toujours vous faire le bien”.</p><p>But I must tell you in confidence, that my recall has been grounded in
+                        reality on a private letter from General
+                            <persName>Hutchinson</persName><note type="comment" place="bottom"><p>
+                                John <persName>Hely-Hutchinson</persName>, 2. <persName>Earl of
+                                    Donoughmore</persName> GCB (15. Mai 1757 in Dublin–6. Juli 1832
+                                in Knocklofty) war ein britischer General während der
+                                Koalitionskriege. 1801 schiffte er sich zur Bekämpfung der
+                                französischen Expeditionstruppen nach Ägypten ein und übernahm dort
+                                nach der Verwundung des Generals <persName>Abercromby </persName>in
+                                der Schlacht bei Alexandria am 21. März den Oberbefehl über die
+                                britische Armee. Er eroberte Damiette und Ramanieh, schloss Kairo
+                                ein und zwang den französischen General
+                                    <persName>Belliard</persName> am 27. Juni mit 14.000 Mann zur
+                                Kapitulation. Dann wandte er sich nach Alexandria und schlug alle
+                                Ausfälle <persName>Menou</persName>s zurück und nötigte auch ihn am
+                                31. August mit seiner gesamten 10.000 Mann umfassenden Streitmacht
+                                zur Aufgabe.</p></note> to Lord <persName>Keith</persName><note type="comment" place="bottom"><p> George <persName>Keith
+                                    Elphinstone</persName>, 1. Viscount Keith (7. Januar 1746 in
+                                Elphinstone Tower bei Stirling–10. März 1823 in Tulliallan Castle
+                                bei Kincardine, Fife) war ein britischer Admiral während der
+                                Napoleonischen Kriege. Er hatte den Oberbefehl über die Flotte im
+                                Mittelmeer, blockierte 1800 Genua und deckte 1801 die Landung von
+                                General <persName>Abercromby </persName>mit seinen Truppen in
+                                Ägypten. Dort verweigerte er die Ratifikation des von seinem
+                                Unterbefehlshaber Sidney <persName>Smith </persName>mit den
+                                Franzosen abgeschlossenen Abkommens von el-Arisch.</p></note>
+                        enclosing a note from Gen[era]l <persName>Craddock</persName> to him saying
+                        that the Capitan pasha had conveyed to him (Gen[era]l
+                            <persName>Craddock</persName><note type="comment" place="bottom"><p>
+                                <persName>Caradoc</persName>, Sir John Francis, Lord Howden
+                                (1762–1839), General, der 1820 den Namen Cradock gegen
+                                    <persName>Caradoc</persName> austauschte, war der einzige Sohn
+                                von John Cradock [s. v.], Erzbischof von Dublin. Bei der Vollendung
+                                der Union 1801 verlor er seinen Sitz im Parlament, wurde aber zu
+                                einem Kommando im Stab von Sir Ralph <persName>Abercromby
+                                </persName>im Mittelmeer ernannt. Er schloss sich der Armee auf
+                                Menorca an und erhielt das Kommando über die 2. Brigade. Er war an
+                                den Schlachten vom 8., 13. und 21. März in Ägypten beteiligt und
+                                begleitete nach dem Tod von <persName>Abercromby </persName>General
+                                    <persName>Hutchinson </persName>beim Vormarsch auf Kairo als
+                                zweiter Befehlshaber. Er war bei der Kapitulation von Kairo
+                                anwesend, erkrankte dann aber an Fieber und war nicht in der Lage,
+                                an der Einnahme von Alexandria mitzuwirken. Nach Abschluss des
+                                Ägyptenfeldzugs wurde er zum Oberbefehlshaber eines siebentausend
+                                Mann starken Korps ernannt und mit der Rückeroberung der Insel
+                                Korsika beauftragt. Der Frieden von Amiens beendete die Expedition,
+                                aber er wurde zum Ritter des Bath-Ordens ernannt, zum Oberst der 71.
+                                leichten Infanterie befördert und am 21. Dezember 1803 zum
+                                Oberbefehlshaber <hi rend="italic">der Truppen in Madras und zum
+                                    örtlichen Generalleutnant ernannt; (Dictionary</hi> of National
+                                Biography).</p></note>) that my presence there was disagreeable to
+                        him. Therefore I request of you to go to the Capitan pasha in my name and
+                        claim of him the execution of his promise made to me that whenever any cause
+                        of di[s]satisfaction should arise he would mention frankly to me, you may if
+                        you please ask General <persName>Craddock</persName> in my name if he
+                        specified any cause – Gen[era]l <persName>Craddock</persName> is an honest
+                        man and a Gentleman and will speak as plain as he should on such a subject,
+                        where great interests are at stake and a friends reputation is concerned for
+                        such I feel myself towards both, I mean to write Gen[era]l
+                            <persName>Craddock</persName> myself but not by this conveyance,
+                        meanwhile I have no objections you showing him this letter as an
+                        introduction to touching on<note type="comment" place="bottom"><p> Wort
+                                nachträglich über der Zeile eingefügt. </p></note> such a subject
+                        with him. If the Capitan pasha is after all his protestations to me playing
+                        false, I withdraw from him but not from the<note type="comment" place="bottom"><p> Nachträglich über der Zeile anstelle vom
+                                durchgestrichenen Wort „my“ eingefügt.</p></note> conscientious<note type="comment" place="bottom"><p> A: conscincious.</p></note> discharge
+                        of the duty. I owe this to the cause we are engaged in. </p><closer><salute>Yours affectionately and faithfully </salute><signed>W. Sidney <persName>Smith</persName></signed></closer><postscript>
+                        <p>Desire<note type="comment" place="bottom"><p> Nachfolgende Zeilen wurden
+                                    im rechten Winkel am oberen Rand der ersten Seite eingefügt. Die
+                                    Lesung des ersten Wortes ist nicht gesichert. </p></note>
+                            <persName>Bromley</persName><note type="comment" place="bottom"><p> John
+                                        <persName>Bromley</persName>, Bediensteter von
+                                        <persName>Smith </persName>und später Colonel in Ägypten vgl
+                                    dazu Band 1 von <hi rend="italic">Smith „Life and
+                                        Correspondence“. </hi>Alias für: Jacques Jean-Marie François
+                                        <persName>Boudin</persName>, <persName>comte de
+                                        Tromelin</persName> (22. August 1771, Ploujean, heute Teil
+                                    von Morlaix, Finistère–3. März 1842, Ploujean) war ein
+                                    französischer General des Ersten Französischen Kaiserreichs. Zu
+                                    Beginn der Französischen Revolution wanderten er und seine
+                                    Familie aus. Jacques trat 1792 in die Armée des Princes ein und
+                                    nahm an allen Feldzügen am Rhein und in Westfrankreich sowie an
+                                    der Quiberon-Expedition von 1795 teil. Nach dem Scheitern der
+                                    Expedition konnte er den Hinrichtungen entgehen und kehrte nach
+                                    London zurück, wo er bescheiden lebte und Zeichenunterricht
+                                    nahm. Als er Frankreich vermisste, überzeugte er William
+                                        <persName>Sidney Smith</persName>, ihn an Bord der HMS
+                                    Diamond zu nehmen. <persName>Lenotre</persName> beschrieb diese
+                                    Episode: M. <persName>de Tromelin</persName> lebte also sehr
+                                    angenehm an Bord der Diamond, ein reiner Amateur, der sich an
+                                    der Verfolgung feindlicher Schiffe ergötzte; doch in der Nacht
+                                    vom 18. auf den 19. April 1796 wollte sein Gastgeber ihm das
+                                    Spektakel einer sensationellen Heldentat der rücksichtslosen
+                                    Seefahrt bieten, indem er eine Flottille mit fünf oder sechs
+                                    Schiffen in Richtung der Reede von Le Havre begleitete; Mit fünf
+                                    oder sechs Schiffen griff er in Richtung der Reede von Le Havre
+                                    die französische Fregatte Vengeur an, ramponierte sie in
+                                    Sichtweite der Küste, enterte das Schiff und wollte mit seiner
+                                    Beute in einen englischen Hafen zurücksegeln, als eine Windböe
+                                    und die zunehmende See sie in die Seine trieben. Mehrere
+                                    republikanische Boote und der Schlepper Renard kamen aus dem
+                                    Hafen und verfolgten ihn. Eine Korvette unter dem Kommando von
+                                    Kapitän Le Loup erreichte den Schlepper von <persName>Sydney
+                                        Smith</persName>; die Besatzung enterte ihn ... Der Löwe des
+                                    Meeres war gefangen! Alle Emigranten, die auf französischem
+                                    Boden gefangen genommen wurden, wurden zum Tode verurteilt.
+                                        <persName>de Tromelin</persName> versuchte, sich als John
+                                    Bromley, ein kanadischer Diener von Smith, auszugeben, und wurde
+                                    nach Großbritannien zurückgeschickt, wo er
+                                        <persName>Smith</persName>s Flucht organisierte. Nach seiner
+                                    Rückkehr nach Frankreich wurde er persönlich zum Ritter des
+                                    St.-Louis-Ordens ernannt. Anschließend trat er in die Armée
+                                    catholique et royale de Normandie ein und wurde 1798 in Caen
+                                    erneut gefangen genommen, konnte aber nach Osten fliehen. Er
+                                    diente in Ägypten und Syrien als Major in den Streitkräften des
+                                    osmanischen Sultans gegen die französische Invasion in Ägypten.
+                                    Er kehrte 1802 nach Frankreich zurück und wurde im
+                                    Abbaye-Gefängnis inhaftiert. Aufgrund des Komplotts von
+                                        <persName>Pichegru</persName>, <persName>Cadoudal</persName>
+                                    und <persName>Mehée de la Touche</persName> wird er nach sechs
+                                    Monaten aus dem Gefängnis entlassen, von der Liste der
+                                    Emigranten gestrichen und zum Hauptmann im 112.
+                                    Infanterieregiment ernannt. 1809 wird er während des
+                                    Dalmatien-Feldzugs zum Kommandeur eines Bataillons ernannt und
+                                    nach der Schlacht von Wagram zum Oberst, der das 6. kroatische
+                                    Regiment befehligt. Im Jahr 1813 wurde er Generaladjutant der
+                                    Armée d'Allemagne. Nach der Schlacht bei Leipzig zum
+                                    Brigadegeneral und Reichsgrafen befördert, führte er während der
+                                    Hundert Tage die Brigade <persName>Tromelin</persName>, die zum
+                                    6. Infanteriekorps der Armée du Nord gehörte. Infanteriekorps
+                                    der Armée du Nord. Er kämpfte in der Schlacht von Waterloo und
+                                    befehligte die letzte französische Brigade, die das Schlachtfeld
+                                    verließ, und die provisorische Regierung beauftragte ihn, bei
+                                        <persName>Wellington</persName> Pässe für Napoleon zu
+                                    beantragen. Er trug auch zur Beendigung der Feindseligkeiten in
+                                    Paris bei, bevor er an der spanischen Expedition von 1823
+                                    teilnahm, in Igualada, Caiders, Yorba und Tarragona kämpfte und
+                                    den Rang eines Generalleutnants erlangte. 1828 veröffentlichte
+                                    er Observations sur les routes qui conduisent du Danube à
+                                    Constantinople à travers le Balcan ou mont Hoemus, suivies de
+                                    quelques réflexions sur la nécessité de l'intervention des
+                                    puissances du sud de l'Europe dans les affaires de la Grèce, par
+                                    le lieutenant-général comte de T. Le général de Tromelin était a
+                                    Grand officier de la Légion d'honneur (Der General von Tromelin
+                                    war Großoffizier der Ehrenlegion); (<hi rend="italic">Wikipedia,
+                                        englisch</hi>).</p></note>
+                        </p>
+                    </postscript><p>Give <persName>Spilsbury</persName><note type="comment" place="bottom"><p> A:
+                                spilsbury. <persName>Spilsbury</persName>, Francis Brockell
+                                (1784–1830) Marineoffizier, Kolonist und Verbesserer; Als Francis
+                                Brockell <persName>Spilsbury</persName> seinem Vater, einem
+                                Schiffschirurg, zur See folgte, war er noch kein Teenager, aber die
+                                Napoleonischen Kriege boten die Voraussetzungen für einen raschen
+                                Aufstieg in den Reihen der Royal Navy. Zwischen 1798 und 1812 diente
+                                er in der Mittelmeerflotte, zunächst als Fähnrich, wobei er 1799 bei
+                                der Belagerung von Akko (Israel) für „besondere Tapferkeit“
+                                ausgezeichnet wurde. Am 27. Dezember 1805 wurde er zum Leutnant
+                                befördert und führte 1812 in der Schlacht von Málaga eine Gruppe an,
+                                die französische Küstenbatterien und einen Freibeuter kaperte;( <hi rend="italic">Dictionary of Canadian
+                                Biography</hi>).</p><p>“SPILSBURY, Francis B.</p><p>Picturesque
+                                Scenery in the Holy Land and Syria, </p><p>London: Edward Orme,
+                                1803. Francis B. Spilsbury's Account of his Travels in the Holy Land
+                                and Syria</p><p>During the Napoleonic Campaigns , </p><p>SPILSBURY,
+                                Francis B. Picturesque Scenery in the Holy Land and Syria,
+                                Delinieated during the Campaigns of 1799 and 1800. By F.B.
+                                Spilsbury, of his Majesty's ship Le Tigre; Surgeon in that
+                                expedition during both campaigns. London: Edward Orme, 1803.” <ref target="https://www.davidbrassrarebooks.com/pages/books/05469/francis-b-spilsbury/picturesque-scenery-in-the-holy-land-and-syria">https://www.davidbrassrarebooks.com/pages/books/05469/francis-b-spilsbury/picturesque-scenery-in-the-holy-land-and-syria</ref>.
+                            </p></note> the white camel if he wants it and the other in my name to
+                        the sheik of Acko<note type="comment" place="bottom"><p> Akkon oder Akko
+                                (Hebräisch) Hafenstadt im heutigen Israel. An der erfolgreichen
+                                Belagerung von Akko 1799 war die britische Marine unter dem Kommando
+                                von <persName>Smith</persName> beteiligt.</p></note> as a present.
+                        Keep the light one for your own land expeditions. I promise myself yet the
+                        pleasure of riding it sooner or later. </p><p>If you come off to me with any news<note type="comment" place="bottom"><p>
+                                Nachträglich über der Zeile anstelle eines bis zur Unkenntlichkeit
+                                durchgestrichenen Wortes eingefügt.</p></note> from the beys Captain
+                            <persName>Wilson</persName><note type="comment" place="bottom"><p>
+                                Konteradmiral Alexander <persName>Wilson</persName> (12. Januar
+                                1760–Juni 1834) war ein Offizier der Royal Navy, der sich vor allem
+                                dadurch auszeichnete, dass er vom einfachen Seemann zum
+                                Flaggenoffizier aufstieg. <persName>Wilson </persName>trat 1777 in
+                                die Marine ein. Nach einem kurzen Kommando über die HMS Kingfisher
+                                wurde <persName>Wilson </persName>am 2. September 1795 zum
+                                Post-Kapitän befördert. Im Jahr 1798 befehligte er vorübergehend die
+                                HMS Flora, und 1801 ging er auf das Truppenschiff HMS Trusty. Die
+                                Trusty nahm dann an der Schlacht von Abukir teil. Als er 1802 als
+                                Kommandant der HMS Alexandria vom Ägyptenfeldzug nach Hause
+                                zurückkehrte, wurde <persName>Wilson</persName>s Schiff
+                                ausgemustert. Während der <persName>Napoleon</persName>ischen Kriege
+                                befehligte er die Wexford Sea Fencibles, fuhr aber nie wieder zur
+                                See. Im Jahr 1814 wurde er zum Konteradmiral im Ruhestand ernannt;
+                                    (<hi rend="italic">Wikipedia, englisch</hi>).</p></note> of the
+                        Trusty will introduce you to the senior officers in the bay of Aboukir – for
+                        a passage you had better come by <choice><abbr>Captn</abbr><expan>Captain</expan></choice>
+                            <persName>McKellar</persName><note type="comment" place="bottom"><p>
+                                Nähere Information zur Person konnten nicht eruiert
+                            werden.</p></note>s ferry. The Dromedary will carry you there. </p></div></body></text></TEI>

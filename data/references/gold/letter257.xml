@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_257"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>À Monsieur</p><p>Monsieur <persName>Hammer</persName></p><p>Recommandé á Monsieur <persName>Seidl</persName><note type="comment" place="bottom"><p> Zu lesen wäre eventuell auch „Sredl“. Im
+                                Staatshandbuch für 1802 konnte keine Hinweis auf einen Sektretär
+                                gefunden werden. <graphic url="media/image57.png"/>
+                            </p></note>
+                    </p><p>Secretraire de […]<note type="comment" place="bottom"><p> Zu lesen wäre S. M.
+                                I.( sa majesté impériale) </p></note>.</p><p>Poste restante á Vienne</p><p><note type="comment" place="inline">Durchgestrichen und darüber</note>
+                        Constantinopel</p><opener><dateline>Brunswick 28th Sept[ember] 1802</dateline><salute>My, dear Sir,</salute></opener><p>I presume you will be a little surprised at the receipt of this letter, near
+                        four months after your kind one, near four months neglect and want of
+                        gratitude in not having a thousand, thousand times thanked you for that kind
+                        interest and attention on your part, of which I fear in your eyes I must be
+                        totally unworthy of – So thank you for that kindness towards me which your
+                        Vienna letter clearly demonstrates would be but to add to may past
+                        ingratitude. Let it suffice my acknowledging my sensibility of it, and
+                        assuring you that exclusive of its advantage my greatest pleasure will be
+                        ever to retain it. --- So long time, and consequently so many events have
+                        occurred since our last meeting, that I hardly know, what subject to
+                        commence upon. I have vanity enough <hi rend="underline">yet</hi> to believe
+                        that a little history of myself, and manner of life will in some degree
+                        interest you. – You must know then I am terribly tired of Brunswick, not
+                        that I want great dissipation or outrageous gaiety, but it is a hard thing
+                        for a young men[sic] who likes society, who likes genteel young women to sub
+                        of that [<note type="comment" place="bottom"><p> Zwei nicht entzifferbare
+                                Buchstaben. <graphic url="media/image58.png"/></p></note>]st which
+                        we have to a greater or less degree by likely so many <hi rend="underline">Arabs</hi> together, I say it is a hard thing to find that
+                            Brunswick<note type="comment" place="bottom"><p> A: Brunzwic.</p></note>
+                        affords no such amusement. It is now five months since I entered this lovely
+                        place. God knows I have not seen the inside of one of their houses since
+                        that day. – You will undoubtedly in some degree attribute that either to ill
+                        breeding, shyness or pride on my part – I assure it is no such thing, for
+                        all Englishmen meet with the same fate – There is a dull Court here every
+                        Sunday where I regularly sup, and sometimes I am invited to dine at the
+                        Hereditary Court – We have here a French<note type="comment" place="bottom"><p> A: french.</p></note> Comedy<note type="comment" place="bottom"><p> A: Comedie.</p></note> three times a week and when you mention
+                        that, you mention all in the line of amusement – Suppers, dinners,
+                        breakfasts or indeed anything of Conviviality is an utter Stranger here – My
+                        occupations in a great measure safe me from the unpleasant situation of
+                        being obliged to “kill time” a species of amusement very common in England –
+                        But there are few who for months together will rise at seven and go to bed
+                        at eleven, studying day after day, and that at nineteen years old – It
+                        answers no end for I am confident that a young man who has once made so
+                        great a progress in a foreign language as to make himself understood, will
+                        advance [<note type="comment" place="bottom"><p> Dieses vermutlich aus sechs
+                                Buchstaben bestehende Wort konnte nicht entziffert werden. <graphic url="media/image60.jpeg"/></p></note>] perfection by society
+                        than by books – My great study has been French, not only on account of its
+                            <hi rend="underline">universal use</hi>, but from its facility compared
+                        to German. I can <choice><sic>know</sic><corr>now</corr></choice> read any French book understand every word I
+                        hear, converse grammatically and with some degree of fluency – That since
+                        five month consequently you may suppose my progress in German has not been
+                        near so great. – My object has been to study one Language alone first not to
+                        confound it with others, so that a company is not distressing to me – Here
+                        at the Court French is the only language. Alas I fear throughout Germany –
+                        The people here do not like speaking their own language, and when they do it
+                        is so intermixed with French<note type="comment" place="bottom"><p> A:
+                                french.</p></note> words that it becomes perfectly ridiculous – A
+                        Stranger therefore stands little or no chance of learning it here expect in
+                        his own Chamber, which he might as do equally well in London. – As all
+                        languages are alike easy to you I wish you would <hi rend="underline">converse</hi> with me by letter in French that will also assist – As to
+                        English News I know none, my family have[sic] long since almost entirely
+                            ceased<note type="comment" place="bottom"><p> A: ceas’d. </p></note>
+                        writing to me, and I assure my sisters in particular to whom I had written
+                        several times in advance – never to this day I received Sir Sydneys<note type="comment" place="bottom"><p> Sir William Sidney
+                                    <persName>Smith</persName>, GCB (21. Juni 1764–26. Mai 1840) war
+                                ein britischer Marineoffizier, Politiker und Diplomat. Einer der
+                                Neffen von Henry <persName>Cooke</persName>s Stiefvater General
+                                Edward <persName>Smith</persName>. HP diente diesem als
+                                Privatdolmetsch und Privatsekretär in Ägypten und begleitete
+                                    <persName>Smith</persName> nach England; s. dazu das Kapitel
+                                4.5.1.3 „Abschied von Ägypten und Reise nach England – 1801“; in:
+                                Walter Höflechner u.a.<hi rend="italic">; Joseph von
+                                    Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1 </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>) und die
+                                Korrespondenz von Sidney <persName>Smith</persName> an
+                            HP.</p></note> letter. Spencer <persName>Smith</persName>s<note type="comment" place="bottom"><p> John Spencer
+                                    <persName>Smith</persName> FRS (11. September 1769–5. Juni 1845)
+                                war ein britischer Diplomat, Politiker und Schriftsteller. Ehemann
+                                von Constance <persName>Smith</persName> (geborene
+                                    <persName>Herbert</persName>) (Byrons Florence).
+                                    <persName>Smith</persName> trat 1790 als Fähnrich in die
+                                britische Armee ein, später wurde er zum Leutnant befördert. Als
+                                Frankreich Großbritannien im Februar 1793 den Krieg erklärte, hielt
+                                er sich mit seinem älteren Bruder Sidney <persName>Smith</persName>
+                                in der Türkei auf, der ihm eine Stelle in der britischen Botschaft
+                                in Konstantinopel verschaffte. Er war Privatsekretär des
+                                Botschafters Robert <persName>Liston</persName> und wurde
+                                Geschäftsträger, nachdem Liston Konstantinopel im November 1795
+                                verlassen hatte. Im Jahr 1798 wurde er offiziell zum
+                                Legationssekretär ernannt und diente weiterhin als Geschäftsträger
+                                ad interim. <persName>Smith</persName> verließ Konstantinopel 1801
+                                und kam gerade rechtzeitig in England an, um bei den
+                                Parlamentswahlen 1802 für den Bezirk Dover kandidieren zu können.
+                                Während seiner Zeit als Parlamentsabgeordneter wurde er 1803/04 als
+                                Sondergesandter nach Württemberg entsandt. Bei den Parlamentswahlen
+                                von 1806 zog sich <persName>Smith</persName> aus Dover zurück und
+                                ließ sich bald darauf in der Normandie nieder, wo er über eine
+                                Vielzahl wissenschaftlicher Themen schrieb. Er starb am 5. Juni 1845
+                                in Caen. Im SAH befinden sich zahlreiche Briefe von Spencer
+                                    <persName>Smith</persName> an HP (1825-1845).</p></note> from
+                        Vienna reached me safe. At present it is not my wish, or indeed intention to
+                        remain here above three or four months longer, I am sleeping away my time in
+                        the most lethargic stupid way possible and posing over books, which without
+                        any Society [<note type="comment" place="bottom"/>] but to <hi rend="underline">conglomerate</hi> the whole system. </p><p>Dresden appears certainly the next place in view, but then the <hi rend="underline">swarms</hi> of English which inhabit that part of the
+                        Globe, renders it really dangerous – we have here about twenty from the age
+                        of sixteen to nineteen – consequently no place can be much worse as to that.
+                        When you write to me pray say how your contrived to attain the English
+                        Language in so short a time – where this letter may find you I have no idea,
+                        since you said I am about to leave Vienna in a few days for Constantinople
+                        where you must direct to me, but I will write to you again before I leave
+                        Vienna. I have not received any letter consequently suppose you gone to
+                        Constantinople and will direct to you accordingly<note type="comment" place="bottom"><p> Vgl. dazu die überschriebene Anschrift.</p></note>. –
+                        I presume my brother has gone to America to remain with his uncle<note type="comment" place="bottom"><p> A: oncle.</p></note> upon a visit who
+                        is there Commander in Chief<note type="comment" place="bottom"><p>
+                                Kommandant der „North America Station“ der Royal Navy mit Stützpunkt
+                                in Halifax. Dieser Posten wurde von 1800–1802 von Sir William
+                                    <persName>Parker</persName> 1st Baronet of Harborn (1743–1802)
+                                bekleidet. Sein Nachfolge war bis 1806 Vize-Admiral Andrew
+                                    <persName>Mitchell</persName> (1757–1806). Eine
+                                Verwandschaftsbeziehung von George <persName>Cooke</persName> zu
+                                einem der beiden lässt sich nicht eruieren. Nachweislich ist George
+                                    <persName>Cooke</persName> von Halifax nach England
+                                aufgebrochen. Am 28. Juni 1803 kollidierte das Postschiff „Lady
+                                Hobart“ mit einem Eisberg. Mit zwei Booten verliessen der Kapitän
+                                William <persName>Fellows</persName>, seine Mannschaft und fünf
+                                Passagiere, darunter George <persName>Cooke</persName> das Schiff;
+                                (vgl dazu Fellowes, W. D. (William Dorset), <hi rend="italic">A
+                                    narrative of the loss of His Majesty's packet the Lady Hobart,
+                                    on an island of ice in the Atlantic Ocean, 28th of June 1803,
+                                    London 1803</hi>). </p></note> –</p><p>That is all I know of my family, as to my sisters<note type="comment" place="bottom"><p>
+                                <persName>Penelope Anne</persName> (1770–1826),
+                                    <persName>Elisa</persName> (1774–1837) und
+                                    <persName>Maria</persName> (1776–1827).</p></note> their time
+                            <hi rend="underline">much better employed</hi>, than in writing to their
+                        brother- You tell me I am a happy man in having two such correspondents<note type="comment" place="bottom"><p> Gemeint sind hier wohl
+                                    <persName>Elisa</persName> und
+                            <persName>Maria</persName>.</p></note> – they are not my
+                        correspon[den]ts - and since you seem to value it so highly, were they, I
+                        would give them up to you until you cried for quarter which would I think be
+                        before long. As to their pictures not being a Conn[o]isseure I can dispense
+                        and if you have any wish in that way <hi rend="underline">only let me know
+                            that I may inform them, but take care to mention which</hi>. Apropos my
+                        sister <persName>Elisa</persName> sent me a note containing something for
+                        you. I enclosed it to you have you<note type="comment" place="bottom"><p>
+                                Nachträglich über der Zeile eingefügt. </p></note> received it – if
+                        not it is certainly lost, for that happened more than five month ago –
+                        However I hope you will find some Mameluck ladies to make up for it – Have
+                        the goodness never to show my letters to any one, because altho’ we
+                        understand one another a third person might not – Sir
+                            <persName>Sidney</persName> queried his Election for Rochester<note type="comment" place="bottom"><p> Von 1802 bis 1806 vertrat Sidney
+                                    <persName>Smith</persName> Rochester im Parlament. Bei der Wahl
+                                von 1802 gewann er die meisten Stimmen, bei der Wahl von 1806 konnte
+                                er nicht genug Stimmen für sich gewinnen; (History of Parliament
+                                online).</p></note>, and Spencer <persName>Smith</persName> for
+                            Dover<note type="comment" place="bottom"><p> Ab 9. Juli 1802 bis 6.
+                                November 1806. (John <persName>Trevanion</persName> 666, John
+                                Spencer <persName>Smith</persName> 534 und William
+                                    <persName>Huskisson</persName> 466 Stimmen); vgl. dazu den
+                                Beitrag zu Spencer <persName>Smith</persName> in <hi rend="italic">History of Parliament online</hi>.</p></note>; it certainly was
+                        a daring thing for him to attempt but by luck he succeed. I hear <hi rend="underline">Madame est jolie</hi><note type="comment" place="bottom"><p> Constance Spencer <persName>Smith</persName>,
+                                geborene <persName>Herbert-Rathkeal;</persName> vgl. dazu auch deren
+                                Korrespondenz mit HP.</p></note>, and although`she likes him,
+                        esteems him and is upon very good terms I tell<note type="comment" place="bottom"><p> Lesung nicht gesichert.</p></note> does not love him,
+                        and appears to look with regret upon the day she fix[e]d her destining in
+                        this world. Tell me what you think – The man who told me this <hi rend="underline">told me more</hi>. I do not believe it entirely for I
+                        have since discovered him, in my opinion, a rogue. You know the Man well and
+                        the General also – Perhaps you are surprised at my not having mention[e]d
+                        him – A cough which is his Constant Companion is the only inconvenience he
+                        at present labours under. – He is still at Bath, which place if my
+                            sisters<note type="comment" place="bottom"><p>
+                                <persName>Elisa</persName>.</p></note> health will admit of it they
+                        intend quitting very shortly, or most likely have by this time done it. They
+                        go to Walmer, a place which I own recalls some happy days to my
+                        recollection. – I have enjoy[e]d very few in my life time, I fear I was not
+                        born for many – The situation, <hi rend="underline">the Sea </hi>and
+                        recollection of past times will be a hard, very hard struggle for that dear
+                        girl to suffer. Oh, how I wish it over – My own opinion is she never will
+                        entirely recover her nerves, faculties and strength of mind<note type="comment" place="bottom"><p>
+                                <persName>Elisa</persName> war wohl durch den Tod ihres Bruder in
+                                eine Depression verfallen, welche sich auch in körperlichen
+                                Beschwerden äußerte; s. dazu Walter Höflechner u.a.<hi rend="italic">; Joseph von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1, S. 151f
+                                    </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>) und
+                                    <persName>Elisa</persName>s Brief vom 28. Mai 1802.</p></note> –
+                        I altho’ her brother recollect her what I should have thought I am [<note type="comment" place="bottom"><p> Lesen wäre eventuell das Wort „sure“.
+                            </p></note>] beautiful, had I not been her brother. She never will
+                        recover that – I do not believe she cares about it or even consider[e]d it
+                        et <hi rend="underline">c’est beaucoup dise</hi> – particularly of a woman.
+                        Since we have [<note type="comment" place="bottom"><p> Zu lesen wäre
+                                „watched“.</p></note>]atched upon that subject I must tell you the
+                        morals of the women of fashion in this part of the world rather astonished
+                        me at first. I how see their convenience and utility. They tell me at the
+                        same time that Brunswick<note type="comment" place="bottom"><p> A:
+                                Brunswic.</p></note> is the most virtuous part of Germany. – I wish
+                        very much to know the Military Establishment of Austria, as I have a wish to
+                        enter into that service as a Volunteer by way of improving myself in that
+                        profession. I should wish to know what Regiments are particularly
+                            marked<note type="comment" place="bottom"><p> A: marke’d.</p></note> as
+                        being very fine ones, who they belong to, and whether their society is good.
+                        – I am very well aware that the Subalterns of the German (I mean Austrian)
+                        Army, are generally terrible, but I presume among the Captains and field
+                        Officers very gentlemanlike and well informed men are to be found – I had
+                        long this in contemplation, and I have no doubt that exclusive of gaining
+                        that difficult language it would be of imminence service to me, let me know
+                        your opinion for I value it very much, in the mean time do not mention my
+                        having asked you this question – The Peace in England has of course in
+                        Military point of view produced great changes – Our Army is reducing to an
+                        amazing extent, nay even as fast as the French is augmenting, so much for
+                        Ministers, who literally <hi rend="underline">ought to be hung</hi> – So
+                        disgraceful a peace for England never yet was heard of – and such
+                        unaccountable arrangements contrary to common sense would almost induce to
+                        suppose <persName>Bonouparte</persName>s’[sic] <hi rend="underline">Gold
+                        </hi>rather stagger[e]d the nerves of Mr.
+                            <persName>Addington</persName><note type="comment" place="bottom"><p>
+                                Henry <persName>Addington</persName>, 1. Viscount
+                                    <persName>Sidmouth</persName> (30. Mai 1757–15. Februar 1844)
+                                war ein britischer Staatsmann und von 1801 bis 1804 Premierminister.
+                                Er gehörte zu den Tories. Als <persName>Pitt</persName> im März 1801
+                                wegen der Emanzipation der Katholiken zurücktreten musste, wurde
+                                    <persName>Addington</persName> als sein Nachfolger ausgewählt.
+                                    <persName>Addington</persName>s Regierung ist am ehesten
+                                bemerkenswert wegen der Verhandlungen zum Vertrag von Amiens von
+                                1802, in dem ein unvorteilhafter Friedensvertrag mit Frankreich
+                                geschlossen wurde. Der Frieden hielt nicht lange und
+                                    <persName>Addington</persName>s schlechte Kriegführung führte
+                                ein Jahr später zu <persName>Pitt</persName>s Rückkehr ins Amt.
+                                    <persName>Addington</persName> blieb jedoch eine wichtige
+                                politische Figur.</p></note> – There is a quarrel at present between
+                        Austria and France which of course you are well inform[e]d of relative to
+                        the indemnities – If this letter reaches you at Vienna pray let me know if
+                        Count <persName>Mountjoy</persName><note type="comment" place="bottom"><p>
+                                Charles John <persName>Gardiner</persName>, 1. <persName>Earl of
+                                    Blessington</persName> (1782–25. Mai 1829) war ein irischer
+                                Earl. Er wurde 1809 zum repräsentativen Peer gewählt, 1816 zum
+                                    <persName>Earl of Blessington</persName> ernannt und erbte 1798
+                                den Titel eines Viscount <persName>Mountjoy</persName>. Er war beim
+                                Prozess gegen Königin <persName>Caroline</persName> anwesend; (<hi rend="italic">Wikipedia, englisch</hi>).</p></note> is still
+                        there, I heard from him at Dresden, he gave a very good account of the place
+                        and among other things mentioned<note type="comment" place="bottom"><p> A:
+                                mention’d.</p></note> dining with <persName>Elliot</persName> our
+                        Minister and a number of people in the Diplomatic line in Company also with
+                        the Emperors the Conversation[e]d heard upon indemnities when Mr.
+                            <persName>Elliot</persName> said, he wished the English Ministry had
+                        done as he wished. How would you have had them done with said the A[<note type="comment" place="bottom"><p> Beschädigung durch Ausriss.
+                            </p></note>]trian<note type="comment" place="bottom"><p> Am linken
+                                Seitenrand befindet sich eine eventuell unbeschriebene Stelle über
+                                zwei Zeilen.</p></note> Minister? why said he I would have [<note type="comment" place="bottom"><p> Beschädigung durch Ausriss, ob Text
+                                fehlt ist nicht klar, da am linken Seitenrand eine eventuell
+                                unbeschriebene Stelle über zwei Zeilen.</p></note>] treated with
+                            <persName>Toussaint</persName><note type="comment" place="bottom"><p>
+                                François-Dominique <persName>Toussaint Louverture </persName>(20.
+                                Mai 1743–7. April 1803) war ein Anführer der Haitianischen
+                                Revolution. 1802 geriet <persName>Toussaint </persName>in
+                                Widerspruch zu Frankreich, das seine Forderungen für die Rechte der
+                                Schwarzen nicht erfüllte. <persName>Toussaint </persName>erwies sich
+                                wieder als geschickter Heerführer: Er vertrieb die Franzosen von der
+                                Insel und siegte auch über englische Freibeuter und die letzten
+                                spanischen Garnisonen. Um dem Einfluss Toussaints zu begegnen,
+                                entsandte <persName>Napoléon Bonaparte </persName>schließlich ein
+                                Expeditionsheer unter General Charles Victoire Emmanuel
+                                    <persName>Leclerc </persName>in die abtrünnige Kolonie.
+                                    <persName>Toussaint </persName>geriet am 7. Juni 1802 in
+                                Gefangenschaft und wurde nach Frankreich deportiert und starb 1803
+                                starb an den Folgen der harten Haftbedingungen.</p></note> and made
+                            him<note type="comment" place="bottom"><p> Beschädigung durch
+                                Ausriss.</p></note> deliver up the Island to us – well but what
+                            wou[<note type="comment" place="bottom"><p> Beschädigung durch
+                                Ausriss.</p></note>] have done for him then? Oh – given him an
+                        indemnity in the <hi rend="underline">Black forest</hi> – I look upon that
+                        as an amazing witty thing to say to the person – in the beginning of my
+                        letter I said I would write to you at Constantinople – upon second thoughts
+                        I will direct to Vienna although I can hardly decipher the name of the man
+                        to whom it is to be addressed. If the Capt=[<note type="comment" place="bottom"/>] are still at Vienna pray let me know as I wish to
+                        write to them – If you know any Political News which there is no necessity
+                        for keeping a secret pray let me know it. I am in great hopes of a quarrel
+                        between France and the Emperor although he has generally shown himself to
+                        Cunning to Commence that alone and his Allies generally find themselves
+                        deserted in the day of danger, but I beg your pardon, I forget who I am
+                        talking to – Do you know what is become of
+                            <persName>Tromelin</persName><note type="comment" place="bottom"><p>
+                                Jacques Jean-Marie François <persName>Boudin</persName>,
+                                    <persName>comte de Tromelin </persName>(22. August 1771–3. März
+                                1842) war ein französischer General des Ersten Französischen
+                                Kaiserreichs. Zu Beginn der Französischen Revolution wanderten er
+                                und seine Familie aus. Jacques trat 1792 in die Armée des Princes
+                                ein und nahm an allen Feldzügen am Rhein und in Westfrankreich sowie
+                                an der Quiberon-Expedition von 1795 teil. Nach dem Scheitern der
+                                Expedition konnte er den Hinrichtungen entgehen und kehrte nach
+                                London zurück, wo er bescheiden lebte und Zeichenunterricht nahm.
+                                Als er Frankreich vermisste, überzeugte er William Sidney
+                                    <persName>Smith</persName>, ihn an Bord der HMS Diamond zu
+                                nehmen. <persName>Lenotre</persName> beschrieb diese Episode: M.
+                                    <persName>de Tromelin</persName> lebte also sehr angenehm an
+                                Bord der Diamond, ein reiner Amateur, der sich an der Verfolgung
+                                feindlicher Schiffe ergötzte; doch in der Nacht vom 18. auf den 19.
+                                April 1796 wollte sein Gastgeber ihm das Spektakel einer
+                                sensationellen Heldentat der rücksichtslosen Seefahrt bieten, indem
+                                er eine Flottille mit fünf oder sechs Schiffen in Richtung der Reede
+                                von Le Havre begleitete; Mit fünf oder sechs Schiffen griff er in
+                                Richtung der Reede von Le Havre die französische Fregatte Vengeur
+                                an, ramponierte sie in Sichtweite der Küste, enterte das Schiff und
+                                wollte mit seiner Beute in einen englischen Hafen zurücksegeln, als
+                                eine Windböe und die zunehmende See sie in die Seine trieben.
+                                Mehrere republikanische Boote und der Schlepper Renard kamen aus dem
+                                Hafen und verfolgten ihn. Eine Korvette unter dem Kommando von
+                                Kapitän Le Loup erreichte den Schlepper von Sydney Smith; die
+                                Besatzung enterte ihn ... Der Löwe des Meeres war gefangen! Alle
+                                Emigranten, die auf französischem Boden gefangen genommen wurden,
+                                wurden zum Tode verurteilt. de <persName>Tromelin
+                                </persName>versuchte, sich als John <persName>Bromley</persName>,
+                                ein kanadischer Diener von <persName>Smith</persName>, auszugeben,
+                                und wurde nach Großbritannien zurückgeschickt, wo er
+                                    <persName>Smith</persName>s Flucht organisierte. Nach seiner
+                                Rückkehr nach Frankreich wurde er persönlich zum Ritter des
+                                St.-Louis-Ordens ernannt. Anschließend trat er in die Armée
+                                catholique et royale de Normandie ein und wurde 1798 in Caen erneut
+                                gefangen genommen, konnte aber nach Osten fliehen. Er diente in
+                                Ägypten und Syrien als Major in den Streitkräften des osmanischen
+                                Sultans gegen die französische Invasion in Ägypten. Er kehrte 1802
+                                nach Frankreich zurück und wurde im Abbaye-Gefängnis inhaftiert.
+                                Aufgrund des Komplotts von <persName>Pichegru</persName>,
+                                    <persName>Cadoudal </persName>und <persName>Mehée de la Touche
+                                </persName>wird er nach sechs Monaten aus dem Gefängnis entlassen,
+                                von der Liste der Emigranten gestrichen und zum Hauptmann im 112.
+                                Infanterieregiment ernannt. 1809 wird er während des
+                                Dalmatien-Feldzugs zum Kommandeur eines Bataillons ernannt und nach
+                                der Schlacht von Wagram zum Oberst, der das 6. kroatische Regiment
+                                befehligt. Im Jahr 1813 wurde er Generaladjutant der Armée
+                                d'Allemagne. Nach der Schlacht bei Leipzig zum Brigadegeneral und
+                                Reichsgrafen befördert, führte er während der Hundert Tage die
+                                Brigade <persName>Tromelin</persName>, die zum 6. Infanteriekorps
+                                der Armée du Nord gehörte. Infanteriekorps der Armée du Nord. Er
+                                kämpfte in der Schlacht von Waterloo und befehligte die letzte
+                                französische Brigade, die das Schlachtfeld verließ, und die
+                                provisorische Regierung beauftragte ihn, bei
+                                    <persName>Wellington</persName> Pässe für Napoleon zu
+                                beantragen. Er trug auch zur Beendigung der Feindseligkeiten in
+                                Paris bei, bevor er an der spanischen Expedition von 1823 teilnahm,
+                                in Igualada, Caiders, Yorba und Tarragona kämpfte und den Rang eines
+                                Generalleutnants erlangte. 1828 veröffentlichte er <hi rend="italic">Observations sur les routes qui conduisent du Danube à
+                                    Constantinople à travers le Balcan ou mont Hoemus, suivies de
+                                    quelques réflexions sur la nécessité de l'intervention des
+                                    puissances du sud de l'Europe dans les affaires de la Grèce, par
+                                    le lieutenant-général comte de T. Le général de Tromelin était a
+                                    Grand officier de la Légion d'honneur</hi> (Der General von
+                                Tromelin war Großoffizier der Ehrenlegion); (<hi rend="italic">Wikipedia, englisch</hi>). Dieser diente unter Sidney
+                                    <persName>Smith</persName> unter dem Namen John
+                                    <persName>Bromley</persName> in der British Navy; vgl. dazu die
+                                Korrespondenz von <persName>Smith</persName> an HP.</p></note> ( he
+                        went to London – I saw him at Frankfort he was enquiring of me three or four
+                        times w[h]ether Sir <persName>Sydney</persName> had done anything for him –
+                        I answered that to the best of my knowledge Sir S. was trying to get
+                        something <hi rend="underline">for himself</hi>. – <salute>You must be quite
+                            tired, the paper will contain no more and I assume I can write no more –
+                            Adieu and believe me y[ou]r sincere friend</salute></p><closer><signed>HF Cooke</signed></closer><postscript>
+                        <p>Write<note type="comment" place="bottom"><p> Diese Worte wurden am
+                                    unteren Bogenrand links um 90 Grad gegen den Uhrzeigersinn
+                                    gedreht eingefügt.</p></note> soon and direct</p>
+                    </postscript><postscript>
+                        <p>Poste Restante á Brussels</p>
+                    </postscript></div></body></text></TEI>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_4908"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>King’s College;<lb/>London, December 27. 1833.</dateline></opener><p><salute>I<note type="comment" place="bottom"><p> Dieser Brief besteht aus
+                                    einer Anfangsseite, einigen Ausschnitten einer über 7 Zeilen –
+                                    welche mit roter Tinte schräg von unten nach oben
+                                    durchgestrichen sind, einer Seite, einem weiteren über 6 Zeilen
+                                    und einem Blatt, von welchem die unterste Zeile zur Gänze sowie
+                                    einige Worte am rechten Zeilenrand der vorletzten Zeile
+                                    abgeschnitten sind. Ein Briefende ist nicht vorhanden.
+                                </p></note> was indeed mortified and vexed beyond measure, my dear
+                            Sir,</salute> when during my absence in France in September last, some
+                        friend of yours called<note type="comment" place="bottom"><p> Möglicherweise
+                                John <persName>Murray;</persName> vgl. dazu HPs Brief ddo 1833 X
+                                27.</p></note> at my office in King’s College, and left me the
+                        vexatious intelligence, that you were waiting my wishes on behalf of W.
+                            <persName>Sotheby</persName>’s Hexaglott Bucolics<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Georgica Publii Virgilii Maronis hexaglotta 1827,
+                                    creator: Creator : Virgil (70-19 BC), (author) Sotheby, William,
+                                    (translator), (publisher) Nicol 1827</hi>; vgl. dazu auch die
+                                Rezension dieses Werks im <hi rend="italic">Quarterly Review, Band
+                                    38, Seiten 358–377</hi>.</p></note>. For my own part I admit,
+                        that I have long felt astonished at your long apparent silence on this
+                        subject, as I had done myself the pleasure of writing a very long letter to
+                        you in October 1832<note type="comment" place="bottom"><p> Dieser Brief
+                                befindet sich in im Briefnachlass HPs und dürfte nicht zugestellt
+                                worden sein.</p></note>, acknowledging much gratefully your welcome
+                        recollection of me in your beautiful Edition of M. Antoninus<note type="comment" place="bottom"><p> HP, <hi rend="italic">Marku Antōninu
+                                    Autokratoros tōn eis heauton biblio Imperator Marcus Aurelius
+                                    Antoninus (Imperium Romanum) griechisch und persisch, Wien
+                                    Strauß, 1831</hi> – Dem Schah von Persien gewidmet. </p></note>,
+                        the Habsburglied<note type="comment" place="bottom"><p> Ludwig August
+                                Frankl; <hi rend="italic">Das Habsburglied; Wien, Verlag der Edlen
+                                    v. Ghelen'schen Erben, 1832</hi>. </p></note>, and other
+                        undeserved marks of your continued kindness; and I at the same time,
+                        requested that you would have the goodness to point out to me by what
+                        conveyance I could have the gratification of sending you, as a poor return,
+                        some publications, which I know would be acceptable to you; and likewise I
+                        mentioned, that I had communicated with Mr. <persName>Sotheby</persName>
+                        respecting his work, but, as he did not <choice><sic>chuse</sic><corr>choose</corr></choice> to go through what he
+                        conceived to be a humiliating formality<note type="comment" place="bottom"><p> Es handelt sich hierbei wohl darum, dass der „Amtsweg“ zur
+                                Überreichung einer Gabe an den Kaiser nicht eingehalten wurde. Wie
+                                aus dem Brief <persName>Smith</persName> an HP ddo 1830 IX 7
+                                hervorgeht. Dass dieses Präsent dem Kaiser überreicht werden konnte
+                                und mit einer goldenen Medaille honoriert wurde erhellt sich aus aus
+                                    <persName>Smith</persName> an HP ddo 1834 XII 5 und
+                                    <persName>Sotheby</persName> Charles an HP ddo 1835 IV 30.
+                            </p></note>, it would be highly gratifying to him, if you would have his
+                        Bucolics removed under your own roof, and let it stand upon the shelves of
+                        your own private Library<note type="comment" place="bottom"><p> Im „<hi rend="italic">Katalog von HPs Privatbibliothek in Wien in der
+                                    durchsuchbaren Bearbeitung Verzeichnis der hinterlassenen
+                                    wertvollen Bibliothek weiland des Herrn Josef Freiherrn von
+                                    Hammer‐Purgstall“</hi>
+                                <ref target="http://gams.uni-graz.at/archive/objects/o:hpe.band3.2-5.3/methods/sdef:PDF/get">http://gams.uni-graz.at/archive/objects/o:hpe.band3.2-5.3/methods/sdef:PDF/get</ref>
+                                (Auktionskatalog) ist dieses Werk nicht verzeichnet. </p></note>, as
+                        “a testimony of esteem from him to your private worth and of your
+                        inestimable public labours in the cause of Oriental Literature, Poetry and
+                        History”. He, therefore, as well as myself, is very anxious to hear, that
+                        you are in possession of a work, which is elsewhere deemed an incumbrance.
+                        The King of Prussia<note type="comment" place="bottom"><p> Friedrich Wilhelm
+                                III. (3. August 1770–7. Juni 1840) aus dem Haus Hohenzollern war von
+                                1797 bis 1840 König von Preußen und Kurfürst von
+                            Brandenburg.</p></note>, to whom it was sent by me simply under the care
+                        of Dr. <persName>Spiker</persName><note type="comment" place="bottom"><p>
+                                Samuel Heinrich <persName>Spiker</persName>, Journalist, Geograph.
+                                Er war geb. am 24. Dec. 1786 zu Berlin, studierte 1806 mit
+                                    <persName>Varnhagen v. Ense</persName> zusammen in Halle und
+                                wurde Dr. phil. Mit F. <persName>Rühs</persName> gab er 1814 und
+                                1815 den 1.–4. Bd. der <hi rend="italic">Zeitschrift für die neueste
+                                    Geschichte</hi> heraus, auch redigierte er, einer der besten
+                                Kenner von Afrika für jene Zeit, von 1819–27 das <hi rend="italic">„Journal für Land- und Seereisen“</hi>. Band XXI–LVII, dessen
+                                Mitarbeiter er schon früher gewesen war. Er hatte Beziehungen zu
+                                England und wurde als Lebemann von seinen Freunden, aber auch in der
+                                gegnerischen Presse scherzweise „Lord Spiker“ genannt. Die Reise
+                                durch England und Schottland, die er 1816 gemacht und 1818 in zwei
+                                Bänden beschrieben hatte, wurde 1820 ins Englische übersetzt.
+                                Dagegen übersetzte <persName>Spiker</persName> Arbeiten von
+                                    <persName>Shakespeare</persName> und W.
+                                    <persName>Scott</persName> in's Deutsche und führte Washington
+                                    <persName>Irving</persName> so geschickt in Deutschland ein, daß
+                                dieser eine Zeit lang ebenso bekannt war als jetzt kaum noch Walter
+                                    <persName>Scott</persName>. 1827 kaufte er von den Spenerschen
+                                Erben die <hi rend="italic">„Berlinischen Nachrichten von Staats-
+                                    und gelehrten Sachen“</hi> (Haude und Spenersche Zeitung); (<hi rend="italic">ADB</hi>).</p></note>, has not only announced to
+                        Mr. Sotheby that he is so delighted with his Bucolics as to have ordered
+                            it<note type="comment" place="bottom"><p> Nachträglich über der Zeile
+                                eingefügt. </p></note> to be stored in his private Library, but his
+                        Majesty has presented him through his ambassador, Count
+                            <persName>Bülow</persName><note type="comment" place="bottom"><p>
+                                Heinrich Freiherr <persName>von Bülow</persName> (16. September
+                                1792–6. Februar 1846) war ein preußischer Staatsmann und Gemahl von
+                                Gabriele von <persName>Bülow</persName>. Nach dem Frieden widmete er
+                                sich dem diplomatischen Fach, arbeitete unter dem Staatsminister
+                                Wilhelm <persName>von Humboldt</persName>, als dieser zu Frankfurt
+                                am Main die Grenzregulierung der deutschen Territorien leitete, und
+                                folgte ihm 1817 als Gesandtschaftssekretär nach London und 1819 nach
+                                Berlin, wo er im auswärtigen Amt den Vortrag über Handels- und
+                                Schiffahrtssachen übernahm. <persName>Bülow</persName> war besonders
+                                für die Anbahnung des Zollvereins durch Abschluss von Zollverträgen
+                                mit den Nachbarstaaten mit Erfolg tätig. Auch als Gesandter in
+                                London, wozu er 1827 ernannt wurde, wirkte er für den Zollverein. Er
+                                erwarb sich das Vertrauen der englischen Staatsmänner und hatte an
+                                den Verhandlungen über Belgien und die orientalische Frage (1840–41)
+                                hervorragenden Anteil. </p></note>, with a handsome gold medal. </p><p>My letter must have been lost or intercepted on its way to you, for I not
+                        only directed it myself, but lodged in our Post Office with my own hands;
+                        not knowing, as our postage here is considerable, that servants sometimes
+                        destroy letters in order to pocket money the given to them to deploy[?] that
+                        expense. I sincerely trust<note type="comment" place="bottom"><p> Vom
+                                Kontext ist zu vermuten, dass dieser Ausschnitt mit den roten
+                                Durchstreichungslinien dem Wort „sincerely“ folgt. Die in diesem
+                                Scan zu erkennenden Unterlängen der vorigen, nicht vorhandenen
+                                Zeile, passen zu den Worten „pocket, Money, deploy, expense und
+                                sincerely“.</p></note> that a better fate may await the present
+                        lines, for it is very painful indeed to my feelings to know myself
+                        innocently the object of reproach on the part of a gentleman, to whom I
+                        shall ever acknowledge myself under deep obligations, and whose
+                        correspondence and esteem I set the highest value. I should indeed hold
+                        myself unworthy of any good man’s respect, could I ever forget how cheering
+                        an urbanity and with how prompt and liberal a kindness you have always met
+                        me; and permit me to add, that I am eager for the opportunity of proving to
+                        you that of which<note type="comment" place="bottom"><p> Auch hier lässt der
+                                Kontext vermuten, dass es die Fortführung des vorigen Textes ist.
+                            </p></note> I have now given you the heartfelt assurance. </p><p>I wish, that I could report greater progress in my intended abridgement of
+                        your noble book on Turkish History. With every encouragement before me, –
+                        its intrinsic value. – the opportunity of availing myself of your personal
+                        illustrations in all cases of difficulty – an anxiety, that the talent and
+                        learning of so respected a friend and historiographer should be universally
+                        prized amongst my own Countrymen – and not least of all, the bareness of own
+                        Literature in this department; – with such warm inducement as these, I have
+                        still been disabled from pursuing my somewhat advanced labour, by the
+                        intervention of those insuperable obstacles, absolute want of calm leisure,
+                        and an overwhelming demand upon my time and attention. I am not, however,
+                        easily to be deterred from a favourite and good purpose; and this command my
+                        own hours and studies. In the meanwhile, let me heartily congratulate you
+                        upon the completion of the stupendous enterprise. With what honest pride may
+                        you not low look back upon the accomplishment of the great and noble end, to
+                        which you have devoted such long years of mental and bodily exertion: and my
+                        you find your just reward in the consciousness, that you have conferred a
+                        benefit upon the finest and richest fields in intellectual knowledge, which
+                        no prince, or age or country can repay!</p><p>Here I may almost say that we are without Literature; solid learning and deep
+                        study seem to have taken wing to the banks of the Rhine, the Danube, and the
+                        Spree; all on the Thames is light, flimsy, cheap, and artificial; we are
+                        inundated with compilations and essays in Science and the Belles Lettres,
+                        and drink at babbling streams and walk along flowery meads, conceiving them
+                        as full of health and invigoration, as the great embosomed banks of noble
+                        rivers, and the height and depth and breadth of mountain regions. In truth
+                        men seem to think, that learning is a fruit, which can be called in a
+                        morning’s walk; not a prize, which none can attain but by days and nights
+                        and month and years of climbing. It is well, however, in the present age of
+                        political distractions, that the middling classes should thus imagine, that
+                        knowledge is to be acquired at the rate of a penny or two pence per week; at
+                        least, their attention is taking a wholesome turn and their minds are
+                        digesting a nutritious food, instead of the deleterious poison, which lays
+                        individuals, and then nations, at the feet of adventurers and levellers. </p><p>The<note type="comment" place="bottom"><p> Dieses Fragment passt zum dem
+                                vorigen Text und passt vom Kontext der letzten vorhandenen Seite.
+                            </p></note> most substantial work, which have latterly emanated from our
+                        press is undoubtedly the Bridgewater Treatises<note type="comment" place="bottom"><p> Die Bridgewater Treatises sind eine Reihe
+                                naturtheologischer Schriften des 19. Jahrhunderts, die von Francis
+                                    <persName>Egerton</persName>, 8. Earl of
+                                    <persName>Bridgewater</persName>, herausgegeben wurden (posthum
+                                erschienen 1833–1840). Zur weiteren Information zum Prozedere, den
+                                Bänden und seiner Autoren vgl. den Beitrag in <hi rend="italic">Wikipedia, englisch</hi>.</p></note>; a commenced series of
+                        illustrations of the Omnipresence and Omnipotence of the Creator as
+                        manifested in his works. The series will consist of Eight, each written by
+                        our most celebrated man of learning, who received each, from the bequest
+                        made by the late Earl of Bridgewater £ 1000. Professors
+                            <persName>Whewell</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Astronomy and General Physics considered with
+                                    reference to Natural Theology (1833), by William Whewell,
+                                    D.D</hi>.</p></note>, and <persName>Kidd</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">On The Adaptation of External Nature to the
+                                    Physical Condition of Man (1833), by John Kidd,
+                            M.D.</hi></p></note>, Dr. <persName>Chalmers</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">The Adaptation of External Nature to the Moral and
+                                    Intellectual Condition of Man (1833), by Thomas Chalmers,
+                                    D.D</hi>.</p></note>, and Sir Charles
+                            <persName>Bell</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">The hand, its Mechanism and Vital Endowments as
+                                    evincing Design (1833), by Sir Charles Bell.</hi></p></note>,
+                        are already before the public with their volumes; to each the<note type="comment" place="bottom"><p> Aus dem Kontext lässt sich schließen,
+                                dass diese unvollständige Seite folgt. </p></note> Archbishop of
+                        Canterbury and the Bishop of London, who superintend the fulfilment of the
+                        bequest having assigned the subject most in harmony with their respective
+                        acquirements. The other four writers, whose work is in hand are Dr.
+                            <persName>Roget</persName>,<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Animal and Vegetable Physiology considered with
+                                    reference to Natural Theology (1834), by Peter Mark
+                                Roget</hi>.</p></note> Prof[esso]r
+                            <persName>Buckland</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">Geology and Mineralogy considered with reference
+                                    to Natural Theology (1836), by William Buckland,
+                            D.D.</hi></p></note>, the Rev[eren]d Mr. <persName>Kirby</persName><note type="comment" place="bottom"><p>
+                                <hi rend="italic">On the History, Habits and Instincts of Animals
+                                    (1835), by William Kirby</hi>.</p></note>, and Dr.
+                            <persName>Prout</persName>. Those, which [sic] have appeared, have been
+                        greatly admired, and have met with an unprecedented sale. – late as it is in
+                        the day, we are at least on the eve of possessing that, which our Literature
+                        only, among of all the literatures of Modern Europe, has hitherto needed; a
+                        History of English Literature, undertaken by Mr.
+                            <persName>D’Israeli</persName>,<note type="comment" place="bottom"><p>
+                                Isaak D<persName>’Israeli</persName> (auch Isaac D’Israeli; 11. Mai
+                                1766–19. Januar 1848) war ein englischer Schriftsteller und
+                                Literaturhistoriker. Isaak D'Israeli war der einzige Sohn von
+                                Benjamin <persName>D'Israeli</persName> (1730–1816), einem
+                                Großhändler, der aus der italienischen Stadt Cento stammte und sich
+                                1748 in England niederließ, wo er erst 1801 eingebürgert wurde.
+                                Seine Mutter war Rebecca <persName>Mendez Furtado</persName>, eine
+                                Schwester von Abraham <persName>Furtado</persName>, die 1765 in
+                                London Benjamin <persName>D’Israeli </persName>geheiratet hatte.
+                                Isaak war nicht religiös, sondern durch die Gedanken der Aufklärung
+                                beeinflusst. Im Jahre 1802 heiratete er Maria
+                                    <persName>Basevi</persName> (1774–1847), die ebenfalls einer in
+                                London ansässigen Familie italienisch-jüdischer Herkunft entstammte.
+                                Das Paar hatte fünf Kinder: Sarah (1802–1859), Benjamin (1804–1881),
+                                Naphtali (1807, starb als Säugling), Raphael (1809–1898) und Jacobus
+                                (1813–1868). Die Kinder erhielten ihre Namen nach jüdischen
+                                Traditionen, und die Söhne wurden alle beschnitten. Auf den Rat
+                                seines Freundes, des Historikers Sharon <persName>Turner</persName>,
+                                und infolge jahrelanger Auseinandersetzungen mit der
+                                Bevis-Marks-Synagoge wurden jedoch 1817 alle seine Kinder in der
+                                Church of England getauft. Er selbst trat zwar nicht zum Christentum
+                                über, ließ sich aber auf einem nichtjüdischen Friedhof beerdigen.
+                                Literarische Bekanntheit erlangte er mit <hi rend="italic">Curiosities of Literature</hi>, einer Sammlung von Anekdoten
+                                über berühmte Persönlichkeiten, Bücher und die Hobbys von
+                                Büchersammlern. 1828 wurde seine Biographie über <persName>Karl
+                                    I.</persName> (<hi rend="italic">The Life and Reign of Charles
+                                    I</hi>) veröffentlicht, die im 19. Jahrhundert hohe Popularität
+                                genoss und derentwegen er von der Universität Oxford mit dem Grad
+                                eines Ehrendoktors ausgezeichnet wurde. Sein zweites Kind, der
+                                zweimalige britische Premierminister Benjamin
+                                    <persName>Disraeli</persName>, hinterließ im Rahmen seiner
+                                Werkausgaben auch biographische Notizen über seinen Vater. <hi rend="italic">Curiosities of literature: Consisting of
+                                    anecdotes, characters, sketches, and observations, literary,
+                                    critical, and historical. (1859)</hi>. Auf welches – vermutlich
+                                nicht realisierte Publikationsprojekt- sich hier
+                                    <persName>Smith</persName> bezieht ist unklar. </p></note> who
+                        it is on all hands admitted, is by his previous studies better calculated
+                        than most others to do this subject justice. – We are in hopes too, that
+                        much more will be done now for the advance of Oriental Literature in this
+                        country; for independently of the Asiatic Society<note type="comment" place="bottom"><p> Royal Asiatic Society of Great Britain and Ireland,
+                                gegründet 1823. </p></note>, we have now two men with us, who have
+                        spent their best years in the Study of Sanskrit, Persian, and other dialects
+                        of the East on the spot where they prevail. I allude to Mr.
+                            <persName>Wilson</persName><note type="comment" place="bottom"><p>
+                                Horace Hayman <persName>Wilson</persName> ein langjähriger
+                                Korrespondent HPs; vgl. dazu die Briefe von HP an
+                                    <persName>Wilson</persName> und <persName>Wilson</persName> an
+                                HP. </p></note>, lately elected Prof[esso]r of Sanskrit to the
+                        Uni[ersit]y of Oxford, and Mr. <persName>Seddon</persName><note type="comment" place="bottom"><p> Felix John Vaughan
+                                    <persName>Seddon</persName> (1798–1865), Orientalist, Sohn des
+                                Rechtsanwalts William <persName>Seddon</persName> aus Pendleton bei
+                                Manchester, wurde 1798 geboren und besuchte das Gymnasium in
+                                Manchester. Im Jahr 1815 ging er nach Indien, wo er fünfzehn Jahre
+                                lang lebte und während seines Aufenthalts eine gründliche Kenntnis
+                                mehrerer orientalischer Sprachen erwarb. Er wurde 1820 zum Kanzler
+                                von Rangpur in Bengalen ernannt und begleitete bei Ausbruch des
+                                birmanischen Krieges 1824 die Armee als Übersetzer und Buchhalter
+                                des Agenten des Generalgouverneurs. Er übersetzte die Kriegsartikel
+                                und Artillerieübungen für die einheimischen Soldaten ins Munipuri
+                                und erstellte eine Grammatik und ein Wörterbuch der Sprache von
+                                Assam. Als seine Gesundheit 1830 versagte, arbeitete er an einem
+                                vergleichenden Wörterbuch der Munipuri-Sprache, der siamesischen
+                                Sprache und der burmesischen Sprache. Später half er bei der
+                                Übersetzung der Bibel in einige indische Sprachen. Am 12. Juli 1833
+                                wurde er zum Professor für orientalische Sprachen am King's College
+                                in London gewählt und veröffentlichte 1835 <hi rend="italic">„An
+                                    Address introductory to a Course of Lectures on the Languages
+                                    and Literature of the East", 8vo</hi>. Im Jahr 1837 reiste er
+                                erneut nach Indien, um in Lucknow ein College zu eröffnen, ein
+                                Projekt, an dem <persName>Wilhelm IV.</persName> großes Interesse
+                                zeigte. Diese und andere Schwierigkeiten zwangen ihn, das Vorhaben
+                                aufzugeben. Danach wurde er zum Präzeptor des Nawab Nizam ernannt
+                                und erhielt für seine Dienste eine Pension. Den letzten Teil seines
+                                Lebens verbrachte er in Murshidabad, Bengalen, wo er am 25. November
+                                1865 unverheiratet starb; (<hi rend="italic">Dictionary of National
+                                    Biography</hi>).</p></note>, who was first Interpr[eto]r to the
+                        Bengal government, which[sic] is now Prof[esso]r in our King’s College here.
+                        His opening lecture, delivered last month, on the Sanskrit, as mother of the
+                        Eastern and Western languages, was as Sir Charles
+                            <persName>Wilkins</persName><note type="comment" place="bottom"><p>
+                                Charles <persName>Wilkins</persName>, den HP während seines
+                                Aufenthaltes in England kennengelernt hatte war der Mentor von
+                                Claudius James <persName>Rich</persName>, auf welchen sich
+                                    <persName>Rich</persName> in seinen ersten Brief an HP im Jahr
+                                1804 beruft. Dieser Korrespondenz und der sich daraus entwickelnden
+                                Freundschaft mit dem Ehepaar <persName>Rich</persName> verdankt HP
+                                seine Beziehungen zu Briten, welche für die East India Company tätig
+                                waren und die Mitgliedschaft bei den asiatischen Gesellschaften am
+                                indischen Subkontinent. </p></note> himself told me, a most
+                        remarkable display of learning research, it shall be printed, and I shall
+                        make a point of resewing a copy to accompany my packet to you, so soon as I
+                        can find the means of sending it to without expense. – It may interest you
+                        to hear, that at the last meeting of the Royal Society of Literature Mr.
+                            <persName>Wilkinson</persName><note type="comment" place="bottom"><p>
+                                John Gardner <persName>Wilkinson</persName> ein bekannter Ägyptologe
+                                war ein Korrespondent von HP; vgl. dazu die Briefe von und an HP.
+                            </p></note> read a paper giving a detailed account of the contrivance by
+                        means of wh[ich<note type="comment" place="bottom"><p> Textverlust durch
+                                dreieickigen Ausschnitt am rechten Zeilenrand.</p></note>] the
+                        celebrated <hi rend="underline">Statue of Memnon</hi> was rendered <hi rend="underline">vocal</hi><note type="comment" place="bottom"><p>
+                                <hi rend="italic">On the Contrivance by means of which the Statue of
+                                    Memnon at Thebes was made vocal. By J. G. Wilkinson,Esq.,
+                                    M.R.S.L. Read Dec. 18. 1833</hi>; in: <hi rend="italic">Transactions of the Royal Society of Literature of the United
+                                    Kingdom, Band 2,Teil 2 ;Band 4, Royal Society of Literature of
+                                    the United Kingdom, J. Murray, 1834, 451-456</hi>. </p></note>.
+                        He discovered that this de […<note type="comment" place="bottom"><p>
+                                Textverlust durch dreieckigen Ausschnitt am rechten
+                            Zeilenrand.</p></note>] consisted in producing a metallic sound by
+                        striking brass against a stone fixed [<note type="comment" place="bottom"><p> Textverlust durch dreieckigen Ausschnitt am rechten
+                                Zeilenrand.</p></note>] the breast the Colossus. His attention was
+                        first drawn to the subject, whilst he was [<note type="comment" place="bottom"><p> Textverlust durch dreieckigen Ausschnitt am rechten
+                                Zeilenrand.</p></note>] or Thebes, by the inscription left behind by
+                        Julia Balfilla/eventuell Balpilla zu lesen<note type="comment" place="bottom"><p> Vgl. dazu die Passage über Julia Ballilla [sic] auf
+                                Seite 454 und die FN 5 <hi rend="italic">„Not Balbilla, as given by
+                                    Monsieur Letronne.“</hi> Zu Julia Balbilla siehe deren Eintrag
+                                in <hi rend="italic">Wikipedia englisch</hi>. </p></note>, who
+                        compares the sound [<note type="comment" place="bottom"><p> Textverlust
+                                durch dreieckigen Ausschnitt am rechten Zeilenrand.</p></note>] by
+                        the by the Statue to “the striking of Brass”. Mr.
+                            W[<persName>ilkinson</persName>] that the name of Memnon was [<note type="comment" place="bottom"><p> Textverlust durch dreieckigen
+                                Ausschnitt am rechten Zeilenrand.</p></note>] known to the Egyptian
+                        Priests; but that the Statue represents Amenoph III a Theban or
+                            Diospolite<note type="comment" place="bottom"><p> Diospolis magna war
+                                der römische Name für Theben.</p></note> Monarch, the ninth King of
+                        the XXIIIth dynasty. – There are two works in Travels which promise to be
+                        highly interesting; Cap[ain] <persName>Ross</persName>’s<note type="comment" place="bottom"><p> Sir John <persName>Ross</persName> (24. Juni 1777–30.
+                                August 1856) war britischer Marineoffizier und
+                            Polarforscher.</p></note> Narrative<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Narrative of a second voyage in search of a
+                                    north-west passage, and of a residence in the Arctic regions
+                                    during the years 1829, 1830, 1831, 1832, 1833. London: A.W.
+                                    Webster. 1835</hi>.</p></note> of this voyage and perilous
+                        escape in the Polar Seas; as well as his account of observations made upon
+                        the point of Concentricity of the Magnetic Pole, which he seems to have
+                        actually discovered; and Cap[ain] <persName>Burnes</persName>’<note type="comment" place="bottom"><p> Sir Alexander
+                                    <persName>Burnes</persName> (genannt „Bokhara Burnes“; 16. Mai
+                                1805–2. November 1841) war ein britischer Entdeckungsreisender,
+                                Reiseschriftsteller und Diplomat. Er spielte eine wichtige Rolle im
+                                Great Game und im Ersten Anglo-Afghanischen Krieg. Sein Buch <hi rend="italic">Travels into Bokhara</hi> war zum Zeitpunkt der
+                                Erscheinung ein Bestseller.</p></note> Narrative<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Travels into Bokhara. Being an account of a
+                                    Journey from India to Cabool, Tartary and Persia. Also,
+                                    narrative of a Voyage on the Indus from the Sea to Lahore
+                                    (London: John Murray). 1834. 3 Bde</hi>.</p></note> of a
+                        scientific journey through Tartary, North India and Central Asia of which he
+                        has just read an Outline before the Society<note type="comment" place="bottom"><p> Dieser Beitrag konnte noch nicht eruiert werden, da
+                                eine Angabe der Gesellschaft fehlt.</p></note> full of remarkable
+                        details. – As a proof of the advance making in intellectual Civilisation in
+                        India I may mention, that a Native Branch of the Asiatic Soc[iet]y has been
+                        formed in Madras by 200 of the most opulent and respectable gentlemen und
+                        the title of the “Carnatic Literary Society”<note type="comment" place="bottom"><p> Es handelt es sich hierbei um eine Gesellschaft,
+                                welche von Cavelly Venkuta <persName>Lutchmiah</persName> (der Namen
+                                ist in den Quellen unterschiedlich geschrieben) vom Assistenten des
+                                1821 verstorbenen Colonel Colin <persName>Mackenzie</persName>
+                                (geboren 1754) wohl gegen Ende des Jahres 1833 gegründet wurde. Der
+                                von <persName>Smith</persName> angegebene Name „Carnac Literary
+                                Society“ konnte in keiner online zugänglichen Quelle eruiert werden.
+                                In den Beiträgen diese Gesellschaft betreffend werden überdies
+                                verschieden Namen genannt („Madras Native Branch“, „Madras Hindu
+                                Society“, „Madras Hindu Literary Society”, „Native Literary
+                                Society“); vgl. dazu den Artikel zu Colin
+                                    <persName>Mackenzie</persName> in <hi rend="italic">Wikipedia
+                                    englisch</hi>; <hi rend="italic">Madras Literary Society : a
+                                    history, 1812–1984 / by N.S. Ramaswami (Madras : Madras Literary
+                                    Society, 2018 [c1985]). Seiten 20 und 21</hi>; John Shakespear,
+                                W.B. Bayley und David Pollock, <hi rend="italic">Report of the Royal
+                                    Asiatic Society of Great Britain and Ireland</hi>; in: <hi rend="italic">The Journal of the Royal Asiatic Society of Great
+                                    Britain and Ireland Band 1, Nr. 2 (1834) iii-xviii (xi)</hi>.
+                                    <hi rend="italic">Proceedings of the Anniversary Meeting of the
+                                    Royal Asiatic Society held on Saturday the 10th of May 1834</hi>
+                                im vorgenannten Journal auf Seite 162; Gazulu Lakshminarasu Chetty:
+                                    <hi rend="italic">Portrait of A Hindutva Pioneer From Madras
+                                    </hi>(<ref target="https://dakshinavarta.com/2021/02/14/gazulu-lakshminarasu-chetty-portrait-of-a-hindutva-pioneer-from-madras/"><hi style="font-size:8pt">https://dakshinavarta.com/2021/02/14/gazulu-lakshminarasu-chetty-portrait-of-a-hindutva-pioneer-from-madras/</hi></ref>)
+                                sowie den “Nachruf” zu Cavelly verstorben 1839) in: <hi rend="italic">Proceedings of the Seventeenth Anniversary Meeting
+                                    of the Society held on the 9</hi><hi rend="italic">th</hi><hi rend="italic"> of May 1840…Annual Report</hi> in: <hi rend="italic">Journal of the Royal Asiatic Society of Great
+                                    Britain &amp; Ireland, Band 6, (1841) Seite 4.</hi> Unser Dank
+                                gilt Herrn Dr. Edward <persName>Weech</persName>, Bibliothekar der
+                                Royal Asiatic Society of Great Britain and Ireland, für seine
+                                wertvollen Hinweise sowie den von ihm zur Verfügung gestellen Scans
+                                der Seiten 20 und 21 des Buches über die Madras Literary Society.
+                            </p></note>, and it is confidently anticipated that the [sic] desire to
+                        have their names enrolled as members<note type="comment" place="bottom"><p>
+                                Cavelly Venkuta <persName>Lutchmiah</persName> war
+                                Korrespondierendes Mitglied der RAS. </p></note> will shortly extend
+                        itself throughout the territories of the Madras Presidency<note type="comment" place="bottom"><p> Der Rest dieser Zeile sowie die
+                                offensichtlich letzte Zeile wurden abgeschnitten. Weitere Blätter
+                                befinden sich nicht im Archiv.</p></note>.</p></div></body></text></TEI>

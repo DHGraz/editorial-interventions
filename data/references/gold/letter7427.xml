@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7427"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Dear Sir,</salute></opener><p>Acknowledging the receipt of Your letter in answer to the notification<note type="comment" place="bottom"><p> Der nach derzeitigem Ermittlungsstand
+                                zwischen HP und <persName>Wilson</persName> letzte überlieferte
+                                Brief stammt aus 1841. </p></note> of Your being named an honorary
+                        member of the Imperial Academy of Vienna<note type="comment" place="bottom"><p> Kaiserliche Akademie der Wissenschaften.</p></note>, I have now
+                        the pleasure of transmitting to You two <choice><sic>copys</sic><corr>copies</corr></choice> of the first publications
+                        of the Academy<note type="comment" place="bottom"><p> Die Historische
+                                Kommission war unter ihrem Obmann Joseph <persName>Chmel</persName>
+                                die erste aktive Teilorganisation der Akademie der Wissenschaften
+                                und veröffentlichte als solche das <hi rend="italic">„Archiv für
+                                    Kunde österreichischer Geschichts-Quellen“</hi> (später „Archiv
+                                für österreichische Geschichte (<hi rend="italic">AföG</hi> bzw. <hi rend="italic">AÖG</hi>)).</p></note>; one for the Royal Asiatic
+                        Society and one for Yourself as a member of our Academy which lives in hopes
+                        that the R[oyal] A[siatic] Society will be pleased to exchange with our
+                        Academy her publications. I join besides a separate copy of my opening
+                            speech<note type="comment" place="bottom"><p> HP, <hi rend="italic">Zweck und Nutzen der Akademie. Rede des Präsidenten der
+                                    kaiserlichen Akademie der Wissenschaften, Freiherrn von HP bei
+                                    der feierlichen Eröffnung derselben am 2. Februar 1848</hi>;
+                                    <ref target="https://books.google.at/books?id=iPMIAAAAQAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">https://books.google.at/books?id=iPMIAAAAQAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</ref>
+                                – um den Text dieser Rede gab es einige Aufregung, als
+                                    <persName>Sedlnitzky</persName> die Druckfassung zensurierte,
+                                wogegen HP heftigst protestierte und einen unzensurierten Abdruck
+                                forderte. </p></note>, and the first sheet which was published free
+                        of censure with oriental types<note type="comment" place="bottom"><p> HP,
+                                    <hi rend="italic">Weiß auf Schwarz. Zum Newrus, d.i. zur
+                                    Frühlingsfeier der freien Presse [Zwei Distichen arabischer
+                                    Dichter über die Farben Weiß und Schwarz]</hi>; in: <hi rend="italic">Flugschriften Kundmachung der Revolutionäre;
+                                    erstes zensurfreies Blatt mit orientalischer Schrift, 1848</hi>;
+                                    <ref target="https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1983341">https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/1983341</ref>
+                            </p></note>, <salute>begging You to accept it as a remembrance of Yours
+                            most devoted most obliged Servant</salute></p><closer><signed><persName>Hammer-Purgstall</persName></signed><dateline>Vienne 13<hi rend="superscript">th</hi> May 848</dateline></closer></div></body></text></TEI>

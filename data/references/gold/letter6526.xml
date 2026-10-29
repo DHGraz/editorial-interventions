@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6526"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p>Im Auftrag <persName>HP</persName>s hatte <persName>Molossi</persName> <persName>Cantù</persName> nach dem Erhalt einiger Bücher befragt, die <persName>HP</persName> ihm mehrere Monate zuvor gesandt hatte<note type="comment" place="bottom"><p> Es ist nicht klar,
+                        um welche Werke es sich dabei handelte.</p></note>. Im Brief gibt <persName>Cantù</persName> an, sich bereits im September 1842 dafür bedankt zu haben sowie im Gegenzug die Druckfahnen des neunten Buches seiner Weltgeschichte<note type="comment" place="bottom"><p> Cesare Cantù,
+                        Storia Universale. Vol I–XXXV, Torino 1838–1846.</p></note> – es behandelt den Islam – durch die Buchhändler <persName>Tendler</persName> und <persName>Schaeffer</persName><note type="comment" place="bottom"><p> Die Buchhändler
+                            <persName>Tendler</persName> und <persName>Schaeffer</persName> in Mailand werden 1844 von <persName>Mittermaier</persName> als rühmliche Ausnahmen des
+                        internationalen Buchhandels in einem sonst stark auf Italien beschränkten
+                        Markt genannt; (Mittermaier, <hi rend="italic">Italienische Zustände</hi>).
+                        In Wien hatten <persName>Tendler</persName> und <persName>Schaeffer</persName> ihre zentrale Filiale;
+                        Handels- und Gewerbsschematismus.</p></note> bzw. den Gelehrten <persName>Bolza</persName> mit der Bitte um Korrektur an <persName>HP</persName> übersendet zu haben. Die noch vor der Publikation erhoffte Antwort blieb aus, weil <persName>HP</persName> zu jener Zeit nicht in Wien weilte<note type="comment" place="bottom"><p> HP verbrachte im
+                        Herbst 1842 drei Monate in Hainfeld; (BE).</p></note>. Nun, im Februar 1843, erneuert <persName>Cantù</persName> seine Bitte um Rückmeldung.</p></div><div type="letter" subtype="original"><opener><salute>Ill[ustr]e Sig[no]re Barone,</salute></opener><p>Con meraviglia odo in suo nome domanda<note type="comment" place="bottom"><p>
+                                Danach durchgestrichen „rmi“ als Teil des Wortes
+                            „domandarmi“.</p></note> dal Sig[nor] <persName>Molossi</persName> se
+                        ricevetti i libri che, già tanti mesi, Ella mi favorì. Io mi diedi la debita
+                        premura di ringraziarla, ed oltre ciò Le mandai la dedica, come l’avevo
+                        riformata, e insieme i fogli del IX libro della mia Storia, ove parlavo
+                        delle cose maomettane, pregandola in cortesia di dirmi schietto il parer
+                        suo, ed emendar gli sbagli e le mancanze mie, che avevo sperato esser in
+                        tempo di poter agguingere la lettera sua al volume medesimo. Non favorito di
+                        riscontro, chiesi e seppi che Lei era assente da Vienna; ma ora parmi poter
+                        dubitare che non abbia ricevuto nè una cosa nè l’altra. Per norma sua, il
+                        piego io gliel’ho diretto per mezzo dei librai <persName>Tender</persName> e
+                            <persName>Schaeffer</persName><note type="comment" place="bottom"><p> A:
+                                Scheffer.</p></note>, e fu ai primi di Settembre<note type="comment" place="bottom"><p> „7bre.“ mit Kürzungsstrich.</p></note> insieme con
+                                altri libri diretti als <choice><abbr>S D</abbr><expan>Signor Dottor</expan></choice> <persName>Bolza</persName>. Sarei
+                        troppo ardito se La pregassi a tranquillarmi su questo punto quand’abbia,
+                        come non dubito, recuperati que’fogli?</p><closer><salute>E colgo l’occasione per augurarle un prospero anno, e rinnovarle le
+                        proteste di mia servitù. Di Lei, Ins[ign]e S[ignor] Barone obb[ediente] e
+                        poe[roso]</salute><signed>Ces[are] <persName>Cantù</persName></signed><postscript>
+                        <p>PS: Se mai non ritrovasse il piego recapitatole, potrà vedere la dedica e
+                            il resto dal predetto S[ignor] dott[or] <persName>Bolza</persName>.</p>
+                    </postscript><dateline>Milano, 2 del 1843</dateline></closer><postscript>
+                        <p>PS: Se mai non ritrovasse il piego recapitatole, potrà vedere la dedica e
+                            il resto dal predetto S[ignor] dott[or] <persName>Bolza</persName>.</p>
+                    </postscript></div></body></text></TEI>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_185"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Monsieur l’Internonce</salute></opener><p>Il<note type="comment" place="bottom"><p> Nach PvTh D.4.4.2 2/23.</p></note>
+                        y a un mois, que j’ai eu l’honneur d’expédier à Votre Excellence de Rosette
+                        deux grands paquets. Je prends aujourd’hui la plume, pour l’instruire du
+                        procédé bien extraordinaire du Général <persName>Hutchinson</persName> à mon
+                        égard.</p><p>C’est que ce Général moitié fou et moitié imbécile, oubliant, ce qui devait
+                        aux circonstances de ma situation, aux services, que je lui avais rendus ;
+                        oubliant ce qui devait à Sir <persName>Sidney Smith</persName>, et à
+                        lui-même m’a donné l’ordre de quitter l’armée et l’Égypte, sous le prétexte
+                        spécieux de raisons secrètes, qu’il ne pouvait articuler, mais en effet pour
+                        aucune autre raison, que pour mon attachement à Sir
+                            <persName>Sidney Smith</persName>, auquel il me soupçonnait de rendre
+                        des services près du Capitan-Pacha.</p><p>Pour mettre Votre Excellence parfaitement au fait des choses, il faut, que je
+                        les reprenne à leur connu.</p><p>Le Général <persName>Hutchinson</persName>, qui est un homme faible, sans
+                        caractère et sans talents, était depuis longtemps jaloux de l’activité de
+                        Sir <persName>Sidney [Smith]</persName>, et de sa popularité dans l’armée;
+                        depuis longtemps il cherchait une occasion favorable de l’éloigner des
+                        Camps, où sa gloire lui causait tant d’ombrage. Il avait enfin réussi par
+                        ses intrigues près de Lord <persName>Keith</persName>, de faire rappeler Sir
+                            <persName>Sidney [Smith]</persName> à la fin de l’Avril, au
+                        mécontentement général des autres Généraux et de toute l’armée. Sir
+                            <persName>Sidney [Smith]</persName> quittait Rosette les premiers jours
+                        de Mai, et moi bien charmé d’avoir du loisir à moi, je restais tranquille à
+                        Rosette en m’occupant de travaux littéraires, et de recherches
+                        bibliographiques, dont j’ai eu l’honneur de transmettre le résultat dans les
+                        deux paquets ci-dessus mentionnés, que Votre Excellence aura reçus par la
+                        voie de Smyrne moyennant Capitaine <persName>Castel</persName> et M.
+                            <persName>Cramer</persName><note type="comment" place="bottom"><p>
+                                Ambrose Hermann <persName>von Cramer</persName> (1757–1808),
+                                österreichischer Konsul in Smyrna; (<ref target="http://gibbsfamilytree.com/tng/getperson.php?personID=I4311&amp;tree=gft1">http://gibbsfamilytree.com/tng/getperson.php?personID=I4311&amp;tree=gft1</ref>).</p></note>.</p><p>Je ne m’occupais que de livres, excepté quelques traductions, que je fis pour
+                        le Commandant en chef Général <persName>Hutchinson</persName> lui-même, qui
+                        avant de partir me requit comme il avait toujours fait avec beaucoup de
+                        politesse, et m’en remercia de même. Je continuais de rester tranquille chez
+                        moi jusqu’au dix-neuf Mai, quand les nouvelles, qui faisaient espérer la
+                        reddition très prochaine du Caire, arrivèrent. Un Convoi était pris, le Camp
+                        n’était que deux heures du Caire, l’armée du Vizir et celle des Mamelouks
+                        était prête à se joindre à l’armée anglaise etc. etc. etc.</p><p>Sur ces nouvelles je crûs ne devoir perdre un moment pour arriver à temps au
+                        moment, où on entrerait au Caire, et où les Français en sortiraient ; seul
+                        moment favorable pour le succès de mes recherches de raretés etc. etc.
+                        puisqu’il est sûr que beaucoup de Français, qui ont ramassé de pareilles
+                        choses voudront s’en défaire pour un prix convenable aux conditions, qui me
+                        sont prescrites ; puisqu’enfin c’est là le moment de voir les collections,
+                        les travaux, les membres de l’Institut etc. etc. d’assister les Sujets
+                        Impériaux.</p><p>Après le départ de S[ir] <persName>Sidney [Smith]</persName> j’avais reçu
+                        plusieurs motivations de suivre le Camp, mais je ne me suis pas rendu,
+                        puisque ce n’était qu’à Sir <persName>Sidney [Smith]</persName> proprement
+                        que j’étais attaché, et puisque rien que lui m’avait pu engager de changer
+                        un loisir tranquille, avec les embarras d’un Camp et les fracas de la
+                        guerre. Ce n’était que la nouvelle de la prise prochaine du Caire, qu’on
+                        disait même effectuée, qui m’imposait l’obligation pressante de m’y rendre,
+                        pour y satisfaire aux devoirs, que Votre Excellence connait. Je partais donc
+                        sur le champ dans une Djerme<note type="comment" place="bottom"><p> Eine
+                                Djerme war ein ein- oder zweimastiges Handelsschiff mit ungewöhnlich
+                                großer Lateinsegeltakelung, die den Fahrzeugen eine hohe
+                                Geschwindigkeit ermöglicht; diese Schiffe waren vorwiegend im
+                                östlichen Mittelmeer und im Nildelta schon im 16. Jh. anzutreffen.
+                                Typisch waren ein stark nach vorne geneigter Fockmast und die sehr
+                                große Rutenlänge, die etwa doppelte Mastlänge erreichte. Djermen
+                                hatten in der Regel offene Rümpfe, ohne Deck. Bezüglich der
+                                Schreibung des Wortes ist sich HP offenbar (ähnlich wie im Falle des
+                                Djesser Pascha) nicht wirklich schlüssig geworden. <ref target="https://www.modellskipper.de/Maritimes/maritime_Begriffe_Deutsch_Abschnitt_D/Djerme">https://www.modellskipper.de/Maritimes/maritime_Begriffe_Deutsch_Abschnitt_D/Djerme</ref>
+                            </p></note>, et j’arrivais au Camp anglais près d’<hi rend="underline">Al Ham </hi>sur le Nil le vingt-et-un du soir. Je me rendais près du
+                        Capitan-Pacha, qui m’accueillit fort bien, qui me donne les nouvelles, qui
+                        m’invita à souper, et qui causa avec moi bien avant dans la nuit.</p><p>Le lendemain j’allais faire mes respects à Général
+                            <persName>Hutchinson</persName>, que je ne trouvais pas chez lui, et
+                        puis je pris mon logis dans la tente du Général <persName>Doyle</persName>,
+                        le troisième en Commandement, en attendant qu’on marcherait incessamment
+                        vers le Caire.</p><p>L’attente de marcher, où l’armée était, fût trompée par l’arrivée du Major
+                            <persName>Wilson</persName><note type="comment" place="bottom"><p>
+                                Robert Thomas <persName>Wilson</persName> (17. August 1777–9. Mai
+                                1849) war ein britischer General und Politiker. 1800 trat er als
+                                Major in das von Baron von Hompesch errichtete Regiment und folgte
+                                dem General <persName>Abercromby</persName> 1801 nach Ägypten. Nach
+                                der Kapitulation vom 28. Juni 1801 kehrte
+                                    <persName>Wilson</persName> nach England zurück und gab das Werk
+                                    <hi rend="italic">An historical account of the British
+                                    Expedition to Egypt (2 Bde., London 1802)</hi> heraus, das
+                                großes Aufsehen erregte, weil er darin erzählte, dass
+                                    <persName>Napoleon</persName> in Jaffa seine pestkranken
+                                Soldaten habe vergiften und die türkischen Gefangenen niederschießen
+                                lassen.</p></note>, qui retournait du Camp du Vizir avec une lettre
+                        d’invitation pour le Capitan-Pacha et le Général
+                            <persName>Hutchinson</persName> avec lesquels le Vizir voulut se
+                        concerter avant d’avancer sur le Caire. Ces deux Commandants partirent donc
+                        le 23 le matin, et allèrent trouver le Vizir, qui ne se trouvait qu’à six
+                        heures d’Al Ham, dans le Delta. Ils formèrent avec le Vizir un conseil de
+                        guerre, dans lequel on décida de nouveau, ce que le bon sens le plus gros
+                        avait décidé longtemps auparavant c[‘est]-à-d[ire] la marche vers le Caire,
+                        et ils retournèrent chargés de pelisses, châles, tabatières, harnois etc.
+                        etc. etc. Ils ne furent de retour que le vingt-huit le matin, et vers le
+                        soir j’allais encore chez le Pacha pour lui rendre mes hommages. Il me reçut
+                        comme toujours fort bien, et m’invita au souper. J’étais sur le point de
+                        prendre congé vers le coucher du soleil, quand je vis entrer un Colonel de
+                        l’état-major, qui venait parler pour des arrangements militaires. Mais le
+                        Pacha ne me laissa point partir, il renvoya le Colonel et me garda à souper.
+                        C’était vers les onze heures du soir, quand en rentrant chez moi je trouvais
+                        le billet ci-joint, et que sans descendre du cheval je continuais mon chemin
+                        vers le Quartier général m’imaginant qu’il s’agissait de quelque traduction
+                        ou de quelque autre service de cette nature, pour lequel j’ai été toujours
+                        requis de cette manière.</p><p>Quand j’arrivais au quartier général, Gén[érale]
+                            <persName>Hutchinson</persName> qui fut déjà couché, me donne le
+                        Rendez-vous pour le lendemain matin. Je m’y rendis, j’entre dans la tente,
+                        où je le trouve avec Colonel <persName>Abercromby</persName>, Major
+                            <persName>Montresor</persName><note type="comment" place="bottom"><p>
+                                General Sir Henry Tucker <persName>Montresor</persName> KCB GCH (18.
+                                April 1767–10. März 1837) war ein General der britischen Armee. Als
+                                Oberstleutnant des 18. (Royal Irish) Regiments führte er das
+                                Regiment bei der Landung in Ägypten 1801 und während des
+                                anschließenden Feldzugs. Eine Zeit lang war er Kommandeur von
+                                Rosetta. Als Brigadegeneral wurde er von 1805–1808 nach Westindien
+                                versetzt; (<hi rend="italic">Wikipedia, englisch</hi>).</p></note>,
+                        et Capitaine <persName>Tailor</persName>, et dans leur présence il commence
+                        par me dire <hi rend="underline">Monsieur, je dois Vous donner l’ordre de
+                            quitter non seulement le Camp, mais l’Égypte entière</hi>.</p><p>J’étais vraiment si loin de m’attendre à un pareil accueil, et si surpris,
+                        que sans contester, comme j’aurais peut-être dû le faire sur le champ son
+                        droit de m’exiler d’un pays entier, où il ne commande point comme
+                        Représentant du Gouvernement turc, je répondais simplement : que j’étais
+                        extrêmement surpris et fâché de recevoir un pareil ordre, mais que je serais
+                        bien aise de savoir ce qui l’aurait occasionné. Il répondit avec un de ces
+                        accès de véhémence (fits and starts) qui lui sont si communs, qu’il n’avait
+                        point de raisons à me donner, que c’étaient des raisons secrètes, enfin de
+                        complaintes portées contre moi. Je répliquais : Que c’était bien pour la
+                        première fois que j’entendais parler de pareille chose, mais que pour les
+                        complaintes, personne assurément ne serait meilleur juge que Son Excellence
+                        même. Oh non ! dit-il, je dois céder aux circonstances, je ne traiterai
+                        point les instances qu’on m’a faites, enfin je n’ai point de raisons à Vous
+                        donner. Je continuais, qu’assurément je ne saurais pénétrer ces raisons
+                        secrètes, mais que, comme Son Excellence m’avait toujours donné des preuves
+                        de Son contentement et de Sa satisfaction, Elle voudrait au moins me faire
+                        la justice de me donner, s’il le fallait, le témoignage public, qu’Elle
+                        était satisfaite de ma conduite personnelle qui assurément n’avait rien de
+                        commun avec les raisons secrètes de cet ordre. Il répondit : que c’était
+                        vrai que je lui avais rendu des services, mais qu’il ne pouvait pas me
+                        tolérer ni dans le Camp, ni dans l’Égypte entière. Je dis, que c’était fort
+                        bien, que je quitterais le Camp incessamment, mais que puisque je serais
+                        privé par cet ordre de l’occasion d’être présent à l’entrée de Caire,
+                        j’avais un devoir à remplir dans ce moment envers S[on] Excellence le
+                        Commandant en chef, et que c’était: de recommander à ses bontés et à celles
+                        du Capitan-Pacha tous les sujets Impériaux qui se trouvaient au Caire, et
+                        particulièrement M. <persName>Rossetti</persName> le Consul. Oh, dit-il ce
+                            <persName>Rossetti</persName> est entendu […]<note type="comment" place="bottom"><p> Das ausgelassene Wort könnte „avec“ heißen: sich
+                                einig sein mit / sich verständigt haben mit …</p></note> les
+                        Français. Quand j’entendis ceci, je répondais d’un ton ferme et très sérieux
+                        : Je crois que Votre Excellence est trop prématurée dans ces jugements.
+                        Depuis que je suis ici-bas je recueille toutes les données possibles sur le
+                        caractère et la conduite de M. <persName>Rossetti</persName>, et après avoir
+                        mûrement pesé tout ce qui m’est revenu, je ne puis qu’assurer que c’est un
+                        honnête homme, qui sans prendre le parti des Français, sans se mêler de
+                        politique ou de guerre, a eu le malheur d’être persécuté par les Français
+                        comme un Agent suspect des Anglais, puisqu’il tenait une commission que M.
+                            <persName>Baldwin</persName> lui avait laissée.</p><p>J’ai, je pense, assurément plus d’intérêt, que Votre Excellence, que le
+                        Consul de la Cour Imp[ériale] soit un honnête homme, et pas un traitre. Et
+                        si j’en avais les moindres traces je serais le premier à le dénoncer. Mais
+                        après tout ce que j’ai entendu de la bouche des Français même parler en sa
+                        faveur, et l’ordre réitéré de <persName>Menou</persName> qui l’a absolument
+                        voulu forcer à partir, est un des meilleurs témoignages pour lui. Mais si
+                        S[on] Exc[ellence] est prévenu contre sa personne, cela n’empêche pas que je
+                        n’ai l’honneur de Lui recommander fortement les intérêts des S[ujets]
+                        Imp[ériaux] qui pourraient souffrir par les méprises des commissaires
+                        anglais – Commissaires s’écria-t-il, je n’ai rien à faire avec les
+                        Commissaires. – Si ce n’est pas le Commandant en chef répliquais-je qui
+                        ordonne aux Commissaires, assurément je ne sais pas à qui m’adresser. Tout
+                        ceci répliqua-t-il est de la politique qui regarde les ministres, avec
+                        lesquels je n’interfère point. – à quoi je répondais, que ce n’est pas dans
+                        le pouvoir des ministres, mais bien dans celui d’un Général de prévenir des
+                        injustices commises par des Individus attachés aux armées, et que c’est un
+                        Général et pas un Ambassadeur, qui commande dans un Camp.</p><p>Je l’assurais ensuite de mon respect, et je m’en allais, réfléchissant, si
+                        outra la véritable raison de cet ordre que je savais fort bien être mon
+                        attachement pour S[ir] <persName>Sidney Smith</persName>, il ne pourrait pas
+                            y avoir quelque autre <supplied>chose</supplied> ostensible, que <choice><abbr>G</abbr><expan>Général</expan></choice>
+                            <persName>Hutchinson</persName> produirait s’il était pressé d’en
+                        donner, et je ne trouvais rien de si probable, qu’ une missive de
+                        l’Ambassadeur à Constantinople, qui comme Votre Excellence sait très bien,
+                        cherchant de paralyser Sir <persName>Sidney [Smith]</persName> autant qu’il
+                        peut, et voyant avec déplaisir les services que je lui ai rendus, peut avoir
+                        écrit au Général qu’il faut m’éloigner comme un homme suspect, comme un
+                        Agent d’une Cour amie des Français etc.etc. etc.</p><p>Le seul doute qui me restait fût le silence du Gén[éral]
+                            <persName>Hutchinson</persName>, qui étant bavard comme une vieille
+                        femme aurait articulé un pareil motif, pour éloigner le soupçon, qu’il
+                        n’était animé dans ce procédé que par sa jalousie contre Sir
+                            <persName>Sidney [Smith]</persName> et par son désir d’en éloigner tous
+                        ceux, qui sauraient lui être utiles. Je me rappelais cependant, qu’il avait
+                        dit qu’il devait céder aux circonstances, aux instances etc. etc. et je
+                        pensais dès ce moment que dans la suite étant obligé de parler, il pourrait
+                        se tirer d’affaire par un mensonge, en rejetant la faute sur le
+                        Capitan-Pacha. – Je fus donc de ce même pas à la tente du Pacha pour prendre
+                        congé. Il fut extrêmement surpris de ce que je lui annonçais, et il me dit
+                        les choses les plus flatteuses sur son contentement, ses regrets etc. en
+                        ajoutant après un long Ah ! que les circonstances qui l’avaient mis dans la
+                        même carrière où un pareil Commandant en chef l’empêchaient de se quereller
+                        dans ce moment où tant d’affaires majeures devaient être avancées par leur
+                        réunion etc. etc. qu’il serait charmé de me revoir etc. etc. Je le
+                        remerciais de ses bontés, et le p[…<note type="comment" place="bottom"><p>
+                                Hier ein größerer Freiraum innerhalb der Zeile, offenbar infolge
+                                Unleserlichkeit eines Wortes; es könnte „prévenir“
+                            heißen.</p></note>] que Votre Excellence jugeait de loin et pourrait
+                        être prévenue par des bruits malicieux sur le compte de son ordre donné,
+                        qu’il voulut bien me rendre justice près d’Elle. Avec un plaisir infini
+                        disait-il et ordonna tout de suite à son Secrétaire d’écrire la lettre
+                        adressée à Votre Excellence, que j’ai l’honneur de joindre ici avec une
+                        traduction française.</p><p>Il m’invita ensuite à dîner, et fit attendre les deux Colonels
+                            <persName>Murray</persName> et <persName>Lindenthal</persName> de
+                        l’état-major, jusqu'à ce que le dîner était fini. – Après quoi je pris
+                        congé, et racontais en traversant le Camp à tous les officiers, que je
+                        connaissais l’histoire de mon exil. Ils en furent tous indignés ; les deux
+                        Généraux <persName>Craddock</persName><note type="comment" place="bottom"><p>
+                                <persName>Caradoc</persName>, Sir John Francis, Lord Howden
+                                (1762–1839), General, der 1820 den Namen
+                                    <persName>Cradock</persName> gegen <persName>Caradoc</persName>
+                                austauschte, war der einzige Sohn von John
+                                    <persName>Cradock</persName>, Erzbischof von Dublin. Bei der
+                                Vollendung der Union 1801 verlor er seinen Sitz im Parlament, wurde
+                                aber zu einem Kommando im Stab von Sir Ralph
+                                    <persName>Abercromby</persName> im Mittelmeer ernannt. Er
+                                schloss sich der Armee auf Menorca an und erhielt das Kommando über
+                                die 2. Brigade. Er war an den Schlachten vom 8., 13. und 21. März in
+                                Ägypten beteiligt und begleitete nach dem Tod von
+                                    <persName>Abercromby</persName> General
+                                    <persName>Hutchinson</persName> beim Vormarsch auf Kairo als
+                                zweiter Befehlshaber. Er war bei der Kapitulation von Kairo
+                                anwesend, erkrankte dann aber an Fieber und war nicht in der Lage,
+                                an der Einnahme von Alexandria mitzuwirken. Nach Abschluss des
+                                Ägyptenfeldzugs wurde er zum Oberbefehlshaber eines siebentausend
+                                Mann starken Korps ernannt und mit der Rückeroberung der Insel
+                                Korsika beauftragt. Der Frieden von Amiens beendete die Expedition,
+                                aber er wurde zum Ritter des Bath-Ordens ernannt, zum Oberst der 71.
+                                leichten Infanterie befördert und am 21. Dezember 1803 zum
+                                Oberbefehlshaber der Truppen in Madras und zum örtlichen
+                                Generalleutnant ernannt; (<hi rend="italic">Dictionary of National
+                                    Biography</hi>).</p></note> et <persName>Doyle</persName><note type="comment" place="bottom"><p> Generalleutnant Sir Charles William
+                                    <persName>Doyle</persName>, GCH, CB (1770–25. Oktober 1842) war
+                                ein Offizier der britischen Armee, der während der
+                                    <persName>Napoleon</persName>ischen Kriege diente.
+                                    <persName>Doyle</persName> trat am 28. April 1783 als Fähnrich
+                                in das von seinem Onkel <persName>Welbore</persName> befehligte 14th
+                                Foot ein und wurde am 12. Februar 1793 zum Leutnant befördert. Das
+                                14. Infanterieregiment war eines der „zerlumpten“ Regimenter, die
+                                Harry <persName>Calvert</persName> in seinen Briefen an Falstaffs
+                                Soldaten vergleicht, aber Generalmajor Ralph
+                                    <persName>Abercromby</persName> brachte es bald in einen
+                                besseren Zustand, wobei er von <persName>Doyle</persName>
+                                unterstützt wurde, den er zu seinem Brigadeführer ernannte.
+                                    <persName>Abercromby</persName>s Brigade zeichnete sich während
+                                der folgenden Feldzüge durch ihre Effizienz aus. Mit dem Regiment
+                                nahm <persName>Doyle</persName> an der Schlacht von Famars teil, wo
+                                sein Onkel <persName>Welbore</persName> an der Spitze des 14. Fußes
+                                den Angriff zu den Klängen von Ça ira anführte, ein Ereignis, das in
+                                dem temperamentvollen Gedicht seiner Cousins Sir F. H.
+                                    <persName>Doyle</persName> beschrieben wird, das in seinen <hi rend="italic">Erinnerungen</hi> abgedruckt ist.
+                                    <persName>Doyle</persName> wurde von
+                                    <persName>Abercromby</persName> öffentlich dafür gedankt, dass
+                                er eine Schanze auf den Höhen von Valenciennes genommen hatte, und
+                                fungierte dann als Ordonnanzoffizier der österreichischen Generäle
+                                während der Belagerung dieser Stadt, als er am Kopf verwundet wurde.
+                                    <persName>Doyle</persName> verzichtete auf seine Ernennung zum
+                                Stabsoffizier, um an der Expedition nach Den Helder im Jahr 1799
+                                teilzunehmen, aber auch hier kam er zu spät und wurde unmittelbar
+                                danach zum Brigade-Major der Armee ernannt, die unter
+                                    <persName>Abercromby</persName> ins Mittelmeer segelte. Er wurde
+                                der Brigade von Lord Cavan zugeteilt und war mit ihr bei Cádiz und
+                                Malta und schließlich in Ägypten, wo er in den Schlachten von
+                                Abukir, Mandara und Alexandria diente, wobei er in letzterer schwer
+                                verwundet wurde. Während er verwundet bei Rosetta lag, erfuhr er von
+                                einigen verwundeten französischen Gefangenen, dass die Garnison von
+                                Kairo schwach war, und indem er General Lord
+                                    <persName>Hutchinson</persName> rechtzeitig informierte,
+                                sicherte er den Fall dieser Stadt. <persName>Hutchinson</persName>
+                                dankte ihm herzlich und empfahl ihn zum fünften Mal für eine
+                                Beförderung, die er jedoch erst nach Abschluss des Friedens von
+                                Amiens, am 9. Juli 1803, erhielt. Im selben Jahr wurde er zum
+                                Brigade-Major von Sir James Henry <persName>Craig</persName>
+                                ernannt, der den östlichen Distrikt befehligte; (<hi rend="italic">Wikipedia, englisch</hi>).</p></note>, et Lord
+                            <persName>Dalhouay</persName><note type="comment" place="bottom"><p>
+                                George <persName>Ramsay</persName>, 9. Earl of
+                                    <persName>Dalhousie</persName>, GCB (23. Oktober 1770–21. März
+                                1838) war ein britischer General und Kolonialbeamter. Von 1816–1820
+                                war er Vizegouverneur der Kolonie Nova Scotia und von 1820–1828
+                                Generalgouverneur von Britisch-Nordamerika. Er trat im Juli 1788 in
+                                die British Army ein, indem er sich eine Offiziersstelle als Ensign
+                                kaufte, wie es damals üblich war. Später wurde er Captain einer von
+                                ihm selbst aufgestellten selbstständigen Kompanie. 1791 schloss er
+                                sich dem 2. Battalion des 1st Regiment of Foot an, wechselte jedoch
+                                schon im nächsten Jahr in das 2nd Regiment of Foot, in der eine
+                                Stelle als Major kaufte. Als dessen Kommandeur wurde er mit dem
+                                Regiment nach Martinique verlegt. Im August 1794 wurde er zum
+                                Lieutenant-Colonel befördert, bevor er 1795 schwer verwundet wurde
+                                und nach England zurückkehrte. <persName>Ramsay</persName> kämpfte
+                                in der Irischen Rebellion von 1798 und im darauffolgenden Jahr in
+                                Nordholland gegen die Franzosen. Im Januar 1800 erhielt er den
+                                Brevet-Rang eines Colonel und wurde 1801 im Ägyptenfeldzug unter
+                                Ralph <persName>Abercromby</persName> eingesetzt. 1803 diente er als
+                                Brigadier-General in Schottland, bevor er im April 1805 zum
+                                Major-General befördert wurde.</p></note> exprimèrent ces sentiments
+                        dans des lettres particulières à <persName>Sir Sidney</persName>, dont ils
+                        me chargèrent, et il n’y avait pas un seul officier, qui ne me pria de ne
+                        juger pas sur la conduite de cet imbécile et de ce [Freiraum] illiberal B
+                            d<note type="comment" place="bottom"><p> Zwischen „B“, „d“ und „de“
+                                jeweils ein Freiraum in der Abschrift.</p></note> de la conduite des
+                        Anglais envers des Voyageurs étrangers. – Je partis du Camp le 31 Mai;
+                        J’arrivais à Rosette le quatre Juin à midi. Je passais le Bogaz<note type="comment" place="bottom"><p> Damit ist die nicht ungefährliche
+                                Mündungswelle des Nilarms bezeichnet.</p></note> le lendemain matin,
+                        et j’arrivais à bord du Tigre le six avant midi.</p><p>Quoiqu’ en sortant de chez le Général je sentais l’obligation de lui adresser
+                        une lettre, pour lui faire sentir le tort de sa conduite, et pour constater
+                        bien vis-à-vis de lui la nature de ma situation, je ne voulais cependant
+                        dépêcher cette lettre avant que je n’eusse vu Sir
+                            <persName>Sidney [Smith]</persName>, auquel je suis non seulement
+                        recommandé, mais attaché en vertu de ses propres demandes, et qui, même
+                        supposé que ce ne fut pas mon attachement pour lui, qui m’ont fait exiler,
+                        devait prendre mes intérêts, défendre mon honneur, et m’obtenir une
+                        justification et satisfaction convenable. Aussi l’a-t-il fait, en
+                        accompagnant ma lettre par celle, que j’ai l’honneur de joindre ici, et en
+                        m’engageant de ne quitter point le Tigre jusqu’à ce qu’il n’eût obtenu la
+                        justification demandée. Je crois de mon devoir d’attendre l’effet et la
+                        réponse de ses lettres, qui ne sont pas encore parties dans le moment que
+                        j’écris celle-ci, puisque depuis le lendemain de mon arrivée au Tigre, nous
+                        avons été en croisière vers l’Ouest, où l’on avait vu une escadre française.
+                        Lord <persName>Keith</persName>, au reste et les premiers Capitaines de la
+                        flotte ont trouvé cet ordre aussi étrange que les officiers de l’armée, et
+                        le premier a déclaré qu’assurément ce n’était ni dans son pouvoir, ni dans
+                        celui du Général de bannir un Voyageur d’un pays entier sujet au
+                        Gouvernement turc.</p><p>Après ces détails, que je viens de donner à Votre Excellence je ne puis que
+                        répéter ce que j’ai dit en haut sur les véritables raisons de cet ordre
+                        d’exil: C’est que Général <persName>Hutchinson</persName> ayant réussi
+                        d’éloigner Sir Sidney de l’armée, et craignant qu’il ne continuait
+                        d’influencer le Capitan-Pacha, qui venait de me faire un accueil si
+                        distingué, par mon canal, a trouvé bon de lui couper toutes les
+                        communications avec les Beys, le Vizir, et le Pacha, en me donnant l’ordre
+                        de quitter non seulement le Camp, mais l’Égypte entière. S’il y a une
+                        insinuation de Lord <persName>Elgin</persName>, elle a été faite assurément
+                        dès le Commencement de la Campagne, mais ce n’est qu’à présent que la
+                        passion du Gén[éneral] <persName>Hutchinson</persName> l’a fait agir ;
+                        Quoique je connais donc le véritable motif, qui est la jalousie contre S
+                        Sidney, je n’en ai rien dit dans ma lettre, puisque la simple réponse du
+                        Général <persName>Hutchinson</persName>, que ce n’est pas vrai, avait
+                        désarmé cette inculpation. Je ne me suis tenu que sur la question de droit
+                        et de fait, et j’ai parlé avec toute la hardiesse qu’un particulier injurié
+                        peut se permettre, mais qui a été assurément mal placée, si j’avais voulu
+                        sortir la moindre chose de mon caractère de simple voyageur.</p><p>J’attendrais donc l’effet de cette démarche à bord du Tigre. Je suis occupé
+                        de faire des extraits intéressants pour l’histoire de l’expédition française
+                        en Égypte, d’un recueil complet de tous les ordres de jour de l’armée
+                        française depuis son départ de Toulon jusqu’ au commencement de cette
+                        année-ci. Ce recueil est d’autant plus précieux qu’il n’y eu point d’autre
+                        que celui dans l’armée anglaise et qu’il […]<note type="comment" place="bottom"><p> Ausgelassen wurde wahrscheinlich „montre“.</p></note>
+                        parfaitement le caractère de <persName>Bonaparte</persName>,
+                            <persName>Kleber</persName> et Menou<note type="comment" place="bottom"><p> A: Menon </p></note>. J’aurai l’honneur de transmettre un jour
+                        ces extraits à V[otre] Excellence avec les autres matériaux, que je puis
+                        recueillir pour l’histoire de cette expédition. Il ne me reste que de donner
+                        ici en peu de mots un coup d’œil de la situation présente de choses, qui
+                        paraissent s’approcher d’une fin longtemps désirée.</p><p>L’escadre française, qui avait été vue à quarante lieues d’Alexandrie vers
+                        l’Ouest à l’ancre, a disparu. D’après ce que les prisonniers d’un bâtiment
+                        pris détaché de cette escadre disent, il paraît probable, que l’armée qui
+                        était embarquée a refusé de débarquer sur les sables de la Libye, et s’en
+                        est retournée, ou elle débarquera quelque autre part. Une corvette
+                        française, qui est entrée en même temps à Alexandrie, paraît avoir donné cet
+                        avis à <persName>Menou</persName>, qui pendant l’espoir de secours devra
+                        fléchir bientôt malgré toute son inébranlable fermeté, qui, dit-il dans un
+                        ordre est si bien connue à <persName>Bonaparte</persName>.</p><p>Si Général <persName>Hutchinson</persName> eut la moindre qualité, qui pût
+                        lui mériter ce nom, le Caire serait tombé au moment, où nous sommes, sous
+                        les efforts combinés de l’armée anglaise débarquée à Abukir, et de celle
+                        débarquée dans la Mer Rouge, de l’armée turque commandée par le Vizir, et de
+                        celle commandée par le Capitan-Pacha, de l’armée des Mamelouks et de celle
+                        des tribus Arabes. Tous ces corps se trouvent réunis depuis les premiers
+                        jours du Juin, et Nous n’avons pas encore des nouvelles qu’on ait fait la
+                        moindre tentative d’attaquer les Français, grâce à la faiblesse imbécile du
+                        Commandant anglais, qui au lieu de consulter ses Généraux, ne fait rien sans
+                        prendre les ordres du Vizir et du Capitan-Pacha de sorte que ce sont les
+                        Turcs, qui conduisent les affaires, et que personne ne doit s’étonner de
+                        cette lenteur inconcevable avec laquelle on avance.</p><p>À moins que <persName>Menou</persName> lui-même ne fasse pas des
+                        propositions, deux ou trois mois se passeront encore, avant qu’on
+                            puisse<note type="comment" place="bottom"><p> A: pourra</p></note> l’y
+                        obliger, et ce ne serait point étonnant que la paix se fit, avant que les
+                        Anglais avec une force si supérieure, aient pu forcer les Français à
+                        capituler.</p><closer><salute>J’ai l’honneur d’être avec le respect le plus profond et la soumission
+                        la plus parfaite Monsieur l’Internonce de Votre Excellence le très humble et
+                        très obéissant</salute><signed><persName>Hammer</persName></signed><dateline>À bord du Tigre Juin 1801</dateline></closer></div><div type="letter" subtype="translation"><p>Monsieur l‘Internonce!</p><p>Vor einem Monat hatte ich die Ehre, an Eure Exzellenz zwei große Pakete aus
+                        Rosette zu schicken. Heute nehme ich die Feder, um Sie über das sehr
+                        außergewöhnliche Vorgehen von General <persName>Hutchinson</persName> mir
+                        gegenüber zu informieren.</p><p> Dieser General, halb dumm, halb verblödet, der vergessen hat, was den
+                        Umständen meiner Lage, den Diensten, die ich ihm selbst und Sir
+                            <persName>Sidney Smith</persName> erwiesen hatte, zuzuschreiben war, hat
+                        mir den Befehl gegeben, die Armee und Ägypten unter dem Scheinvorwand von
+                        geheimen Gründen, die er hier nicht nennen konnte, zu verlassen, aber in
+                        Wahrheit aus dem einzigen Grund meiner Verbundenheit zu Sir <persName>Sidney
+                            Smith</persName>, durch die er mich verdächtigte, beim Kapudan-Pascha
+                        einen Dienst zu erweisen.</p><p> Um Eure Exzellenz vollkommen auf den Stand der Dinge zu bringen, ist es
+                        notwendig, dass ich Ihnen Folgendes zur Kenntnis bringe:</p><p>General <persName>Hutchinson</persName>, der ein schwacher, charakterloser
+                        Mensch ohne Talente ist, war seit langem eifersüchtig auf die Tätigkeit von
+                        Sir <persName>Sidney</persName> [<persName>Smith</persName>] und seine
+                        Popularität in der Armee; seit langem suchte er eine günstige Gelegenheit,
+                        um ihn aus den Lagern zu entfernen, wo er ihm seinen Ruhm sehr übelnahm. Es
+                        ist ihm schließlich durch seine Intrigen bei Lord <persName>Keith</persName>
+                        gelungen, Sir <persName>Sidney</persName> [<persName>Smith</persName>] Ende
+                        April, zur allgemeinen Unzufriedenheit unter den anderen Generälen und der
+                        ganzen Armee, abzuberufen. Sir <persName>Sidney</persName>
+                            [<persName>Smith</persName>] verließ Rosette in den ersten Maitagen und
+                        ich, sehr erfreut, dass ich Zeit für mich hatte, blieb in aller Ruhe in
+                        Rosette, indem ich mich mit literarischen Arbeiten, deren Ergebnis ich die
+                        Ehre hatte, in den beiden oben erwähnten Paketen zu schicken, die Eure
+                        Exzellenz über den Weg von Smyrna durch Kapitän <persName>Castel</persName>
+                        und Herrn <persName>Cramer</persName> erhalten haben wird.</p><p> Ich beschäftigte mich nur mit Büchern, mit Ausnahme von einigen
+                        Übersetzungen, die ich für den Oberkommandierenden General
+                            <persName>Hutchinson</persName> machte, der, bevor er wegfuhr, mich mit
+                        großer Höflichkeit und Dank dafür anforderte, wie er es immer gemacht hat.
+                        Ich verhielt mich weiterhin ruhig bis zum 19. Mai, als die Nachrichten
+                        ankamen, die auf die baldige Übergabe Kairos hoffen ließen. Ein Konvoi wurde
+                        überfallen, das Lager war nur zwei Stunden von Kairo entfernt, die Armeen
+                        des Wesirs und der Mameluken waren bereit, sich der englischen Armee
+                        anzuschließen, etc. etc. etc.</p><p> Auf diese Nachrichten hin glaubte ich keinen Augenblick hier verlieren zu
+                        dürfen, um rechtzeitig zum Einmarsch in Kairo zu kommen, das die Franzosen
+                        verlassen würden; der einzig günstige Augenblick für den Erfolg meiner
+                        Recherchen nach Raritäten usw.; da es sicher ist, dass viele Franzosen, die
+                        Ähnliches angehäuft hatten, sich dessen zu einem Preis entledigen wollten,
+                        der den Bedingungen entspricht, die mir vorgeschrieben sind; da das
+                        schließlich der Moment ist, die Sammlungen, die Arbeiten, die Mitglieder des
+                        Instituts zu sehen und den Angehörigen des Kaiserreichs Beistand zu
+                        leisten.</p><p> Nach der Abreise von S[ir] <persName>Sidney</persName>
+                            [<persName>Smith</persName>] hatte ich mehrere Beweggründe, dem Camp zu
+                        folgen, aber ich habe mich nicht dorthin begeben, da ich eigentlich nur an
+                        Sir <persName>Sidney</persName> [<persName>Smith</persName>] gebunden war,
+                        und da nur er mich auffordern hatte können, eine ruhige Freizeit mit den
+                        schwierigen Verhältnissen in einem Lager und dem Krach des Krieges zu
+                        vertauschen. Nur durch die Nachricht der baldigen Einnahme von Kairo, die
+                        man sogar schon als erledigt nannte, sah ich mich verpflichtet, mich dort
+                        hinzubegeben, um die Aufgaben, die Eure Exzellenz kennt, zu erledigen. Ich
+                        fuhr also in einer Djerme sofort los und kam am Abend des 21. im englischen
+                        Lager in der Nähe von Al Ham an. Ich begab mich zum Kapudan-Pascha, der mich
+                        sehr freundlich empfing, die Neuigkeiten mitteilte, mich zum Souper einlud
+                        und der mit mir bis spät in die Nacht plauderte.</p><p> Am nächsten Tag wollte ich General <persName>Hutchinson</persName> meine
+                        Aufwartung machen, den ich nicht in seinem Quartier antraf und dann bezog
+                        ich meine Unterkunft im Zelt von General <persName>Doyle</persName>, dem
+                        dritten Kommandanten, und wartete, dass man unverzüglich gegen Kairo
+                        marschieren würde.</p><p> Das Warten auf den Abmarsch der Armee wurde durch die Ankunft von Major
+                            <persName>Wilson</persName> verkürzt, der vom Lager des Wesirs mit einem
+                        Einladungsbrief für den Kapudan-Pascha und General
+                            <persName>Hutchinson</persName> zurückkam, mit denen sich der Wesir vor
+                        dem Vorstoß in Richtung Kairo beraten wollte. Diese beiden Kommandanten
+                        fuhren am Morgen des 23. zum Wesir, der sich nur sechs Stunden von Al Ham
+                        entfernt, im Delta, befand. Sie bildeten mit dem Wesir einen Kriegsrat, in
+                        dem man von Neuem beschloss, was der größte gesunde Menschenverstand schon
+                        lange vorher beschlossen hatte, das heißt den Marsch auf Kairo und sie
+                        kehrten zurück, beladen mit pelzgefütterten Mänteln, Schals, Tabakdosen,
+                        Harnischen etc. etc. etc. Sie waren erst am Morgen des 28. zurück und gegen
+                        Abend ging ich wieder zum Pascha, um ihm meine Ehre zu erweisen. Er empfing
+                        mich wie immer sehr freundlich und lud mich zum Souper ein. Ich war gerade
+                        dabei, mich gegen Sonnenuntergang zu verabschieden, als ich einen Oberst des
+                        Generalstabs eintreten sah, um über die militärischen Vereinbarungen zu
+                        sprechen. Aber der Pascha ließ mich nicht weggehen, er schickte den Oberst
+                        weg und behielt mich zum Souper da. Gegen 11 Uhr am Abend, als ich bei
+                        meiner Rückkehr zu meinem Quartier das hier beigelegte Schreiben vorfand,
+                        setzte ich meinen Weg, ohne vom Pferd zu steigen, zum Hauptquartier fort, da
+                        ich mir vorstellte, dass es sich um irgendeine Übersetzung oder eine andere
+                        Dienstleistung dieser Art handelte, für die ich immer auf diese Weise
+                        angefordert wurde.</p><p> Als ich im Hauptquartier eintraf, gab mir General
+                            <persName>Hutchinson</persName>, der schon zu Bett gegangen war, einen
+                        Termin für den nächsten Morgen. Ich begab mich dorthin, betrat das Zelt, wo
+                        ich ihn mit Obert <persName>Abercromby</persName>, Major
+                            <persName>Montresor</persName> und Hauptmann <persName>Tailor</persName>
+                        vorfand und in deren Anwesenheit beginnt er zu mir zu sprechen: „Mein Herr,
+                        ich muss Ihnen den Befehl geben, nicht nur das Lager, sondern ganz Ägypten
+                        zu verlassen.“</p><p> Ich war wirklich bei Weitem nicht auf einen solchen Empfang gefasst und so
+                        überrascht, dass ich, wie ich es vielleicht sofort hätte machen sollen,
+                        gegen sein Recht zu protestieren, mich aus dem ganzen Land zu vertreiben, wo
+                        er nicht als Vertreter der türkischen Regierung den Befehl hat, einfach nur
+                        antwortete: dass ich überrascht und verärgert sei, einen solchen Befehl zu
+                        bekommen, aber dass ich gerne den Grund dafür wüsste. Er antwortete mit
+                        einem dieser heftigen Ausbrüche (fits and starts), die ihm eigen sind, dass
+                        er mir keine Gründe nennen müsse, dass dies geheime Gründe seien,
+                        schließlich Beschwerden über mich. Ich erwiderte: Dass das wohl das erste
+                        Mal sei, dass ich so etwas hörte, aber dass wegen der Beschwerden sicherlich
+                        keiner ein besserer Richter sei als Seine Exzellenz selbst. „Oh, nein“,
+                        sagte er, „ich muss mich den Gegebenheiten fügen, ich werde nicht die Klagen
+                        behandeln, die man an mich richtete, schließlich muss ich Ihnen keine Gründe
+                        nennen.“ Ich fuhr fort, dass ich sicher die geheimen Gründe nicht ergründen
+                        könnte, aber dass er mir, da Seine Exzellenz mir immer Beweise Seiner
+                        Zufriedenheit und Seiner Genugtuung gab, wenn es nötig wäre, Gerechtigkeit
+                        widerfahren ließe und mir den öffentlichen Beweis gebe, dass er mit meinem
+                        persönlichen Verhalten zufrieden sei, das mit Sicherheit nichts mit den
+                        geheimen Gründen dieses Befehls gemein habe. Er antwortete: dass das wahr
+                        sei, dass ich ihm Dienste erwiesen habe, aber dass er mich weder im Lager
+                        noch in ganz Ägypten tolerieren könne. Ich sagte, dass es ganz in Ordnung
+                        sei, dass ich das Lager sofort verlassen werde, dass mir aber durch diesen
+                        Befehl die Gelegenheit genommen werde, beim Einmarsch in Kairo dabei zu sein
+                        und ich im Augenblick folgende Aufgabe Seiner Exzellenz [d.h. dem
+                        Internuntius gegenüber] dem Oberkommandieren gegenüber zu erfüllen habe:
+                        alle Angehörigen des Kaiserreiches, die sich in Kairo befänden, ihm und dem
+                        Kapudan-Pascha ans Herz zu legen, besonders Herrn
+                            <persName>Rossetti</persName>, den Konsul. „Oh“, sagte er, „dieser
+                            <persName>Rossetti</persName> ist mit den Franzosen einig“. Als ich dies
+                        hörte, antwortete ich in einem bestimmten und ernsten Ton: „Ich glaube, dass
+                        Eure Exzellenz zu voreilig in diesen Beurteilungen ist. Seitdem ich hier
+                        bin, erhalte ich alle möglichen Angaben über den Charakter und das Verhalten
+                        von Herrn <persName>Rossetti</persName>, und nachdem ich alles reichlich
+                        abgewogen habe, was mir zugetragen wurde, kann ich nur versichern, dass er
+                        ein ehrenvoller Mann ist, der ohne Partei für die Franzosen zu ergreifen,
+                        ohne sich in Politik oder Krieg einzumischen, das Pech hatte, von den
+                        Franzosen als Agent der Engländer verdächtigt und verfolgt zu werden, da er
+                        einen Auftrag durch Herrn <persName>Baldwin </persName>erhielt. Ich habe,
+                        denke ich, mehr Interesse als Eure Exzellenz, dass der Konsul des
+                        Kaiserhofes ein ehrenwerter Mann ist und nicht ein Verräter. Und wenn ich
+                        darüber den geringsten Hinweis hätte, wäre ich der Erste, ihn anzuzeigen.
+                        Aber alles, was ich aus dem Mund der Franzosen, die sogar zu seinen Gunsten
+                        sprachen, hörte und der wiederholte Befehl von <persName>Menou</persName>,
+                        der ihn unbedingt zum Weggehen zwingen wollte, ist eines der besten Beweise
+                        für ihn. Aber wenn Seine Exzellenz aber über Gegenteiliges zu seiner Person
+                        informiert ist, ändert das nichts daran, dass ich die Ehre habe, Ihnen die
+                        Angehörigen des Kaiserreichs zu empfehlen, die durch die Missverständnisse
+                        der englischen Kommissare leiden können“. „Englische Kommissare“, schrie er,
+                        „ich habe nichts mit den Kommissaren zu tun“. „Wenn es nicht der
+                        Oberkommandierende ist“, sagte ich, „der die Kommissare befehligt, dann weiß
+                        ich sicher nicht, an wen ich mich wenden soll“. „Das alles“, erwiderte er,
+                        „ist Politik, die die Minister betrifft, bei denen ich mich nicht
+                        einmische.“ Worauf ich antwortete, dass es nicht in der Macht der Minister
+                        liege, aber wohl in der eines Generals, über die von Armeeangehörigen
+                        begangenen Ungerechtigkeiten zu informieren, und dass ein General und nicht
+                        ein Botschafter in einem Lager den Befehl gebe. Ich bezeugte ihm dann meinen
+                        Respekt und ging weg und überlegte, ob neben dem echten Grund dieses
+                        Befehls, den ich in meiner Verbundenheit mit Sir <persName>Sidney
+                            Smith</persName> erkannte, nicht etwas anderes Ostentatives sein könnte,
+                        das General <persName>Hutchinson</persName> herbeiführen könnte, wenn er
+                        dazu gedrängt wäre, und ich fand nichts so wahrscheinlich wie einen Brief
+                        des Botschafters in Konstantinopel, der versucht, wie Eure Exzellenz sehr
+                        genau weiß, Sir <persName>Sidney Smith</persName> zu behindern, wo er kann
+                        und der mit Missfallen die Dienste sieht, die ich ihm und dem General
+                        erwiesen habe, sodass er mich als einen Verdächtigen, einen Agenten eines
+                        mit den Franzosen befreundeten Hofes entfernen muss, etc. etc. etc. Der
+                        einzige Zweifel, der mir blieb, war das Schweigen von General
+                            <persName>Hutchinson</persName>, der, da er gesprächig wie eine alte
+                        Frau war, so ein Motiv ausgesprochen hätte, um den Verdacht auszuräumen,
+                        dass er bei dieser Verhaltensweise durch seine Eifersucht gegen Sir
+                            <persName>Sidney Smith</persName> und durch seinen Wunsch, von ihm all
+                        jene zu entfernen, die ihm nützlich sein könnten, geleitet war. Ich
+                        erinnerte mich jedoch, dass er gesagt hatte, dass er sich den Gegebenheiten
+                        anpassen und den dringen Bitten nachgeben müsse etc. etc., und ich dachte,
+                        dass er ab diesem Moment und in der Folge, da er gezwungen war zu reden,
+                        sich aus der Affäre ziehen könnte, indem er die Schuld auf den
+                        Kapudan-Pascha schob. – Ich begab mich also gleich zum Zelt des Paschas, um
+                        mich zu verabschieden. Er war außerordentlich überrascht über das, was ich
+                        ihm mitteilte und sagte mir die schmeichelhaftesten Dinge über seine
+                        Zufriedenheit, sein Bedauern etc., und fügte dann, nach einigen langen „Ahs“
+                        hinzu, dass es die Umstände, die ihn und den gleichen Oberkommandierenden in
+                        dieselbe Lage versetzt hatten, verhinderten, sich im Augenblick zu streiten,
+                        wo so viele wichtige Angelegenheiten durch ihre Vereinigung vorangebracht
+                        werden müssten, etc., etc. etc. und dass er sich freuen würde, mich
+                        wiederzusehen etc. etc. Ich dankte Ihm für seine Freundlichkeiten und
+                        [setzte ihn in Kenntnis], dass Eure Exzellenz aus der Ferne beurteilten und
+                        durch boshafte Gerüchte über seinen Befehl, mir bei Ihr Gerechtigkeit
+                        widerfahren lassen zu wollen, gewarnt worden sein könnte. „Mit einer
+                        unendlichen Freude“, sagte er und befahl seinem Sekretär, sofort den Brief
+                        an Eure Exzellenz zu schreiben, den ich hier mit einer französischen
+                        Übersetzung beizulegen die Ehre habe.</p><p> Nun lud er mich zum Abendessen ein und ließ die beiden Hauptleute Murray und
+                            <persName>Lindenthal</persName> des Generalstabs bis zum Ende des
+                        Abendessens warten. – Danach verabschiedete ich mich und erzählte beim
+                        Durchqueren des Lagers allen Offizieren, die ich kannte, die Geschichte
+                        meiner Verbannung; sie waren alle empört darüber; die beiden Generäle
+                            <persName>Craddock</persName> und <persName>Doyle</persName> und Lord
+                            <persName>Dalhouay</persName> drückten ihre Gefühle in privaten Briefen
+                        an Sir <persName>Sidney</persName> aus, mit denen sie mich beauftragten und
+                        es gab keinen einzigen Offizier, der mich nicht bat, nicht nach dem
+                        Verhalten dieses Dummen und dieses intoleranten […] das Verhalten der
+                        Engländer ausländischen Reisenden gegenüber zu beurteilen. – ich verließ das
+                        Lager am 31. Mai; ich kam in Rosette am 4. Juni zu Mittag an. Ich überquerte
+                        den Bogaz am nächsten Morgen und ich kam an Bord der „Tiger“ am 6. vor
+                        Mittag an.</p><p> Obwohl ich, als ich den General verließ, mich verpflichtet fühlte, ihm einen
+                        Brief zu schreiben, um ihm das Unrecht in seinem Verhalten spüren zu lassen
+                        und ihm gegenüber meine Situation darzustellen, wollte ich den Brief jedoch
+                        nicht schreiben, bevor ich Sir <persName>Sidney Smith</persName> gesehen
+                        hätte, dem ich nicht nur empfohlen, sondern an den ich durch seine eigenen
+                        Ansuchen gebunden bin und der, selbst angenommen, dass ich nicht aufgrund
+                        meiner Verbundenheit zu ihm vertrieben worden war, meine Ehre verteidigen
+                        und für mich eine Rechtfertigung und passende Genugtuung erhalten sollte.
+                        Das hat er auch gemacht, indem er meinen Brief jenen mitgab, den ich mit
+                        Verlaub hier beilege und indem er mich aufforderte, die „Tiger“ nicht zu
+                        verlassen, bis er die verlangte Rechtfertigung erhalten habe. Ich glaube, es
+                        ist meine Pflicht, die Auswirkung und die Antwort seiner Briefe abzuwarten,
+                        die bis zum Augenblick, wo ich diesen Brief jetzt schreibe, noch nicht
+                        weggeschickt wurden, da seit dem Tag nach meiner Ankunft auf der „Tiger“,
+                        wir nach Westen kreuzten, wo man ein französisches Geschwader gesichtet
+                        hatte. Im Übrigen haben Lord <persName>Keith</persName> und die ersten
+                        Kapitäne der Flotte diesen Befehl genauso seltsam gefunden wie die Offiziere
+                        der Armee, und der Erste hat erklärt, dass das mit Sicherheit weder in
+                        seiner Macht, noch in jener des Generals liege, einen Reisenden von einem
+                        ganzen Land zu verbannen, das der türkischen Regierung untersteht.</p><p> Nach diesen Details, die ich soeben Eurer Exzellenz mitgeteilt habe, kann
+                        ich nur wiederholen, was ich schon oben über die wahren Gründe dieses
+                        Ausweisungs-Befehls gesagt habe: Da es General
+                            <persName>Hutchinson</persName> gelungen war, Sir <persName>Sidney
+                            Smith</persName> aus der Armee zu entfernen und da er befürchtete, dass
+                        er den Kapudan-Pascha, der mich soeben so liebenswürdig empfangen hat,
+                        weiterhin durch mich beeinflusste, hielt er es für richtig, alle seine
+                        Verbindungen mit den Beys, dem Wesir und dem Kapudan-Pascha abzuschneiden,
+                        indem er mir den Befehl gab, nicht nur das Lager, sondern ganz Ägypten zu
+                        verlassen. Wenn es eine Anschuldigung durch Lord <persName>Elgin</persName>
+                        gibt, wurde sie mit Sicherheit am Anfang des Feldzuges gemacht, aber erst
+                        jetzt hat die Leidenschaft von General <persName>Hutchinson</persName> ihn
+                        handeln lassen. Obwohl ich also das wahre Motiv, die Eifersucht auf Sir
+                            <persName>Sidney Smith</persName>, kenne, habe ich in meinem Brief
+                        nichts davon gesagt, da die einfache Antwort von General
+                            <persName>Hutchinson</persName>, dass das nicht stimme, diese
+                        Anschuldigung entschärft hat. Ich habe mich nur an die Frage des Rechts und
+                        der Tatsache gehalten, und ich habe mit der ganzen Kühnheit gesprochen, die
+                        sich ein privater Beleidigter erlauben kann, aber die sicherlich an eine
+                        ungünstige Stelle gestellt war, wenn ich das Geringste aus meiner
+                        Eigenschaft als einfacher Reisender herausholen hätte wollen.</p><p> Ich würde also auf die Auswirkung dieser Vorgangsweise an Bord der „Tiger“
+                        warten. Ich bin damit beschäftigt, interessante Auszüge für die Geschichte
+                        der französischen Expedition in Ägypten zu machen, von einer vollständigen
+                        Sammlung aller Tagesbefehle der französischen Armee seit ihrer Abfahrt von
+                        Toulon bis zum Beginn dieses Jahres. Diese Sammlung ist umso wertvoller, als
+                        es keine andere gibt als jene in der englischen Armee und dass es perfekt
+                        den Charakter <persName>Bonaparte</persName>s, <persName>Kleber</persName>s
+                        und <persName>Menou</persName>s [zeigt]. Ich werde die Ehre haben, diese
+                        Auszüge eines Tages Eurer Exzellenz mit den anderen Materialien, die ich für
+                        die Geschichte dieser Expedition sammeln konnte, zu übermitteln. Er bleibt
+                        mir hier nur, in wenigen Worten, einen Überblick auf die aktuelle Situation
+                        von Dingen zu geben, die sich einem lang ersehnten Ende zu nähern
+                        scheinen.</p><p> Das französische Geschwader, das 40 Meilen von Alexandria gegen Westen vor
+                        Anker liegend gesichtet worden war, ist verschwunden. Nach den Aussagen der
+                        Gefangenen eines aufgebrachten Schiffes, das von diesem Geschwader getrennt
+                        worden war, scheint es wahrscheinlich, dass die Armee, die an Bord gekommen
+                        war, sich weigerte, an den Sandstränden von Libyen an Land zu gehen, und
+                        umgekehrt sei oder sie werde anderswo an Land gehen. Eine französische
+                        Korvette, die gleichzeitig in Alexandria eingelaufen ist, scheint dies
+                            <persName>Menou</persName> mitgeteilt zu haben, der sich, während er auf
+                        Hilfe hofft, bald erweichen lassen wird, trotz seiner unerschütterlichen
+                        Standhaftigkeit, die, sagt er in einem Befehl,
+                            <persName>Bonaparte</persName> so gut bekannt sei.</p><p> Wenn General <persName>Hutchinson</persName> die geringsten Fähigkeiten
+                        hätte, die dieser Name verdient, wäre Kairo in diesem Augenblick gefallen,
+                        und zwar mit vereinten Kräften der englischen Armeen, die in Abukir und am
+                        Roten Meer gelandet sind, der türkischen Armee unter dem Kommando des Wesirs
+                        und der unter dem Kommando des Kapudan-Paschas, der Armeen der Mameluken und
+                        der arabischen Stämme. Alle diese Einheiten wurden in den ersten Junitagen
+                        zusammengeschlossen und wir haben noch keine Nachrichten darüber, dass man
+                        den geringsten Versuch unternommen hätte, die Franzosen anzugreifen; dank
+                        der blöden Schwäche des englischen Kommandanten, der, statt die Generäle zu
+                        Rate zu ziehen, nichts ohne die Befehle des Wesirs und des Kapudan-Paschas
+                        macht, sodass es die Türken sind, die die Angelegenheiten anführen und dass
+                        niemand erstaunt über diese unvorstellbare Langsamkeit sein darf, mit der
+                        man vorstößt. Wenn <persName>Menou</persName> selbst keine Vorschläge macht,
+                        werden zwei oder drei Monate noch vergehen, bevor man ihn dazu zwingen
+                        können wird und es wäre nicht erstaunlich, wenn der Friede geschlossen wird,
+                        bevor die Engländer mit einer so überlegenen Kraft die Franzosen zur
+                        Kapitulation hätten zwingen können. […]</p><closer><signed><persName>Hammer</persName></signed>
+                        <dateline>An Bord der „Tiger“, Juni 1801</dateline></closer></div></body></text></TEI>

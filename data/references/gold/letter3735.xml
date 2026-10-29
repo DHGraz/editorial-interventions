@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3735"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Bettio</persName> hat Graf <persName>Dietrichstein</persName>,
+                        Präfekt der Hofbibliothek in Wien, in der Sitzung vom vorangegangenen Tag
+                        als Ehrenmitglied des Ateneo vorgeschlagen und ist damit – wie er durch
+                        Sekretär <persName>Breinl</persName> erfahren hat – <persName>HP</persName>
+                        zuvorgekommen. Die Entscheidung wurde einstimmig getroffen.</p><p><persName>Bettio</persName> dankt <persName>HP</persName> für einen Brief
+                        (24. Juni 1828) sowie die gleichzeitige Zusendung von Band III seiner
+                        Osmanischen Geschichte und die Bemühungen um die Manuskripte
+                            <persName>Morelli</persName>s.</p><p>Mit dem Hinweis, er selbst werde in der Ferienzeit (September–Oktober)<note type="comment" place="bottom"><p> Die einmonatigen Ferien waren vor 1825
+                                mit der Zeit zwischen 10.10. und 12.11. festgelegt;
+                                    <persName>(</persName><hi rend="italic">Zorzi, BM
+                            539</hi>).</p></note> nur wenige Tage in der Terraferma verbringen,
+                        beteuert <persName>Bettio</persName> seine Absicht, die Bibliothek allen in-
+                        und ausländischen Gelehrten, besonders aber <persName>HP</persName>s
+                        Protegés zur Verfügung zu stellen.</p><p><persName>Bettio</persName> hat erfahren, dass ein Händler aus Padua<note type="comment" place="bottom"><p> Es könnte sich hierbei um
+                                    Antonio<persName> Zambeccari</persName> handeln, einen Paduaner
+                                Buchhändler, der 1823 einen Teil der Bibliothek des Tommaso de Luca
+                                    da<persName> Borca</persName> gekauft hatte;
+                                    <persName>(</persName><hi rend="italic">Zorzi, BM
+                            538</hi>).</p></note> das Museo Dondi-Orologio<note type="comment" place="bottom"><p> Es dürfte sich um die Sammlung von Francesco Scipione
+                                    Dondi<persName> dell’Orologio</persName> (1756–1819) handeln,
+                                der erst Vikar, dann seit 1807 Bischof von Padua sowie
+                                Kirchenhistoriker war; (<hi rend="italic">DBI XLI
+                            92.95</hi>).</p></note> erworben hat, worauf er Professor
+                            <persName>Molin</persName><note type="comment" place="bottom"><p> Ein
+                                Don Giulio<persName> Molin</persName> wird in der Liste der
+                                Abbonenten des ersten Bandes von <persName>Cicogna</persName>s <hi rend="italic">„Iscrizioni”</hi> genannt.</p></note> gebeten hat,
+                        dort nach dem Werk des Cornelio <persName>Magni</persName> zu suchen.
+                            <persName>Bettio</persName> selbst besitzt den ersten Band der Lettere
+                        des Magni<note type="comment" place="bottom"><p> Inwiefern das mit „Lettere”
+                                bezeichnete Werk mit anderen Schriften (konkret der Schrift <hi rend="italic">„Quanto di più curioso e vago ha potuto raccontare
+                                    ne’suoi viaggi per la Turchia“</hi>) übereinstimmt, kann nicht
+                                festgestellt, aber aufgrund der Aussagen
+                                <persName>Bettio</persName>s und der Zweibändigkeit des Werkes
+                                gemutmaßt werden.</p></note>, den er <persName>HP</persName> –
+                        sollte aus Padua keine positive Rückmeldung einlangen – zur Verfügung
+                        stellen will.</p><p>Durch den Buchhändler Friedrich <persName>Volke</persName><note type="comment" place="bottom"><p> Diese Person konnte nicht
+                                identifiziert werden.</p></note> wird <persName>HP</persName>
+                        demnächst folgende von <persName>Bettio</persName> erstandenen Werke
+                        erhalten: Cicogna, Iscrizioni Faszikel VI<note type="comment" place="bottom"><p> Faszikel VI befindet sich in Band I und behandelt S. Maria in
+                                Broglio, detta l’Ascensione.</p></note> (1.9 Gulden) und Agaup,
+                        Grammatica Armena (1.20 Gulden).</p><p><persName>Bettio</persName> hält <persName>HP</persName> an, bezüglich seiner
+                        Ernennung zum Ehrenmitglied des Ateneo Veneto ein Dankesschreiben an den
+                        Präsidenten Pietro<persName> Biagi</persName> zu richten.
+                            <persName>Bettio</persName> selbst gibt an, nicht Sekretär, sondern
+                        ebenfalls Ehrenmitglied zu sein.</p><p>Unbekannt ist <persName>Bettio</persName> der italienische Bericht über den
+                            Serail<note type="comment" place="bottom"><p> Dieses Werk konnte nicht
+                                identifiziert werden.</p></note>. Auch
+                            <persName>Meuselio</persName><note type="comment" place="bottom"><p>
+                                Johannes Gregorius Meuselius, Bibliotheca Historica. Vol I–XI,
+                                Lipsiae 1782–1802.</p></note> zitiert diesen nicht.</p><p>Das Projekt der Umgestaltung des Palazzo Ducale (Erweiterung der Bibliothek,
+                        Verbesserung der Umstände des Bibliothekars, der im selben Gebäude wohnen
+                        und finanziell besser bedacht jenem von Mailand gleichgestellt sein soll Der
+                        Vergleich mit Brera hatte sich bereits bei den Gehaltsverhandlungen in den
+                        frühen zwanziger Jahren ergeben, als <persName>Bettio</persName> bescheiden,
+                        jedoch unter Verweis auf die 1600 Gulden, die der Bibliothekar von Brera,
+                        einer an antiken Stücken weit unbedeutenderen Sammlung, für sein Amt 1200
+                        bzw. 1400 Gulden forderte, wobei ihm 1200 zugestanden wurden; (<hi rend="italic">Zorzi, BM 372</hi>). ist unterdessen in Wien eingelangt
+                        und soll von Graf<persName> Saurau</persName> behandelt werden.
+                            <persName>Bettio</persName> bittet <persName>HP</persName>
+                        gegebenenfalls um Fürsprache.</p></div><div type="letter" subtype="original"><opener><salute>Sig[nor] Consigliere Chiarissimo</salute></opener><p>Ho la compiacenza di prevenirla, che in conseguenza della communicazione
+                        fattami dal Sig[nor] Segretario <persName>Breidl</persName>, avendo io
+                        proposto al nostro Ateneo come Socio Onorario S[ua] E[ccellenza] il Principe
+                        di <persName>Dietrichstein</persName><note type="comment" place="bottom"><p>
+                                A: Dieterstein.</p></note> Prefetto Chiarissimo della Biblioteca
+                        Cesarea; fu ieri pienamente accettato, facendosi l’Ateneo l’onore di
+                        aggregare Soggetto così distinto e per Nobiltà, e per talenti, e pei carichi
+                        dignitosi che occupa. Non appena estesa la Patente, mi farò il dovere di
+                        passarla al prelodato Sign[or] Segretario.</p><p>Stava scrivendo allorché giunsemi la sua 24 Giugno spirato col terzo Volume
+                        della sua Storia, pel quale la ringrazio assaissimo, siccome la ringrazio
+                        per le sue prestazioni intorno alli <choice><abbr>Mssti</abbr><expan>Manosscritti</expan></choice> e Studi Morelliani. </p><p>Nel tempo delle vacanze, cioè Settembre ed Ottobre, io sto alla Biblioteca
+                        come in tutto l’anno, e se per pochi giorni faccio qualche gita nella vicina
+                        Terraferma, faccio che ci sia chi possa rispondere in mia assenza. Le dirò
+                        poi che alli Nazionali, e molto più ai dotti Forestieri non niego mai l’uso
+                        della Biblioeteca, e voglio che chiunque approfitti di tutto quello che
+                        esiste. Immagini poi quello che devo fare per Lei e per i suoi raccomandati,
+                        che sempre riguardo e riguarderò come lo stesso Consigl[iere]
+                            <persName>Hammer</persName>!</p><p>Mi fu detto, che un Libraio di Padova acquistò la Biblioteca
+                            <persName>Dondi-Orolgio</persName>, e subito scrissi al Prof[esso]re
+                            <persName>Molin</persName> perché investigasse se ci esistessero le
+                        Opere di Cornelio<persName> Magni</persName>. Mi rispose, che il Libraio
+                        suppone di si, ma che avendo<note type="comment" place="bottom"><p>
+                                Korrigiert aus „avendola“.</p></note> appena acquistato la
+                        Biblioteca, non è al caso di porci sopra le mani. Sto adunque attendendo
+                        riscontro. Nella mia privata Biblioteca ho il solo primo Tomo delle Lettere
+                        del <persName>Magni</persName>; nel caso che non mi venga da Padova, il mio
+                        diverrà suo. Nei casi disperati di non trovare il tutto, anche una parte può
+                        giovare.</p><p>Col mezzo di cotesto suo Libraio Federico<persName> Volke</persName> Ella
+                        riceverà un pacchetto, in cui troverà il sesto fascicolo delle Iscrizioni
+                        del <persName>Cigogna</persName>, ed <persName>Agop</persName> Grammatica
+                        Armena, della quale Ella mi ha scritta da qualche tempo. Il prezzo del primo
+                        è di Fior[ini] 1. K[reuzer] 9, e del secondo 1. K[reuzer] 20.</p><p>Se credesse, farà cosa gratissima all’Ateneo qualora dirigesse una Lettera al
+                        Presidente dell’Ateneo istesso il Sig[nor] D[otto]re Pietro<persName>
+                            Biagi</persName>. È costume che si legge nella prima sezione. La diriga
+                        al <persName>Biagi</persName>, e me la faccia avere, che m’incarico di
+                        passarla subito. Io poi non sono Segretario, ma essendo stato prima Socio
+                        Ordinario per qualche anno, mi vollero poscia graziare del Titolo di
+                        Onorario.</p><p>Né stampata, né M[ano]s[critto] qui esiste la Relazione Italiana sul
+                        Seraglio; quindi niente posso dirle sull’argomento. Esaminai eziandio il
+                        Meusell, che nemmeno la cita.</p><p>So, che il Progetto sul Palazzo ex-Ducale deve essere arrivato in Vienna, e
+                        per quanto vien detto, deve passare<note type="comment" place="bottom"><p>
+                                Korrigiert aus „essere“.</p></note> in mano di S[ua] E[ccellenza] il
+                        Co[nte] di<persName> Saurau</persName>. In quello si tratta di estendere la
+                        Biblioteca, e di far migliorare eziandio le condizioni del Bibliotecario, al
+                        quale accrescendosi le incombenze fu progettato di accordare l’abitazione
+                        nel locale istesso, ed aumento di soldo, mettondolo così a paro con quello
+                        di Milano. Mi piace ch’Ella ne sia a cognizione, sicuro che potendolo, non
+                        mancherà di giovarmi.</p><closer><salute>Quanti incommodi! Ma quanto è grande il suo cuore per accordarmi
+                        perdono? Ella mi conservi la sua benevoglienza, e mi consoderi pieno di
+                        stima. Il Suo Obblig[atissi]mo Servo</salute><signed>Pietro<persName> Bettio</persName></signed><dateline>11. Luglio 1828.</dateline></closer></div></body></text></TEI>

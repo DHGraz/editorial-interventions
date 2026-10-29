@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_289"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Wien den 3ten Jänner 1803</dateline><salute>Lieber Bruder!</salute></opener><p>Nun<note type="comment" place="bottom"><p> Die Jahreszahl <hi rend="italic">„1803“</hi> im Datum ist mit roter Tinte, wohl von HP,
+                                eingefügt worden.</p></note> kann ich mir erst erklären, was Sie mit
+                        dem 2ten Briefchen meinten. Die vergangene Woche erhielt ich einen mit
+                        Einschluss durch H[errn]
+                            <persName>v[on] </persName><persName>Wal[l]enburg</persName><note type="comment" place="bottom"><p> Jakob
+                                    <persName>von Wallenburg;</persName>
+                            (BARCH).</p></note><persName>,</persName> den Sie vermutlich schon
+                        früher angekommen glaubten. Ich danke Ihnen für die artige Erinnerung meine
+                            Stickerei<note type="comment" place="bottom"><p> Das Jungfernbrünnlein
+                                war ein beliebtes Ausflugsziel in der Nähe von Weidling am Bach.
+                            </p></note> nicht zu vergessen, denn darum haben Sie mir wohl die
+                        hübschen Sterne zum Seide<note type="comment" place="bottom"><p> Dieses Wort
+                                ist eindeutig so zu lesen; die Stelle ist unklar.</p></note> wieder
+                        geschickt? Sie haben mir viel Vergnügen gemacht, aber mit Ihrer Treue,
+                        lieber Bruder, sieht es schlecht aus. – Ein Teil davon kam abgestumpft, ein
+                        Teil mitten entzwei gesprungen und nur das 3tel ganz und wohl condicioniert
+                        in meine Hände; ja nun, immer genug auf eine Entfernung von sovielen Meilen.
+                        Das Päckchen an meine lieben Schwestern<note type="comment" place="bottom"><p> Das heißt in diesem Falle HPs Schwestern.</p></note> werde ich
+                        durch meinen Vetter Ende des Fasching nach Graz schicken. Gerne hätte ich
+                        ihnen eh[er] das Vergnügen gemacht, das Geschenk ihres guten Bruders
+                        erhalten zu haben, aber ich fand keine Gelegenheit und gerne würde ich ein
+                        Briefchen beischliessen, aber sie kennen die Wienerschwester nicht. – Nun
+                        aber, lieber Bruder, teilen Sie auch meine Freude.
+                            <persName>Egger</persName><note type="comment" place="bottom"><p> Franz
+                                    <persName>Egger (</persName>1765–1851) Jurist. Studierte
+                                Theologie und Jus (Dr. jur.; Schüler von
+                                    <persName>Zeiller</persName> und
+                                <persName>Sonnenfels</persName>), wurde 1789 Professor am Grazer
+                                Lyzeum (1796/1797 Rektor) und war 1803–1829 ordentlicher Professor
+                                an der Universität Wien (Lehrkanzel für Natur- und Kriminalrecht,
+                                Supplierung der Lehrkanzel <persName>Zeiller</persName>s); (<hi rend="italic">www.wien.gv/wiki 20151012</hi>).</p></note> ist an
+                            <persName>Zeiller</persName>s<note type="comment" place="bottom"><p>
+                                Franz Anton Felix Edler
+                                    <persName>von</persName> <persName>Zeiller</persName>
+                                (1751–1828) war ein österreichischer Jurist und von 1803 bis 1807
+                                Rektor der Universität Wien. 1802 war er Hofrat bei der Obersten
+                                Justizstelle. <persName>Zeiller</persName> gilt neben seinem Lehrer
+                                Karl Anton <persName>von Martini</persName> (1726–1800) als der
+                                bedeutendste Vertreter des Vernunftrechts in der
+                                Habsburgermonarchie. Beide verbanden das Ius Romano-Germanicum mit
+                                dem Naturrecht. Beide haben das Vernunftrecht in den Dienst der
+                                Privatrechtskodifikation gestellt und es so der Praxis nutzbar
+                                gemacht. <persName>Zeiller</persName> gilt als der Schöpfer des
+                                Allgemeinen Bürgerlichen Gesetzbuches (ABGB) von 1811 und der
+                                juridisch-politischen Studienordnung von 1810, zudem war er der
+                                Referent des 1. Teils des Strafgesetzbuchs von 1803; (<hi rend="italic">Wikipedia 20151012</hi>).</p></note> Stelle zum
+                        Professor bei hiesiger Universität und zum Lehrer bei des Kaisers Brüdern
+                        ernannt. Bald werde ich die Freude haben, meine Jugendfreundin<note type="comment" place="bottom"><p> Offenbar die Gattin von Franz
+                                    <persName>von Egger.</persName></p></note> immer um mich zu
+                        haben, und auch mein Bruder wird bald wieder in Wien sein, so sagen
+                        wenigstens alle, die Sie kennen. Ich weiß wirklich nicht, ob es wird der
+                        Mühe Wert sein, Ihnen meine Stickerei hinab zu schicken<note type="comment" place="bottom"><p> Damit ist Konstantinopel gemeint, dass für Wiener
+                                nicht nur im Süden, sondern auch donauabwärts gelegen
+                            ist.</p></note>, denn höchstens ein Jährchen sagte mir ohnlängst<note type="comment" place="bottom"><p> = unlängst.</p></note>
+                        <persName>Hartmann,</persName> Sekretär bei der Hofstelle, wird man ihn<note type="comment" place="bottom"><p> Das meint HP.</p></note> noch da
+                        lassen. – Einen neuen Beweis von Ihrem guten Geschmack, lieber Bruder,
+                        erhielten wir auch erst ohnlängst<note type="comment" place="bottom"><p>
+                                Wiederum für „unlängst“, also vor kurzer Zeit.</p></note>. Seine
+                        kai[erliche] Hoheit <persName>Konstantin</persName>, ein berühmter Kenner
+                        meines Geschlechts, zeichnete auch die Gräfin
+                            <persName>Lansčranscka</persName> vor allen anderen Weibern aus, aber
+                        ihr altmodischer Gemahl erkannte die Ehre nicht<note type="comment" place="bottom"><p> Darnach durchgestrichen „einmahl“.</p></note>, denn
+                        als ihr der Prinz einmal zu einer bei uns ungewöhlichen Stunde einen Besuch
+                        machen wollte, war o weh[!], der H[er]r Gemahl da und bewies ihm mit so
+                        dürren Worten, daß auch sein Weib noch nach alten Sitten lebe, daß Se[ine]
+                        Kaiserliche Hoheit nie wieder kam. <salute>Adieu</salute>
+                    </p><closer><signed><persName>Elise</persName></signed></closer></div></body></text></TEI>

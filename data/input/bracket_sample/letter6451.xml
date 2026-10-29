@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6451"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>München 11. S[e]pt[em]b[er]r 1842</dateline><salute>Hochwohlgeborner Freiherr,</salute></opener><p>Am<note type="comment" place="bottom"><p> Ohne Einschau in die Originale
+                                („B[ayerische] S[taats-]B[ibliothek], Autogr[aphe] Fallmerayer“) mit
+                                Anmerkungen übernommen aus: Daniel Drascek und Siegfried Wagner; <hi rend="italic">Jakob Philipp Fallmerayer im Räderwerk der
+                                    bayerischen Verwaltung, München 1993, S.
+                            192–193</hi>.</p></note> 7<hi rend="superscript">ten</hi> dies[es
+                        Monats] habe ich endlich die so oft unterbrochene und wieder aufgenommene
+                        Anzeige Ihres berühmten Werkes über die goldene Horde von Kiptschak<note type="comment" place="bottom"><p> HPs <hi rend="italic">Geschichte der
+                                    Goldenen Horde in Kiptschak. Das ist: Der Mongolen in Russland.
+                                    Mit neun Beylagen und einer Stammtafel, nebst Verzeichniss von
+                                    vierhundert Quellen, Beurtheilung der Herren v. Krug, Fraehn und
+                                    Schmidt, Antwort darauf, und Nahmen‐ und Sachregister, Budapest
+                                    1840</hi>, vgl. dazu das Kapitel 10.4.5.4 „Die Geschichte der
+                                Goldenen Horde in Kiptschak – 1835–1840“; in: Walter Höflechner
+                                u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein
+                                    Altösterreichisches Gelehrtenleben Eine Annäherung; Graz 2021,
+                                    Bd 1</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>. Dazu <hi rend="italic">„Vgl. Fallmerayer (Rez.): Geschichte der goldenen
+                                    Horde in Kiptschak, d.i. der Mongolen in Rußland. Pesth 1840.
+                                    In: Gelehrte Anzeigen, Bd. 15, Nr. 109 (20.10.1842), S. 641–646;
+                                    Nr. 210 (21.10.1842), S. 649–654; Nr. 211 (22.10.1842); S.
+                                    657–664.“</hi>; (Drascek/Wagner).</p></note> bei der Redaktion
+                        unseres akademischen Litteraturblattes eingereicht, sie aber nach zwei Tagen
+                        mit einem Billet folgenden Inhaltes wieder zurückerhalten:</p><p>„Um diesen gehaltreichen Aufsatz in die Gel[ehrten] Anz[eigen] aufnehmen zu
+                        können, ersuche ich den H[och]l[öbliche]n V[e]rf[asser] um gefällige
+                        Abänderung aller Stellen, die als feindselig gegen Rußland auffallen würden
+                        und um so mehr auffallen müßten, weil die beiden Akademiker, deren Verfahren
+                        gerügt wird, nicht Russen, sondern Deutsche sind<note type="comment" place="bottom"><p> Damit sind der Mongolist Isaak Jakob
+                                    <persName>Schmidt</persName> (1779–1847) und Orientalist
+                                Christian Martin Joachim <persName>Frähn</persName> (1782–1851)
+                                gemeint, denn das Gutachten von Johann Philipp
+                                    <persName>Krug</persName> (1764–1844) erkannte HP als sachlich
+                                und fair an – vgl. dazu das Kapitel 10.4.5.4 „Die Geschichte der
+                                Goldenen Horde in Kiptschak – 1835–1840“; in: Walter Höflechner
+                                u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein
+                                    Altösterreichisches Gelehrtenleben Eine Annäherung; Graz 2021,
+                                    Bd 1</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note>.“</p><p>Freilich bin ich den beiden mongolischen Rhadamanten<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Nach der griechischen Mythologie war Rhadamantys
+                                    ein Sohn des Zeus und der Europa, Bruder des Minos und Gatte der
+                                    Alkmene. Er galt als strenger und gerechter Richter in der
+                                    Unterwelt.“</hi>; (Drascek/Wagner).</p></note> etwas stark
+                        gekommen, mußte aber, um nicht Alles zu verlieren und gänzlich mit der
+                        Arbeit abgewiesen zu sein, gleichwohl in die verlangten Milderungen
+                        willigen. Eben heute wird der verbesserte Artikel wieder eingeschickt und
+                        ich hoffe, man wird mit der Buße zufrieden sein. Widrigenfalles müsste ich
+                        gleichwohl bei der Allgem[einen] Zeitung oder anderswo ein geneigteres
+                        Unterkommen suchen. Die Arbeit ist von mäßigem Umfang, etwa 25 Seiten
+                        Handschrift in Quarto, aber ich meine, sie soll kräftig sein und dem
+                        gefeierten Literaten einen Augenblick der Zufriedenheit gewähren.</p><p>Mit meiner akademischen Festrede bin ich übel weggekommen<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„</hi><persName>Fallmerayer</persName><hi rend="italic">s Akademierede wurde abgelehnt.
+                                    </hi><persName>König Ludwig I.</persName><hi rend="italic"> gab
+                                    ihm die Schuld, daß der hellenische Kredit in Europa verloren
+                                    gegangen sei. – Vgl. Fallmerayer: Schriften und Tagebücher, Bd.
+                                    2, S. 283–284.“</hi>; (Drascek/Wagner).</p></note>,
+                            <persName>Thiersch</persName><note type="comment" place="bottom"><p>
+                                Friedrich Wilhelm <persName>von Thiersch</persName> (1784–1860),
+                                Philologe und maßgeblicher bayerischer Bildungspolitiker, Lehrer des
+                                Wittelsbacherprinzen <persName>Otto</persName>, der 1832 König von
+                                Griechenland wurde. </p></note> hat am meisten dagegen revoltiert
+                        und endlich den Vortrag gänzlich zu hintertreiben gewußt. Mühe und Zeit
+                        umsonst verloren. Auch die Abhandlung über die osmanische Thronfolge hat mir
+                        dieser aufrichtige Mann vorenthalten. Auch in München, wie es scheint, gibt
+                        es <persName>Frähn</persName><note type="comment" place="bottom"><p>
+                                Christian Martin Joachim <persName>Frähn</persName> (1782–1851),
+                                deutscher Orientalist und Numismatiker in St. Petersburg, vgl. dazu
+                                BARCH und das Kapitel 10.4.4.6 „Die Affäre um HPs Sur les Origines
+                                Russes – 1823–1830“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note> und
+                            <persName>Schmidt</persName><note type="comment" place="bottom"><p>
+                                Isaak Jakob Schmidt (1779–1847), Orientalist in St. Petersburg,
+                                einer der Begründer der Mongolistik und Tibetologie, vgl. dazu BARCH
+                                und das Kapitel 10.4.4.6 „Die Affäre um HPs Sur les Origines Russes
+                                – 1823–1830“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph
+                                    von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1</hi>
+                                <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note>.</p><closer><salute>Mit vorzüglichster Hochachtung und Verehrung E[uer] Hochwohlgeboren
+                        ergebenster Diener</salute><signed><persName>Fallmerayer</persName></signed></closer></div></body></text></TEI>

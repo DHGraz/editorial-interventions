@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_5926"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Catena</persName> hat die Zusendung <persName>HP</persName>s, einen Brief (ohne Datumsangabe) und den von <persName>HP</persName> erstellten Katalog der orientalischen Handschriften der Ambrosiana<note type="comment" place="bottom"><p> Während des Aufenthaltes in
+                        Mailand (19.08.–18.09.) hatte HP Gelegenheit, täglich von sechs bis neun Uhr
+                        auf der Biblioteca Ambrosiana zu arbeiten und dort konkret ein Manuskript
+                        zur Falknerei abzuschreiben; s. das Kapitel 10.10 „Die Reise in die
+                        Lombardei – 1838“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von
+                            Hammer-Purgstall 1774–1856 Ein Altösterreichisches Gelehrtenleben Eine
+                            Annäherung; Graz 2021, Bd 2</hi>
+                        <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>. Die dortige Bestandsaufnahme
+                        orientalischer Handschriften erschien dann in der „Biblioteca italiana“
+                        unter folgendem Titel: HP, <hi rend="italic">Catalogo dei codici arabi,
+                            persiani e turchi della Biblioteca Ambrosiana</hi>; in: <hi rend="italic">BI XCIV (1839), 22–49 und 322–348</hi>.</p></note>, am 16. Jänner 1839 erhalten. Nun will er sich mit <persName>Angiolini</persName><note type="comment" place="bottom"><p> Benedetto <persName>Angiolini</persName>
+                        arbeitete ebenfalls an der Biblioteca Ambrosiana; (<hi rend="italic">ABI</hi>).</p></note>, dem
+                        Beauftragten der Biblioteca italiana, über den Druck einigen, da schon
+                        ausserordentlich viele Beiträge für die folgende Ausgabe vorliegen. Als bedauerlich würde <persName>Catena</persName> empfinden, wie von <persName>HP</persName> vorgeschlagen aus Platzmangel auf die Anmerkungen des Artikels verzichten zu müssen. Zur Kontrolle der Eigennamen bei der Korrektur hat <persName>Catena</persName> auch die Mitarbeit von <persName>Castiglioni</persName> und <persName>Rossi</persName>, dem Subbibliothekar von Brera, in Anspruch
+                        genommen.</p><p>An griechischen Handschriften zur Vogelkunde, nach welchen <persName>HP</persName> sich erkundigt hatte, konnte <persName>Catena</persName> in der Ambrosiana nichts finden<note type="comment" place="bottom"><p> HP arbeitete
+                        offensichtlich bereits an dem 1840 veröffentlichten Werk <hi rend="italic">„Falknerklee”</hi>, indem er antike und orientalische Handschriften zur
+                        Vogelkunde suchte. Dies geht auch aus dem Vermerk in seinen Erinnerungen
+                        hervor, dem zufolge ihm Pompeo <persName>Litta</persName> während des Aufenthaltes in
+                        Mailand Auskunft über italienische Werke zur Falknerei gab; (s. das Kapitel
+                        10.10 „Die Reise in die Lombardei – 1838“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein
+                            Altösterreichisches Gelehrtenleben Eine Annäherung; Graz 2021, Bd 2</hi>
+                        <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note>. 
+            </p></div><div type="letter" subtype="original"><opener><salute>Ill[ustrissi]mo Signore</salute></opener><p>I fogli contenenti il di Lei catalogo de’m[ano]ss[critt]i orientali
+                        ambrosiani unitamente alla preg[iatissi]ma di Lei lettera furono da me
+                        ricevuti il giorno 16 del corrente. Resi di ciò conspevole il Sig[no]r
+                            <persName>Angiolini</persName>, agente della Direzione della Biblioteca
+                        Italiana, e lo pregai di trovare un momento per convenire con me intorno la
+                        stampa. Per quanto grande sia la copia degli articoli già innoltrati per la
+                        compilazione di quel giornale, spero che la Direzione di esso destinerà ben
+                        presto un campo all’eruditissimo lavoro di V[ostra] S[ignoria]
+                        Ill[ustrissi]ma; ne io trascurerò di sollecitarne le stampa.</p><p>Se Ella crede che le Note dei codici si possano anche omettere, io così
+                        adempirò: ma saranno per noi altrettanti cenni preziosi e vantaggiosissimi
+                        al nostro Catalogo. Porrò molta attenzione ai nomi proprii ed a sfuggire
+                        ogni equivoco. Però non fidandomi di me stesso, ho invocata la cooperazione
+                        del Sig[no] Conte <persName>Castiglioni</persName> e del <choice><abbr>Sigr</abbr><expan>Signor</expan></choice>
+                            <choice><abbr>Prof</abbr><expan>Professor</expan></choice> <persName>Rossi</persName>, sottobibliotecario di Brera, i quali
+                        di buon grado aderirono.</p><p>Ho frugato lentamente il nostro catalogo de’greci m[ano]ss[critt]i per
+                        rinvenire qualche codice trattante di uccellazione generica o speciale,
+                        siccome Ella me ne richiese, ma nulla ho potuto scoprire intorno a tale
+                        materia: del che mi vado dolente, giacché, trovato il codice, avremmo pur
+                        trovata una occasione di significarle la nostra gratitudine.</p><closer><salute>Prego V[ostra] S[ignoria] I[llustrissi]ma a continuarmi la sua grazia,
+                        ad accogliere favorevolmente i miei sinceri augurii per ogni sua prosperità,
+                        e insieme a riconoscere in me persona sempre pronta ad adempiere ogni suo
+                        venerato commando.</salute><dateline>Milano, Biblioteca Ambros[iana] 19 gennaio 1839</dateline>
+                        
+                        <salute>Di V[ostra] S[ignoria] Ill[ustrissi]ma Umi[lissimo] ed obbig[atissi]mo
+                        Servo</salute><signed>D[otto]re B[orro]meo <persName>Catena</persName>
+                        <lb/>Bibliotecario</signed></closer></div></body></text></TEI>

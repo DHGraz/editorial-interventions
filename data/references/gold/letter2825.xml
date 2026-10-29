@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2825"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Paris, 13 janvier 1823</dateline><salute>Monsieur<note type="comment" place="bottom"><p> Briefkopf: Conseil royal
+                                de l´Instruction publique.</p></note> et cher ami, </salute></opener><p>Je dois commencer par vous offrir mes vœux bien sincères que cette année soit
+                        heureuse pour vous, ainsi que pour Madame
+                            <persName>de</persName> <persName>Hammer</persName> et pour que vos
+                        enfans soient sicut novella olivarum in circuitu mensae tuae<note type="comment" place="bottom"><p> Psalm 127 (128) 3b, in der Übersetzung
+                                des <persName>Paracelsus: </persName><hi rend="italic">„Also geht
+                                    dem seligen reichen mann uf erden sein reichtum zu, nit im
+                                    schatz, den die schaben fressen, sonder in kinder: die werden um
+                                    den tisch stehen wie eim die zweig des ölbaums, die um den baum
+                                    umher standen im kreis.“</hi>; (Paracelsus, Theologische Werke 1
+                                Vita beata – Vom glückseligen Leben, hg. von Urs Leo Gantenbein,
+                                Berlin – New York 2008, 212).</p></note>. Vous êtes encore un jeune
+                        homme, et vous ne ressentez point encore les atteintes de l´âge. Il n´en est
+                        pas de même de moi; depuis quelques mois ma santé est fort altérée; et mon
+                        <choice><sic>estomach</sic><corr>estomac</corr></choice> auquel pourtant je ne demande qu´un service très-modéré, me
+                        fait souffrir et me tourmente. Je me suis procuré un peu de soulagement de
+                        corps et d´esprit, en me retirant du Conseil royal de l´instruction
+                            publique<note type="comment" place="bottom"><p> Als
+                                    <persName>de </persName><persName>Sacy</persName> 1815 in diese
+                                Institution gewählt wurde, hieß sie noch Commission de l’instruction
+                                publique, wurde jedoch 1820 in Conseil royal de l’instruction
+                                publique umbenannt; (<hi rend="italic">Buisson 1911: o.S.</hi>).
+                                    <persName>De </persName><persName>Sacy</persName> reichte am
+                                01.12.1822 sein Rücktrittsgesuch ein; (<hi rend="italic">Quérard
+                                    1838: 143</hi>).</p></note>, aux dépens de ma bourse, puisque je
+                        sacrifie un traitement de 12,000 fr[ancs]. Malgré cela je travaille moins
+                        qu´auparavant, à cause du besoin que j´ai de me ménager, et à cause du froid
+                        qui me rend paresseux. Je vais pourtant répondre à vos 3 dernières lettres,
+                        en suivant l´ordre de leurs dates. </p><p>Les commissions contenues dans celle du 25 août ont été faites exactement, et
+                        j´ai reçu de M. <persName>Dacier</persName>, administrateur de la
+                        Bibliothèque du Roi, comme vous le désirez, un récépissé du Monument funèbre
+                        des deux derniers Comtes
+                            <persName>de</persName> <persName>Purgstall</persName><note type="comment" place="bottom"><p> HP, <hi rend="italic">Denkmal auf das
+                                    Grab der beyden letzten Grafen von Purgstall, Wien: A. Strauß.,
+                                    1822</hi>.</p></note>. Je vous remercie, pour mon compte, de
+                        l´exemplaire du même ouvrage que vous m´avez envoyé, et plus encore des <hi rend="underline">Juwelenschnüre</hi><note type="comment" place="bottom"><p> A: du Juwelenschnurr. HP [Üs.], <hi rend="italic">Juwelenschnüre Abul-Maani’s (des Vaters der Bedeutungen), Wien:
+                                    Doll, 1822</hi>.</p></note>, dont je regrette seulement que vous
+                        n´ayiez pas imprimé le texte avec les immitations. M.
+                            <persName>Garcin</persName><note type="comment" place="bottom"><p>
+                                Joseph-Héliodore
+                                    <persName>Garcin </persName><persName>de</persName> <persName>Tassy</persName>
+                                (1794–1878) bedeutender französischer Indologe. Nach klassischen und
+                                arabischen Studien in Marseille ab 1817 Studium bei Silvestre
+                                    <persName>de</persName> <persName>Sacy</persName>, der ihn
+                                richtungsweisend unterstützte. Ab 1822 Sekretär im Collège de France
+                                sowie Adjunkt-Sekretär und Bibliothekar der Société Asiatique.
+                                Spezialisierung auf das muslimische Indien, dessen Sprachen Urdu
+                                (damals: Hindustani) und Hindi (auch: Hindui) er 1828 an der Ecole
+                                des langues orientales einführt. Dort wurde 1830 ein Lehrstuhl für
+                                ihn eingerichtet, den er bis zu seinem Tode inne hatte. Ähnlich wie
+                                    <persName>de </persName><persName>Sacy</persName> verließ
+                                    <persName>Garcin</persName> niemals Europa, informierte sich
+                                jedoch stets über die neuesten Publikationen durch rege
+                                Korrespondenz mit in Indien und England lebenden Wissenschaftlern
+                                und Angehörigen der East Indian Company. Zu seinen Hauptwerken
+                                zählen <hi rend="italic">„Histoire de la littérature hindouie et
+                                    hindoustanie“ (</hi><hi rend="italic">2</hi><hi rend="italic">1870)</hi> sowie <hi rend="italic">„Discours annuels sur la
+                                    langue et la littérature hindoustanies“</hi>;
+                            (BARCH).</p></note> n´étoit pas à Paris, lorsque je reçus votre paquet.
+                        Je lui ai remis à son retour de Marseille, l´exemplaire qui lui étoit
+                        destiné. Je viens aux deux passages de la notice historique de
+                            Motinabbi<note type="comment" place="bottom"><p> A: Moténabbi. Es könnte
+                                sich um <persName>al-Mutanabbi</persName> zugerechnete Aussprüche im
+                                Biographischen Nachschlagewerk <persName>Ibn Khallican</persName>s
+                                handeln, das den Titel <hi rend="italic">„Wafayāt al-Aʿyān wa-Anbāʾ
+                                    Abnāʾ az-Zamān“</hi> („Das Ableben bedeutender Persönlichkeiten
+                                und die Nachrichten über die Söhne der Zeit“) trägt und von
+                                    <persName>MacGuckin de Slane</persName> 1843 ins Englische
+                                übersetzt wurde; (<hi rend="italic">ibid: 308, 481,
+                            etc.</hi>).</p></note> par Ebn-Khalican<note type="comment" place="bottom"><p>
+                                <persName>Ibn Challikan</persName>, DMG Ibn Ḫallikan, vollständiger
+                                Name: Aḥmad bin Muḥammad bin Ibrāhīm Abū al-ʿAbbās Šams ad-Dīn
+                                al-Barmakī al-Irbilī al-Šāfiʿī (1211–1282) kurdisch-arabischer
+                                Biograph und islamischer Rechtsgelehrter. Nach Studien in Arbil und
+                                Aleppo sowie einigen Reisen Niederlassung in Ägypten (635 oder 636),
+                                wo er bald zum Qāḍī al-quḍāt ernannt wurde. 1261 Ernennung zum
+                                Oberrichter in Syrien, 1266 jedoch wieder Entlassung und Rückkehr
+                                nach Kairo. Mehrere Wirren verursachten die mehrmalige
+                                Wiedereinsetzung und Entlassung <persName>Ibn Challikan</persName>s
+                                von seinem Posten; (<hi rend="italic">Wikipedia 20110312</hi>;
+                                BARCH).</p></note>, sur lesquels vous me consultez. Le 1<hi rend="superscript">er</hi>. signifie: </p><p>Aboulabbas (et non Alabbas)
+                        <persName>Ahmed ben-Mohammed Aluzuni</persName>/aluami/alaumi, le poëte dont
+                        nous parlerons dans peu (الآتي ذكره عقيب هذا كان الخ.<note type="comment" place="bottom"><p> [al-ātī ḏikruh<hi rend="superscript">u</hi> ˁaqīb
+                                haḏā kān ilā āḫirih<hi rend="superscript">i</hi>] ar. „der im
+                                Anschluss genannte [war], usw.“.</p></note>) a dit: (Il étoit resté
+                        un coin de l´art de la poésie, dont personne ne s´étoit mis en possession);
+                            <persName>Motinabbi</persName><note type="comment" place="bottom"><p> A:
+                                Moténabbi.</p></note> y est entré. J´aurois bien désiré avoir dit
+                        avant lui deux pensées /// qu´il a exprimées, sans que personne les eût<note type="comment" place="bottom"><p> A: eut.</p></note> mises au jour avant
+                        lui </p><p>الى مَعَنييْن قالهما فما سبقه اليهما احد<note type="comment" place="bottom"><p> [ilā maˁanayain [sic] qālahumā fa-mā sabaqahu ilaihumā aḥad]
+                                ar.: „zwei Bedeutungen, die niemand vor ihm erwähnt
+                            hatte“.</p></note>
+                    </p><p>Le second passage est celui-ci: <note type="comment" place="bottom"><p> [wa
+                                    huw<hi rend="superscript">a</hi> Ǧaˁfī bin Saˁd al-ˁašīra ibn
+                                Maḏḥaǧ wa ismuh<hi rend="superscript">u</hi> Mālik ibn Adad bin Zaid
+                                ilā āḫirih<hi rend="superscript">i</hi>] ar.: „Und er ist Ǧaˁfī bin
+                                Saˁd al-ˁašīra ibn Maḏḥaǧ und sein Name lautet Mālik ibn Adad bin
+                                Zaid ilā āḫirih<hi rend="superscript">i“.</hi></p></note>وهو جعفي بن
+                        سعد العشيرة ابن مذحج واسمه مالك ابن ادد بن زيد الخ c.àd.</p><p>Ce <persName>Djofi</persName> est <persName>Djofi</persName> fils de
+                            <persName>Saad Alaschira</persName>, fils de
+                            <persName>Midhhadj</persName> duquel (Midhhadj) le nom est
+                            <persName>Malec</persName> fils d´<persName>Odad</persName> f[ils] de
+                            <persName>Zeid</persName>, etc.</p><p>En effet Midhhadj n´est pas un nom, c´est un sobriquet<note type="comment" place="bottom"><p> Französisch: Spitzname.</p></note> donné à Malec fils
+                        d´Odad, comme on peut le voir ans les Extraits
+                            d´<persName>Aboulféda</persName> que j´ai donnés à la suite de la 2<hi rend="superscript">e</hi> édition du <hi rend="underline">Specimen
+                            historia Arabum</hi> de <persName>Pococke</persName>. </p><p>Je passe à la lettre du 21 novembre.</p><p>Le manuscrit duquel j´ai tiré ce que j´ai dit de Mohyi-eddin مُحٍّي
+                            الدّين<note type="comment" place="bottom"><p> [Muḥayy ad-Dīn], d.h.
+                                Muhammad <persName>ibn Arabi</persName>, DMG Muḥammad ibn ˁArabī,
+                                genannt Muhayy ad-Din, auch: ash-Shaikh al-Akbar (1165–1240)
+                                einflussreichster arabischer Mystiker. Nach zahlreichen Reisen in
+                                der islamischen Welt verließ <persName>Ibn Arabi</persName> seine
+                                Heimat, das maurische Spanien endgültig, machte zunächst die Hadsch,
+                                reiste 1204 nach Anatolien und ließ sich schließlich 1223 in
+                                Damaskus nieder. Zu seinen über 450 Arbeiten gehören die <hi rend="italic">„Futûhât al-Makkiyya“</hi>, eine Enzyklopädie der
+                                mystischen Kenntnisse, aber auch poetische Werke wie <hi rend="italic">„Tarjumân al-Ashwâq“</hi>; (<hi rend="italic">Chittick [o.J.]: o.S.</hi>).</p></note>, est un très-petit
+                        volume de 15 pages seulement: Voici ce qu´on lit sur le 1<hi rend="superscript">er</hi>. feuillet:</p><p>هذه الرسالة من كتاب كنه الاخبار تاليف امير الامرآء العادلين الاخيار وظير
+                        العلمآء العاملين الكبار امير امرآء الشام سابقا وامين جدة وامير مكة <hi rend="strikethrough">المشرفة</hi> المكرمة لاحقا صاحب الدواوين والاشعار
+                        المقبولة ومصنف الكتب والرسائل المعقولة والمنقولة مولانا عالى پاشا أعلى الله
+                        شأنه في الدنيا والأخرى في مناقب قدوة المؤلّفين وزبدة المصنّفين مرشد السالكين
+                        ومحي الهالكين مولانا شيخ محي من خلفآء ابن الشيخ ابرهيم كلشنى نوّر الله
+                        مرقدهم السنىّ وهو المرشد الغنىّ<note type="comment" place="bottom"><p>
+                                    [haḏih<hi rend="superscript">i</hi> ar-risāla min kitāb xx
+                                al-aḫbār tālīf [sic] Amīr al-Umarāˀ al-ˁādilīn al-aḫyār wa […]
+                                al-ˁulamāˀ al-ˁāmilīn al-kibār Amīr Umarāˀ aš-Šām sābiq<hi rend="superscript">an</hi> wa amīn Ǧidda wa Amīr Makka <hi rend="strikethrough">al-mušarrafa</hi> al-mukarrama lāḥiq<hi rend="superscript">an</hi> ṣāḥib ad-dawāwīn wa al-ašˁār
+                                al-maqbūla wa muṣannif al-kutub wa ar-rasāˀil al-maˁqūla wa
+                                al-manqūla Maulānā ˁĀlī [sic] Pāšā aˁlā Allah šaˀnah<hi rend="superscript">u</hi> fī ad-duniyā wa al-aḫrā fī manāqib
+                                    qudwa<hi rend="superscript">t</hi> al-muˀallifīn wa zubda<hi rend="superscript">t</hi> al-muṣannifīn muršid as-sālikīn wa
+                                muḥayy al-hālikīn Maulānā Šaiḫ Muhayy min ḫulafāˀ aš-Šaiḫ Ibrahīm
+                                Gulšanī nawwir Allah marqadahum as-sunnī wa huw<hi rend="superscript">a</hi> al-muršid al-ġanī], ar. „Diese
+                                Abhandlung entstammt dem Buch ´XX der Nachrichten´, verfasst von dem
+                                Prinz der redlichen Prinzen, xx der großen tätigen Wissenschaftler,
+                                dem ehemaligen Prinzen der Prinzen Syriens, dem derzeitigen
+                                Verwalter der <hi rend="strikethrough">ehrwürdigen</hi> gesegneten
+                                [Stadt] Mekka, dem Verfasser akzeptabler Diwane und Gedichte, dem
+                                Kompilator vernünftiger Bücher und Abhandlungen, die von unserem
+                                Herren <persName>Ali Pascha</persName> übertragen wurden, möge Gott
+                                sein Ansehen auf Erden fördern, dem Verdientesten auf dem Pfade der
+                                literarischen Vorbilder und der Auslese der Kompilatoren, dem Führer
+                                der Wegbeschreitenden; demjenigen, der die Verlorenen wieder
+                                aufleben lässt, unser Herr Scheich <persName>Muḥayy</persName>,
+                                einer der Nachkommen des Sohnes des Scheichs
+                                    <persName>Ibrahīm Gulšan</persName>, möge Gott all ihre
+                                rechtschaffenen Ruhestätte beleuchten. Er ist der unverzichtbare
+                                [reiche] Lenker [der Geschicke]“. Zu dem Original konnten keine
+                                weiteren Informationen eruiert werden. </p></note></p><p>Le <note type="comment" place="bottom"><p> Vermutlich persischer Titel,
+                                Transkriptionsvorschlag: [Kanneh al-Aḫbār], verfasst von Mustafa bin
+                                Ahmad bin Abd al-Mawali.</p></note>كنه الاخبار ne se trouve pas à la
+                        Bibliothèque du Roi. Le contenu de mon manuscrit est en turc, et voici ce
+                        qu´on y lit à la p[age] 2</p><p>چون بوفقیر شام بکلربکی لکنی اختیارمله ترك<note type="comment" place="bottom"><p> Folgende Lesung auch möglich:نزك [nzk].</p></note> ايدوب كعبهء
+                        مكرمه محبتنه جده بكلكى ايله امانتنى اختيار اتدم مصره ک سنه سبع بعد الالف ده
+                        واردقده مصاحبت ايدوب تصنيفاتى كوردم ديوان فارسى وتركى وقصايد ومقطعاتدن ما
+                        عدا كبير وصغير درت دلده يعنى عربى وفارسى وتركى وبال بيلنده ايكى يوزدن زياده
+                        مؤلّفاقى وار ايدى اكثرنده مشايخ وعلمانك مشكلاتن حل وكشف وتحقيق اقمشدر<note type="comment" place="bottom"><p> Passage auf Osmanli.</p></note></p><p>Il seroit inutile, je pense, d´en copier plus long. Quant à l´offre que vous
+                        me faites de me communiquer un extrait du شقايق نعمانيه<note type="comment" place="bottom"><p> [Šaqāyiq [sic] Nuˁmāniya].</p></note> sur l´inventeur
+                        de l´idiome Balaïbalan, je l´accepte avec plaisir, si il vous paroît<note type="comment" place="bottom"><p> A: paroit.</p></note> avoir quelque
+                        intérêt, et en ce cas je vous prie de me l´envoyer en original, copié bien
+                            lisiblement.<note type="comment" place="bottom"><p> Am Rande dieser
+                                Seite wurde eine handschriftliche Notiz hinzugefügt: […] Mohieddin
+                                als Mohajedin?</p></note> /// </p><p>Vous me dites, mon cher ami, que je trouverai dans votre Notice du <hi rend="underline">Reschhat</hi><note type="comment" place="bottom"><p>
+                                Dabei handelt es sich um eine nicht auffindbare Notiz HPs zu dem
+                                Werk <hi rend="italic">„Rašaḥāt ˁAin al-Ḥaya“ </hi>über die
+                                Glaubensvorstellung der Naqshbandiya-Sekte, verfasst von
+                                al-Kaschifi. Ein Manuskript dieses Werkes wurde zwischen 1500 und
+                                1711 erstellt; (vgl. <hi rend="italic">Chodkiewicz 1993:
+                                132</hi>).</p></note> la réponse à la question que je vous avois
+                        faite sur les mots انا الدهر<note type="comment" place="bottom"><p> [anā
+                                ad-dahr], ar.: „Ich bin die Ewigkeit“.</p></note>. Je dois vous
+                        avouer à ma honte que je ne me souviens plus quel étoit l´objet de cette
+                        question, et que, après avoir lu votre Notice qui m´a fort intéressé, je
+                        l´ai mise dans un de mes nombreux cartons. Je ne puis plus la retrouver.
+                        Veuillez donc, je vous prie, me rappeler et ma question et votre réponse. Je
+                        suis à présent comme cet Arabe qui étoit si sujet à l´oubli qu´il oublioit
+                        jusqu´à sa disposition à l´oubli.</p><p>Il y a quatre ou cinq mois que M. <persName>Pelicier</persName> a pour vous
+                        les envoyer, le 2<hi rend="superscript">d</hi> volume du Hariri, les tomes 5
+                        et 6 des Mémoires de l´Académie, et, si je ne me trompe, l´Exposition de la
+                        foi Musulmane par M.
+                            <persName>Garcin </persName><persName>de</persName> <persName>Tassy</persName><note type="comment" place="bottom"><p> Mehmed Efendi, alias Birgivi/Garcin de
+                                Tassy, Joseph-Héliodore-Sagesse-Vertu [Üs.], <hi rend="italic">Vasîyetnâme. Exposition de la foi musulmane, traduite du turc
+                                    de Mohammed ben Pir-Ali Elberkevi. Paris: Dufour,
+                            1822</hi>.</p></note>. Il m´avoit promis que tout cela partiroit au mois
+                        d´octobre dans une caisse de livres destinée pour un de vos amis. Mais le
+                        tout étoit encore chez lui, il y a trois semaines. J´en suis fort en colère,
+                        mais qu´y faire, puisque nous n´avons plus d´occasions de courrir. Je suis
+                        allé voir M. le B[ar]on <persName>de </persName><persName>Binder</persName>
+                        pour lui parler de cela; ne l´ayant pas trouvé, ma peine a été perdue. Quant
+                        aux livres que vous avez demandés à M. <persName>Pelicier</persName>, je
+                        crois lui avoir déjà remis l´Exposition de la foi Musulmane. Je lui donnerai
+                        aussi pour vous le volume d´Extraits des historiens arabes des
+                            Croisades<note type="comment" place="bottom"><p> Michaud,
+                                Joseph/Reinaud, Joseph Toussaint, <hi rend="italic">Extraits des
+                                    historiens arabes, faisant partie de la Bibliographie de
+                                    l’histoire des croisades de M. Michaud. Paris: Boucher,
+                                    1822</hi>.</p></note>. Je ne crois pas qu´on ait mis dans le
+                        commerce les Capitulations de la Porte avec la France<note type="comment" place="bottom"><p> Saint-Priest, Alexis Guignard de, <hi rend="italic">Mémoires sur l’ambassade de France en Turquie, et sur le
+                                    commerce des Français dans le Levant. Paris: Leroux,
+                                1822</hi>.</p></note>, et je tâcherai d´en obtenir un exemplaire
+                        pour vous. Je ne sai ce que c´est que la Relation du Derwisch Mohammed<note type="comment" place="bottom"><p> Recherche ergab kein
+                            Ergebnis.</p></note>, lithographiée, et je ne me rappèle [sic] pas
+                        d´avoir vu cela annoncé nulle part.</p><p>Il me reste à répondre à<note type="comment" place="bottom"><p> A:
+                            a.</p></note> votre agréable billet du 25 septembre, qui m´annonce le
+                        succès de tant de démarches que vous avez eu la bonté de faire pour
+                        m´obtenir une souscription de l´Empereur. Je vous en ai toute l´obligation
+                        car sans vous je n´aurois pas osé en faire la demande. Il me reste une
+                        doute: c´est de savoir si je dois sur les 30 exemplaires en mettre 5 en
+                        papier vélin<note type="comment" place="bottom"><p> A: velin.</p></note>
+                        dont le prix est double, ce qui porteroit la souscription à 2100 fr[ancs] au
+                        lieu de 1800 fr[ancs]. Quant à en offrir à S[a] M[ajesté] un exemplaire
+                        relié, je n´en suis pas d´avis. Le livre /// étant tout arabe, j´ai cru
+                        qu´il y auroit quelque chose de ridicule à en faire hommage aux Princes, et
+                        je ne l´ai pas même présenté au Roi de France. Je n´en ai offert ni à
+                        l´Empereur de Russie, ni au Roi de Prusse. Ainsi à moins que dans votre
+                        réponse à la présente, vous ne me marquiez le contraire, je n´en enverrai
+                        point en présent. Je vous prie de me mander si je dois en mettre en papier
+                        vélin, et en quel nombre. Je ne ferai rien jusqu`à votre réponse. Je suivrai
+                        votre avis relativement à l´exemplaire demandé pour M. le C[omte]
+                            <persName>Rzewuski</persName><note type="comment" place="bottom"><p> A:
+                                Rzéwusky.</p></note>. Point d´argent, point de Suisses<note type="comment" place="bottom"><p> Französisches Sprichwort, wörtlich:
+                                „Kein Kreuzer, kein Schweizer“, d.h. kein Geld, keine Ware; (<hi rend="italic">Meyers Großes Konversations-Lexikon 1908:
+                                67</hi>).</p></note>.</p><closer><dateline>14 j[an]v[i]er</dateline></closer><postscript>
+                        <p>Je viens de retrouver la Notice du رشحات عين الحيوة<note type="comment" place="bottom"><p> [Rašaḥāt ˁAin al-Ḥaywa], d.h. das Werk Rašaḥāt
+                                        al-Ḥayā<hi rend="superscript">t</hi>.</p></note> ce qui me
+                            fait grand plaisir. Je ne sai si quand vous l´avez faite, vous aviez lu
+                            mes deux articles sur le Sufismus de M.
+                                <persName>Tholuck</persName><note type="comment" place="bottom"><p>
+                                    Silvestre de Sacy, Antoine-Isaac, <hi rend="italic">Notice de
+                                        l’ouvreage intitulé: Ssufismus sive Theosophia Persarum
+                                        Pantheistica. Berolini, 1821</hi>; in: <hi rend="italic">Journal des Savants, décembre 1821, 717–734</hi> und <hi rend="italic">janvier 1822, 329–341</hi>.</p></note>; dans
+                            le Journal des Savans. Je n´aurois pu faire beaucoup plus de remarques
+                            sur ce livre, si je n´avois craint d´être trop long. J´ai beau<note type="comment" place="bottom"><p> Lesung aufgrund des Durchscheinens
+                                    der auf der Hinterseite angebrachten Schrift
+                                unsicher.</p></note> relire votre Notice, je n´y trouve point les
+                            mots <note type="comment" place="bottom"><p> [anā ad-dahr], d.h. „Ich
+                                    bin die Ewigkeit“.</p></note>الدهر انا et leur explication.
+                            Veuillez donc être ici mon مرشد<note type="comment" place="bottom"><p>
+                                    [Muršid], ar.: Führer.</p></note>. J´ai vu avec plaisir ce que
+                            vous dites du sens mystique du mot قبر<note type="comment" place="bottom"><p> [qabr], ar.: Grab.</p></note> parce que cela
+                            confirme une conjecture que j´ai hasardé en expliquant, je crois, un
+                            passage du Methnévi. Ce poëme que j´explique une fois par semaine, est
+                            souvent bien prosaïque et du plus mauvais goût<note type="comment" place="bottom"><p> A: gout.</p></note>. Quelques copistes l´ont
+                            encore gâté, en y ajoutant des vers tout-à-fait ridicules qui ne font
+                            que d´insipides<note type="comment" place="bottom"><p> Französisch:
+                                    geschmacklos, fade.</p></note> répétitions d´une même pensée.
+                            Qu´il y a loin de <persName>Ferdoussi</persName>, à
+                                <persName>Djelal-eddin Roumi</persName>!</p>
+                    </postscript><closer><salute>Mais en voilà bien assez long et il est temps de finir en vous
+                        renouvellant mes remerciemens et mes souhaits de bonne année pour vous, avec
+                        mes دست بوس pour Madame <persName>de </persName><persName>Hammer</persName>,
+                        et mes vœux pour que Charles, Isabelle et Rosalie croissent en âge et en
+                        grâce devant Dieu et devant les hommes, خوشحال باش واين فتيروا دوست دار.
+                        Votre affectionné et obligé Serv[iteu]r</salute><signed>Le B[ar]on
+                            <persName>Silvestre</persName> <persName>de</persName> <persName>Sacy</persName>.</signed></closer><postscript>
+                        <p>Ci-joint le récépissé de M. <persName>Dacier</persName><note type="comment" place="bottom"><p> Bon Joseph
+                                        <persName>Dacier</persName>, der Adressat von
+                                        <persName>Champollion</persName>s berühmten <hi rend="italic">„Lettre à M. Dacier</hi> […]<hi rend="italic">”</hi>; (BARCH).</p></note>.</p>
+                    </postscript></div></body></text></TEI>

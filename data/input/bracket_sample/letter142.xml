@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_142"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Monsieur,</salute></opener><p>Le<note type="comment" place="bottom"><p> Brief übernommen aus
+                                BE-Erinnerungen 425f. (Anhang Dokumente und Briefe Nr 9) = PvTh
+                                Beilagen I B10 + SAH + BH I Ägypt 17.</p></note> Tschaousch
+                            Baschi<note type="comment" place="bottom"><p> Der oberste Polizeichef im
+                                Osmanischen Reich.</p></note> actuel <persName>Mustafa</persName>
+                        Bey, que Vous avez eu l’occasion de connaître en qualité de Tersana Emini
+                        devant partir d'ici avec la commission de soigner les approvisionnements de
+                        la flotte et de l'armée anglaise, m'a fait demander une lettre pour Vous qui
+                        lui servit en même temps d'introduction auprès de M. le Chevalier
+                            <persName>Sidney</persName> <persName>Smith</persName>, et je m'empresse
+                        d'autant plus volontiers de satisfaire à ses désirs que non seulement la
+                        place distinguée qu'il occupe, mais aussi ses qualités personnelles doivent
+                        lui concilier l'estime et l'attachement de tous ceux qui ont l'honneur de le
+                        connaître.</p><p>Vous aurez donc de présenter <persName>Mustafa</persName> Bey à Sir
+                            <persName>Sidney [Smith]</persName> avec bien de compliments affectueux
+                        de ma part, et de lui rendre également tous les autres Services qui peuvent
+                        dépendre de Vous.</p><closer><salute>J'ai l'honneur d'être avec la plus parfaite estime, Monsieur, Votre très
+                        humble et très obéissant serviteur</salute><signed>L[ieu]t[ena]nd <persName>Herbert of Rathkeal</persName></signed><dateline>Pera de Constantinople le 14 Decembre 1800.</dateline></closer></div><div type="letter" subtype="translation"><p>Monsieur!</p><p>Der derzeitige Tschaousch Baschi, <persName>Moustafa</persName> Bey, den Sie
+                        als Tersana Emini kennenzulernen Gelegenheit hatten, der von hier mit dem
+                        Auftrag abreisen soll, sich um die Versorgung der Flotte und der englischen
+                        Armee zu kümmern, hat mich um einen Brief für Sie gebeten, der ihm
+                        gleichzeitig als Einführung beim Chevalier <persName>Sidney Smith</persName>
+                        dienen soll und ich beeile mich, ihm seine Wünsche zu erfüllen, nicht nur
+                        wegen des wichtigen Postens, den er einnimmt, sondern auch seine
+                        persönlichen Qualitäten sollen ihm die Wertschätzung und Verbundenheit all
+                        jener einbringen, die die Ehre haben, ihn zu kennen.</p><p> Sie werden also <persName>Moustafa </persName>Bey Sir <persName>Sidney
+                            </persName>[<persName>Smith</persName>] präsentieren mit herzlichen
+                        Grüßen meinerseits und ihm auch alle anderen Dienste erweisen, die von Ihnen
+                        abhängen können. […]</p><closer><signed>H<persName>erbert of Rathkeal</persName></signed></closer></div></body></text></TEI>

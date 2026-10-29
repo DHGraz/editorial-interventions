@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6384"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>Á Monsieur </p><p>Monsieur le Baron <persName>de Hammer Purgstall</persName> á Vienne</p><opener><dateline>St. Josephs Day 19th<lb/>March – 1842 – Rome<note type="comment" place="bottom"><p> Mit roter
+                                Tinte ist die Zahl 588 offensichtlich nachträglich
+                            eingefügt.</p></note></dateline></opener><p>Inshallah! Mashallah! may all the blessings of the Almighty and all roses of
+                            Gulistan<note type="comment" place="bottom"><p> Der Golestān,
+                                geschrieben 1259, ist eine Sammlung von persischen Gedichten und
+                                Geschichten. Neben dem Bustān ist es das zweite allgemein bekannte
+                                Werk des Dichters <persName>Saadi</persName> und zählt zu den
+                                wichtigsten Werken der persischen Literatur. HP veröffentlichte 2
+                                Beiträge dazu <hi rend="italic">„Couplets persans pour
+                                    l’inauguration de la maison de campagne de Mde. la comtesse
+                                    Constance de Rzewuska á Baden, nommée le Gulistan, le 24. Juin
+                                    1810</hi> [Gezeichnet: Jousouf.]<hi rend="italic">“</hi>; <hi rend="italic">„Inscription du Gulistan de Saadi“</hi> im ersten
+                                Band der <hi rend="italic">Fundgruben des Orients
+                            (1809).</hi></p></note> (of which I send you one in the meantime) be
+                        showered upon you! If I was to express all the wishes my heart contains for
+                        you, I would write a book as immense as Solomon when he wrote the
+                        enumeration of all that is to be found in the terrestrial globe<note type="comment" place="bottom"><p> Nach der rabbinischen Literatur wurde
+                                    <persName>Salomo</persName> für seine bescheidene Bitte um
+                                Weisheit mit Reichtum und einem noch nie dagewesenen prächtigen
+                                Reich belohnt, das sich über die von den Engeln bewohnte obere Welt
+                                und über den gesamten irdischen Globus mit all seinen Bewohnern,
+                                einschließlich aller Tiere, Vögel und Reptilien sowie der Dämonen
+                                und Geister, erstreckte. Seine Herrschaft über die Dämonen, Geister
+                                und Tiere vergrößerte seine Pracht, und die Dämonen brachten ihm
+                                Edelsteine und Wasser aus fernen Ländern zur Bewässerung seiner
+                                exotischen Pflanzen. Die Tiere und das Geflügel kamen von selbst in
+                                die Küche von Salomos Palast, damit sie ihm als Nahrung dienten, und
+                                jede seiner 700 Frauen und 300 Konkubinen bereitete täglich
+                                extravagante Mahlzeiten für ihn zu, mit dem Gedanken, dass der König
+                                vielleicht an diesem Tag in ihrem Haus schlemmen würde; (Beitrag zu
+                                „Solomon“ <hi rend="italic">Wikipedia englisch</hi>).</p></note>.
+                        But let us wave that subject too painful for our hearts. The loss of that
+                        precious manuscript has ever been a source of bitter tears for me.!! as it
+                        is undoubtedly for you. Let me repeat; God bless you and render you and your
+                        dear family as happy and healthy as possible, and <hi rend="underline">as
+                            long</hi> as the years of late <persName>Methusalem</persName> Esq. of
+                        Genesis.</p><p><persName>Lanci</persName> to our great surprise and wonder has deciphered
+                        the inscription on the Styrian bell<note type="comment" place="bottom"><p>
+                                Konnte nicht eruiert werden. </p></note>. I do not know how far it
+                        is exact, but it is plausible, that having heard once the explanation, one
+                        reads it afterwards perfectly well oneself. We will send you in a few days
+                        your book and the explanation of <persName>Lanci</persName>, who pretends to
+                        have found a fault in the Cufic<note type="comment" place="bottom"><p> A:
+                                Cuphic. </p></note> inscription. He was quite mad during the time he
+                        studied all those riddles, and is still keeping your book, or we would have
+                        sent it a good while ago. We have hat here (but I did not see him) an
+                        Indian, worshipper of fire, but he had a lorgnet<unclear>te</unclear> and talks nonsense,
+                        therefore made fiasco. I hope Mr <persName>de Provost</persName> announced
+                        to you, the birth of the beyzadeh?<note type="comment" place="bottom"><p>
+                                Beyzade türkisch für Adeliger bzw Sohn eines Prinzen; (<ref target="https://tureng.com/en/turkish-english/beyzade">https://tureng.com/en/turkish-english/beyzade</ref>).</p></note></p><p>We have called him Onorato<note type="comment" place="bottom"><p> Geboren am
+                                18. Jänner 1842.</p></note>. What concerns <hi rend="underline">female health</hi> I am perfectly well, but the chest, the chest! ..„ay
+                        there’s the rub! “ At this mom[ent<note type="comment" place="bottom"><p>
+                                Dieser Teil des Wortes ist durch eine Beschädigung am rechten
+                                Blattrand unleserlich ergibt sich aber aus dem
+                            Zusammenhang.</p></note>] I have a tremendous blister which
+                            torme[nts<note type="comment" place="bottom"><p> Dieser Teil des Wortes
+                                ist durch eine Beschädigung am rechten Blattrand unleserlich ergibt
+                                sich aber aus dem Zusammenhang.</p></note>] me very much, and is
+                        intended to free my lungs? No appetite, cough, and suffocation are my
+                        present tormentors. Pray don’t mention this when you write to Mama. It
+                        appears she is decided to prefer her amiable sands to me, and has refused
+                        lately a splendid offer of purchases which would have finished all our
+                        affairs. Le charbonnier est maître á la maison<note type="comment" place="bottom"><p> Französisches Sprichwort. </p></note>. That’s the
+                        consolation! I cannot connive [über etwas hinwegsehen) how she prefers her
+                        horrible desert to Vienna, where she has so many friends and can have a
+                        style of life suitable to her character<note type="comment" place="bottom"><p> A: caracter.</p></note> and taste.</p><closer><salute>And now writing our good wishes for Easter to those of for St. Josephs
+                        Day, Michelino and I recommend ourselves to your precious friendship and beg
+                        you will consider us as your most devoted worms, that eat the dirt from your
+                        footsteps, and bathe in the sunshine of your eyes.</salute></closer><postscript>
+                        <p>P. S. The letter goes off late on account of <persName>Lanci</persName>’s
+                            delays. Here at least is the book; with the explanation
+                                <persName>Lanci</persName> sends you of the bell and the Cufic<note type="comment" place="bottom"><p> A:Cuphic. </p></note> stuff.</p>
+                    </postscript><closer><dateline><hi rend="underline">5</hi><hi rend="superscript">th</hi><hi rend="underline"> April</hi></dateline></closer></div></body></text></TEI>

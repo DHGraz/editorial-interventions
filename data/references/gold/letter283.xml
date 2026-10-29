@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_283"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p>Doctor<note type="comment" place="bottom"><p> Vor seinem Besuch von Oxford im
+                                Frühjahr 1802 hielt sich HP in London auf. </p></note>
+                        <persName>Bathurst</persName><note type="comment" place="bottom"><p> Henry
+                                    <persName>Bathurst</persName> (1744–1837) war ein englischer
+                                Kirchenmann, ein prominenter Whig und Bischof von Norwich. Er wurde
+                                am Winchester College und am New College in Oxford ausgebildet. Er
+                                wurde Rektor von Witchingham in Norfolk; 1775 wurde er Kanoniker an
+                                der Christ Church in Oxford und 1795 Präbendar an der Kathedrale von
+                                Durham. Im Jahr 1805 wurde er nach der Versetzung von Charles
+                                    <persName>Manners-Sutton</persName> nach Canterbury zum Bischof
+                                von Norwich geweiht. <persName>Bathurst</persName> starb am 5. April
+                                1837 in London. Der Bischof heiratete Grace, eine Tochter von
+                                Charles <persName>Coote</persName>, dem Dekan von Kilfenora, und
+                                Bruder von Sir Eyre <persName>Coote</persName>. Sein ältester Sohn,
+                                Henry <persName>Bathurst</persName>, war Stipendiat des New College
+                                in Oxford, wurde 1805 Kanzler der Kirche von Norwich, und bekleidete
+                                in Folge verschiedene geistliche Posten bis 1814 zum Erzdiakon von
+                                Norwich ernannt wurde. Er schrieb die Memoiren des verstorbenen Dr.
+                                Henry <persName>Bathurst</persName>, Lordbischof von Norwich, 1837.
+                                Sein zweiter Sohn, Lieutenant-General Sir James
+                                    <persName>Bathurst</persName>, war ein militärischer
+                                Befehlshaber. Der dritte Sohn des Bischofs, Benjamin
+                                    <persName>Bathurst</persName>, verschwand 1809 in Deutschland
+                                und wurde vermutlich ermordet.</p></note> thinks himself very
+                        unfortunate in not having been at home yesterday when Mr.
+                            <persName>Hammer</persName> did him the favour to <supplied>c</supplied>all in Seymour
+                        Street; as it would <supplied>ha</supplied>ve given him particular pleasure <supplied>to</supplied> have seen a
+                        Gentleman, to whose <supplied>s</supplied>ociety and conversation Captain
+                            <persName>Bathurst</persName> was so much indebted, during the tiresome
+                        voyage. General <persName>Coote</persName> promised to send last night to
+                        Sir <persName>Sidney</persName> <persName>Smith</persName> House an
+                        introductory letter written by Dr. <persName>Bathurst</persName> to an
+                        intimate friend which Dr. B[B<persName>athurst</persName>] trusts will be of
+                        use to Mr. <persName>Hammer</persName> during his stay in Oxford</p><postscript>
+                        <p>Seymour St[reet] Saturday</p>
+                    </postscript></div></body></text></TEI>

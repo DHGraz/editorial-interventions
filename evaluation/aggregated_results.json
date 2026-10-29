@@ -1,0 +1,613 @@
+{
+  "summary": [
+    {
+      "Model": "claude-sonnet-4-6",
+      "Timestamp": "2026-10-04 10:21",
+      "Processed": 169,
+      "D0 XML Wellformed": 169,
+      "D0 %": 100.0,
+      "D2 TEI Valid": 169,
+      "D2 TEI %": 100.0,
+      "D2 Project Valid": 169,
+      "D2 Project %": 100.0,
+      "D1 Source Fidelity": 128,
+      "D1 %": 75.7,
+      "D1 Macro F1": 85.8,
+      "D4a Classification": 141,
+      "D4a %": 83.4,
+      "D4a Macro F1": 83.6,
+      "D4b Element Match": 140,
+      "D4b %": 82.8,
+      "D4b Macro F1": 83.5,
+      "D1 (of D4b)": 128,
+      "D1 % (of D4b)": 91.4
+    },
+    {
+      "Model": "gpt-5.2-2025-12-11",
+      "Timestamp": "2026-10-04 10:18",
+      "Processed": 169,
+      "D0 XML Wellformed": 169,
+      "D0 %": 100.0,
+      "D2 TEI Valid": 169,
+      "D2 TEI %": 100.0,
+      "D2 Project Valid": 166,
+      "D2 Project %": 98.2,
+      "D1 Source Fidelity": 125,
+      "D1 %": 74.0,
+      "D1 Macro F1": 84.8,
+      "D4a Classification": 150,
+      "D4a %": 88.8,
+      "D4a Macro F1": 85.3,
+      "D4b Element Match": 141,
+      "D4b %": 83.4,
+      "D4b Macro F1": 85.5,
+      "D1 (of D4b)": 125,
+      "D1 % (of D4b)": 88.7
+    },
+    {
+      "Model": "olmo2-32B-instruct-Q4",
+      "Timestamp": "2026-10-28 12:56",
+      "Processed": 164,
+      "D0 XML Wellformed": 163,
+      "D0 %": 99.4,
+      "D2 TEI Valid": 162,
+      "D2 TEI %": 98.8,
+      "D2 Project Valid": 148,
+      "D2 Project %": 90.2,
+      "D1 Source Fidelity": 40,
+      "D1 %": 24.4,
+      "D1 Macro F1": 38.7,
+      "D4a Classification": 102,
+      "D4a %": 62.2,
+      "D4a Macro F1": 61.9,
+      "D4b Element Match": 92,
+      "D4b %": 56.1,
+      "D4b Macro F1": 58.2,
+      "D1 (of D4b)": 40,
+      "D1 % (of D4b)": 43.5
+    },
+    {
+      "Model": "qwen3-14B-Q6 (no thinking)",
+      "Timestamp": "2026-10-28 12:59",
+      "Processed": 169,
+      "D0 XML Wellformed": 168,
+      "D0 %": 99.4,
+      "D2 TEI Valid": 168,
+      "D2 TEI %": 99.4,
+      "D2 Project Valid": 164,
+      "D2 Project %": 97.0,
+      "D1 Source Fidelity": 85,
+      "D1 %": 50.3,
+      "D1 Macro F1": 58.7,
+      "D4a Classification": 138,
+      "D4a %": 81.7,
+      "D4a Macro F1": 75.6,
+      "D4b Element Match": 129,
+      "D4b %": 76.3,
+      "D4b Macro F1": 75.0,
+      "D1 (of D4b)": 85,
+      "D1 % (of D4b)": 65.9
+    },
+    {
+      "Model": "qwen3-14B-Q6 (thinking)",
+      "Timestamp": "2026-10-28 13:01",
+      "Processed": 169,
+      "D0 XML Wellformed": 169,
+      "D0 %": 100.0,
+      "D2 TEI Valid": 169,
+      "D2 TEI %": 100.0,
+      "D2 Project Valid": 166,
+      "D2 Project %": 98.2,
+      "D1 Source Fidelity": 78,
+      "D1 %": 46.2,
+      "D1 Macro F1": 51.6,
+      "D4a Classification": 130,
+      "D4a %": 76.9,
+      "D4a Macro F1": 68.2,
+      "D4b Element Match": 124,
+      "D4b %": 73.4,
+      "D4b Macro F1": 66.7,
+      "D1 (of D4b)": 78,
+      "D1 % (of D4b)": 62.9
+    }
+  ],
+  "d4a_classification_f1": [
+    {
+      "Category": "Abbreviation",
+      "claude-sonnet-4-6": 90.2,
+      "gpt-5.2-2025-12-11": 91.2,
+      "olmo2-32B-instruct-Q4": 71.0,
+      "qwen3-14B-Q6 (no thinking)": 86.4,
+      "qwen3-14B-Q6 (thinking)": 81.5
+    },
+    {
+      "Category": "Correction",
+      "claude-sonnet-4-6": 89.5,
+      "gpt-5.2-2025-12-11": 89.5,
+      "olmo2-32B-instruct-Q4": 82.9,
+      "qwen3-14B-Q6 (no thinking)": 85.0,
+      "qwen3-14B-Q6 (thinking)": 85.0
+    },
+    {
+      "Category": "Omission",
+      "claude-sonnet-4-6": 100.0,
+      "gpt-5.2-2025-12-11": 98.6,
+      "olmo2-32B-instruct-Q4": 57.7,
+      "qwen3-14B-Q6 (no thinking)": 93.9,
+      "qwen3-14B-Q6 (thinking)": 92.3
+    },
+    {
+      "Category": "Redundancy",
+      "claude-sonnet-4-6": 66.7,
+      "gpt-5.2-2025-12-11": 57.1,
+      "olmo2-32B-instruct-Q4": 33.3,
+      "qwen3-14B-Q6 (no thinking)": 33.3,
+      "qwen3-14B-Q6 (thinking)": 0.0
+    },
+    {
+      "Category": "Supplement",
+      "claude-sonnet-4-6": 76.9,
+      "gpt-5.2-2025-12-11": 85.7,
+      "olmo2-32B-instruct-Q4": 57.1,
+      "qwen3-14B-Q6 (no thinking)": 70.1,
+      "qwen3-14B-Q6 (thinking)": 66.0
+    },
+    {
+      "Category": "Uncertainty",
+      "claude-sonnet-4-6": 78.3,
+      "gpt-5.2-2025-12-11": 89.5,
+      "olmo2-32B-instruct-Q4": 69.6,
+      "qwen3-14B-Q6 (no thinking)": 85.0,
+      "qwen3-14B-Q6 (thinking)": 84.2
+    }
+  ],
+  "d4b_element_f1": [
+    {
+      "Category": "Abbreviation",
+      "claude-sonnet-4-6": 86.5,
+      "gpt-5.2-2025-12-11": 79.2,
+      "olmo2-32B-instruct-Q4": 52.5,
+      "qwen3-14B-Q6 (no thinking)": 72.9,
+      "qwen3-14B-Q6 (thinking)": 68.8
+    },
+    {
+      "Category": "Correction",
+      "claude-sonnet-4-6": 89.5,
+      "gpt-5.2-2025-12-11": 89.5,
+      "olmo2-32B-instruct-Q4": 85.0,
+      "qwen3-14B-Q6 (no thinking)": 85.0,
+      "qwen3-14B-Q6 (thinking)": 85.0
+    },
+    {
+      "Category": "Omission",
+      "claude-sonnet-4-6": 98.5,
+      "gpt-5.2-2025-12-11": 98.5,
+      "olmo2-32B-instruct-Q4": 57.1,
+      "qwen3-14B-Q6 (no thinking)": 95.2,
+      "qwen3-14B-Q6 (thinking)": 91.8
+    },
+    {
+      "Category": "Redundancy",
+      "claude-sonnet-4-6": 75.0,
+      "gpt-5.2-2025-12-11": 75.0,
+      "olmo2-32B-instruct-Q4": 33.3,
+      "qwen3-14B-Q6 (no thinking)": 33.3,
+      "qwen3-14B-Q6 (thinking)": 0.0
+    },
+    {
+      "Category": "Supplement",
+      "claude-sonnet-4-6": 76.7,
+      "gpt-5.2-2025-12-11": 86.1,
+      "olmo2-32B-instruct-Q4": 52.9,
+      "qwen3-14B-Q6 (no thinking)": 72.2,
+      "qwen3-14B-Q6 (thinking)": 68.9
+    },
+    {
+      "Category": "Uncertainty",
+      "claude-sonnet-4-6": 75.0,
+      "gpt-5.2-2025-12-11": 84.9,
+      "olmo2-32B-instruct-Q4": 68.6,
+      "qwen3-14B-Q6 (no thinking)": 91.4,
+      "qwen3-14B-Q6 (thinking)": 85.7
+    }
+  ],
+  "d1_source_fidelity_f1": [
+    {
+      "Category": "Abbreviation",
+      "claude-sonnet-4-6": 80.0,
+      "gpt-5.2-2025-12-11": 65.0,
+      "olmo2-32B-instruct-Q4": 13.8,
+      "qwen3-14B-Q6 (no thinking)": 54.0,
+      "qwen3-14B-Q6 (thinking)": 50.0
+    },
+    {
+      "Category": "Correction",
+      "claude-sonnet-4-6": 91.4,
+      "gpt-5.2-2025-12-11": 91.4,
+      "olmo2-32B-instruct-Q4": 34.8,
+      "qwen3-14B-Q6 (no thinking)": 27.3,
+      "qwen3-14B-Q6 (thinking)": 27.3
+    },
+    {
+      "Category": "Omission",
+      "claude-sonnet-4-6": 96.9,
+      "gpt-5.2-2025-12-11": 100.0,
+      "olmo2-32B-instruct-Q4": 30.8,
+      "qwen3-14B-Q6 (no thinking)": 91.8,
+      "qwen3-14B-Q6 (thinking)": 77.8
+    },
+    {
+      "Category": "Redundancy",
+      "claude-sonnet-4-6": 75.0,
+      "gpt-5.2-2025-12-11": 75.0,
+      "olmo2-32B-instruct-Q4": 33.3,
+      "qwen3-14B-Q6 (no thinking)": 33.3,
+      "qwen3-14B-Q6 (thinking)": 0.0
+    },
+    {
+      "Category": "Supplement",
+      "claude-sonnet-4-6": 81.2,
+      "gpt-5.2-2025-12-11": 90.7,
+      "olmo2-32B-instruct-Q4": 61.0,
+      "qwen3-14B-Q6 (no thinking)": 71.9,
+      "qwen3-14B-Q6 (thinking)": 75.8
+    },
+    {
+      "Category": "Uncertainty",
+      "claude-sonnet-4-6": 90.3,
+      "gpt-5.2-2025-12-11": 86.7,
+      "olmo2-32B-instruct-Q4": 58.3,
+      "qwen3-14B-Q6 (no thinking)": 74.1,
+      "qwen3-14B-Q6 (thinking)": 78.6
+    }
+  ],
+  "d4b_relaxed_f1": [
+    {
+      "Category": "Abbreviation",
+      "claude-sonnet-4-6": 90.7,
+      "gpt-5.2-2025-12-11": 84.9,
+      "olmo2-32B-instruct-Q4": 71.7,
+      "qwen3-14B-Q6 (no thinking)": 88.5,
+      "qwen3-14B-Q6 (thinking)": 80.0
+    },
+    {
+      "Category": "Correction",
+      "claude-sonnet-4-6": 86.5,
+      "gpt-5.2-2025-12-11": 64.5,
+      "olmo2-32B-instruct-Q4": 79.0,
+      "qwen3-14B-Q6 (no thinking)": 79.0,
+      "qwen3-14B-Q6 (thinking)": 79.0
+    },
+    {
+      "Category": "Omission",
+      "claude-sonnet-4-6": 98.5,
+      "gpt-5.2-2025-12-11": 98.5,
+      "olmo2-32B-instruct-Q4": 57.1,
+      "qwen3-14B-Q6 (no thinking)": 95.2,
+      "qwen3-14B-Q6 (thinking)": 91.8
+    },
+    {
+      "Category": "Redundancy",
+      "claude-sonnet-4-6": 75.0,
+      "gpt-5.2-2025-12-11": 75.0,
+      "olmo2-32B-instruct-Q4": 33.3,
+      "qwen3-14B-Q6 (no thinking)": 33.3,
+      "qwen3-14B-Q6 (thinking)": 0.0
+    },
+    {
+      "Category": "Supplement",
+      "claude-sonnet-4-6": 76.7,
+      "gpt-5.2-2025-12-11": 88.9,
+      "olmo2-32B-instruct-Q4": 71.8,
+      "qwen3-14B-Q6 (no thinking)": 72.2,
+      "qwen3-14B-Q6 (thinking)": 77.1
+    },
+    {
+      "Category": "Uncertainty",
+      "claude-sonnet-4-6": 75.0,
+      "gpt-5.2-2025-12-11": 84.9,
+      "olmo2-32B-instruct-Q4": 68.6,
+      "qwen3-14B-Q6 (no thinking)": 91.4,
+      "qwen3-14B-Q6 (thinking)": 85.7
+    }
+  ],
+  "all_failed_d4a": [
+    {
+      "Filename": "letter15.xml",
+      "Bracketed_Content": "H[errn]",
+      "Gold_Classification": "Supplement",
+      "LLM_Classification": "Abbreviation"
+    },
+    {
+      "Filename": "letter336.xml",
+      "Bracketed_Content": "moi[s].",
+      "Gold_Classification": "Correction",
+      "LLM_Classification": "Supplement"
+    },
+    {
+      "Filename": "letter478.xml",
+      "Bracketed_Content": "advantage[e]ous",
+      "Gold_Classification": "Redundancy",
+      "LLM_Classification": "Supplement"
+    },
+    {
+      "Filename": "letter752.xml",
+      "Bracketed_Content": "Nov[embre] [1]806",
+      "Gold_Classification": "Abbreviation; Supplement",
+      "LLM_Classification": "Abbreviation"
+    },
+    {
+      "Filename": "letter2098.xml",
+      "Bracketed_Content": "on[e day to]",
+      "Gold_Classification": "Uncertainty",
+      "LLM_Classification": "Supplement"
+    },
+    {
+      "Filename": "letter2864.xml",
+      "Bracketed_Content": "My selection[?]",
+      "Gold_Classification": "Correction",
+      "LLM_Classification": "Uncertainty"
+    },
+    {
+      "Filename": "letter4178.xml",
+      "Bracketed_Content": "[vous]",
+      "Gold_Classification": "Redundancy",
+      "LLM_Classification": "Supplement"
+    },
+    {
+      "Filename": "letter6950.xml",
+      "Bracketed_Content": "Homer[us]",
+      "Gold_Classification": "Supplement",
+      "LLM_Classification": "Abbreviation"
+    }
+  ],
+  "all_failed_d4b": [
+    {
+      "Filename": "letter147.xml",
+      "Bracketed_Content": "S[einer] E[xzellenz]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter15.xml",
+      "Bracketed_Content": "H[errn]",
+      "Gold_Classification": "Supplement",
+      "Gold_element": "supplied",
+      "LLM_element": "choice, abbr, expan"
+    },
+    {
+      "Filename": "letter183.xml",
+      "Bracketed_Content": "E[uere]",
+      "Gold_Classification": "Supplement",
+      "Gold_element": "supplied",
+      "LLM_element": "choice, abbr, expan"
+    },
+    {
+      "Filename": "letter31.xml",
+      "Bracketed_Content": "A[llgemeinen] Lit[eratur-]Z[eitung] gemacht[?]",
+      "Gold_Classification": "Abbreviation; Uncertainty",
+      "Gold_element": "choice, abbr, expan, unclear",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan, choice, abbr, expan, unclear"
+    },
+    {
+      "Filename": "letter336.xml",
+      "Bracketed_Content": "moi[s].",
+      "Gold_Classification": "Correction",
+      "Gold_element": "choice, sic, corr",
+      "LLM_element": "supplied"
+    },
+    {
+      "Filename": "letter478.xml",
+      "Bracketed_Content": "advantage[e]ous",
+      "Gold_Classification": "Redundancy",
+      "Gold_element": "surplus",
+      "LLM_element": "supplied"
+    },
+    {
+      "Filename": "letter752.xml",
+      "Bracketed_Content": "Nov[embre] [1]806",
+      "Gold_Classification": "Abbreviation; Supplement",
+      "Gold_element": "choice, abbr, expan, supplied",
+      "LLM_element": "choice, abbr, expan"
+    },
+    {
+      "Filename": "letter2098.xml",
+      "Bracketed_Content": "on[e day to]",
+      "Gold_Classification": "Uncertainty",
+      "Gold_element": "unclear",
+      "LLM_element": "supplied"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "S[ua] E[ccellenza]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "Sig[nor] Co[nte]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "S[ua] E[ccallenza]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "Sig[nor] Co[nte]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter2864.xml",
+      "Bracketed_Content": "My selection[?]",
+      "Gold_Classification": "Correction",
+      "Gold_element": "choice, sic, corr",
+      "LLM_element": "unclear"
+    },
+    {
+      "Filename": "letter6451.xml",
+      "Bracketed_Content": "S[e]pt[em]b[er]r",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, surplus, expan"
+    },
+    {
+      "Filename": "letter6526.xml",
+      "Bracketed_Content": "S[ignor] D[ottor]",
+      "Gold_Classification": "Abbreviation",
+      "Gold_element": "choice, abbr, expan",
+      "LLM_element": "choice, abbr, expan, choice, abbr, expan"
+    },
+    {
+      "Filename": "letter6950.xml",
+      "Bracketed_Content": "Homer[us]",
+      "Gold_Classification": "Supplement",
+      "Gold_element": "supplied",
+      "LLM_element": "choice, abbr, expan"
+    }
+  ],
+  "all_failed_d1": [
+    {
+      "Filename": "letter142.xml",
+      "Bracketed_Content": "L[ieu]t[ena]nd",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "LtndLieutenand",
+      "LLM_Output_Normalized": "LtndLieutenant"
+    },
+    {
+      "Filename": "letter147.xml",
+      "Bracketed_Content": "S[einer] E[xzellenz]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "S ESeiner Exzellenz",
+      "LLM_Output_Normalized": "SSeiner EExzellenz"
+    },
+    {
+      "Filename": "letter183.xml",
+      "Bracketed_Content": "E[uere]",
+      "Gold_Classification": "Supplement",
+      "Bracketed_Content_Normalized": "Euere",
+      "LLM_Output_Normalized": "EEuere"
+    },
+    {
+      "Filename": "letter31.xml",
+      "Bracketed_Content": "A[llgemeinen] Lit[eratur-]Z[eitung] gemacht[?]",
+      "Gold_Classification": "Abbreviation; Uncertainty",
+      "Bracketed_Content_Normalized": "A LitZAllgemeinen Literatur-Zeitung gemacht",
+      "LLM_Output_Normalized": "AAllgemeinen LitLiteratur-ZZeitung gemacht."
+    },
+    {
+      "Filename": "letter386.xml",
+      "Bracketed_Content": "Adm[iralit]y",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "AdmyAdmirality",
+      "LLM_Output_Normalized": "AdmyAdmiralty"
+    },
+    {
+      "Filename": "letter552.xml",
+      "Bracketed_Content": "d’encyclop[ädischen]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "d’encyclopd’encyclopädischen",
+      "LLM_Output_Normalized": "d’encyclopencyclopädischen"
+    },
+    {
+      "Filename": "letter752.xml",
+      "Bracketed_Content": "Nov[embre] [1]806",
+      "Gold_Classification": "Abbreviation; Supplement",
+      "Bracketed_Content_Normalized": "NovNovembre 1806",
+      "LLM_Output_Normalized": "NovNovembre"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "S[ua] E[ccellenza]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "S ESua Eccellenza",
+      "LLM_Output_Normalized": "SSua EEccellenza"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "Sig[nor] Co[nte]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "Sig CoSignor Conte",
+      "LLM_Output_Normalized": "SigSignor CoConte"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "S[ua] E[ccallenza]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "S ESua Eccallenza",
+      "LLM_Output_Normalized": "SSua EEccallenza"
+    },
+    {
+      "Filename": "letter2378.xml",
+      "Bracketed_Content": "Sig[nor] Co[nte]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "Sig CoSignor Conte",
+      "LLM_Output_Normalized": "SigSignor CoConte"
+    },
+    {
+      "Filename": "letter2864.xml",
+      "Bracketed_Content": "My selection[?]",
+      "Gold_Classification": "Correction",
+      "Bracketed_Content_Normalized": "My selection | election",
+      "LLM_Output_Normalized": "My selection"
+    },
+    {
+      "Filename": "letter3735.xml",
+      "Bracketed_Content": "M[ano]ss[crit]ti",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "MsstiManosscritti",
+      "LLM_Output_Normalized": "MssttiManoscritti"
+    },
+    {
+      "Filename": "letter5926.xml",
+      "Bracketed_Content": "Sig[no]r Prof[essor]",
+      "Gold_Classification": "Abbreviation; Abbreviation",
+      "Bracketed_Content_Normalized": "SigrSignor ProfProfessor",
+      "LLM_Output_Normalized": "SigSignor ProfProfessor"
+    },
+    {
+      "Filename": "letter6451.xml",
+      "Bracketed_Content": "S[e]pt[em]b[er]r",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "SptbrSeptemberr",
+      "LLM_Output_Normalized": "SptbrrSeptember"
+    },
+    {
+      "Filename": "letter6526.xml",
+      "Bracketed_Content": "S[ignor] D[ottor]",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "S DSignor Dottor",
+      "LLM_Output_Normalized": "SSignor DDottor"
+    },
+    {
+      "Filename": "letter6950.xml",
+      "Bracketed_Content": "S[ant]a",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "SaSanta",
+      "LLM_Output_Normalized": "SSanta"
+    },
+    {
+      "Filename": "letter6950.xml",
+      "Bracketed_Content": "Homer[us]",
+      "Gold_Classification": "Supplement",
+      "Bracketed_Content_Normalized": "Homerus",
+      "LLM_Output_Normalized": "HomerHomerus"
+    },
+    {
+      "Filename": "letter7514.xml",
+      "Bracketed_Content": "Dec[em]ber,",
+      "Gold_Classification": "Abbreviation",
+      "Bracketed_Content_Normalized": "DecberDecember,",
+      "LLM_Output_Normalized": "DecDecember,"
+    }
+  ]
+}

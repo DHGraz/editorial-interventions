@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2012"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>St. Florian, den 15. Dez[ember] 1817.</dateline><salute>Euer Wohlgeboren!</salute></opener><p>Für die Mühe, die Sie sich mit meinem Manuskripte gegeben haben, statte ich
+                        meinen schuldigsten Dank ab. Daß sich auch seine kaiserliche Hoheit der
+                        Erzherzog <persName>Johann</persName> würdigte, dasselbe zu durchsehen, ist
+                        eine unschätzbare Gnade für mich, und tröstlich war es für mich zu
+                        vernehmen, daß meine Arbeit nicht missfallen habe.</p><p>Die Neuigkeit wegen der Literaturzeitung<note type="comment" place="bottom"><p> Es handelt sich um die 1813 gegründete <hi rend="italic">„Wiener allgemeine Literaturzeitung“</hi>, die damals (seit
+                                1816) schon wieder eingestellt war. Die Redaktion der Zeitschrift
+                                lag zuerst in den Händen von Franz <persName>Sartori</persName>,
+                                wurde dann von Carl Friedrich Alexander
+                                    <persName>Hartmann</persName> übernommen und ging schließlich an
+                                Matthäus <persName>von</persName> <persName>Collin</persName>, der
+                                die Zeitschrift bis zu ihrer Einstellung im Jahre 1816 leitete.
+                                Anders als bei den „Annalen“, deren Schwerpunkt die inländische
+                                Literatur gebildet hatte, richtete sich die Aufmerksamkeit der
+                                „Literaturzeitung“ stark auf das Ausland. Es wurde angestrebt, eine
+                                Auswahl der in- und ausländischen Literatur zu bringen und dabei den
+                                Fortgang „des wissenschaftlichen Geistes und seiner wichtigsten
+                                Hervorbringungen“ zu dokumentieren. Ebenfalls im Gegensatz zu ihrer
+                                Vorgängerin stand die „Literaturzeitung“ auf dem Boden der Romantik.
+                                Mitarbeiter waren u.a. Joseph
+                                    <persName>von</persName> <persName>Hammer-Purgstall</persName>
+                                für Orientalistik, <persName>Kopitar</persName>, der insbesondere
+                                Rezensionen ungarischer und slawischer Werke lieferte, und Adam
+                                    <persName>Müller</persName> für Pädagogik; die Redaktion für
+                                Philosophie führte zeitweise Friedrich
+                                <persName>Schlegel</persName>. Die „Literaturzeitung“
+                                berücksichtigte alle Wissensgebiete, besondere Aufmerksamkeit wurde
+                                der Philosophie, der Theologie, der schönen Literatur und den
+                                Naturwissenschaften gewidmet. Vorgängerin der <hi rend="italic">Literaturzeitung</hi> waren die <hi rend="italic">Annalen der
+                                    österreichischen Literatur</hi> (ab 1802), zuletzt (1811–1812)
+                                unter dem Titel <hi rend="italic">„Annalen der Literatur und Kunst
+                                    in dem österreichischen Kaiserthume“</hi>, die 1802 von Johann
+                                August <persName>Schultes</persName> gegründet wurden, um <hi rend="italic">„dem Mangel“</hi> abzuhelfen, <hi rend="italic">„daß die besten österreichischen Werke in der Jenaer, der
+                                    Oberdeutschen Literaturzeitung usw. öfters erst nach mehreren
+                                    Jahren angezeigt werden“</hi>. – Die <hi rend="italic">Annalen
+                                    der Österreichischen Literatur</hi>, die unter wechselnden
+                                Titeln von 1802 bis 1805, dann von 1807 bis 1810 unter der Redaktion
+                                Franz <persName>Sartori</persName>s<persName> </persName>und von
+                                1808 bis 1812 unter der Redaktion von Jakob <persName>Glatz
+                                </persName>erschienen, waren der Aufklärung und<persName>
+                                    Kant</persName>s Philosophie verpflichtet. Romantische
+                                Philosophie und Dichtung wurden strikt abgelehnt. Seit 1807 wurden
+                                die Annalen nicht mehr als reines Rezensionsorgan geführt;
+                                wissenschaftliche Abhandlungen aus unterschiedlichen Wissensgebieten
+                                wurden jetzt ebenfalls aufgenommen; (<ref target="https://www.haraldfischerverlag.de/hfv/reihen/wiener/wiener_allgemeine.php"><hi rend="italic">https://www.haraldfischerverlag.de/hfv/reihen/wiener/wiener_allgemeine.php</hi></ref><hi rend="italic"> 20230325</hi>).</p></note> war mir und meinem
+                        alten Herren<note type="comment" place="bottom"><p> Propst Michael
+                                    <persName>Ziegler</persName> von St. Florian.</p></note> sehr
+                        interessant und erfreulich, denn wen sollte es nicht betrüben, daß das ganze
+                        Kaisertum Österreich in Rücksicht seiner literarischen Produkte beinahe
+                        ausschließend dem nur zu oft sehr parteiischen Urteile des Auslandes
+                        preisgegeben verbleiben sollte? Diese Herren im Auslande haben sich viel zu
+                        lange Sottisen<note type="comment" place="bottom"><p>
+                            Frechheiten.</p></note> jeder Art gegen Österreich erlaubt, weil wir
+                        geduldig dazu schwiegen und entweder gar keinen oder einen nur schwachen
+                        Widerstand leisteten, wodurch die Animosität der Gegner nur noch mehr
+                        aufgereizt wurde. Die Einrichtung des neuen Unternehmens kann freilich von
+                        verschiedenen Ansichten beurteilt werden; aber gut und löblich und rühmlich
+                        ist es, daß wir wieder eine einheimische Literaturzeitung bekommen, die sich
+                        noch dazu nicht wie die abgestorbene mit Kalendern, einzelnen Predigten und
+                        anderen dergleichen Elendigkeiten abgeben wird.</p><p>Als ich meinem Herrn Prälaten Ihr wertes Schreibens vorlas und auf die Stelle
+                        kam, daß Sie es für zu anmaßungsvoll gehalten haben, auch ihm Ihr Porträt zu
+                        schicken, lächelte er und sagte: ich hätte dem lieben Herrn Hofrat mehr Mut
+                        zugetraut; und wenn er mir so gut ist, wie ich es ihm bin, so hätte er es
+                        ohne Anstand wagen können. – Sie kennen meinen Freund
+                            <persName>Millauer</persName> persönlich nicht, aber ich verbürge mich
+                        dafür, daß Sie ihm durch die Übersendung Ihres Porträts, wozu ich ihm noch
+                        dazu bereits eine Hoffnung gemacht habe, eine außerordentliche Freude
+                        verursachen werden. Es ist ja eine ehrenvolle Auszeichnung, von einem
+                            <persName>Hammer</persName> so freundschaftlich behandelt zu werden.</p><p>Es gereicht mir zu einem großen Vergnügen, Ihnen durch die Übersendung der
+                        Kopien von Inschriften und anderen Zeichen, welche sich auf kleinen Tafeln
+                        befinden, deren Körper aus einer feinen, rot gebrannten Erde besteht, einen
+                        kleinen Gegendienst erzeigen zu können. Die Abzeichnung ist sehr genau. Das
+                        Papier wurde fest an das Original so angehalten, daß sich die mit einem
+                        Griffel in die noch weiche ungebrannte Erde eingegrabenen Charaktere auf
+                        demselben vertieft ganz deutlich zeigten, und dann fuhr man erst mit einer
+                        Feder nach, und verglich alles mit dem Original, um einzelne sehr feine
+                        Striche danach zu formen. Die Größe der Tafeln, auf welchen sich Buchstaben
+                        und andere unbedeutende Zeichen befinden, zeigt ebenfalls genau das Papier
+                        der Kopie an. Diese Tafeln wurden vor beiläufig 60 Jahren in dem
+                            <persName>Auersperg</persName>ischen Garten, eine starke Viertelstunde
+                        von Enns gegen die Donau zu, nebst vielen anderen Antiquitäten der Römer
+                        ausgegraben, in das <persName>Auersperg</persName>ische Schloss Ennsbruck
+                        nach Enns gebracht und dort eingemauert. Die eigentliche Fundgrube häufiger
+                        Antiquitäten ist nicht die Stadt Enns, welche erst im Jahre 901 als
+                        Grenzfestung gegen die Ungarn erbaut wurde, sondern der genannte fürstliche
+                        Garten und die dortigen Umgebungen des Dorfes Lorch, welches auf der Stelle
+                        der alten Stadt Lorch steht. Viele schöne Altertümer wurden dann von dem
+                        alten Fürsten <persName>Auersperg</persName> in seinem Schloss Flaschim<note type="comment" place="bottom"><p> Besser Wlaschim, tschechisch Vlašim
+                                auf der böhmisch-mährischen Höhe; die Stadt kam 1744 an die
+                                    <persName>Auersperg; </persName>(<hi rend="italic">Wikipedia
+                                    20100526</hi>).</p></note> nach Böhmen abgeführt, wie es mir
+                        alte Augenzeugen erzählten; die später gefundenen und die unwichtigeren
+                        blieben zu Enns im Schloss Ennsbruck zurück und sind dort aufgestellt
+                        worden. Ich habe in der Vorrede zum dritten Teile meiner Beiträge, Seite
+                        XV–XVII davon Meldung gemacht.</p><p>Daß die beiliegenden Inschriften sehr alt sind, lässt sich nicht bezweifeln.
+                        Lorch wurde zu Anfang des sechsten Jahrhunderts zum ersten Male zerstört,
+                        wie dieses <persName>Eugippius</persName>, der Biograph
+                            <persName>Severin</persName>s, der um das Jahr 509 geschrieben hat,
+                        ausdrücklich versichert. Cf. meine Beiträge Teil III Seite 72. Die zerstörte
+                        Stadt wurde zum Teil wieder hergestellt, aber im Jahre 737 von den Awaren
+                        samt dem alten Kloster St. Florian gänzlich zertrümmert. Möglich wäre es
+                        allerdings, daß meine Inschriften zwischen den Jahre 509 und 737 wären
+                        verfertigt worden; jünger sind sie gewiss nicht; aber ihre Lage zwischen
+                        römischen Antiquitäten verrät ein höheres Alter. Gehören sie den späteren
+                        Zeiten der Römer in Österreich nicht zu, so ist es schwer zu erraten,
+                        welchem Völkerstamme man sie zuschreiben müsse, denn in der Stadt Lorch
+                        haben sich unbezweifelt viele Menschen von verschiedenen Nationen
+                        aufgehalten, die über der Donau oder weiter unten in Pannonien wohnten.</p><p>Sie legte mir ihre Zweifel über die große Ausdehnung und über die Dauer der
+                        keltischen Sprache vor und schlossen daraus, daß die Inschriften mit
+                        griechischem Buchstaben, aber in einer ganz unbekannten Sprache, nicht
+                        keltisch sein können. Ohne behaupten zu wollen, daß sie alle keltisch sein
+                        müssen, glaube ich doch, daß manche derselben, die sich in Böhmen, Mähren,
+                        Steiermark, Kärnten, Krain bis Istrien, ja bis Mailand hinein, wo sich
+                        vielleicht sehr viele vorfinden mögen, den Kelten oder, was eben so viel
+                        ist, den Bojern angehören. Daß sich dieselben bei ihrer Schriftsprache der
+                        griechischen Buchstaben bedienten, sagt uns Julius<persName>
+                            Caesar</persName>, De Bello Gallico, Liber I Kapitel 29: In castris
+                        Helveticorum tabulae repertae sunt litteris Graecis confectae. Von den
+                        Druiden heißt es Liber VI c. 14: cum in reliquis fere rebus publicis
+                        privatisque rationibus Graecis litteris utantur. Dessen ungeachtet
+                        verstanden sie die griechische Sprache nicht, denn als
+                            <persName>Caesar</persName> an den <persName>Cicero</persName> schrieb,
+                        bediente er sich dieser Sprache, damit die Gallier den Brief nicht
+                        verstünden, wenn er ihnen in die Hände fiele. Lib. V c. 48: Hanc Graecis
+                        conscriptam litteris mittit, ne intercepta epistola nostra ab hostibus
+                        consilia cognoscantur.</p><p>Daß die keltischen Bojer unter <persName>Sigoves</persName> aus Gallien über
+                        den Rhein herüber zogen und im heutigen Böhmen ihre Wohnsitze aufschlugen,
+                        ist bekannt genug<note type="comment" place="bottom"><p> Es war dies eine
+                                damals besonders interessierende Thematik. </p></note>. Das Manet
+                        adhuc Bojemi nomen des <persName>Tacitus</persName> erstreckte sich aber
+                        auch über das heutige Mähren und Österreich auf dem linken Donauufer, denn
+                            <persName>Marbod</persName><note type="comment" place="bottom"><p>
+                                <persName>Marbod</persName> (30 vChr.–37 nChr.) wurde 8 vChr.
+                                Herrscher der Markomannen, die er aus der Maigegend nach Böhmen und
+                                Mähren führte; die dort noch lebenden Kelten (der Großteil dürfte
+                                zuvor schon Böhmen verlassen haben) wurden dabei in das
+                                markomannische Staatsgebilde integriert. Bald kam es allerdings zu
+                                einer Auseinandersetzung zwischen <persName>Marbod</persName> und
+                                    <persName>Arminius</persName>, die mit der Flucht
+                                    <persName>Marbod</persName>s und seiner Asylierung in Italien
+                                endete; (<hi rend="italic">Wikipedia 20100526</hi>).</p></note>
+                        setzte in unserem Österreich aus seinem Bojenheim über die Donau herüber und
+                        rettete sein Leben bei den Römern. <persName>Tacitus</persName> Annal. Lib.
+                        II c. 63: <persName>Marobod</persName>uus ... transgressus Danubium qua
+                        Noricam provinciam praefluit. Daß sich die Bojer sehr lange in Bojenheim
+                        aufgehalten haben, erhellt daraus: Sie sind nach dem Zeugnisse des
+                            <persName>Livius</persName> Lib. V c. 34, Prisco Tarquinio regnante,
+                        also beiläufig 600 Jahre vor Christo aus Gallien ausgezogen und erst von
+                            <persName>Marbod</persName> aus Bojenheim vertrieben worden. Zur
+                        nämlichen Zeit zog ein anderer Schwarm keltischer Gallier unter der
+                        Anführung des <persName>Belloves</persName><note type="comment" place="bottom"><p>
+                                <persName>Belloves</persName> war ein Bruder des
+                                    <persName>Sigoves</persName> (Segoves).</p></note> nach Italien,
+                        et fusis acie Tuscis haud procul Ticino flumine, in quo consederant ...
+                        condidere urbem et Mediolanum appelarunt ... Alia subinde manus Cenomanorum
+                            <persName>Elitovio</persName><note type="comment" place="bottom"><p>
+                                <persName>Elitovius</persName> war ein weiterer gallischer
+                                Heerführer, der sich mit seiner Volksgruppe in der Gegend um Verona
+                                niederließ.</p></note> duce vestigia priorum secuta eodem saltu
+                        favente <persName>Belloveso</persName>, quum transcendisset Alpes, ubi nunc
+                        Brixia ac Verona urbes sunt, considunt. Peninum deinde Boji Lingonesque
+                        transgressi, quum jam inter Padum atque Alpes omnia tenerentur, Pado ratibus
+                        trajecto non Etruscos modo, sed etiam Umbros agro pellunt. – Beinahe
+                        400 Jahre verflossen, bis es den Römern nach schrecklichen Kriegen gelang,
+                        die Bojer aus Italien zu verjagen, welches wieder
+                            <persName>Livius</persName> erzählt, L. 39 c. 22: Eodem anno (Urbis
+                        conditae 567, ante Christum 186) Galli transalpini transgressi in Venetiam
+                        sine populatione aut bello, haud procul inde, ubi nunc Aquileja est, locum
+                        oppido condendo ceperunt. Die Bojer vereinigten sich jetzt mit den
+                        Tauriskern, welche ebenfalls keltischer Abkunft waren:
+                            <persName>Strabo</persName> L. IV: Ad Aquilejam habitant Noricorum
+                        quidam et Carni; Noricorum sunt etiam Taurisci. Und L. VII sagt er: Qui
+                        intra Istrum accolunt ... celticae gentes ... Boji, Scordisci, Taurisci. Und
+                        bei <persName>Plinius</persName> L. III heißt es: Juxta Carnos quondam
+                        Taurisci appellati, nunc Norici. Erst unter den
+                            <persName>Augustus</persName> wurden diese Völker unterjocht, nachdem
+                        die Bojer einige Jahre früher schon von den Dakern eine große Niederlage
+                        erlitten hatten.</p><p>Aus dem Gesagten und aus noch häufigen anderen Stellen erhellet also
+                        genugsam, wie groß die Macht der Bojer war, wie weit sie sich ausgebreitet,
+                        wie lange sie gedauert hat. Desto wahrscheinlicher ist es, daß sich in ihren
+                        alten Wohnsitzen noch mehrere Überbleibsel, vorzüglich Steininschriften,
+                        vorfinden werden. Daß sie sich zu <persName>Caesar</persName>s Zeiten der
+                        griechischen Buchstaben bedient, um ihre eigene Sprache zu schreiben, ist
+                        ganz gewiss; vielleicht erhielten sie späterhin auch ein eigenes Alphabet
+                        und bedienten sich desselben mit dem griechischen zugleich, was sogar auch
+                        Römer getan haben, die eine lateinische Aufschrift mit griechischem
+                        Buchstaben geschrieben haben, wovon der Leichenstein ein Beispiel gibt, der
+                        bei Nördlingen gefunden wurde. Cf. Eckhart, Franc. Oriental. T. 1 p. 14<note type="comment" place="bottom"><p> Es handelt sich wohl um das
+                                mehrbändige Werk <hi rend="italic">„Commentarii De Rebus Franciae
+                                    Orientalis et Episcopatus VVirceburgensis“</hi> des Johann Georg
+                                    <persName>von </persName><persName>Eckhart</persName>
+                                (1664–1730), einem Sekretär und Biographen von
+                                    <persName>Leibniz</persName> und dessen Nachfolger als
+                                hannoverscher Historiker und Bibliothekar, der allerdings 1724 nach
+                                Würzburg ging; (<hi rend="italic">Wikipedia 20100526</hi>). Von ihm
+                                stammen weit über 100 historische Werke, von denen sich nicht wenige
+                                mit der germanischen Frühgeschichte befassten.</p></note>.</p><p>Von der langer Fortdauer der keltischen Sprache finden wir einen Beweis beim
+                        heiligen <persName>Hieronymus</persName> Kommentar zur Epistel des heiligen
+                            <persName>Paulus</persName> an die Galater c. 3. Schon waren die
+                        keltischen Gallier in Galatien vollkommen einheimisch und doch behielten sie
+                        noch immer ihre alte Sprache: unum est quorum inferimus et promissum in
+                        exordio reddimus, Galatos excepto sermone Graeco, quo omnis oriens loquitur,
+                        propriam linguam eandem pene habere quam Treviros, nec referre, si aliqua
+                        inde corruperint. Was von den Kelten in Asien gilt, darf man analogisch auch
+                        von den übrigen Kelten mit Wahrscheinlichkeit annehmen, und
+                            <persName>Pallhausen</persName><note type="comment" place="bottom"><p>
+                                Vinzenz <persName>von </persName><persName>Pallhausen</persName>
+                                (1759–1817) war ein hochrangiger bayerischer Beamter und Archivar;
+                                mit seinem Garibald löste er einen heftigen Streit über den Ursprung
+                                der Bayern – keltisch oder nichtkeltisch – aus; (<hi rend="italic">ADB</hi>). <persName>Kurz</persName> folgt ganz offensichtlich
+                                    <persName>Pallhausen</persName>s Auffassung vom keltischen
+                                Ursprung.</p></note> hat es in seinem Garibald<note type="comment" place="bottom"><p> Vinzenz von Pallhausen, <hi rend="italic">Garibald,
+                                    erster König Bojoariens und seine Tochter Theodelinde, erste
+                                    Königin in Italien. Oder die Urgeschichte der Baiern, entworfen
+                                    und mit Beweisstellen, kritischen Bemerkungen und mehreren
+                                    bisher noch unbekannten Notizen beleuchtet, München
+                                1810</hi>.</p></note> mit vielen Gründen dargetan.</p><p>Von den Rugiern und Langobarden wissen wir viel zu wenig, um von ihrer
+                        Buchstabenschrift etwas bestimmtes vorzubringen, denn die wenigen
+                        langobardischen Überbleibsel sind schon aus einer viel jüngeren Zeit, wo die
+                        Langobarden von den Italienern gar vieles angenommen und erlernt haben.
+                        Nebstbei ist zu bemerken, daß sich diese beiden Völker im heutigen Böhmen,
+                        Mähren und Österreich nicht so lange wie die Kelten aufgehalten haben.</p><p>Auch die Goten herrschten seit König <persName>Theoderich</persName><note type="comment" place="bottom"><p> Der Ostgotenkönig
+                                    <persName>Theoderich</persName> (451/456–526) herrschte etwa ab
+                                469 in einem Teilbereich und folgte 474 seinem Vater als König und
+                                war auch in hohen oströmischen Stellungen tätig, als er 488 mit dem
+                                Feldzug gegen <persName>Odoaker</persName> in Italien beauftragt
+                                wurde, den er mit dessen Ermordung beendete. In der Folgezeit
+                                agierte er als praktisch unabhängiger Vertreter Ostroms in Italien
+                                und gleichzeitig als König der Ostgoten, die er ohne größere
+                                Konflikte in Italien ansiedelte. Sein Herrschaftsbereich erstreckte
+                                sich zeitweise über Italien, Norikum, Pannonien und Dalmatien; (<hi rend="italic">Wikipedia 20100526</hi>).</p></note> einige Zeit
+                        hindurch über das Norikum; aber ihre Buchstabenschrift würde man auf der
+                        Stelle erkennen, wenn sie auf Steinen vorkäme.</p><p>Merkwürdig ist, was <persName>Gregor von Tours</persName><note type="comment" place="bottom"><p>
+                                <persName>Gregor von Tours</persName> (538/539–594) ist mit seinen
+                                    <hi rend="italic">„Decem libri historiarum“</hi> der wohl
+                                bedeutendste Historiograph der Völkerwanderungszeit. Er stand
+                                zeitweise in einem Nahverhältnis zu <persName>Chilperich;
+                                    </persName>(<hi rend="italic">Wikipedia
+                            20100526</hi>).</p></note>, vom König
+                            <persName>Chilperich</persName><note type="comment" place="bottom"><p>
+                                Es ist hier der Merowinger <persName>Chilperich</persName> I. (ca.
+                                535–584) angesprochen, der ab 561 in Neustrien regierte und von
+                                    <persName>Gregor von Tours</persName>, der ihn persönlich gut
+                                kannte, sehr negativ beurteilt wurde; (<hi rend="italic">Wikipedia
+                                    20100526</hi>).</p></note> erzählt: Addidit et litteras nostris
+                        litteris, id est eo sicut Graeci habent ac the, vuui, quarum characteres
+                        subscripsimus: w, δ, ψ et misit epistolas in universas civitates regni sui,
+                        ut sic pueri docerentur ac libri antiquitus scripti planati pumice
+                        rescriberentur.</p><p>Finden sich in Oberitalien, Krain, Kärnten und Steiermark Inschriften, deren
+                        Charaktere mit jenen in Mähren und Böhmen so ziemlich übereinstimmen, so
+                        sind sie ohne Zweifel keltisch. Es werden sich aber auch Inschriften ganz
+                        anderer Art vorfinden, welche anderen Völkern zugehören und uns vielen
+                        Schweiß kosten werden. Schreiben Sie nur bald nach Mailand etc., damit Sie
+                        Vergleichungen anstellen können.</p><p>Zum Beschluss dieses Briefchens eine Bitte. Ein schon verstorbener Pfleger in
+                        Spital am Pyhrn, <persName>Krakowitzer</persName>, hat mehrere Foliobände
+                        mit einer Sammlung geschriebener, alter österreichischer Gesetze angefüllt,
+                        die bei der Übernahme von Spital an die Benediktiner von St. Blasien
+                        gekommen sein sollen. Noch früher, als diese Männer von Spital nach St. Paul
+                        in Kärnten fortzogen, soll der Herr Statthalter Graf
+                            <persName>Saurau</persName> diese Sammlung zum Abschreiben nach Wien
+                        verlangt haben. So wurde mir erzählt. Was weiter geschehen sei, weiß ich
+                        nicht. Mich in St. Paul darum zu erkundigen, geziemt mir nicht; und doch
+                        könnte diese Sammlung viel Brauchbares für mich enthalten. Ich bitte Sie
+                        also, sich im kaiserlichen Archiv bei meinem Freund, dem Herrn Rat
+                            <persName>Knechtl</persName>, darum zu erkundigen, ob er davon Kenntnis
+                        habe.</p><closer><salute>Freuen Sie sich des Endes dieses gar zu langen Briefes und bleiben Sie
+                        gut Ihrem ergebensten Diener</salute><signed>Franz <persName>Kurz</persName></signed></closer><postscript>
+                        <p>Alles dieses war schon geschrieben, als man mir von Linz
+                                <persName>Eichhorn</persName>s Beiträge zur Geschichte Kärntens<note type="comment" place="bottom"><p> Ambros Eichhorn, <hi rend="italic">Beyträge zur alten Geschichte und Topographie des
+                                        Herzogthums Kärnten, 2 Bde, Klagenfurt
+                                1817–1819</hi>.</p></note> brachte. Allsogleich durchlas ich die
+                            ersten Bögen und fand, daß <persName>Eichhorn</persName> gar nicht daran
+                            dachte, daß die Kelten in Kärnten auch in ihrer eigenen Sprache
+                            Inschriften verfassen konnten. In Kärnten lernte man der Nähe halber
+                            leichter lateinisch; aber die Bojer in Böhmen? Da dachte man [...]
+                            Tarquinio regnante und noch einige Jahrhunderte später an die Römer und
+                            ihre Sprache gewiss nicht.</p>
+                    </postscript><p>Mein alter Herr ist so überzeugt, daß er bald Ihr Porträt erhalten werde, daß
+                        er bereits den Platz bestimmte, wo es aufgehangen werden soll.</p></div></body></text></TEI>

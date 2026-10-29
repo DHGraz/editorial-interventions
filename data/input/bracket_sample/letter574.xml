@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_574"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>June 20<hi rend="superscript">th</hi> 1805<lb/>London <hi rend="underline">Coldstream Regiment</hi><lb/><hi rend="underline">of Guards Orderly Room</hi></dateline><salute>My Dear <persName>Hammer</persName><note type="comment" place="bottom"><p> Die Anrede am linken Bogenrand mittig zu Datum und
+                            Ort.</p></note></salute></opener><p>I have<note type="comment" place="bottom"><p> Hier fehlt das Partizip
+                                Perfekt. </p></note> this morning your letter of the 25<hi rend="superscript">th</hi> of April which I loose not one hour in
+                        answering to your orders: The Generals<note type="comment" place="bottom"><p>
+                                <persName>Cooke</persName>s Stiefvater General Edward
+                                    <persName>Smith</persName>, Onkel von Charles Douglas, William
+                                Sidney und John Spencer <persName>Smith</persName>.</p></note> is so
+                        much in the same state if anything much better as far as relates to his
+                        general health, his complaint never can be cured, and at his age becomes
+                        daily, of more consequence – My last letter<note type="comment" place="bottom"><p> Um welchen Brief es sich hier handelt ist unklar. Im
+                                SAH befindet sich kein Brief aus 1805 bzw. solchen Inhaltes.
+                            </p></note>, I thought explained to you in some measure his illness: a
+                            <hi rend="underline">rupture</hi>, strictures, consequently stoppage of
+                        Urine etc. etc. etc. is the leading evil, of course that does not mend at
+                        74Y[ea]r old –</p><p>Your letter to my Sister<note type="comment" place="bottom"><p>
+                                <persName>Elisa</persName>.</p></note> I have forwarded, and have to
+                        observe that it <hi rend="underline">doubles the postage</hi>, therefore I
+                        shall expect a reward in Turkish Snuff, Tobacco tho’<note type="comment" place="bottom"><p> Lesung nicht gesichert. </p></note> of Roses, Pipe or
+                        some such thing: Apropos if you can procure me a good Snuff Box of a <hi rend="underline">green color[e]d Stone</hi>, I think Silesian or
+                        Bohemian, I hope you will sent it me and I will remit you the money for it,
+                        by my some Banker whom I will find out here. – My Brother Col[onel]
+                            <persName>Smith</persName> is quartered at Deal<note type="comment" place="bottom"><p> Vgl. dazu <persName>Cooke</persName>s Brief vom 10.
+                                Februar 1804.</p></note> near Walmer where the Guards are in
+                        Barracks, he is <hi rend="underline">quite well</hi>: all my family are well
+                        except my Sister <persName>Eliza</persName>[sic], and the General, her
+                        complaint is from <hi rend="underline">the old original incurable</hi>
+                            cause<note type="comment" place="bottom"><p> Edward
+                                    <persName>Cooke</persName> (ein Britischer Marineoffizier) wurde
+                                am 28. Februar 1799 in der Nähe von Balasore verwundet und nach
+                                Kalkutta gebracht und medizinisch versorgt, aber seine Wunden waren
+                                zu schwer, und er starb nach drei Monaten qualvollen Leidens am 25.
+                                Mai. Er wurde mit allen militärischen Ehren in der Stadt unter einem
+                                Denkmal beigesetzt, das die Ostindien-Kompanie als Dank zur
+                                Verfügung stellte. 1806 wurde in der Westminster Abbey ein großes
+                                Denkmal des Bildhauers John <persName>Bacon</persName> aufgestellt,
+                                das an seinen Sieg und seinen Tod erinnert; (<hi rend="italic">Wikipedia, englisch</hi>). <persName>Elisa</persName> war wohl
+                                durch den Tod ihres Bruder in eine Depression verfallen, welche sich
+                                auch in körperlichen Beschwerden äußerte; s. dazu Walter Höflechner
+                                    u.a.<hi rend="italic">; Joseph von Hammer-Purgstall 1774–1856
+                                    Ein Altösterreichisches Gelehrtenleben Eine Annäherung; Graz
+                                    2021, Bd 1, S. 151f </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>) und
+                                    <persName>Elisa</persName>s Brief vom 28. Mai 1802. </p></note>
+                        and now living in a sick house, does not tend to enliven the spirits.</p><p>You are misinformed<note type="comment" place="bottom"><p> A:
+                                misinform’d.</p></note> relative to Sir Sydney, he is not
+                            employed<note type="comment" place="bottom"><p> A: employ’d.</p></note>,
+                        and although the Admiralty is changed, I fear he stand as little chance, as
+                        he did during L[or]d <persName>Melvill[e]</persName><note type="comment" place="bottom"><p> Henry <persName>Dundas</persName>, 1. Viscount
+                                    <persName>Melville</persName> (28. April 1742–28. Mai 1811) war
+                                ein schottischer Staatsmann und Anwalt. Henry
+                                    <persName>Dundas</persName> war ein britischer Jurist und
+                                Politiker schottischer Herkunft mit langjährigem überragendem
+                                Einfluss auf die britische, speziell die schottische Geschichte. Er
+                                erwarb sich die persönliche Freundschaft von William
+                                    <persName>Pitt</persName> dem Jüngeren, der ihn 1791 als
+                                Innenminister in sein Kabinett nahm. 1794 bis zum Rücktritt
+                                    <persName>Pitt</persName>s 1801 war er „War Secretary“, also
+                                Kriegsminister, ein Posten, der mit ihm zum ersten Mal besetzt
+                                wurde. 1802 erhielt er für seine Verdienste die Peerswürde und wurde
+                                zum Viscount <persName>Melville</persName> und Baron Dunira ernannt.
+                                Ab 1804 führte er in der zweiten Regierung <persName>Pitt</persName>
+                                als Erster Lord der Admiralität eine Reihe von Reformen durch. In
+                                seine Dienstzeit fällt der für das Fortbestehen der britischen
+                                Seeüberlegenheit entscheidende Sieg gegen das napoleonische
+                                Frankreich in der Seeschlacht von Trafalgar am 21. Oktober 1805.
+                                Nachdem er nach seiner Amtszeit als Schatzmeister der Navy in den
+                                Verdacht geraten war, öffentliche Gelder verschwendet zu haben,
+                                wurde 1802 eine Untersuchungskommission eingesetzt, die ihren
+                                Bericht 1805 vorlegte. Seine politischen Gegner, allen voran Samuel
+                                    <persName>Whitbread</persName>, strengten daraufhin 1806 im
+                                House of Lords ein Impeachment-Verfahren gegen ihn an. Obwohl das
+                                Verfahren mit seiner Rehabilitierung endete, bekleidete er danach
+                                kein öffentliches Amt mehr. Hierzu beigetragen hat sicher auch
+                                William <persName>Pitt</persName>s Tod 1806.</p></note>’s reign –
+                        The causes of such a strange conduct towards him I am totally unable to
+                        explain, unless it be that his terms are too high, I mean that he requires a
+                        command superior to his rank. He is an ill treated- whatever be his faults:
+                        The man who can say, I alone foiled<note type="comment" place="bottom"><p>
+                                A: foil’d.</p></note> and frustrated <hi rend="underline">the
+                            Emperor of the Worl</hi>d ( for alas such is he) that man I affirm may
+                        be allowed<note type="comment" place="bottom"><p> A: allow’d.</p></note> to
+                        take <hi rend="underline">some little</hi> to himself, and to require what
+                        perhaps in the common line of men would not be granted; We are a Nation who
+                        not know the value of such men, but think <hi rend="underline">Genius</hi>,
+                            <hi rend="underline">Madness no Turk was ever Half so Stubborn</hi> half
+                        so wedded to his own ideas, as an English Ministry to the Passion of a
+                        moment. </p><p>Lord <persName>Melville</persName> (you have I suppose seen) has
+                            regained<note type="comment" place="bottom"><p> Lesung nicht gesichert
+                                    <graphic url="media/image80.png"/>
+                            </p></note> his situation – Mr. <persName>Pitt</persName> came off with
+                        flying colours upon the subject of <persName>Boy’d</persName> &amp;
+                            <persName>Benfield</persName> – the 40000<note type="comment" place="bottom"><p> Im Frühjahr wurden Unregelmäßigkeiten in der
+                                Finanzverwaltung <persName>Melville</persName>s durch eine
+                                Untersuchungskommission der Marine aufgedeckt – unter anderem eine
+                                Überweisung von 40. 000 Pfund aus dem Marinefond and
+                                    <persName>Boyd</persName>, <persName>Benfield</persName> &amp;
+                                Co, die durch <persName>Pitt</persName> genehmigt wurde, damit diese
+                                einen Vertrag über ein Regierungsdarlehen abschließen konnten. Zu
+                                dieser Causa vgl. die Beiträge zu <persName>Pitt</persName> und
+                                    <persName>Benfield</persName> in <hi rend="italic">History of
+                                    Parliament</hi> sowie <ref target="https://api.parliament.uk/historic-hansard/lords/1805/jun/14/conduct-of-mr-pitt-relative-to-the-loan">https://api.parliament.uk/historic-hansard/lords/1805/jun/14/conduct-of-mr-pitt-relative-to-the-loan</ref>
+                                und <ref target="https://api.parliament.uk/historic-hansard/commons/1805/jun/12/impeachment-of-lord-melville">https://api.parliament.uk/historic-hansard/commons/1805/jun/12/impeachment-of-lord-melville</ref>.
+                            </p></note> Money for the loan. L[or]d <persName>Melville</persName>
+                        will not be impeached – the places he still enjoys under government (which 
+                        he holds for life) are valued at 7000 £ for an[…]<note type="comment" place="bottom"><p><graphic url="media/image81.png"></graphic></p></note> so that (after all) he is not great suffered – this
+                        discovering will do good and cause a little more honesty, or regularity with
+                        all the public money for the future – </p><p>Spencer <persName>Smyth</persName>[sic] has no employ no, nor has Mr.
+                            <persName>Drake</persName>, “Honesty is the best Policy” according to
+                        the old saying, particularly where you want genius to be <hi rend="underline">ruse</hi> – The french always [<note type="comment" place="bottom"><p> Das aus vermutlich sechs Buchstaben bestehende Wort
+                                kann nicht eindeutig entziffert werden, die ersten vier Buchstaben
+                                könnten als „achi“ gelesen werden. <graphic url="media/image82.png"/></p></note>] us
+                        in diplomacy, and perhaps you will agree with me, that they have more genius
+                        for villainy<note type="comment" place="bottom"><p> A: villiany.</p></note>
+                        – I do not thinks that <hi rend="underline">Sydney</hi> will go to Sea
+                        anymore during this war, he has lost some very good occasions, particularly
+                        the Spanish war, where he might have picked up some Dollars, which <hi rend="underline">entre nous</hi> would do him no harm – The Country at
+                        this time is an as bad a situation as far as concerns public credit, as it
+                        has been at any period since 1796. A combined fleet we know not when <hi rend="underline">while we Boast</hi> the Sovereignty of the Seas: Our
+                        Army <hi rend="underline">upon papers</hi> may be formidable but actually we
+                        cannot spare 10.000 men <hi rend="underline">anywhere</hi> – How then are we
+                        to regain what foreign possessions we may probably loose: How are we to
+                        chastise the insolence of France – Alas if we can finish the war as we began
+                        it, and with a good reputation we may still say that providence has smiled
+                        upon us – People grumble very much about the Taxes, you were long enough
+                        here to be acquainted with le <hi rend="underline">peuple</hi> you know they
+                        are never happy without grumbling, and particularly when the[y] know it is
+                        without reason: Our force is not great of Regular Troops: we have an <hi rend="underline">immense Body of Cavalry</hi>, and at any point you
+                        could Bring <hi rend="underline">more Heavy dragoons</hi> together, than you
+                        could regular Infantry : You know how that could suit the french System, in
+                        a country more resembling a Garden, than the environnes<note type="comment" place="bottom"><p> Lesung nicht gesichert. </p></note> of Bruxelles
+                        [sic]or Frankfort. </p><p><persName>Bourn[e]</persName><note type="comment" place="bottom"><p>
+                                Korrespondent von HP. Einer seiner Briefe, nämlich der vom 12.
+                                Februar 1804 lag im SAH „bei“ Henry <persName>Cooke</persName>.
+                                Vermutlich Frederick <persName>Bourne</persName>, Bruder von Captain
+                                Richard <persName>Bourne</persName> (1770–1851), besaß eine
+                                Dampfschifflinie; Lebensdaten unbekannt. </p></note> whom you
+                        mention is in Ireland since some Months: I assume he never has heard from
+                        you, or would have written as I know him to be a good correspondent. –</p><p>Gen[eral]<persName> S[mith]</persName> lives entirely at Bristol: he has sold
+                        Walmer and intends residing entirely there: He is not upon good footing with
+                        Sydney or Spencer : The one he hates the other he deplores his ruining
+                        himself, by idle useless conduct in Town, and not taking </p><p>any<note type="comment" place="bottom"><p> Die folgenden Worte bis
+                                einschließlich „constan“ sind am rechten und linken Rand eingerückt
+                                geschrieben. Das restliche Wort „tly“ befindet sich bereits in der
+                                nächsten Zeile </p></note> Ship and away. Pray let me hear from you
+                        constantly- I shall feel great pleasure in keeping up so advantageous a
+                        correspondence to me – I should wish you will write sometimes in French to
+                        keep me in practice as I begin to forget – I know what you would recommend
+                        me but it is difficult to find here – <salute>Adieu and believe me
+                            yours</salute></p><closer><salute>very affectionally</salute><signed>HFC</signed></closer></div></body></text></TEI>

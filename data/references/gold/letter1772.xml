@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1772"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><note type="comment" place="inline">Antwort des Recensenten des etymologischen
+                        Wörterbuchs von Mathias <persName>Höfer</persName><note type="comment" place="bottom"><p> Matthias Höfer, Etymologisches Wörterbuch der in
+                                Oberdeutschland, vorzüglich aber in Oesterreich üblichen Mundart,
+                                Linz 1815.</p></note> auf die im Intelligenzblatte [zur Wiener
+                        allgemeinen Literaturzeitung] Nro 18 eingerückte Antikritik.</note><p>Da<note type="comment" place="bottom"><p> Aus: <hi rend="italic">Intelligenzblatt zur Wiener allgemeinen Literaturzeitung Nro
+                                    21.; May 1816; 166–168</hi>; (<ref target="https://www.google.at/books/edition/Wiener_Allgemeine_Literatur_Zeitung/2-pJAAAAcAAJ?hl=de&amp;gbpv=1">https://www.google.at/books/edition/Wiener_Allgemeine_Literatur_Zeitung/2-pJAAAAcAAJ?hl=de&amp;gbpv=1</ref>).</p></note>
+                        dem Recensenten des etymologischen Wörterbuchs von
+                            <persName>Höfer</persName> die in Nro. 18 dieses Blattes eingerückte
+                        Antikritik aus Verstoss nicht vor dem Drucke zu Gesicht gekommen, so trägt
+                        er die darauf schuldige Antwort hier nach.</p><p>Der Rec[ensent] hat dem etymologischen Wörterbuche als einer schätzbaren
+                        Arbeit alle Gerechtigkeit widerfahren lassen, und beruft sich desshalb auf
+                        die Recension selbst. Aber die geschmacklosen Albernheiten, und gänzlich
+                        unrichtigen Ansichten desselben konnte er eben so wenig als die Bemerkungen,
+                        welche denselben neuerdings das Wort reden, ungerügt hingehen lassen. Er hat
+                        sich offen wider den von Hrn. <persName>Höfer</persName> in der Vorrede
+                        aufgestellten Vorschlag, die niedrigen und pöbelhaften Ausdrücke der
+                        Volkssprache in Predigten und Büchern zu gebrauchen, erklärt, und beharrt
+                        auf dieser Erklärung ungeachtet der Meinung des Hrn.
+                            <persName>Höfer</persName>, dass Eiterbatzen u. dgl. recht energische in
+                        höherer Rede und Schrift wohl anzuwendende Wörter seyen. Rec[ensent] hat das
+                        Unternehmen Hrn. Höfers nicht getadelt sondern ermuntert, und um nicht mehr
+                        zu tadeln als er musste, nicht einmahl des schleppenden weitschweifigen
+                        lendenlosen Styles des Verf[assers] mit einem Worte erwähnt. Dieser möchte
+                        auch hier unbemerkt hingehen, nur nicht die ganz und gar irreleitenden
+                        folgenden Missgriffe beleidigter Eitelkeit. Rec[ensent] hat gewünscht der
+                        Verf[asser] hätte nicht so oft in den Etymologien deutscher Wörter die
+                        hebräische und slavische Sprache, sondern mehr die persische und arabische
+                        anführen sollen. Hr. <persName>Höfer</persName> fragt: „warum nicht auch die
+                        coptische und malabarische, und warum vorzüglich die persische?“ darum: weil
+                        die deutsche und persische nächst verwandte Schwestern sind. Da der
+                        Verf[asser] diess aus Unwissenheit läugnet, so mag er, wenn er den über
+                        diese Schwesterschaft so vielfältig vorhandenen Beweisen (die neuesten von
+                        Otmar <persName>Frank</persName><note type="comment" place="bottom"><p>
+                                Othmar FRANK (1770–1840) – BARCH. – Vielleicht meint HP hier
+                                Franks’s Arbeit „Fragmente eines Versuchs über dynamische
+                                Spracherzeugung und Vergleichung der Persischen, Indischen und
+                                Teutschen Sprachen und Mythen“, Nürnberg 1813.</p></note> gesammelt)
+                        nicht Glauben beymessen will, selbst persisch lernen. Der Satz: „die alten
+                        Perser oder Elamiten sind keine Nachkommen des Japhet gewesen, und ihre
+                        Sprache war vermuthlich Chaldäisch“ ist unhaltbar und falsch. Ihre Sprache
+                        war Jafetisch ganz im Gegensatze mit Semitisch, und der vollste Beweis davon
+                        liegt darin, dass alle bey den Griechen erhaltenen persischen Wörter sich
+                        noch rein in dem jafetischen Bestandtheile des heutigen Persischen finden,
+                        nämlich in dem Parsi, das mit den chaldäischen Sprachen wie mit den anderen
+                        semitischen Sprachen nicht das Geringste gemein hat. Es wäre unnütz hier
+                        Hrn. <persName>Höfer</persName> auf die <graphic url="media/image15.png"/>
+                        von <persName>Burton</persName><note type="comment" place="bottom"><p> HP
+                                meint hier vermutlich: Burtoni Guilielmi (Burton, William), <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Leipsana"><hi rend="italic">Leipsana</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=veteris"><hi rend="italic">veteris</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=linguae"><hi rend="italic">linguae</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Persicae"><hi rend="italic">Persicae</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=quae"><hi rend="italic">quae</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=apud"><hi rend="italic">apud</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=priscos"><hi rend="italic">priscos</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Scriptores"><hi rend="italic">Scriptores</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Graecos"><hi rend="italic">Graecos</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=et"><hi rend="italic">et</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Latinos"><hi rend="italic">Latinos</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=reperiri"><hi rend="italic">reperiri</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=potuerunt"><hi rend="italic">potuerunt</hi></ref><hi rend="italic"> :
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Accedit"><hi rend="italic">Accedit</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Marci"><hi rend="italic">Marci</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Zuerii"><hi rend="italic">Zuerii</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Boxhornii"><hi rend="italic">Boxhornii</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Epistola"><hi rend="italic">Epistola</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=ad"><hi rend="italic">ad</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Nicol"><hi rend="italic">Nicol</hi></ref><hi rend="italic">.
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Blancardum"><hi rend="italic">Blancardum</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=de"><hi rend="italic">de</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Persicis"><hi rend="italic">Persicis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Curtio"><hi rend="italic">Curtio</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=memoratis"><hi rend="italic">memoratis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Vocabulis"><hi rend="italic">Vocabulis</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=eorumque"><hi rend="italic">eorumque</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=cum"><hi rend="italic">cum</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Germanicis"><hi rend="italic">Germanicis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=cognatione"><hi rend="italic">cognatione</hi></ref><hi rend="italic"> /
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=In"><hi rend="italic">In</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=gratiam"><hi rend="italic">gratiam</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Philologiae"><hi rend="italic">Philologiae</hi></ref><hi rend="italic">
+                                    &amp; </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=humanitatis"><hi rend="italic">humanitatis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=studiosorum"><hi rend="italic">studiosorum</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=edita"><hi rend="italic">edita</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=praefatione"><hi rend="italic">praefatione</hi></ref><hi rend="italic">,
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=notis"><hi rend="italic">notis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=et"><hi rend="italic">et</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=additamentis"><hi rend="italic">additamentis</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=instructa"><hi rend="italic">instructa</hi></ref><hi rend="italic"> a
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Jo"><hi rend="italic">Jo</hi></ref><hi rend="italic">.
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Henr"><hi rend="italic">Henr</hi></ref><hi rend="italic">.
+                                    </hi><ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=von"><hi rend="italic">von</hi></ref>
+                                <ref target="http://stabikat.sbb.spk-berlin.de/DB=1/SET=1/TTL=1/MAT=/NOMAT=T/CLK?IKT=1016&amp;TRM=Seelen"><hi rend="italic">Seelen</hi></ref><hi rend="italic">;
+                                    Lubecae 1720</hi> – ist in seinem Auktionskatalog
+                                verzeichnet.</p></note> zu verweisen, da er von der ältesten Stamm-
+                        oder Schwestersprache der Deutschen nämlich von der Persischen gerade wie
+                        ein Blinder von der Farbe spricht. Eben so unnütz wäre es, ihn auf die
+                        Arbeiten der asiatic Society zu Calcutta und auf die geographischen
+                        Nahmenserläuterungen <persName>Rennell</persName>s<note type="comment" place="bottom"><p> A.: Rennel – James Rennell, <hi rend="italic">Memoir
+                                    of a map of Hindoostan; or The Mogul Empire: with an
+                                    introduction, illustrative of the geography and present division
+                                    of that country: and a map of the countries situated between the
+                                    head of the Indus, and the Caspian Sea; 1788</hi> – in HP’s
+                                Auktionskatalog verzeichnet.</p></note> zu verweisen, wo er deutlich
+                        genug dargethan finden würde, dass Himala, Hämus, Emaus alle eine und
+                        dieselbe Benennung schneebedeckter hoher Berge sind, von der
+                        gemeinschaftlichen im <choice><sic>Samskrit</sic><corr>Sanskrit</corr></choice> erhaltenen Wurzel Him, woher auch das
+                        deutsche Wort Himmel abzuleiten ist; wie soll man aber dem <choice><abbr>Verf</abbr><expan>Verfasser</expan></choice>
+                            zumuthen deutsche Wurzelwörter <choice><sic>Samskrit</sic><corr>Sanskrit</corr></choice> (worin sich bisher die der
+                        meisten europäischen Stammsprachen gefunden) zu suchen, wenn er von der
+                        nächsten Verwandtschaft des Deutschen mit dem Persischen keinen Begriff hat,
+                        wenn er nicht weiss, dass der Nahmen der Germanen unter den alten
+                        Völkerschaften Persiens schon von den Griechen aufgezählt worden ist, und
+                        dass sich derselbe noch im heutigen persischen Worte Erman oder Irman,
+                            <graphic url="media/image16.png"/> Gastfreund, Gastbruder erhalten hat,
+                        so dass es gerade wie im Lateinischen (ausser dem Volksnahmen) die Bedeutung
+                        von Brüdern (Verbündeten durch Gastfreundschaft) ausdrückt. Wie hält sich
+                        Hr. <persName>Höfer</persName>, der von Alledem nichts weiss, für befugt
+                        seine Stimme wider die Verwandtschaft des Persischen mit dem Deutschen zu
+                        erheben?</p><p>So weit was das Persische betrifft. In Betreff des Arabischen antwortet
+                        Rec[ensent] auf die naseweise Frage des Verf[assers] „wie lang es seyn möge
+                        dass wir von den Arabern Deutsch gelernt haben?“ dass seit der Vermischung
+                        des Ostens mit dem Westen durch die Kreuzzüge in Syrien und durch die Araber
+                        in Spanien fast die ganze Kultur des Mittelalters das Werk der Letzten
+                        gewesen, dass also eine Menge von Kunstausdrücken und eingewanderten Wörtern
+                        nicht nur in der Deutschen sondern in allen gebildeten europäischen Sprachen
+                        rein arabischen Ursprungs sind. (Man sehe was
+                            <persName>Beigel</persName><note type="comment" place="bottom"><p> A.:
+                                Beigl – Vermutlich gemeint: Georg Wilhelm Sigismund Beigel, <hi rend="italic">Sprachstrahlen</hi>; in: <hi rend="italic">Allgemeines Archiv für Ethnographie und Linguistik, 1. Band
+                                    1808, 332–340</hi>.</p></note>, <persName>Weston</persName><note type="comment" place="bottom"><p> Vermutlich meint HP hier: Stephen
+                                Weston, <hi rend="italic">a Specimen of the conformity of the
+                                    European languages particulary the English with the oriental
+                                    languages. 8. London 1802</hi> – in HP’s Auktionskatalog
+                                verzeichnet.</p></note> und andere hierin zusammengestellt, noch
+                        mehr aber zu thun übrig gelassen). Hiervon aber weiss Hr.
+                            <persName>Höfer</persName> freylich eben so wenig etwas als vom
+                        Persischen.</p><p>Ich weiss nichts davon, folglich kann es nicht so seyn, ist die
+                        Schlussmethode des Verf[assers] der den Recensenten grosser Sophismen
+                        beschuldigt, weil er über die pedantisch-komische Ableitung des Worts
+                        Schakettl so wie über andere Geschmacklosigkeiten gelacht, wiewohl er manche
+                        Zotten, die in ein solches Wörterbuch gar nicht gehören, mit schonendem
+                        Stillschweigen übergangen.</p><p>Auch hat er die naturhistorischen Beyträge nicht desshalb, weil sie nicht vom
+                        Verf[asser] herrühren, sondern weil sie nicht in das etymologische
+                        Wörterbuch gehören, getadelt.</p><p>Hic non erat locus.</p><p>Diess sind die Gründe die der Verf[asser] zu hören begehrte. Der Rec[ensent]
+                        gesteht ihm gerne zu, dass das etymologische Wörterbuch keine geniale Arbeit
+                        sey, wohl aber ein <graphic url="media/image17.png"/>, d.i. nicht ohne
+                        Pfnausen unternommenes Werk. Dass aber auch der vom Rec[ensenten] über die
+                        Nothwendigkeit des Studiums der persischen Sprache für einen deutschen
+                        Etymologen aufgestellte Satz keine lüftige Hypothese sey, wie Hr.
+                            <persName>Höfer</persName> sich ausdrückt, beweiset das Obengesagte, und
+                        Rec[ensent] versichert Hn. <persName>Höfer</persName> von seinem eigenen
+                        Berufe zum Etymologisiren mit den Worten <persName>Cicero</persName>s an
+                        seinen Bruder <persName>Quintus</persName>.</p><closer><salute>Nos ita philologi sumus, ut vel cum fabris habitare possimus.</salute><dateline>Wien den 21. May 1816</dateline></closer></div></body></text></TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_7159"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Herr Hofrath Freyherr
+                        <persName>von Hammer</persName>-<choice><sic>Burgstall</sic><corr>Purgstall</corr></choice>!</salute></opener><p>Ich<note type="comment" place="bottom"><p> Auch BH II 189.</p></note> mache
+                        Mir die Freude, Ihnen, der Sie so ausgezeichnet als Gelehrter, namentlich in
+                        der Orientalischen Geschichtsforschung, hier als Beweis Meiner Anerkennung
+                        das Kommenthurkreuz[sic] meines Verdienst-Ordens vom Heil. Michael zu
+                        schicken, dabey Sie der aufrichtigen, werthschätzungsvollen Gesinnungen
+                        versichernd, mit welchen <salute>Ich bin Ihr wohlgeneigter</salute></p><closer><dateline>München<lb/>den 7ten März 1847</dateline><signed><persName>Ludwig</persName>.</signed></closer></div></body></text></TEI>

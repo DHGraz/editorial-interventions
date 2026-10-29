@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_21"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Weimar d[en] 18ten May [17]97</dateline></opener><p>Der<note type="comment" place="bottom"><p> Dieser Brief ist bei <hi rend="italic">PvTh Böttigerbriefe 17</hi> nur mit seinem ersten
+                                Absatz abgedruckt.</p></note> gute <persName>Herder</persName> muß
+                        eben außer seinen lastenden Amtsgeschäften einen Katechismus für die
+                        Druckerei fertigen, um welchen ihn der ungestüme Drucker täglich mahnt<note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> zitiert dazu in seinen <hi rend="italic">„Literarische Zustände und Zeitgenosen“ I</hi>,
+                                131 <persName>Herder</persName>s Aussage, dass dies für ihn keine
+                                schwere Aufgabe sei, vieles werde er aus dem
+                                    <persName>Luther</persName>schen Katechismus beibehalten, <hi rend="italic">„</hi><hi rend="italic">Was in der Bibel mit
+                                    klaren Worten stehe, sei christlicher Lehrbegriff und diese
+                                    müsse aus einem christlichen Lehrkatechismus nicht
+                                    hinausgedeutelt werden. Eine ganz andere Frage sei freilich die,
+                                    ob nun dies Christentum für alle Zeiten gültig und gleich
+                                    brauchbar sei? Hier müsse man aber als Diener des Staats und der
+                                    Kirche beiden getreu bleiben.</hi><hi rend="italic">“</hi> (Nach
+                                    <hi rend="italic">PvTh Böttigerbriefe 17</hi>).</p></note>. Dies
+                        ist wahrscheinlich die Ursache, warum er Ihnen heute nicht mit antworten
+                        kann. Er schreibt mir aber eben jetzt, daß er Ihnen gewiß antworten werde.
+                        Er hat Ihr Schreiben mit der ihm eigenen Herzlichkeit aufgenommen. Vorläufig
+                        weiß ich so viel, daß er das Stachelgedicht auf die Weiber<note type="comment" place="bottom"><p> Es handelt sich hier um HPs
+                                „Entschuldigung eines als Weiberfeind angeklagten Mannes“, in:
+                                Meißners Apollo 3, 528.</p></note> als zu ungleichartig mit dem
+                        Inhalt des übrigen in diese Sammlung nicht aufgenommen wünscht<note type="comment" place="bottom"><p> Mit derlei Gedichten hat sich HP
+                                ernsthaftes Ungemach zugezogen; als er 1817 die Übersetzung des
+                                Eingangs des türkischen „Buches der Weiber“ veröffentlichte, hatte
+                                das einige Konsequenzen; (s. Erinnerungen zu 1817 n.
+                        VI).</p></note>. Dagegen hat ihm der persische Frühling<note type="comment" place="bottom"><p> HP (Üs), Feyergesang des Frühlings. Aus dem
+                                Türkischen des Messihi; in: Neuer Teutscher Merkur 3 (1796)
+                                15–28.</p></note> so sehr gefallen, daß ich ihn für die Sammlung
+                        zurücklegen und nicht im Merkur blühen lassen soll. Wahrscheinlich wird er
+                        Sie nun auffordern, auch die anderen Jahreszeiten zu eben dieser Absicht zu
+                        bearbeiten, so wie auch die versprochenen Biographien<note type="comment" place="bottom"><p> Hier handelt es sich um die Biografien der Dichter
+                                der Gedichte zum Sommer Herbst und Winter, welche HP den Gedichten
+                                vorangesetzt im <hi rend="italic">Merkur</hi> veröffentlichen
+                                wollte; (vgl. dazu HP an <persName>Böttiger</persName> ddo 1797 IV
+                                25).</p></note>.</p><p>Da ich lange von Ihnen nichts hörte, konnte ich die Versuchung nicht
+                        widerstehen, einige Ihrer trefflichen Erzählungen dem Merkur zu
+                            schenken<note type="comment" place="bottom"><p> HP, Orientalische Sagen.
+                                Auszüge aus dem Adschaibul-Machlukat; in: Neuer Teutscher Merkur 2
+                                (1797) 93–108.</p></note>. Das übrige bleibt nun der Sammlung<note type="comment" place="bottom"><p> Eine solche ist offenbar nicht
+                                erschienen, soferne damit nicht auf Inhalte von <hi rend="italic">„1001 Nacht“</hi> angespielt wird.</p></note> vorbehalten, so
+                        wie ich aus gutem Grund auch Ihre gelehrte Einleitung und biographischen
+                        Nachrichten zurückbehalten habe, die nun auch eine Zierde jener Sammlung
+                        bleiben werden. Von den abgedruckten lege ich hier die Aushängebögen bei, so
+                        gut ich sie noch aus der Druckerei erhalten konnte.</p><p><persName>Ilgen</persName> hat seine Greife<note type="comment" place="bottom"><p> Lässt sich nicht feststellen.</p></note> noch nicht
+                        bei mir einrücken lassen. Ich werde ihn aber dringend daran erinnern, und
+                        was ich dann erhalte, Ihnen unverzüglich zur Prüfung mitteilen. Über die
+                        Incunabeln dieses Wundertiers im Orient kann ich mir nie ein Urteil anmaßen.
+                        Aber wie es von <persName>Aeschylus</persName> über
+                            <persName>Herodot</persName> an die Griechen ausgeputzt, verkünstelt und
+                        in ihren Bildwerken aussta<note type="comment" place="bottom"><p> Lücke im
+                                Papier.</p></note>[Lücke] haben, davon werde ich bei Gelegenheit
+                        meiner Erklärungen <persName>Tischbein</persName>ischer Vasen<note type="comment" place="bottom"><p> Carl August Böttiger, Griechische
+                                Vasengemälde mit archäologischen und artistischen Erläuterungen der
+                                Originalkupfer, 3 Bde, Weimar-Magdeburg 1797–1800 (es finden sich
+                                dazu noch folgende Angaben: von Bd I erschienen in Weimar 1797 zwei
+                                Hefte, 1798 folgte Heft 3 in Magdeburg; 1800 seien die Kupferstiche
+                                dazu erschienen unter dem Titel: „Umrisse griechischer Gemälde auf
+                                Antiken in den Jahren 1789–1790 in Campanien und Sicilien
+                                ausgegrabenen Vasen, jetzt im Besitze des Ritters W. Hamilton“, hg.
+                                von Wilhelm Tischbein).</p></note> allerlei Raritäten auszukramen
+                        finden. So oft auch schon dieser Gegenstand behandelt worden ist, so oft ist
+                        er doch durch Gelehrsamkeit verseucht und der einfachste Zusammenhang dieses
+                        Kunstsymbols mit dem Sonnengott und dem Orient übersehen worden.</p><p>Nun da <graphic url="media/image5.jpeg"/>
+                        <note type="comment" place="bottom"><p> Die Göttin Friede.</p></note> uns
+                        doch ein freundliches Gesicht zu machen anfängt und da die Hagelwolken aus
+                        Süden sich endlich nur noch auf die Lagunen zu stürzen scheinen, werden auch
+                        die Werke des Friedens besser gedeihen. Wie wollte ich mich freuen, wenn ich
+                        in Kürze einmal einen Brief aus Istanbul oder Schiras von Ihnen erhielte!
+                            <salute>Mit der aufrichtigsten Hochachtung und Ergebenheit Ganz der
+                            Ihrige</salute></p><closer><signed>Böttiger</signed></closer></div></body></text></TEI>

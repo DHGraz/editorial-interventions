@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_5487"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Calcutta 10<hi rend="superscript">th</hi> Sept[ember] 1836</dateline><salute>My dear Sir</salute></opener><p>I did not take up my pen to answer your long and most acceptable new nears
+                        gift of Sidi Capudans Continuation<note type="comment" place="bottom"><p>
+                                HPs Übersetzung von einzelnen Kapiteln des Kitab i Muhit (Book of
+                                the Ocean) erschien in Fortsetzungen in: <hi rend="italic">Journal
+                                    of the Asiatic Society of Bengal in den Jahren 1834–1837</hi>;
+                                vgl. dazu die entsprechende Fußnote zu <persName>Prinsep</persName>s
+                                Brief an HP ddo 1835 I 25. </p></note> – This I shall hav[e]e the
+                        pleasure of daring in a day or two when I shall be enabled to send you a
+                        copy of him in print with such notes and explanations as I have been able to
+                        furnish – but I write in a great hurry to announce my having sent by a ship
+                        that sailed a few days since to the care of our Booksellers Mess<hi rend="superscript">rs</hi>
+                        <persName>Allen</persName> &amp; Co of Leadenhallstreet London, two volumes
+                        of an arabic (a rather I should say persian) work entitled the <hi rend="underline">Seri Mutakherim</hi><note type="comment" place="bottom"><p>
+                                <hi rend="italic">The Siyar-ul-Mutakherin, a History of the
+                                    Mahomedan Power in India During the Last Century by Mir Golam
+                                    Hussein-Khan. Revised from the Translation of Haji Mustefa, and
+                                    Collated with the Persian Original by John Briggs, London 1832,
+                                    und Ghulam Husain, Siyar-ul-Mutakhkherin, Kalkutta
+                                1833</hi>.</p></note> presented to you by
+                            <persName>Maulana Abdul Mojid</persName><note type="comment" place="bottom"><p> Eine Zusammenfassung des Hauptwerkes von Seir ul
+                                Mutagherin wurde unter dem Namen von Zubdatul Tawarik von
+                                    <persName>Maulana Abdul Karim</persName> aus Kalkutta bereits
+                                1827 publiziert, und dieser gab 1833 das persische Hauptwerk heraus;
+                                (vgl. dazu <ref target="http://shodhganga.inflibnet.ac.in/bitstream/10603/52371/9/09_chapter%204.pdf">http://shodhganga.inflibnet.ac.in/bitstream/10603/52371/9/09_chapter%204.pdf</ref>
+                                ).</p></note> in return for your most friendly cadeau to him – It
+                        contains the last accounts of the wars and intrigues of the early European
+                        interlopers in India.</p><p>Your present to myself of your various publications is indeed most acceptable
+                        – especially the essay on the Mithraica – at the moment that we had been
+                        tumbling upon so many curious monuments of the far spreading religion in the
+                            topes<note type="comment" place="bottom"><p> In den Stupas resp. Tumuli;
+                                vgl. den Kommentar zu <persName>Prinsep</persName>s Brief an HP 1835
+                                I 25.</p></note> of the Panjab – I trust our agents
+                            (<persName>Allen</persName> &amp; Co) send you regularly my journal
+                        which will show you the progress discovery in making on this head[?] I have
+                        also to send a duplicate to my friend the Baron
+                            <persName>Hügel</persName><note type="comment" place="bottom"><p> A:
+                                Hugel – Carl Alexander Anselm Freiherr
+                                    <persName>von Hügel</persName> (1796–1870) war österreichischer
+                                Diplomat, Reisender, Naturforscher und Hortologe. Er trat 1811 in
+                                die kaiserlich-österreichische Armee ein, nahm an den Napoleonischen
+                                Kriegen und an der Militärintervention im Königreich beider Sizilien
+                                1820/1821 teil. 1824 trat er als 28-Jähriger als Major in den
+                                Ruhestand und konnte sein weiteres Leben offenbar aus ererbtem
+                                Vermögen bestreiten. Als Reisender und Forscher beschäftigte er sich
+                                von 1830–1836 auf einer sechsjährigen Reise durch Asien und Ozeanien
+                                mit dem Anlegen einer Pflanzensammlung sowie mit der Sammlung
+                                religionsgeschichtlich und ethnografisch bedeutender Objekte. Auf
+                                seinen Reisen kam <persName>Hügel</persName> in den Himalaya, nach
+                                Kaschmir und auch nach Australien; (<hi rend="italic">Wurzbach;
+                                    Wikipedia 20170423</hi>).</p></note> it ‘ere<note type="comment" place="bottom"><p> ere = before (Merriam-Webster 20170423). </p></note>
+                        this I hope safely arriv[ed<note type="comment" place="bottom"><p> Hier und
+                                in der folgenden Zeile dreieckiger Ausriss im rechten
+                            Blattrand.</p></note>] at Vienna. We have here just now a Dr.
+                            <persName>Helfer</persName><note type="comment" place="bottom"><p>
+                                Johann Wilhelm <persName>Helfer</persName> (1810–1840) war ein aus
+                                Prag stammender Forschungsreisender und Mediziner, der sich unter
+                                anderem 1836 an der von dem nachmaligen Admiral
+                                    <persName>Chesney</persName> geführten Euphrat-Expedition
+                                beteiligte und dann im Auftrag der East India Company die Halbinsel
+                                Malakka erforschte. Sein früher Tod auf den Andamanen durch einen
+                                vergifteten Pfeil hinderte ihn an der Veröffentlichung seiner
+                                Forschungsergebnisse. Doch hat seine Begleiterin und Gattin Pauline,
+                                geb. Baroness <persName>Desgranges</persName>, nachmals Gräfin
+                                    <persName>Nostitz</persName> (die mit kurz geschnittenem Haar
+                                und Turban mit Dolch und Pistolen im Gürtel reiste), seine Reisen
+                                geschildert; sein wissenschaftlicher Nachlass ging an die k.k.
+                                Geographische Gesellschaft, die auch seine vorhandenen Schriften
+                                druckte; (vgl. dazu die ausführliche Darstellung bei <hi rend="italic">Wurzbach</hi>, auch <hi rend="italic">ÖBL</hi> und
+                                    <hi rend="italic">Wikipedia</hi>).</p></note> from your country
+                        who was <unclear>one</unclear> <supplied>of</supplied> the lucky remnant<supplied>s</supplied> of the unfortunate Euphrates steam
+                        expedition. I will write to Mess<hi rend="superscript">rs</hi>
+                        <persName>Allen</persName> &amp; Co to take the cheapest mode of
+                        transmission for the vol[umes]s sent (? through the Ambassador?) and
+                            <salute>meantime with much respect Believe me to remain happy at my new
+                            character of Prophet your very sincerely</salute></p><closer><signed><persName>Prinsep</persName>
+                        <lb/>Sec[retary] A[siatic] S[ociety]</signed></closer></div></body></text></TEI>

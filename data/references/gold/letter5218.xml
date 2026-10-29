@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_5218"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><p><persName>Hammer</persName>o suo</p><p>Latifundiorum <persName>Purgstall</persName>ianorum</p><p>Domino beatissimo</p><p><graphic url="media/image185.png"/></p><p><persName>Boettiger</persName>us</p><p>Tradita Tibi est schedula mea cum veniculis. Copiosixxx ad Te datum cum
+                        literar. Sed obstrepunt interpellatores??? Importuni. Undique hic confluunt
+                        peregrinatores.</p><p>Venit mihi in mente, <persName>Purgstall</persName>ium olim in
+                        peregrinationib[us] suis quam diaria Tu pulicasti in praeclaro epicedio a Te
+                        post obitum eius edito, forsitan[?] comparam soli sigilla nonnulla???
+                        acka???, icurculas, geruiram antiquitat[e]m??? iedolontxxxx etnobili???,
+                        quam appellant, aemgine obductos. Harum complures iam pluteor meos exornant,
+                        ex Italia et Germania mihi allatae. His impense delector. Itaque precibus
+                        enixis a Te contendo, si quid forte harum elegantiarum hereditate Tibi
+                        contigent, noli me defundare illarum conspiciendam, eosculandarum voluptateo
+                        eximia. Mitto.</p><p>Guilemus <persName>Humbold</persName>us marasma, quxxx Vxxx <graphic url="media/image186.png"/> olim illi propinaverat, xxxdem contebuit.
+                        Post /Portintor??? Erudito, studia indefinnum, grammaticus sagacissimu[s].
+                            <persName>Gorman</persName> literario valde lugebit. Scripsi ronrxxxxx
+                        für die al[l]gemeine Zeitung. </p><p>Nescio, an Tibi cum <persName>Mosel</persName>io. Bibliothecae Palatinae
+                        custodi philharmonico, aliquem interxxx at consuetudo. Dic, Iephtas eius
+                        nudius terti /fortixxx in odeo nostro vastissimo in auditm plus??? quam 2000
+                        corxxxx, ingenti cum applausu decantatam esse.</p><p>Communicaxxx cum <persName>Flugel</persName>io noster laetissimum de
+                        haereditate, qua mactatus es, nuntixxx. Adices iam ltxxx aqb uxore eius
+                        lepidissimi[a], quae me patrio instar colit, ad me scriptass, cum illi
+                        scribendi non esset otium.</p><p><persName>Collored</persName>us, qui Te salutat verbis humanissim[is],
+                        gratulatxxx Tibi ex animo.</p><p>Si quis der statua <persName>Francesco</persName> I. erigenda resci
+                        /vescisois, nuntia. Scripxxx de hoc monumento
+                            <persName>Metternich</persName>ia, a person[a] ??? mea hoc alienum non
+                        esse existima. Adscripto ??? eium/cum sum Academicorum consortio
+                        /consortius ???</p><p>Tu vero, qua fortunatissm<gap></gap> ia<supplied>m</supplied> depraedicat populus, fruxxx Zephyris in
+                        arce Tua Striensi, et <unclear>recordare</unclear> amici, in cubiculo suo delitexxxx,
+                        sed??? Te medullitus amantixxxx</p><closer><dateline>D.D., Dresdae a.d. XIV April MDCCCXXXV</dateline></closer></div></body></text></TEI>

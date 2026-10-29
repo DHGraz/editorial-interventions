@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_478"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="address"><address><addrLine>A Monsieur</addrLine><addrLine>Monsieur <persName>Hammer</persName></addrLine><addrLine>á Constantinople</addrLine></address></div><div type="letter" subtype="original"><opener><dateline>Coldstream Regiment of Guards<lb/>London 8<hi rend="superscript">th</hi> July 1804</dateline></opener><p><salute>Enclosed my Dear <persName>Hammer</persName></salute> you will find a
+                        letter from my sister<note type="comment" place="bottom"><p> Von welchen der
+                                beiden Schwestern dieser Brief stammt ist nicht klar – vermutlich
+                                aber von <persName>Elisa</persName>. Im SAH befindet sich nur ein
+                                Brief <persName>Elisa</persName>s aus 1802 und kein Brief von
+                                    <persName>Maria</persName>. </p></note> which she has entrusted
+                        to my care for quick and safe conveyance. Your letter from Constantinople I
+                        have to acknowledge, and thank you for; may I<note type="comment" place="bottom"><p> Nachträglich über der Zeile eingefügt. </p></note>
+                        hope for their Continuance, believe me I shall not be backward in
+                            answering<note type="comment" place="bottom"><p> Die letzten drei
+                                Buchstaben wurden nachträglich unter der Zeile eingefügt.</p></note>
+                        letter for letter, it is a correspondence so much in my favour, and so very
+                        advantage[e]ous to me, that from the <hi rend="underline">pure motives</hi>
+                        of gain exclusive of affections I should be anxious to continue it –
+                        Respecting the portrait<note type="comment" place="bottom"><p> Hier bezieht
+                                sich <persName>Cooke </persName>auf ein Bild seiner Schwestern
+                                    <persName>Elisa</persName>, welches sich HP erbeten hat; vgl.
+                                dazu <persName>Cooke</persName> an HP ddo 1802 IX 28 und 1804 II 10.
+                            </p></note> I will be frank and friendly on the subject – Do you think
+                            <hi rend="underline">yourself</hi> that I should act judiciously in
+                        sending it to you? You may be confident that I never could procure it for
+                        you with her consent: What pleasure could you then feel in the obtaining by
+                        stealth what otherwise could not be obtained? To procure I must ask for it
+                        as if for myself, and she would be much surprised at so sudden a turn of
+                        affection, and <hi rend="underline">entre nous</hi>, would instantly suspect
+                        its destination: therefore all things considered I am sure you see the great
+                        difficulty, the little chance of success, and <hi rend="underline">I may
+                            say</hi> the impropriety in my attempting it – I will own to you, that
+                        if she chose to send it to you, I would be the <hi rend="underline">go
+                            between</hi>, but until that happens I am sure you will see the
+                        impossibility of my attempting it.</p><p>I have at this instant the picture of a very pretty French Girl, if you
+                        choose her for a substitute let me know and I will forward her by the next
+                        Post. Thank you for your good will concerning the <hi rend="underline">Circassian lady</hi><note type="comment" place="bottom"><p> Vgl. dazu
+                                    <persName>Cooke</persName> Henry an HP ddo 1804 II
+                            10.</p></note>,<hi rend="underline"> I fear this climate would not agree
+                            with her</hi>, or my finances.</p><p>As I believe you are happy to hear any news concerning my family, I shall
+                        inform you that my Mother Gen[eral]
+                            <persName>S</persName>[<persName>mith</persName>] and my sister
+                            <persName>Elisa </persName>are gone to Walmer; my brother the
+                            Colonel<note type="comment" place="bottom"><p> George
+                                    <persName>Cooke</persName>; vgl. dazu <persName>Cooke</persName>
+                                George an HP ddo 1802 V 4.</p></note>is belonging to the Staff of
+                            <persName>Prince William of Glo[u]cester</persName> at Liverpool, and I
+                        am doing duty with the Guards in London and belonging to the Family of the
+                            <persName>Duke of Cambridge</persName><note type="comment" place="bottom"><p> HRH Prince Adolphus Frederick, 1. <persName>Duke of
+                                    Cambridge</persName> (24. Februar 1774–8. Juli 1850) war als
+                                Sohn des Königs <persName>Georg III.</persName> ein Prinz von
+                                Großbritannien und Irland sowie Hannover und ein britischer
+                                Feldmarschall. Er wurde nach dem Bruder der Königin auf den Namen
+                                Adolph Friedrich getauft. Er trat mit 16 Jahren in die britische
+                                Armee ein. Er studierte an der Universität Göttingen. 1801 ging er
+                                nach Berlin, um die dort beschlossene Besetzung Kurhannovers zu
+                                verhindern, was ihm jedoch nicht gelang. Es gab danach einen
+                                weiteren erfolglosen Plan, ihn an die Spitze der bewaffneten
+                                Bevölkerung von Hannover zu stellen. Er konnte der Kapitulation nur
+                                entgehen, indem er die Befehlsgewalt dem General <persName>Wallmoden
+                                </persName>überließ. Er wurde 1803 zum Oberbefehlshaber der neu
+                                gegründeten und in England stationierten King’s German Legion
+                                ernannt, die ab 1816 teilweise in der Hannoverschen Armee aufging.
+                                Am 27. November 1801 hatte ihm sein Vater in der Peerage of the
+                                United Kingdom die erblichen Adelstitel <persName>Duke of
+                                    Cambridge</persName>, <persName>Earl of Tipperary</persName> und
+                                Baron <persName>Culloden </persName>verliehen.</p></note>, whom
+                        perhaps you may have seen either in Berlin or Hambro’<note type="comment" place="bottom"><p> Lesung nicht gesichert. Auf welchen Ort sich
+                                    <persName>Cooke</persName> bezieht ist unklar. Zu lesen wäre
+                                eventuell „Hambr[ough]“. </p></note>.</p><p>Sir Sydney <persName>Smith </persName>is come to London to reestablish a
+                        constitution very much out of repair, from great exertion of which you were
+                        an eye witness, and the changes of climate from Burning Sun, to the cold
+                        foggy air of a Dutch Coast. He is gaining health and strength daily and I
+                        make no doubt will perfectly be recovered<note type="comment" place="bottom"><p> A: recover’d. </p></note> if allowed<note type="comment" place="bottom"><p> A: allow’d.</p></note> sufficient time to remain
+                        absent from his Station – Of course you are more au fait relative to Spencer
+                            <persName>Smith</persName><note type="comment" place="bottom"><p> Hier
+                                bezieht sich <persName>Cooke </persName>wohl auf Spencer
+                                    <persName>Smith </persName>Aufenthalt als außerordentlicher
+                                Gesandter in Württemberg und dessen Beteiligung am Komplott zur
+                                Unterstützung der französischen Konterrevolutionäre gemeinsam mit
+                                Francis <persName>Drake;</persName> vgl. dazu die auführliche
+                                Abhandlung in: Claus Oberhauser, <hi rend="italic">Diplomatie aus
+                                    dem Untergrund. Die merkwürdige Karriere des Alexander (Maurus)
+                                    Horn(e) (1762 – 1820), Mit Beiträgen von Michael Span und Eric
+                                    Marshall White</hi> (<ref target="https://library.oapen.org/bitstream/handle/20.500.12657/51567/1/PUB_812_Oberhauser_Diplomatie_aus_dem_Untergrund.pdf">https://library.oapen.org/bitstream/handle/20.500.12657/51567/1/PUB_812_Oberhauser_Diplomatie_aus_dem_Untergrund.pdf</ref>.
+                            </p></note> situation than we are here in England. It is much very much
+                        regretted that the conspiracy, was so ill planed<note type="comment" place="bottom"><p> A: plan’d. </p></note> and entrusted to such awkward
+                        performers. Mr. <persName>Drake</persName><note type="comment" place="bottom"><p> Francis <persName>Drake</persName> (1764–1821), von
+                                Yardbury und Wells, war ein britischer Diplomat, der während der
+                                    <persName>Napoleon</persName>ischen Kriege in Genua und München
+                                tätig war. 1799 wurde er zum außerordentlichen Gesandten des
+                                Kurfürsten von der Pfalz und zum Minister auf dem Landtag von
+                                Regensburg ernannt. Er unterhielt eine Korrespondenz mit
+                                französischen Informanten und geriet 1804 in eine politische
+                                Verlegenheit, als einige Briefe, die die Pläne von Charles
+                                    <persName>Pichegru</persName> und Georges
+                                    <persName>Cadoudal</persName> für einen Aufstand auf der linken
+                                Rheinseite enthüllten, von der französischen Regierung abgefangen
+                                und an die Außenminister in Paris weitergeleitet wurden; (<hi rend="italic">Wikipedia, englisch</hi>). </p></note> is arrived
+                        safe in England to his no small joy, and poor <persName>Spencer</persName>
+                        driven from Stut[t]gard is either at Prague of Vienna where he awaits
+                        decisive instructions from this Country: It appears that the new Emperor
+                        will never permit them to represent this Country at any foreign Court that
+                        he has the [<note type="comment" place="bottom"><p><graphic url="media/image73.png"/></p></note>]of giving Law to.[sic] <hi rend="underline">Berlin</hi>. I look upon as the head Quarter of the
+                        French, I am quite convinced that a French Army in Hannover with a desire of
+                        visiting all Countries, will never loose so fine an opportunity as the
+                        present of visiting the Capital of Prussia. I am very sorry to hear that
+                        your journey to this Country, should subject you to such unfair suspicions;
+                        it merely shows the hatred with all Europe honor England with – It is in
+                        some me[…]s[…]<note type="comment" place="bottom"><p> Beschädigung am
+                                rechten Bogenrand durch einen Ausriss über 2 Zeilen. In der ersten
+                                der beiden Zeilen wäre das Wort „measures“ aus dem Kontext zu
+                                erschliessen.</p></note> (I think) lucky that you did not <hi rend="underline">take a degree</hi> at Cam[bridge<note type="comment" place="bottom"><p> Beschädigung am rechten Bogenrand doch aus dem
+                                Kontext und HPs <hi rend="italic">Erinnerungen</hi> kann das Wort
+                                „Cambrige“ erschlossen werden. Bezüglich der Universität irrt
+                                    <persName>Cooke</persName>. In seinen <hi rend="italic">Erinnerungen</hi> erwähnt HP, dass man ihm in Oxford ein
+                                Doktorat angeboten habe, welches er wegen der hohen Gebühren nicht
+                                annehmen konnte; s. dazu: Walter Höflechner u.a.<hi rend="italic">;
+                                    Joseph von Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1, S. 535
+                                    </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note>] which
+                        was about offered to you, it would not have been no advantage to you abroad,
+                        and might on the Contrary have materially increased the suspicions you seem
+                        to think they now entertain of you – I have many apologies to make to you
+                        for a mistake I made at Brunsvic[k], which I have not and do not intend to
+                        inform my sister of. It is merely that I received a letter from her
+                        enclosing a letter for you, after having read my own letter by some
+                        thoughtlessness and mistake I threw them both to the fire, I mention this
+                        merely to exculpate her from the charge of forgetfulness. Alas she sent you
+                        the purse which occupies her mornings? I do not feel that her letter
+                        encloses it, most likely it is an indiscretion my letting you know that she
+                        is employed<note type="comment" place="bottom"><p> A: employ’d.</p></note>
+                        about it however you must be as much surprised when she does send it as if
+                        you are totally ignorant of her intentions. The pebbles were really
+                        beautiful, worthy of your choice and taste. Whenever you are disengaged for
+                        an hour sacrifice it to me by writing, if there are any commissions that I
+                        could execute for you in London, I beg you will mention them to me; As to
+                        the Austrian Army my plans cannot at present be realized- Had not the war
+                        with France occured<note type="comment" place="bottom"><p> A:
+                            occur’d.</p></note> I should undoubtedly have gone to them, but it would
+                        be impracticable at present, exclusive of which I have more prospect of
+                        seeing service with my own Army, than the Austrians, as they do not appear
+                        inclined or able to attack the French – <salute>Adieu and believe me yours
+                            affectionately</salute></p><closer><signed>Henry F. <persName>Cooke</persName></signed></closer><postscript>
+                        <p>my<note type="comment" place="bottom"><p> Diese Worte wurden links der
+                                    letzten beiden Zeilen eingefügt.</p></note> family desires their
+                                <hi rend="underline">kind remembrance</hi></p>
+                    </postscript></div></body></text></TEI>

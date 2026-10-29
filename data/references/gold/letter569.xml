@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_569"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Dresden d[en] 10 Juny 1805</dateline><salute>Mein geliebter Freund!</salute></opener><p>Ich eile, Ihnen auf Ihren lieben Brief vom 10ten Mai sogleich zu antworten
+                        und übergebe diese Antwort dem würdigen Baron
+                            <persName>von </persName><persName>Buol</persName><note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> schreibt nun: Puol.</p></note> zur
+                        schleunigen Absendung<note type="comment" place="bottom"><p> Im Wege der
+                                diplomatischen Post. </p></note>. Wie können Sie doch wegen des
+                        Portos von Ihrem letzten Packet so ängstlich sein! Allerdings berechnet mir
+                            <persName>Härtel</persName><note type="comment" place="bottom"><p> Der
+                                Leipziger Verleger und Buchhändler.</p></note> 4 Rtl und einige
+                        Groschen Porto, und wofür wären denn die köstlichen Rezensionen für die
+                        hallische Allg[emeine] Lit[eratur-]Z[eitung] beigeschlagen gewesen? Diese
+                        hat also das Porto tragen müssen, und es auch unverweigerlich geleistet. In
+                        Leipzig habe ich dann auch mündlich mit <persName>Härtel</persName> alles
+                        abgetan, was zu berichtigen war. Er macht keine Forderungen an Sie und
+                        verkauft übrigens Ihre enzyklopädische Übersicht als sein Verlag. Ewig
+                        Schade nur, daß über dieser Verhandlung ein ganzes Jahr lang das
+                        interessante Werk noch immer im Verschluß schmachtete. Nun wird es in alle
+                        32 Winde ausfliegen und bald bekannt und nicht bloß mit
+                            <persName>Beigel</persName>ischer Waage gewogen werden<note type="comment" place="bottom"><p> Im Sinne der kritischen Rezensierung
+                                durch <persName>Beigel</persName> in der <hi rend="italic">Allgemeinen Literatur-Zeitung 1804</hi>.</p></note>. An
+                            <persName>Härtel</persName> habe ich auch 29 Taler 6 Groschen, als so
+                            [...]<note type="comment" place="bottom"><p> Beschädigung am rechten
+                                Rand, die drei Zeilen tangiert.</p></note> Sie laut beigehender
+                        Rechnung Honorar an die Allg[emeine] Lit[eratur-]Z[eitung] ausge[...,]
+                        welches er Ihnen zu gut geschrieben hat. Bei der großen Zerstreuung, in
+                        welcher ich zuletzt in Weimar lebte, war es mir gänzlich entfallen, daß
+                        12 Taler davon schon an mich gezahlt worden waren. Diese habe ich nun dazu
+                        gelegt. Hoffentlich haben Sie auch schon, wenn Sie dies lesen,
+                            <persName>Härtel</persName>s Brief und mein letztes Paket mit den Brief
+                        erhalten. In 14 Tagen geht von hier eine gute und sichere Gelegenheit nach
+                        Konstantinopel. Der hiesige schwedische Chargé d'affairs v.
+                            <persName>Palin</persName> tritt seine Sendung dorthin an, ein sehr
+                        redlicher und dabei gelehrter Mann, nur mit der Hieroglyphen-Entzifferung
+                        etwas stark verwickelt. Schyphi<note type="comment" place="bottom"><p>
+                                Griech. Scyphos = Kelch, Schale. Was <persName>Böttiger</persName>
+                                mit „schyphi“ verbindet, ist unklar.</p></note> [sic] sunt, qui hanc
+                        lapidem volvunt. Mit ihm, der mein Freund ist, und eine Korrespondenz mit
+                        mir anknüpfen wird, schicke ich Ihnen vielleicht wieder ein kleines Paket.
+                        Sein Schwager, der junge <persName>d‘Ohsson</persName><note type="comment" place="bottom"><p> Der Sohn des bereits erwähnten Ignaz Mouradgea
+                                    <persName>d’Ohsson</persName>.</p></note>, ist jetzt auch hier,
+                        und geht als Charg[é] d'af[faire] nach Spanien.</p><p>Mit <persName>Seetzen</persName>s letztem Brief<note type="comment" place="bottom"><p>
+                                <persName>Seetzen</persName>, der sich damals wohl in Damaskus
+                                befand, stand brieflich in Kontakt mit Europa; HP hat mehrere seiner
+                                Briefe in den <hi rend="italic">„Fundgruben des Orients“</hi>
+                                abgedruckt – sie sind in die vorliegende Briefreihe
+                            aufgenommen.</p></note> haben Sie nicht bloß mir eine große Freude
+                        gemacht, sondern auch dem ehrlichen Mann selbst wahrscheinlich einen
+                        größeren Dienst erwiesen, als Sie glauben. Wir erwarten alle nächstens den
+                            <persName>Herzog</persName> <persName>von</persName> <persName>Gotha</persName>
+                        zu Besuch hier, indem er sehen will, was der berühmte hiesige Maler
+                            <persName>Grassi</persName><note type="comment" place="bottom"><p> Josef
+                                Mathias <persName>Grassi</persName> (1757–1838), ein
+                                österreichischer Historien- und Porträtmaler, der nach seiner
+                                Ausbildung in Wien nach Warschau und von dort 1799 auf eine
+                                Professur nach Dresden ging, eher er für die Jahre 1816–1821 in
+                                amtlicher Funktion nach Rom ging. Er wurde insbesondere für seine
+                                empfindsamen Frauenbildnisse geschätzt; von ihm stammt eines der
+                                Bilder der König <persName>Luise von Preußen</persName>, die
+                                    <persName>Napoleon</persName> die Stirn geboten
+                            hatte.</p></note>, dem er eine Pension von 800 T. gibt, bloß damit er
+                        seinen barocken Phantasmen Körper und Umriß gebe, für ihn gearbeitet hat.
+                        Bei dieser Gelegenheit werde ich den Herzog täglich sprechen und kann nun,
+                        durch jenen Brief in allem unterrichtet, zur rechten S[tunde] ein wirksames
+                        Wort für ihn sprechen<note type="comment" place="bottom"><p> Der
+                                    <persName>Herzog</persName> <persName>von</persName> <persName>Gotha</persName>
+                                hatte <persName>Seetzen</persName> ermächtigt, jährlich um einen
+                                Betrag von 800 Taler Orientalica für ihn zu erwerben – offenbar war
+                                eine Rate ausständig.</p></note>. Auch die letzten gehaltvollen
+                        Gedichte werden im Merkur Aufsehn erregen<note type="comment" place="bottom"><p> Ulrich Jasper Seetzen, Gedichte aus dem Orient im Orient
+                                gedichtet, in: Neuer Teutscher Merkur 2 (1805).</p></note>. Der Herr
+                            <persName>v.</persName> <persName>Zach</persName> bedient jetzt nur die
+                        verwitwete Herzogin, die auf Reisen ist und immer Stafetten nach Gotha
+                        schreibt, als ob sie sterben wolle, damit sie neue Geldsummen erpresse. Die
+                        Sternwarte in Gotha ist ganz verwaiset. Der Herzog hat jüngst selbst eine
+                        Art von Roman, Cyllenion oder ein Jahr in Arcadien<note type="comment" place="bottom"><p> Herzog August Emil
+                                    <persName>von Sachsen-Gotha-Altenburg</persName> (1772–1822),
+                                der seit 1804 regierte, war der Verfasser dieser Sammlung erotischer
+                                Lyrik, die auch als Roman bezeichnet wird; (<hi rend="italic">www.ub.uni-frankfurt.de 20100307</hi>).</p></note>, drucken
+                        lassen. Aber täglich spielt er mit seinen Günstlingen und <graphic url="media/image78.jpeg"/><note type="comment" place="bottom"><p>
+                                Objektiv übersetzt: Lieblinge (im Kindesalter). </p></note>
+                        dergleichen in der Wirklichkeit.</p><p>In Leipzig zog unter anderem die von Oberkommissar
+                            <persName>de Dou[rra?]</persName> in Straßburg in Kupfer nachgestochene
+                        und sehr treu kopierte Payrusrolle, die die Franzosen in den Gräbern zu
+                        Theben unter <persName>Desaix</persName><note type="comment" place="bottom"><p> Louis Charles Antoine <persName>Desaix</persName>, Chevalier de
+                                Veygoux (1768–1800) war einer der Generäle, die
+                                    <persName>Napoleon</persName> nach Ägypten begleiteten; dort
+                                beauftragte ihn <persName>Kleber</persName>, die Konvention von
+                                El-Arisch den Engländern zu überbringen, dabei wurde er aber
+                                unterwegs von einem britischen Schiff aufgebracht und Admiral Lord
+                                    <persName>Keith</persName> gefangengesetzt. Nach seiner
+                                Freilassung ging er nach Italien, wo er in der Schlacht von Marengo
+                                fiel.</p></note> fanden und die durch Diebstahl in
+                            <persName>Cadet</persName>s Hände kam, meine ganze Aufmerksamkeit auf
+                            sich<note type="comment" place="bottom"><p> Offenbar handelte es sich um
+                                einen auf der Leipziger Buchmesse vorgestellten
+                            Faksimiledruck.</p></note>. Es ist nicht dieselbe, die davon gegeben
+                        hat[?]. Ich möchte davon gern eine Probe in der Allg[emeinen]
+                        Lit[eratur-]Z[eitung] geben und bei der Gelegenheit auch etwas von den
+                        Hieroglyphenschriften im Allgemeinen sprechen. Sie würden mich daher
+                        ungemein verbinden, wenn Sie mir recht bald Ihre Meinung über diese höchst
+                        verwickelte Malerei mitteilen und insbesondere mir sagten, was denn aus dem
+                        höchstmerkwürdigen Fund geworden ist, den sie<note type="comment" place="bottom"><p> Es ist unklar, ob es „Sie“ oder „sie“ heißen
+                                soll.</p></note> in Rosette machten<note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> bezieht sich zweifellos auf den Stein
+                                von Rosette. </p></note> und den der engl[ische] Buchhändler
+                            <persName>Nicol</persName><note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> schreibt irrig: Nichols.</p></note> in
+                        London unter W[’s] Aufsicht herausgeben wollte<note type="comment" place="bottom"><p> Es handelt sich um eine Veröffentlichung der Schrift
+                                eines Arabers über die Hieroglyphen durch HP.</p></note>. Machen Sie
+                        mir doch von der Beschaffenheit jenes [...]fachen Alphabets (oder war es
+                        nicht noch vielfacher?) eine deutliche Vorstellung [und] sagen mir
+                        aufrichtig, ob daraus Hoffnung zur Entzifferung der Hieroglyphenschrift zu
+                        schöpfen ist. <persName>Zoega</persName>, wie ich höre, verzweifelt ganz an
+                        völligen Aufschlüssen. Mir scheint die auch von <persName>Langlès</persName>
+                        in seinen trefflichen Notizen zu <persName>Norden</persName>s Voyage
+                            L.III.p.294<note type="comment" place="bottom"><p> Damit ist wohl die
+                                von <persName>Langlès</persName> veranstaltete Neuausgabe von
+                                Frederik Ludvig Norden, <hi rend="italic">Voyage d’Egypte et de
+                                    Nubie par Mr. F. L. Norden. Ouvrage enriche des cartes et des
+                                    figures dessinées sur les lieux par l’auteur meme, Kopenhagen
+                                    1755</hi>, gemeint: <hi rend="italic">Voyage d’Egypte et de
+                                    Nubie par Mr. F. L. Norden. Nouvelle edition soigneusement
+                                    confée sur l’originale, avec des notes et des additions tirées
+                                    des auteurs anciens et modernes et des geographes arabes par L.
+                                    Langlés, Paris 1795–98</hi>.</p></note> gebilligte Meinung, daß
+                        wir nur wenig alte echte Hieroglyphen, desto mehr aber Hierogrammen, d.h.
+                        eine Art von Kursivschriften und ausgeartete Hieroglyphen zur Erklärung
+                        jener von den Priestern gebraucht, besitzen, auch durch die Figuren auf
+                        jener Straßburger Papyrusrolle vollkommen bestätigt zu werden. Denn erst
+                        kommen 3 bis 4 Reihen große kolorierte Bildwerke, dann oft einige Seiten
+                        Kursivhieroglyphen, bloß schw<unclear>arz</unclear> und fast wie die Keilschrift gestaltet.
+                        Könnten Sie, teuerster Freund, so viel Zeit gewinnen, mir darüber einen
+                        eigenen Aufsatz, aus Ihrer lebendigen Ansicht der Dinge<note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> vermutete, dass HP in Ägypten
+                                Hieroglyphen und sowohl dort als auch wohl in London den Stein von
+                                Rosette gesehen habe. </p></note> niederschreiben<note type="comment" place="bottom"><p> In diesem Zusammenhang ist daran zu
+                                erinnern, dass nicht nur die Entzifferungsversuche hinsichtlich der
+                                Hieroglyphen Aufsehen erregten, sondern 1802 bereits
+                                    <persName>Grotefend</persName> die ersten gelungenen
+                                Entzifferungsversuche der Keilschrift als der zweiten großen Schrift
+                                des vorklassischen Altertums vorgelegt hatte, was zwar rasch nahezu
+                                in Vergessenheit geraten ist, <persName>Böttiger</persName> aber
+                                wohl bekannt gewesen sein dürfte.</p></note>. <graphic url="media/image79.jpeg"/><note type="comment" place="bottom"><p> Großer
+                                Dank (sei) dir.</p></note></p><p>In unseren Gegenden glaubt man allgemein, daß der doomsday<note type="comment" place="bottom"><p> Gerichtstag, Jüngster Tag.</p></note>
+                        der hohen Pforte vor der Tür sei<note type="comment" place="bottom"><p> Dies
+                                war auch HPs Ansicht, die allerdings von
+                                    <persName>Metternich</persName> nicht geteilt wurde.</p></note>
+                        und Österreich, Rußland und Frankreich schon gewissermaßen die Teilung
+                        ausgearbeitet hätten. Es läßt sich sehr viel für diese Mutmaßung sagen. Die
+                        Ges[undheit] des Königs von England ist äußerst wankend<note type="comment" place="bottom"><p>
+                                <persName>Georg III.</persName> (1738–1820), der 1760–1820 regierte,
+                                litt ab 1788 immer häufiger unter Geistesstörungen und fiel 1810
+                                völlig in geistige Umnachtung, die ab 1811 die Regentschaft des
+                                Prince of Wales notwendig machte.</p></note>. Wie viel kann sich in
+                        wenigen Monaten ändern. <salute>Erfreuen Sie mich bald wieder mit einem
+                            Lebenszeichen. Unwandelbar treu Ihr</salute></p><closer><signed><persName>Böttiger</persName></signed></closer></div></body></text></TEI>

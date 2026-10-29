@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3192"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Dresden d[en] 15 Sept[ember] XXV.</dateline><salute>Mein edler Freund!</salute></opener><p>Willkommen wieder in der herrlichen Kaiserstadt, bei Ihren Laren, die
+                        hoffentlich der Dea Ruma<note type="comment" place="bottom"><p> Eine
+                                etruskisch-römische Göttin, in deren Ressort das Stillen der Kinder
+                                fiel, weshalb ihr Trankopfer mit Milch dargebracht wurden. Ruma wird
+                                als Urform von roma interpretiert; (<ref target="https://www.romanoimpero.com/2020/08/dei-romani-dellinfanzia.html">https://www.romanoimpero.com/2020/08/dei-romani-dellinfanzia.html</ref>
+                                20230607).</p></note> einen frischen, lieblichen Säugling in den
+                        Schoß legten. Sie müßten meiner Rechnung nach längst zurück sein! Ich
+                        erkenne und küsse[sic] es als einen besonderen Beweis Ihrer Freundschaft,
+                        daß sie mir von Mailand und Rom aus schrieben. Wie wenig Augenblicke kann
+                        man da selbst den nächsten Verwandten widmen!</p><p>Ich bin zwei Monate abwesend, in Marienbad, gewesen, wo die Natur
+                        unbeschreibliche Schätze des Heils niedergelegt und ein wackerer Prälat der
+                        Prämonstratenser Abtei Tepl<note type="comment" place="bottom"><p> Die
+                                Anfänge des Klosters Tepl liegen in der Zeit um 1200. Zu Beginn des
+                                19. Jh.s erschloss Abt Karl Prokop <persName>Reitenberger</persName>
+                                (1779–1860) in Zusammenarbeit mit dem Klosterarzt Johann Josef
+                                    <persName>Nehr</persName> die im unzugänglichen Sumpfgebiet
+                                liegenden, aber schon lange bekannten Mineralquellen und schuf so
+                                den Kurort Marienbad.</p></note>, der mit einer Zauberrute eine neue
+                        Schöpfung hervorgerufen hat. Nicht ohne Erfolg habe ich den kräftigen
+                        Ferdinands-Brunnen mit Marienbädern und Schlammbädern verbunden. Es war
+                        Pflicht, mich dem entschiedensten Müßiggang zu überlassen Nur mit einem
+                        Mann, dem genialen Dichter <persName>Raupach</persName><note type="comment" place="bottom"><p> Ernst Benjamin Salomo <persName>Raupach</persName>
+                                (1784–1852) war ein deutscher Schriftsteller.</p></note> hatte
+                        ichVerkehr dort. Den Fürsten <persName>Metternich</persName> habe ich oft
+                        aufs lebhafteste verteidigt, weil man ihm Begierdlichkeit nach dem seinem
+                        Familiensitz Königswart benachbarten Marienbad zuschreibt. Geschenkt kann er
+                        es nicht erhalten und seine Finanzen gestatten schwerlich den Ankauf eines
+                        Platzes, der schon jetzt gegen 35.000 fl. Cour[ant]<note type="comment" place="bottom"><p> Der Gulden courant war eine Rechnungsmünze mit
+                                unterschiedlichem Fuß.</p></note> reine Einkünfte trägt. Hatte ich
+                        Recht?</p><p>Und sollt ich etwas vom einzigen Besitztum, das ich mir etwa errungen habe,
+                        von meinen Büchern veräußern müssen, lebe ich, so gehe ich übers Jahr wieder
+                        nach Marienbad.</p><p>Daß Sie meinen Brief an den wackeren <persName>Cattaneo</persName> in Mailand
+                        abgaben, hat mir eine von ihm mir zugekommene Antwort bewiesen. Unser
+                            <persName>Wilken</persName> – ich nenne ihn unser, da er hier gewesen,
+                        auch schon in Wien diesen Sommer gewesen ist, wo er zu seinem Leidwesen Sie
+                        nicht fand – wird [im] Auftrag der preußische Regierung noch diesen Winter
+                        nach Mailand gehen. Er lebt jetzt mit seiner Familie auf Urlaub hier und
+                        arbeitet am 4ten Band seiner Kreuzzüge. Glauben Sie, daß er ohne
+                        ausdrückliche Vermittlung der preußischen Gesandtschaft in Wien in Mailand
+                        und Venedig die Bibliothek geöffnet und für seine Vergleichungen
+                        Willfährigkeit finden wird? Wer ist jetzt wirklich <graphic url="media/image360.png"/> der Ambrosiana<note type="comment" place="bottom"><p> Die Biblioteca Ambrosiana in Mailand, eine
+                                insbesondere für das Mittelalter höchst bedeutende
+                            Bibliothek.</p></note> und der St. Marcus Bibliothek<note type="comment" place="bottom"><p> Die berühmte Biblioteca Marciana, an deren Anfängen
+                                u.a. <persName>Petrarca</persName> und
+                                    <persName>Bessarion</persName> teilhatten und die einen
+                                hervorragenden Bestand an griechischen, lateinischen und
+                                orientalischen Codices aufweist.</p></note>? Sind es humane Männer?
+                        Ich nenne[?] meine Bitte mit <persName>Wilken</persName>s Anliegen. Raten
+                        Sie. Winke von Ihnen sind kostbar.</p><p>Ich habe <persName>Spohn</persName>s Jünger und Nachfolger in der
+                        Hieroglyphen und hieratischen Schriftentwicklung, Prof.
+                            <persName>Seyffarth</persName>, der Ihnen Aegyptiorum scriptum
+                        zugeschickt hat, aus Ihrem Marienbader Brief einige <persName>San Quintino
+                        </persName>Winke gegeben. Er ist im Begriff, die ihm von unserem König zur
+                        Reise nach Turin bewilligten 40 Th noch in diesem Monat anzuwenden. Die
+                        Vorlesung, die Sie dort hielten, muß ich auf irgend einem Wege zu Gesicht
+                        bekommen. Sahen Sie <persName>Acerbi</persName>? Wird die Biblioteca
+                        italiana ihren Fortgang haben?</p><p>Sie standen also bei <persName>Bartholdy</persName>s Beerdigung<note type="comment" place="bottom"><p> Der preußische Diplomat und
+                                Kunstkenner Jakob Ludwig Salomon <persName>Bartholdy</persName> war
+                                am 27.07.1825 im Rom verstorben und bei der
+                                    <persName>Cestius</persName>-Pyramide begraben worden; er war
+                                ein Onkel des Komponisten <persName>Mendelssohn-Bartholdy</persName>
+                                und mit Österreich insoferne eng verbunden, als er 1809 auf
+                                österreichischer Seite gegen <persName>Napoleon</persName> gekämpft
+                                hatte. Seine bedeutende Kunstsammlung wurde für Berlin angekauft;
+                                    (<hi rend="italic">Wikipedia 20140604</hi>).</p></note> an der
+                        Pyramide des <persName>Cestius</persName><note type="comment" place="bottom"><p> Die Pyramide des <persName>Caius Cestius</persName> in Rom, ein
+                                berühmtes Grabmal an der Ausfallsstraße nach Ostia aus der Zeit
+                                zwischen 18 und 12 vChr; (Wikipedia 20140604).</p></note>? Diesen
+                        etwas eitlen, aber redlichen und mit Kunst- und Wissenschaft es ernst
+                        meinenden Mann hat <persName>Niebuhr</persName> auf seiner Seele, auf dessen
+                        Eingebung er zuletzt manche Kränkung erlitt. Wer muß der Verfasser des
+                        wohlgeschriebenen, von Albano[?] datierten[?] Nekrologs in der
+                        Al[l]g[emeinen] Zeitung<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Allgemeine Zeitung 1825 Nro 230 Beilage Nekrolog
+                                    für Bartholdy „Albano bei Rom den 30.Jul 1825“</hi>,
+                                unterzeichnet „M.“. Vgl. dazu den von Friedrich Karl
+                                    <persName>von Kölle</persName> verfassten und unter dem Kürzel
+                                »M« publizierten Nachruf: <hi rend="italic">Jakob Salomo
+                                    Bartholdy</hi>, in: <hi rend="italic">Neuer Nekrolog der
+                                    Deutschen“</hi>. – <persName>Kölle</persName> (1781–1848) war
+                                ein Diplomat des Königreichs Württemberg und Mitglied der
+                                Schwäbischen Dichterschule der Romantik sowie
+                            Gemäldesammler.</p></note> sein?</p><p>Sie halt[en] also doch selbst <persName>Champollion</persName> für einen
+                        großsprechenden Franzosen. Herzlichen Dank für die Schrift von
+                            <persName>Lanci</persName><note type="comment" place="bottom"><p> Es
+                                handelt sich (trotz der Schreibung „Lonci“) wohl um den Orientalist
+                                Michelangelo <persName>Lanci</persName> (1779–1867), der sich mit
+                                phönizischen, ägyptischen Altertümern befasste, eine Fülle von
+                                Arbeiten publizierte, von denen zwei hier einschlagende Schriften
+                                nachgewiesen werden können: <hi rend="italic">„Osservazioni sul
+                                    bassorilievo fenicoegizio che si conserva in Carpentrasso”, Rom
+                                    1825</hi>, und <hi rend="italic">„Illustrazione di un
+                                    kilanaglifo copiato in Egitto da S. E. signor barone d’Icskull”,
+                                    Rom 1825</hi> (es handelt sich dabei um ein bas-relief, welches
+                                bei Consul <persName>Salt</persName>s Ausgrabungen bei der Sphinx im
+                                Jahr 1823 von Baron <persName>D’Icskull</persName> gezeichnet und
+                                    <persName>Lanci</persName> überlassenen worden war); beide
+                                Abhandlungen auch u. d. gemeinschaftlichen Titel: <hi rend="italic">„Di un Egizio monumento con inscrizione Fenicia e di un Egizio
+                                    kilanaglifo con cifre numeriche“</hi> erschienen. Eine
+                                Besprechung findet sich in der <hi rend="italic">Allgemeinen
+                                    Literaturzeitung 1828, 3 Nr 245</hi>. – Im Typoskript von HPs
+                                    <hi rend="italic">Erinnerungen</hi> finden sich die
+                                mythologischen und philosophischen Werke von
+                                    <persName>Inghirain</persName>, <persName>Goro</persName> und
+                                    <persName>Lanci</persName> in dieser Abfolge besprochen.
+                            </p></note>? Ist der Majo[?] so rachsüchtig?</p><p>Wie vieles wünscht ich von Ihnen zu erfragen, auch über Neapel. Sahen Sie den
+                        Hauptmann <persName>Goro</persName><note type="comment" place="bottom"><p>
+                                Ludwig <persName>Goro von Agyagfalva </persName>(1786–1843),
+                                österreichischer Militär (Zögling der Ingenieur-Akademie und im
+                                Genie-Corps), der sich nach den napoleonischen Kriegen bei seiner
+                                Stationierung in Dalmatien der Archäologe zuwandte. Als er 1821 nach
+                                Neapel kam, verfasste er seine Beschreibung der Ruinen von Pompeji,
+                                die auch von <persName>Goethe</persName> gewürdigt wurde; er
+                                veröffentlichte aber auch etliche Beiträge in <persName><hi rend="italic">Hormayr</hi></persName><hi rend="italic">s
+                                    Archiv </hi>und in den <hi rend="italic">Wiener Jahrbüchern der
+                                    Literatur</hi>, die bourbonisch-herculanische Akademie in Neapel
+                                und die archäologische Gesellschaft in Rom machten ihn zu ihrem
+                                Mitglied; (<hi rend="italic">Wurzbach</hi>, ausführlich auch Martin
+                                Dönike, <hi rend="italic">Altertumskundliches Wissen in Weimar,
+                                    Berlin-Boston 2013, 116ff.</hi>).</p></note> dort, der das
+                        neueste Werk über Pompeji mit guten Nachrichten, aber schlechten
+                            Steindrucken<note type="comment" place="bottom"><p>
+                                <ref target="http://karo2.umk.pl/Karo2/Exec/z2w_f.pl?kl=31611-1401879051&amp;al=x&amp;priority=&amp;uid=&amp;dist=1&amp;lok=all&amp;liczba=10&amp;pubyearh=&amp;pubyearl=&amp;lang=en&amp;bib=BN&amp;detail=5&amp;pp=1&amp;qt=F&amp;pm=b&amp;st1=teWanderungen%20durch%20Pompeii&amp;di=tWanderungen%20durch%20Pompeii" xml:space="preserve">Wanderungen durch Pompeii, </ref>Wien
+                                1825; <persName>Böttiger</persName> hat das Werk
+                            angezeigt.</p></note> herausgab? Ich wurde durch
+                            <persName>Hormayr</persName> und Ga<persName>[…]</persName><note type="comment" place="bottom"><p> Es handelt sich um einen Namen, der
+                                aus vier Buchstaben besteht, von denen der dritte überschrieben ist,
+                                was die Deutung des vierten (e oder l?) unsicher macht.</p></note>
+                        mit ihm bekannt.</p><p>Alles, was Sie sich sonst von mir erbaten und was nachkommen soll, wird von
+                        mir mit Sehnsucht und Dank erwarten und empfangen werden.</p><closer><salute>Schreiben Sie mir nur recht bald, daß Sie [Siegel-Ausschnitt] frisch und
+                        gestärkt zurückkommend alles wohl zu Hause […] dafür soll Ihnen auch durch
+                            <persName>Gerold</persName>s Handlung in diesen Tagen der nun endlich
+                        fertig gebundne 3te Teil meiner Amalthea zukommen. Gruß den Ihrigen! Mit
+                        aller Treue Ihr</salute><signed><persName>Böttiger</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260301_015947",
+  "model_instance": "gpt-5.2-2025-12-11",
+  "model_type": "gpt",
+  "prompt_version": "editorial_interventions",
+  "temperature": 0.3,
+  "processing_time": "00:02:44",
+  "processing_time_seconds": 164.80578017234802,
+  "token_count": 137123,
+  "input_tokens": 129668,
+  "output_tokens": 7455,
+  "thinking_mode": null,
+  "date_processed": "2026-03-01 02:02:32",
+  "estimated_cost_usd": 0.331289
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1343"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>München den 26<hi rend="superscript">ten</hi> Julius 1812</dateline><salute>Hochwohlgeborener Herr Hofrat, Verehrungswürdigster Freund!</salute></opener><p>Statt Ihren schätzbaren Brief vom 10. Junius sogleich mit einem Beitrage zu
+                        den Fundgruben zu beantworten, kann ich Ihnen jetzt nur Einiges Schreiben.
+                        Als ich jenes Schreiben erhielt, hatte ich eben von meiner Regierung einen
+                        Ruf nach München erhalten, um mich an der hiesigen Bibliothek zu meiner
+                        Reise nach Paris vorzubereiten. Die dadurch nötigen Vorbereitungen zu dieser
+                        Versetzung nicht nur meiner Person, sondern auch meiner Bücher und Möbel
+                        würden mich doch nicht abgehalten haben, einen Beitrag für die Fundgruben zu
+                        schicken, wenn ich mir nun nicht für alle meine Arbeiten mehr Stoff und
+                        literarische Fülle aus der Münchner Bibliothek versprochen hätte. Aber ich
+                        bin erst einige Tage hier – Ich hoffe daher [auf] freundschaftliche
+                        Nachsicht und gütige Vergebung, daß ich mein Versprechen noch nicht erfüllt
+                        habe. Sobald ich für nur einigermaßen assimiliert bin und weiß, was man
+                        eigentlich will, werde ich umso gewisser zu jedem Hefte meinen Beitrag
+                        liefern, als ich nun auch den Orientalismus aus reicheren Quellen kennen
+                        lernen werde. Ich habe sie hier noch nicht gesehen, aber man versichert
+                        mich, daß denn doch einiges hier sei. –</p><p>Mein Nürnberger Freund und Arzt Doktor <persName>Osterhausen</persName><note type="comment" place="bottom"><p> Wohl Johann Karl
+                                    <persName>Osterhausen</persName> (1765–1839); (<hi rend="italic">http://bavarikon.de
+                            20140105</hi>).</p></note><persName>,</persName> ein Liebhaber alles
+                        Morgenländischen, wünschte den wahren Preis der Fundgruben zu wissen. Er
+                        will sie kaufen, befürchtet aber durch die Buchhandlungen geprellt zu
+                        werden. Möchten Sie mir davon Nachricht geben? –</p><p>Außer den vier Heften, nämlich dem 2<hi rend="superscript">ten</hi>, 3<hi rend="superscript">ten</hi> 4<hi rend="superscript">ten</hi> des ersten
+                        Bandes und dem 1<hi rend="superscript">ten</hi> des zweiten, die ich durch
+                        Ihre Güte in Wien selbst von Ihnen erhielt, habe ich von den Fundgruben noch
+                        gar nichts bekommen. Ich ließ umsonst in mehreren Buchhandlungen Nürnbergs
+                        nachfragen. Ich habe also auch die schätzbare Beilage nicht, von der Sie mir
+                        schrieben! – Nunmehr muß ich bitten, den kürzeren Weg unter der Adresse
+                        einzuschlagen: Auch in München in der Schäfler-Gasse N<hi rend="superscript">o.</hi> 113 über zwei Stiegen.</p><p>Können Sie <choice><sic>mir</sic><corr>mich</corr></choice> wissen lassen, wer denn in Nürnberg von
+                            <persName>Kupfer</persName> und <persName>Wimmer</persName> Pakete an
+                        mich erhalten haben soll, so will ich Nachfrage halten.</p><p>Der Druck der Etymologicums<note type="comment" place="bottom"><p> Dies
+                                bezieht sich wohl auf <persName>Frank</persName>s <hi rend="italic">„Fragment eines Versuchs über dynamische Spracherzeugung nach
+                                    Vergleichung der Persischen, Indischen und Teutschen Sprachen
+                                    und Mythen“</hi>, welches Werk 1813 bzw. 1815 in Nürnberg
+                                erschienen ist.</p></note> bleibt nun […]sere Zeiten ausgesetzt;
+                        doch kommen, […] langsam, noch von Zeit zu Zeit Bestellungen, so von
+                            <persName>Eichhorn</persName> in Göttingen, von
+                            <persName>Chezy</persName> in Paris etc.</p><closer><salute>Vortrefflichster, innigst verehrter Freund! bleiben Sie gewogen und
+                        freundlich Ihrem </salute><signed>Othmar <persName>Frank</persName></signed></closer><postscript>
+                        <p>N.S. Darf ich wohl in Übersetzungs-Verlegenheiten mich an Ihre
+                            freundschaftliche Güte wenden? – Ich würde vorerst Wien, später Paris
+                            gewählt h[aben].</p>
+                    </postscript></div></body></text></TEI>

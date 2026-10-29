@@ -1,0 +1,84 @@
+# Input-Output Examples
+
+Context: "Wien den 24 Februar [1]813"
+Bracketed Sequences:
+- [1]813
+
+{
+"[1]813": {
+    "type": "Supplement",
+    "tei": "<supplied>1</supplied>813"
+  }
+}
+
+---
+
+Context: "gibt fürs nächste Jahr einen Musenalmanach heraus, zu dem er mich vor ein paar Tagen auf dem Ball der Fr[au] Pichler um Beiträge angegangen, die ich ihm auch versprochen habe. […]"
+Bracketed Sequences:
+- Fr[au]
+- […]
+
+{
+  "Fr[au]": {
+    "type": "Abbreviation",
+    "tei": "<choice><abbr>Fr</abbr><expan>Frau</expan></choice>"
+  },
+  "[…]": {
+    "type": "Omission",
+    "tei": "<gap/>"
+  }
+}
+
+---
+
+Context: "schreibt mir heute darüber: [„]sie hat mir [ein] überraschendes und noch in keinem ähnlichen Falle gefühltes[?] Vergnügen gemacht[“]"
+Bracketed Sequences:
+- [„]sie
+- [ein]
+- gefühltes[?]
+- gemacht[“]
+
+{
+  "[„]sie": {
+    "type": "Supplement",
+    "tei": "<supplied>„</supplied>sie"
+  },
+  "[ein]": {
+    "type": "Supplement",
+    "tei": "<supplied>ein</supplied>"
+   },
+  "gefühltes[?]": {
+    "type": "Uncertainty",
+    "tei": "<unclear>gefühltes</unclear>"
+   },
+  "gemacht[“]": {
+    "type": "Supplement",
+    "tei": "gemacht<supplied>“</supplied>"
+  }
+}
+
+---
+
+Context: "Danke für den neuesten Beitrag zur m[Lücke]ogl[io?]. Wer nun erst wieder philologisieren könnte."
+Bracketed Sequences:
+- m[Lücke]ogl[io?].
+
+{
+  "m[Lücke]ogl[io?].": {
+    "type": "Omission; Uncertainty",
+    "tei": "m<gap/>ogl<unclear>io</unclear>."
+  }
+}
+
+---
+
+Context: "Finden sich nicht bei den Persern, Arabern usw. Spuren von einem besonders verschlungenen Zauberknoten, durch welches[sic] man Dinge unauflöslich fesseln, von Liebesknoten, wodurch man Seelen zusammenbinden konnte?"
+Bracketed Sequences:
+- Spuren von einem besonders verschlungenen Zauberknoten, durch welches[sic]
+
+{
+  "Spuren von einem besonders verschlungenen Zauberknoten, durch welches[sic]": {
+    "type": "Correction",
+    "tei": "Spuren von einem besonders verschlungenen Zauberknoten, durch <choice><sic>welches</sic><corr>welcher</corr></choice>"
+  }
+}

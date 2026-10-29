@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite the article below (preferred citation) and this
+  repository.
+type: software
+title: "Editorial interventions: LLM-assisted TEI encoding"
+version: 1.0.0
+repository-code: "https://github.com/DHGraz/editorial-interventions"
+abstract: >-
+  Pipeline that uses LLMs to turn bracket-marked editorial interventions in historical letters into
+  TEI XML markup, and evaluates the output against a hand-made gold standard. Contains the code,
+  the sample, the stored LLM output and the evaluation results of the article.
+authors:
+  - family-names: Strutz
+    given-names: Sabrina
+    affiliation: "Department of Digital Humanities, University of Graz"
+license:
+  - MIT
+  - CC-BY-NC-4.0
+keywords:
+  - Large Language Models
+  - TEI
+  - Editorial Interventions
+  - Digital Correspondence Editions
+  - Digital Scholarly Editing
+preferred-citation:
+  type: article
+  status: submitted
+  title: >-
+    Beyond Rule-Based Processing: LLM-Assisted TEI Encoding of Editorial Interventions in
+    Historical Correspondence
+  authors:
+    - family-names: Strutz
+      given-names: Sabrina
+      affiliation: "Department of Digital Humanities, University of Graz"
+    - family-names: Scholger
+      given-names: Martina
+      affiliation: "Department of Digital Humanities, University of Graz"
+    - family-names: Vogeler
+      given-names: Georg
+      affiliation: "Department of Digital Humanities, University of Graz"
+  journal: "Journal of the Text Encoding Initiative"

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_101"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Wien den 18 März</dateline></opener><p><salute>Mein<note type="comment" place="bottom"><p> Jahresangabe nach der
+                                    wohl von HP mit roter Tinte auf das Blatt geschriebenen Zahl <hi rend="italic">„1800“</hi>.</p></note> lieber Bruder</salute>
+                        war nun eine Zeit ein recht fleissiger Korrespondent und ich danke ihm
+                        herzlich davor<note type="comment" place="bottom"><p> =
+                        dafür.</p></note>.</p><p>Ich war wohl desto langsamer, aber gewiss ich konnte nichts dafür. Unsere
+                        gute Mutter ward gegen die Hälfte des Faschings sehr krank und erst jetzt
+                        darf sie aufstehen. Sie sehen nun, daß tro[t]z Ihres guten Wunsches der
+                        Fasching sehr schlecht ausging. Sie werden ihn wohl besser zugebracht haben,
+                        und ich hätte wahrlich nicht geglaubt, daß mein Bruder zu einer so lustigen
+                        Zeit mir schreiben würde, ich schreibe es aber auf unter Ihre vielen anderen
+                        Verdienste die Sie sich um mich erwarben. Auch für Ihre treue Schilderung
+                        von <persName>Herbert</persName>s Gefühlen danke ich Ihnen, ich bin sehr
+                        froh, daß ich nun weiß, was eigentlich an der Sache ist, und das<note type="comment" place="bottom"><p> A: daß.</p></note> zwar um des
+                        Mädchens willen, die mit ganzer Seele an ihm hängt. Es muss traurig sein
+                        jemanden zu lieben und nicht wiedergeliebt <supplied>zu</supplied> werden; wie sehr danke ich
+                        der guten Mutter Natur, die mich mit einer so großen Portion Phlegma
+                        versehen hat, daß ich die Leiden der Liebe wohl schwerlich erfahren werde.
+                        Vielleicht sind eben meine Gefühle auch nur im Schlummer und erwachen bei
+                        irgendeiner Erschütterung umso stärker; was glaubt mein lieber Bruder? Ich
+                        denke wenn auch das letzte <supplied>der Fall</supplied> wäre, so brauchte es bei mir
+                        wenigstens ein Erdbeben bis mein wohltätiger Schlummer gestört würde. Das
+                        Gedicht, daß Sie mir bestimmten, habe ich wirklich noch nicht bekommen,
+                            Oncle<note type="comment" place="bottom"><p> Probst
+                                    <persName>Höck</persName>, der Leiter der Orientalischen
+                                Akademie.</p></note> vergisst immer, ich bitte Sie lieber, wenn Sie
+                        mir wieder einmal was bestimmen, so schlössen Sie mir’s gleich im Brief.
+                        Wissen Sie wohl, daß ich Sie um die schöne Jahreszeit beneide? Bei uns ist’s
+                        sehr sehr kalt und ich habe nicht einmal eine Rose noch gesehen, viel
+                        weniger noch besessen, wissen Sie was, schicken Sie mir doch eine im
+                        nächsten Brief, damit ich weiss wie die Konstantinopolitanischen aussehen.
+                        Noch was, ist niemand hier, der Ihr „Jungferbrünnlein vom Kobel“<note type="comment" place="bottom"><p> In <persName>Sartori</persName>s <hi rend="italic">„Mahlerisches Taschenbuch“ 1 (1813), S. 104</hi>
+                                heißt es neben anderen poetischen Produktionen <hi rend="italic">„Herr</hi>
+                                <persName>von Hammer</persName>
+                                <hi rend="italic">benützte überdies ein österreichisches
+                                    Volksmärchen zu einem Gedicht</hi> […]<hi rend="italic">, in dem
+                                    das Jungfernbrünnlein eine vorzügliche Rolle spielt, und in
+                                    welchem es scherzhaft heißt:</hi></p><p>
+                                <hi rend="italic">Auch ist, wie jedermann bekannt,</hi></p><p>
+                                <hi rend="italic"> Der Weg dahin fast ganz verbannt</hi></p><p>
+                                <hi rend="italic">    Mit Zaun und Dornenhecken;</hi></p><p>
+                                <hi rend="italic"> Wer spöttelnd vor dem Brünnlein steht,</hi></p><p>
+                                <hi rend="italic"> Wird oft in einen Sumpf gedreht,</hi></p><p>
+                                <hi rend="italic">    D’rin bleibt der Schuh wohl stecken.</hi></p><p>
+                                <hi rend="italic"> Deßwegen blüht der Hexe Ruhm,</hi></p><p>
+                                <hi rend="italic"> Auch ist ihr Brünnlein um und um</hi></p><p>
+                                <hi rend="italic">    Gemerkt mit Hexenzeichen.</hi></p><p>
+                                <hi rend="italic"> Viel Nahmen werden dort erschaun,</hi></p><p>
+                                <hi rend="italic"> Mit Axt und Messer eingehaun,</hi></p><p>
+                                <hi rend="italic">    In Buch’ und in Eichen.“</hi></p></note>
+                        hätte? Ich wünschte recht sehr, es zu haben und würde mir‘s mit Erlaubnis
+                        des Besitzers abschreiben. <salute>Viel Glück zum Namenstage von uns allen
+                            gewunschen, am meisten aber von Ihrer Schwester</salute>
+                    </p><closer><signed><persName>Elise</persName></signed></closer></div></body></text></TEI>

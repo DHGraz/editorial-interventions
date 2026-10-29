@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_436"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>February 15<hi rend="superscript">th</hi>. 1804</dateline></opener><p>Dear Sir</p><p>I shall write in English because it will come sooner and easier to your
+                            hands<note type="comment" place="bottom"><p> Offensichtlich hatte
+                                    <persName>Böttiger</persName> Anlass anzunehmen, dass seine bzw.
+                                HPs Korrespondenz einer besonderen Überwachung unterliege und dass
+                                diese durch einen anonymen fremdsprachigen Brief ausgeschaltet
+                                werden könne.</p></note>. None of your letters has miscarried. The
+                        last of January 10 I received to day. I am glad you will continue sending
+                        some piece of critique or others to the Literatur-Zeitung<note type="comment" place="bottom"><p> Die eben nach Halle übersiedelte <hi rend="italic">Allgemeine Literatur-Zeitung</hi>.</p></note> now
+                        settled at Halle. A bad neighbour, says an English proverb, makes an early
+                        stirrer and accordingly the new born Jena-Gazette must countenanced by Mr.
+                            <persName>Goethe</persName> and all his adherents, will beneficiate to
+                        his elder sister in keeping her always at the look out. For the war, dozing
+                        sometimes, it cannot be denied. You know already by my last letter that I
+                        chose Dresden for my future abode, where I am engaged to superintend the
+                        lecturer and instruction given to 16 pages, bred up for the service of the
+                        Elector. This place will afford me ample leisure for prosecuting my favorate
+                        researches on philology and archeology, and for the literary walks of Life
+                        Dresden affords much better opportunities then Berlin, where I should have
+                        been plunged in an ocean of affairs and dissipations. Our excellent friend,
+                        John <persName>Müller</persName> is now at Berlin. He passed a fortnight
+                        here and I was blessed with his conversation almost every night. You, dear
+                        Sir, were the favourite topick of our conversation. He gave me very valuable
+                        hints on you concern and I shall be as circonspect [sic] as possible. He
+                        felt exceedingly disappointed and mortified [sic] finding our excellent Mr.
+                            <persName>Herder</persName> no more amongst the livings<note type="comment" place="bottom"><p>
+                                <persName>Herder</persName> war am 18.12.1803 in Weimar
+                                verstorben.</p></note>. He did not know of his death before he came
+                        to Dresden. The family of the deceased shall drive the greatest benefit of
+                        the researches of Mr. <persName>Müller</persName> amongst the papers and
+                        manuscripts of dear Mr. <persName>Herder</persName>. He found the
+                        dissertation upon the Antiquities and the Inscription of Shelminha<note type="comment" place="bottom"><p> D.h. Persepolis.</p></note> in great
+                        forwardness and shall publish it very soon. You have ordered to send you, I
+                        suppose, <persName>Herder</persName>s Adrastea, the 10 Number of which is
+                        just published and two more numbers prepared by himself, before he went to
+                        happier regions shall follow. I got by Mr. <persName>Müller</persName> all
+                        the little treasure, you put once in the hands of Mr.
+                            <persName>Herder</persName> and I shall make the best of it after your
+                        own direction. At Berlin Mr. <persName>Müller</persName> shall make
+                        enquiries for the Shirin and the whole must make its appearence in an
+                        elegant garb very soon. The Most is still in the hands of Mr.
+                            <persName>Sander</persName>. I feel much distressed with the death of
+                        that great statesman who held up with sinewy hands the tottering Empire. All
+                        is buried up in silence within my breast what you are committing me in a
+                        confidential way. You have obliged myself exceedingly with that curious
+                        pattern of Turkish print-officer, the fasting-Almanock<note type="comment" place="bottom"><p> almanac.</p></note>. It shall be cut in wood and
+                        published in <persName>Bertuch</persName>'s Geographical Ephemerids a
+                        journal of a very expensive use. Of that capital work, the Eastern
+                        Encyclopedy of Hadsh Chalfa Mr. <persName>Härtel</persName> sent me already
+                        15 proof-sheets, done in a very decent manner in great octavs and correctly
+                        printed. I perused them rapidly and derived both entertainment and
+                        instruction from them. A new world of eastern knowledge and sagacity is
+                        opening before our wondering eyes, and it must impress all readers with a
+                        deep sense of gratitude to the editor, to whom we are indebted for it. The
+                        editor left it intirely in my power to settle the whole transaction with the
+                        book-seller. But I am much puzzeled about the prize to be asked for it, and
+                        would wish, he may be pleased to tell me a confidential word upon it as soon
+                        as possible. He may take books in exchange but some prize must be fixed
+                        previously. All Weimar is in extasy for the presence of Madame
+                            <persName>de </persName><persName>Staël</persName> from Paris. She seems
+                        very much delighted with the Coryphei of our Literature, she is fond of Mr.
+                            <persName>Wieland</persName>s ingenuity (<persName>Wieland</persName> is
+                        about finishing a counter-piece to his Menander and Glycerion), which will
+                        be wrought upon the canvass of Crates and Hipparchia<note type="comment" place="bottom"><p> Christoph Martin Wieland, <hi rend="italic">Krates
+                                    und Hipparchia, ein Seitenstück zu Menander und Glycerion, zum
+                                    Neujahrs-Geschenk auf 1805, Tübingen 1805.</hi></p></note> at
+                        Thebes, she admirer <persName>Schiller</persName>'s genious, who has
+                        finished now his Wilhelm Tell, and she translates the Songs of
+                            <persName>Goethe</persName>, which seem to her more finely touched than
+                        any other poems in our language. She is adored idolized by everybody for her
+                        esprit, but much more for her true sensibility. There is an man's head upon
+                        the breast-piece of a lady. In short, we are all bewitched with the
+                        inexpressible sweetneß of her conversation. She is Delphine<note type="comment" place="bottom"><p> G. de Stael-Holstein, <hi rend="italic">Delphina oder das verliebte Gespenst, Leipzig
+                                    1800</hi>.</p></note> herself and now we understand that
+                        unparelleled romance much better since we are personally aquainted with the
+                        heart-felt effusion of the amiable authoress. The man, who is at the head of
+                        the french republic appear in the light of a narrow-hearted littly [sic]
+                        tyrant and as an oppressor of all what is sacred to free-born men since we
+                        know the lady, to whom he bears an inveterate hated for her liberals ideas.
+                        He did not banish her from Paris, as it was rumoured about, but he
+                        prohibeted her making a house at Paris. She goes to Berlin, returns hither
+                        in Juny and intends writing a very comprehensive work upon German
+                        literature. She has got a [...]<note type="comment" place="bottom"><p>
+                                Beschädigung am linken Rand; der Rest eines kurzen Wortes ist
+                                unleserlich.</p></note> to visit Italy the winter after the next and
+                        engaged myself to accompany her – a consummation devoutly to be wished
+                        for.</p><p>Today I have seen the first number of le miroir de France<note type="comment" place="bottom"><p>
+                                <hi rend="italic">„Le Miroir de la France. Receuil historique,
+                                    politique et litteraire“, 18 Bde Tübingen</hi>.</p></note>, a
+                        monthly publication which appear at Paris but is furnished with choice
+                        materials from German literate. There is still another monthly publication
+                        Melanges historiques literaires and philosophiques<note type="comment" place="bottom"><p> Konnte nicht eruiert werden; möglicherweise handelt
+                                es sich um ein Vorgängerjournal <hi rend="italic">der „Melanges de
+                                    philosophie, d’histoire, de morales et de litterature“, Paris
+                                    Juli 1806 – Juni 1811</hi>.</p></note>, Paris 1804 now going
+                        forward and in a fair way to thrive: Mr. <persName>Cotta</persName> the
+                        greatest bookseller in Germany now, is at the bottom of both these
+                        entreprizes. Next easter-faire many excellent books shall appear printed for
+                        him, amongst whom I mention now the great humourist, Jean Paul’s
+                            [<persName>Richter</persName>] Flegeljahre<note type="comment" place="bottom"><p> Jean Paul Richter, <hi rend="italic">Flegeljahre.
+                                    Eine Biographie, 4 Bde Tübingen 1804–1805</hi>.</p></note> in
+                        3 Vol. Mr. <persName>Fernow</persName>’s (now professor at Jena poor Jena
+                        which is almost desolated) excellent Italian Grammar<note type="comment" place="bottom"><p> Carl Ludwig Fernow, <hi rend="italic">Italienische
+                                    Sprachlehre, 2 Bde Tübingen 1804</hi>.</p></note> (done in a
+                        masterly manner) and <persName>Posselt</persName>’s historical almanach for
+                        the year 1804<note type="comment" place="bottom"><p> Ernst Ludwig Posselt,
+                                    <hi rend="italic">Europäische Annalen für die Jahre 1795–1806,
+                                    40 Bde Tübingen</hi>; (http://sumpf.kiefer.de
+                            20091112).</p></note>.</p><p>Now there is enough for You, dear Sir, from a man who is in the greatest
+                        hurry and bustle. But You shall hear from me again as soon as I understand
+                        that came duly to hands. Prag, is there no means to convey our letters to
+                        and from Dresden directly. I shall be at Weimar till at the end of April.
+                        Let me hear from You. Dear and much beloved Sir, what new travellers are
+                        arrived and what you are buxy about and what your friends do in old England,
+                        which shall never see a Frenchman on her cost. <salute>Yours for
+                            ever</salute></p><closer><signed>Ch.B. [Karl <persName>Böttiger</persName>]</signed></closer><postscript>
+                        <p>I congratulate you upon the good luck of Ibn Heledin<note type="comment" place="bottom"><p> Möglicherweise soll damit
+                                        <persName>Ibn Khaldun</persName> gemeint sein.</p></note>.
+                            Would wish I could read it translated by you!</p>
+                    </postscript></div></body></text></TEI>

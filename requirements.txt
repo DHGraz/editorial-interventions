@@ -1,0 +1,33 @@
+# Packages needed to reproduce the published results from the stored LLM output
+# (evaluation, aggregated tables, figures, sampling). Exact versions, including transitive
+# dependencies, from the environment used for the published results.
+#
+# Python 3.9.11 (Windows 11). Not installed via pip:
+# - Java 8 or newer (tested with 1.8.0_471), for TEI validation with
+#   resources/tools/jing-RELEASE220.jar
+#
+# New LLM runs need requirements-llm.txt in addition.
+
+# Direct dependencies
+lxml==6.0.0
+matplotlib==3.9.4
+numpy==2.0.2
+openpyxl==3.1.5
+pandas==2.3.1
+seaborn==0.13.2
+
+# Transitive dependencies
+contourpy==1.3.0
+cycler==0.12.1
+et_xmlfile==2.0.0
+fonttools==4.59.1
+importlib_resources==6.5.2
+kiwisolver==1.4.7
+packaging==25.0
+pillow==11.3.0
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+tzdata==2025.2
+zipp==3.23.0

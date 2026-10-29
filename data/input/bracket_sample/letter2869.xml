@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2869"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Vienna 18 Mai 1823</dateline><salute>Dear Sir</salute></opener><p>I<note type="comment" place="bottom"><p> British Library.</p></note> am at a
+                        loss to find words to tell you the pleasure which gave me Your letter dated
+                        28 June last year<note type="comment" place="bottom"><p> Vermutlich irrt HP
+                                hier, da nämlich ein Brief <persName>Wilson</persName>s an HP nicht
+                                auf Juni 1822, sondern auf Jänner 1822 datiert vorliegt. Diese lange
+                                Verzögerung ist zweifellos dem Umstand zuzuschreiben, dass
+                                    Dr. <persName>Wilson</persName>, dem
+                                    HH<persName>Wilson</persName> den Brief samt einem Paket an HP
+                                mitgab, auf der Seereise im Sturm dahingehend scheiterte, dass das
+                                Schiff wieder an die indische Küste zurückgetrieben wurde; (vgl.
+                                    <persName>Wilson</persName> an HP ddo 1823 I 10), worauf Dr.
+                                    <persName>Wilson</persName> die Reise in einem zweiten Anlauf
+                                unternahm und wohl glücklich beendete, sodass der Brief HP
+                                schließlich nach mehr als einem Jahr erreichte.</p></note> and
+                        received but yesterday as a fair gift of Pentecosts eve<note type="comment" place="bottom"><p> Pfingstsonntag 1823 war der 18. Mai. </p></note>
+                        enclosed in one of Your namemate’s dated Genoa 6 Mai. The thanks which I
+                        have to give You before every thing for the magnificent present of Your
+                        Sanscrit dictionary<note type="comment" place="bottom"><p>
+                                <persName>Wilson</persName>s <hi rend="italic">A Dictionary,
+                                    Sanscrit and English, Kalkutta (1818)</hi>; die zweite
+                                verbesserte und erweiterte Auflage erschien 1832 in Kalkutta,
+                                weitere Auflagen folgten, 1856 auch in Berlin.</p></note> which was
+                        sent to me a couple of month hence (I am ignorant by what channel) but
+                        without a line from You, must be not only doubled by the new presents
+                        announced in Your letter, but trippled if as Mr. <persName>Wilson</persName>
+                        writes me. I am to receive the Duplicates of the whole parcel lost in the
+                        foundering of the ship, on which he took the passage. I am very impatient to
+                        see these papers in which You have taken notice of the Jahrbücher<note type="comment" place="bottom"><p> Dies bezieht sich auf HPs Beiträge <hi rend="italic">„Asiatic Researches; or Transactions of the
+                                    Society instituted in Bengal, for Inquiring into the History and
+                                    Antiquities, the Arts, Sciences, and Literature of Asia”</hi>;
+                                in: <hi rend="italic">Wiener Jahrbücher der Literatur 2 (1818)
+                                    260–336</hi>, sowie ebenda <hi rend="italic">3 (1818)
+                                    133–203</hi>. </p></note>, and as Mr <persName>Wilson</persName>
+                        mentions he had one with him, I just wrote to him he might send it on
+                        without expecting his arrival to Vienna promised only next year.</p><p>I wish they [sic] Jahrbucher had continued as they began but since my friend
+                            <persName>Collin</persName> (one of the two tutors of the
+                            <persName>Duke of Reichstadt</persName><note type="comment" place="bottom"><p>
+                                <persName>Napoleon Franz (1811–1832)</persName>,
+                                    <persName>Napoleon</persName>s Sohn mit der Habsburgerin
+                                    <persName>Marie Louise</persName>, dem von seinem Vater
+                                unmittelbar nach der Geburt der Titel eines Königs von Rom zuerkannt
+                                wurde. Nach <persName>Napoleon</persName>s Sturz wurde für ihn der
+                                Titel eines Herzogs von Reichstadt (in Böhmen)
+                            geschaffen.</p></note> retired from the redaction (just two years
+                        passed) I never could be persuaded upon to contribute a line to a Review,
+                        the redaction of which was entrusted to an obscure religious and politic
+                        Fanatic (<persName>Buchholz</persName><note type="comment" place="bottom"><p> Franz Bernhard <persName>von Bucholtz</persName> (1790–1838)
+                                war in der Staatskanzlei tätig, vertrat eine strikt
+                                konservativ-patriotische Haltung und war auch als Historiker tätig
+                                    (<hi rend="italic">Geschichte der Regierung Ferdinands des
+                                    Ersten, aus gedruckten und ungedruckten Quellen, 9 Bde Wien
+                                    1830–1838</hi>). Die Redaktion der Jahrbücher führte er von
+                                1821–1825; (BARCH).</p></note> not to be confounded with the
+                        prussian writer of that name<note type="comment" place="bottom"><p> Paul
+                                Ferdinand Friedrich <persName>Buchholz</persName> (1768–1843) war
+                                ein deutscher Schriftsteller, der bürgerliche, frühliberale und
+                                    <persName>saint-simon</persName>istische Positionen vertrat und
+                                als Wegbereiter soziologischen und positivistischen Denkens in
+                                Deutschland galt; (<hi rend="italic">Wikipedia</hi>).</p></note>)
+                        who encumbers it not only with metaphysical nonsense, but also with
+                        fanatical bigotism [sic<note type="comment" place="bottom"><p> Wohl:
+                                bigotry.</p></note>] stretching so far, that in one of the notes
+                        there is even an inquisitorial sneer on those, who don’t believe in the
+                        eternity of hell and damnation. A very long and elaborated notice of mine
+                        concerning the Dessatir<note type="comment" place="bottom"><p> HP, <hi rend="italic">Über das Desatir und die heilige Sage
+                                Rhode’s</hi>; in: <hi rend="italic">Heidelberger Jahrbücher der
+                                    Literatur 1823, Nr 6, 81–95; 12, 177–192; 13, 193–206; 18,
+                                    282–288; 19, 289–304; 20 305–318; </hi><ref target="https://digi.ub.uni-heidelberg.de/diglit/hdjblit"><hi rend="italic">https://digi.ub.uni-heidelberg.de/diglit/hdjblit</hi></ref>.
+                            </p></note> for which I have much respect as containing undoubtedly very
+                        ancient doctrines was in consequence of the principles of the new redaction
+                        (surveyed by the pensions of all european Cabinets and our effectual
+                        Undersecretary of state Mr <persName>Gentz</persName><note type="comment" place="bottom"><p> A: Genz – Es ist dies eine Anspielung auf die von HP
+                                verabscheute Bereicherung, die <persName>Gentz</persName> als
+                                Protokollführer durch unerhörte Zahlungen (Pensionen, Provisionen,
+                                Renten etc.) von nahezu allen am Wiener Kongress beteiligten Mächte
+                                erfahren hatte, was HP gelegentlich mit dem Hinweis darauf
+                                dokumentierte, dass <persName>Gentz</persName> jenen Koch angeheuert
+                                habe, der vom Fürsten <persName>Esterhazy</persName> als zu
+                                kostspielig entlassen worden sei.</p></note>) prohibited to be
+                        printed, and of course I can have nothing to do further with such an
+                        Institute guided by such principles. </p><p>The extracts of the Shehinshaname (sent in present from the Shah to the
+                            Emperor<note type="comment" place="bottom"><p> Hier handelt es sich um
+                                das <hi rend="italic">Schahinschahname</hi> (Buch des Königs der
+                                Könige, gleichsam eine Ergänzung zum Schahname
+                                    <persName>Firdusi</persName>s, indem es die Heldentaten der
+                                Dynastie des regierenden Schahs <persName>Fath Ali Schah</persName>
+                                besingt, der auch als Verfasser firmierte (der tatsächliche
+                                Verfasser war der damalige gefeierte Hofpoet Fath Ἁlichan Kaschi,
+                                    <hi rend="italic">Solbrig 259</hi>; vgl. dazu Walter Höflechner
+                                    u.a.<hi rend="italic">; Joseph von Hammer-Purgstall 1774–1856
+                                    Ein Altösterreichisches Gelehrtenleben Eine Annäherung; Graz
+                                    2021, Bd 1. S. 616 </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>)). </p></note>) I had
+                        made in my official quality as Interpreter of the Court, and I could not
+                        retake the M[anu]s[cri]pt already given, so they were printed off, and I
+                        join to this letter a separate copy of the conclusion in sequel of the
+                        former separate copies transmitted to You. This is the only part I have had
+                        in the last six volumes which I sent to the Society by the channel of Mr
+                            <persName>Colebrooke</persName> as well as the roleau de papyrus
+                            <persName>Fontana</persName><note type="comment" place="bottom"><p> HP,
+                                    <hi rend="italic">Copie figurée d'un rouleau de papyrus trouvé
+                                    en Égypte, publiée par M. Fontana, et expliquée par M. de H; mit
+                                    1 Tafel, Wien 1822</hi>.</p></note> and Memnon’s Dreyklang<note type="comment" place="bottom"><p> HP, <hi rend="italic">Memnons
+                                    Dreiklang, nachgeklungen von Joseph von H, in Dewajani, einem
+                                    indischen Schäferspiele; Anahid, einem persischen Singspiele;
+                                    und Sophie, einem türkischen Lustspiele, Wien
+                            1823</hi>.</p></note>.</p><p>I add of the last a copy for You together with the Juwelenschnure of
+                            Aboolmaani<note type="comment" place="bottom"><p> HP, <hi rend="italic">Juwelenschnüre Abul-Maani's (des Vaters der Bedeutungen) das
+                                    ist Bruchstücke eines unbekannten persischen Dichters, Wien
+                                    1822</hi>.</p></note> of whose personality I never could
+                        discover a glimpse more than that contained in the preface. He is however by
+                        far a greater poet then so many of the 200 noticed in my history of the
+                        Persian poetry<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte der schönen Redekünste Persiens: mit einer
+                                    Blüthenlese aus zweyhundert persischen Dichtern, Wien
+                                1818</hi>.</p></note>, which I sent to you in the time, but the
+                        receipt of which You have never acknowledged to me.</p><p>It is a very disagreable thing that so many of the packets have been lost,
+                        and miscarried, not only as it seems from Bagdad to Calcutta but also from
+                        here to Bagdad. I am much afraid that by the death of
+                            Mr <persName>Rich</persName><note type="comment" place="bottom"><p>
+                                Claudius James <persName>Rich</persName>, britischer Resident in
+                                Bagdad, Korrespondent und Freund von HP, stirbt am 05.10.1821 in
+                                Schiraz an der Cholera.</p></note> more than one of my packets
+                        directed to Calcutta have been lost. I had already sent to him duplicates of
+                        different numbers of the Mines, and is particularly provoking to me that two
+                        of the most interesting numbers viz<note type="comment" place="bottom"><p> =
+                                videlicet = lat. nämlich, beziehungsweise.</p></note> those
+                        containing the dissertations of the monuments of the templers<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Mysterium Baphometis revelatum, seu Fratres
+                                    Militiæ Templi, qua Gnostici et quidem Ophiani, Apostasiæ,
+                                    Idoloduliæ et Impuritatis convicti, per ipsa eorum
+                                    Monumenta</hi>: in: <hi rend="italic">Fundgruben des Orients 6
+                                    (1818) 1–120 </hi>und<hi rend="italic"> 445–99</hi>.</p></note>
+                        did not arrive at Calcutta. I send there fore by this opportunity the
+                        numbers 1., 2., 4. of the last volume, and these of the Jahrbucher
+                        imediately preceding the 6 last volumes lately sent.</p><p>You’ll find therein a mention of Mithras made but no dissertation like that
+                        transmitted to the Society<note type="comment" place="bottom"><p> Vgl die
+                                Briefe HH <persName>Wilson</persName>s an HP ddo 1822 I 28; 1823 I
+                                10 und 1824 VII 28.</p></note> in which all is pointing to one
+                        object with some new views, meanwhile in the Jahrbücher<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Wiener Jahrbücher der Literatur 21 (1823)
+                                62f</hi>.</p></note> as in the Litterary Gazette<note type="comment" place="bottom"><p> Wohl HPs Rezension, <hi rend="italic">„Essaie sur les
+                                    mystères d‘Èleusis par M. Ouvaroff, Paris 1816“ </hi>in der <hi rend="italic">Allgemeinen Literaturzeitung Nr 92 vom 15.
+                                    November 1816 (1457–1469)</hi>.</p></note> quothed by
+                            <persName>S[ilvestre] d[e] Sacy</persName> only a cursory mention has
+                        been made of the tirolese<note type="comment" place="bottom"><p> Silvestre
+                                de Sacy, <hi rend="italic">Recherches Historique…S. 126 « l'auteur
+                                    fait connoître un monument du culte mystérieux de Mithra, trouvé
+                                    dans le Tyrol, et qui est aujourd'hui dans le cabinet de
+                                    l'empereur d'Autriche. Il n’existe encore, dit M.
+                                    </hi><persName>de Hammer</persName><hi rend="italic">, qu’une
+                                    fort mauvaise gravure de ce monument, dans les Lettere del comte
+                                    </hi><persName>Giovanelli</persName><hi rend="italic">: et le
+                                    baron </hi><persName>de Hormayr</persName><hi rend="italic">,
+                                    qui l’a décrit dans le premier volume de l’histoire du Tyrol,
+                                    écrite en allemand, l’avoit pris pour un monument turc. L'antre
+                                    de Mithra n'est pas ce que ce monument offre de plus
+                                    remarquable: on y voit, comme dans les autres, et notamment dans
+                                    celui qui a été trouvé récemment à Stixneusiedel, le taureau, le
+                                    jeune homme qui va l'immoler, le soleil, la lune, les deux
+                                    porte-flambeaux, le chien, le serpent</hi> […]<hi rend="italic"> »</hi></p></note> monument. </p><p>You’ll judge yourselves by perusing the sheets of the Littgaz[ette] here
+                        joined 1) If as I have little doubt the Society resolves the printing, I
+                        shall have the honour to transmit to her a second dissertation on two
+                        mithriac monuments much more curious and completed than all hitherto known,
+                        of the existence of which I was ignorant till last year. They exist in
+                        Transylvania, from whence an officer of the engineers hearing of my mithriac
+                        pursuits gave me the first notice. I procured exact drawings of them, and
+                        having no where yet mentioned any word about them I’ll discuss them for the
+                        first time in a memoir sent to the Society in sequel of the first; there are
+                        three of them each extremely curious by the representation of the different
+                        degrees of initiation by the ornament of the Caves C. I have no doubt that
+                        the Mithriac service as preserved in these monuments is not pure Persian but
+                        mingled with old indian mysteries. </p><p>I expect before I undertake this dissersation Your answer. You have well
+                        guessed that I write the notice of the first XII Volumes of the Asiatic
+                        researches; – the strictures on the comparative Calendar of old nations have
+                        already excited more than one pen in Germany investigating the same subject;
+                        in the last volume of the most valuable work (<persName>Creuzer</persName>’s
+                            Mythologie<note type="comment" place="bottom"><p> Friedrich Creuzer, <hi rend="italic">Symbolik und Mythologie der alten Völker,
+                                    besonders der Griechen. 4 Bände Leipzig/Darmstadt
+                                1810–1812</hi>, 2. Auflage 4 Bände, Leipzig/Darmstadt
+                            1819-1822.</p></note> second edition) there is a short comentation [sic]
+                        of it; and so there is the divine’s <persName>Paulus</persName>’s work on
+                        Christian feasts<note type="comment" place="bottom"><p> Vermutlich ist hier
+                                der Heidelberger evangelische Theologe rationalistischer Richtung
+                                Heinrich Eberhard Gottlob <persName>Paulus</persName> (1781–1851)
+                                gemeint, der in einem Spannungsverhältnis zu
+                                    <persName>Creuzer</persName> und dessen
+                                    (<persName>Paulus</persName> wohl an seines als „Mystiker“
+                                amtsenthobenen Vaters Arbeiten erinnernden) mythengeschichtlichen
+                                Arbeiten stand; <persName>Paulus</persName> war lange Herausgeber
+                                der <hi rend="italic">Heidelberg Jahrbücher</hi> und insgesamt ein
+                                einflussreicher, seiner strikt kantisch-rationalistischen Position
+                                halber weithin aber heftig angegriffener Theologe; (<hi rend="italic">ADB, NDB, Wikipedia</hi>).</p></note>. Now though
+                        some fundamental ideas are indicated in your notice of mine I don’t think
+                        that a complete and regular dissertation on that same subject should lose by
+                        those indications of the Jahrbucher the title to a place in learned
+                        transactions. This is the very same case as with Mithras, on which I have
+                        said a great deal more in the dissertation then could have been said in a
+                        cursory notice in the LitZ<note type="comment" place="bottom"><p> HP, zu <hi rend="italic">„Essaie sur les mystères d‘Èleusis par M Ouvaroff,
+                                    Paris 1816</hi>, Rezension in der <hi rend="italic">Allgemeinen
+                                    Literaturzeitung Nr 92 vom 15. November 1816
+                                (1457–1469)</hi>.</p></note> without plates and systematical
+                        arrangement. </p><p>It was a duty incumbent on myself as a member of the Asiatic Society<note type="comment" place="bottom"><p> HP war ab 1813 Mitglied der Asiatic
+                                Society (ab 1832 Asiatic Society of Bengal); vgl. dazu
+                                    <persName>Wilson </persName>an<persName> </persName>HP ddo 1813
+                                XII 1.</p></note> to give to my countrymen of Vienna a short review
+                        of its most meritorious labours<note type="comment" place="bottom"><p> HP,
+                                    <hi rend="italic">Asiatic Researches; or Transactions or the
+                                    Society instituted in Bengal, for Inquiring into the History and
+                                    Antiquties, the Arts, Sciences, and Literature of Asia, Asiatic
+                                    Researches; Wiener Jahrbücher der Literatur Band 2, 1818</hi>
+                                und <hi rend="italic">Asiatic Reseraches; or Transactions of the
+                                    Society instituted in Bengal, for Inquiring into the History and
+                                    Antiquities, the Arts, Sciences, and Literature, of Asia.
+                                    (Beschluß), Wiener Jahrbücher der Literatur, Band 3,
+                                1818</hi>.</p></note>; even before that I have given the first in
+                        the gazett[e]d Litt[…<note type="comment" place="bottom"><p> Das an den Rand
+                                gedrängte Wort läuft in einen undefinierbare Abkürzungsschnörkel
+                                aus, ist aber seinem Inhalt nach eindeutig.</p></note>] of Leipsic
+                        given in Germany a short bibliographic survey of the books printed in India
+                        since the foundation of the Asiatic society. +<note type="comment" place="bottom"><p> Hier findet sich ein Kreuz, dem der nachstehende Text
+                                beigefügt ist: <hi rend="italic">„</hi><hi rend="italic">You’ll find
+                                    it annexed 2</hi><hi rend="italic">“</hi>.</p></note>
+                    </p><p>3)   A notice of Mr <persName>Lumsden</persName>’s Persian grammar given by
+                        me in the literary gazette of Hala<note type="comment" place="bottom"><p>
+                                Halle – HP, <hi rend="italic">A grammar of the persian language, by
+                                    Lumsden</hi>; in: <hi rend="italic">Leipziger Literaturzeitung
+                                    1821 Nr. 45, 46.</hi></p></note>. Since I had the pleasure of
+                        seeing Mr Lumsden on his passage through Vienna I have not heard from him
+                        and am actually ignorant, whether he is on the continent, in England, or in
+                        India.- If the last be the case, pray give him with my best compliments this
+                        notice, which I believe he never saw.</p><p>4)   A notice of mine of the Boorhani Kati printed in Calcutta.</p><p>More interesting than these notices of works printed under your eyes may be
+                        to You 5.) 6.) notices of the works lately printed at C[onstantino]ple<note type="comment" place="bottom"><p> HP, <hi rend="italic">Uebersicht der
+                                    in Constantinopel gedruckten Werke</hi>; <hi rend="italic">Intelligenzblatt der Wiener Literatur Zeitung April 1813</hi>;
+                                vgl. <hi rend="italic">Leipziger Literaturzeitung 1813, Nr 42, 1814
+                                    Nr 197 und 198, 1820 S 307ff.</hi></p></note> to which I join
+                            7)<note type="comment" place="bottom"><p> HP, <hi rend="italic">Constantinopolis und der Bosporos örtlich und geschichtlich
+                                    beschrieben. Mit 120 griechischen, lateinischen, arabischen,
+                                    persischen und türkischen Inschriften, dem Plan der Stadt
+                                    Constantinopel und einer Karte des Bosporos, 2 Bde Pest
+                                    1822.</hi></p></note> equally issued from my pen. </p><p>I hope that all this will reach You safe together with my letters and not
+                        separated, as this has been (I learn by Yours) the case with preceding
+                        missions.</p><p>As you don’t say a word about my work of Constantinople and the Bosporus
+                        transmitted to the Society. I am really afraid that [the] english
+                            Chancler<note type="comment" place="bottom"><p> Diese zwei Worte stehen
+                                über einem bis zur Unkenntlichkeit durchgestrichenen Namen.
+                                Zweifellos ist der Kanzler der britischen Botschaft bei der Pforte
+                                gemeint. In den Briefen <persName>Rich</persName>’s wird nur Isaac
+                                    <persName>Morier</persName> als Kommisionär genannt, der aber
+                                bereits 1817 verstirbt; denkbar wäre noch dessen Nachfolger in der
+                                Levant Company John <persName>Cartwright</persName> (<ref target="http://www.levantineheritage.com/pdf/List_of_British_Consular_Officials_Turkey(1581-1860)-D_Wilson.pdf">http://www.levantineheritage.com/pdf/List_of_British_Consular_Officials_Turkey(1581-1860)-D_Wilson.pdf</ref>)
+                                doch kann dessen Name als zu lange nicht an der durchgestrichenen
+                                Stelle stehen.</p></note>, who was Mr <persName>Rich</persName>’s
+                        commissioner at Co[nstantinop]le , has opened the packet after his death and
+                        sold the books as the deceased friends property; I suspect this by having
+                        heard that the copy of the said work transmitted to Mr
+                            <persName>Rich</persName> himself has been sold that way at
+                        Co[nstantinop]le. Dr. <persName>Wilson</persName><note type="comment" place="bottom"><p> Damit ist Dr. Robert <persName>Wilson</persName>, ein
+                                „Vetter“ von Horace Hayman <persName>Wilson</persName> (dieses
+                                Verwandtschaftsverhältnis lässt sich nicht belegen)
+                            gemeint.</p></note> having given me no directions whatever about a more
+                        surer road of conveyance I prefer that of England by far to that of
+                        Co[nstantinop]le, and shall continue to direct my packets to Mr
+                            <persName>Colebrooke</persName> as the agent of the Society, who may any
+                        thing he receives deliver at the Austrian embassy, to be forwarded to me by
+                        messengers.</p><closer><salute>Accept once more of my best thanks and of the highest regard Yours most
+                        truly</salute><signed>J. <persName>Hammer</persName></signed><dateline>21 Mai</dateline></closer><postscript>
+                        <p>PS I open the packet to add the notice (9) of the Dessatir printed at
+                                Heidelberg<note type="comment" place="bottom"><p> HP, <hi rend="italic">Ueber das Desatir und die heilige Sage
+                                        Rhode's</hi>; in: <hi rend="italic">Heidelberger Jahrbücher
+                                        der Literatur 1823 Nr 6, 81–95; 12, 177–192; 13, 193–206;
+                                        18, 282–288; 19, 289–304; 20 305–318; </hi><ref target="https://digi.ub.uni-heidelberg.de/diglit/hdjblit"><hi rend="italic">https://digi.ub.uni-heidelberg.de/diglit/hdjblit</hi></ref>.</p></note>
+                            but with scandalous faults of impression and received this moment. </p>
+                    </postscript></div></body></text></TEI>

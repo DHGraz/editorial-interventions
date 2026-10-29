@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1342"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>den 21. Julius [1]812</dateline></opener><p>Euer<note type="comment" place="bottom"><p> ÖNB;
+                                http://data.onb.ac.at/rec/AC14039552.</p></note> Wohlgeboren
+                        übersende ich hier für H[errn] <persName>Schnurrer</persName> das itzt
+                        erschienene Heft der Fundgruben auf deren[sic] Seite             <note type="comment" place="bottom"><p> Hier wurde ein Freiraum gelassen, der
+                                nicht befüllt wurde.</p></note> der von Ihnen nächstens
+                        erscheinenden Ausgabe des <persName>Hafis</persName> Erwähnung
+                        geschieht.</p><p>Zugleich sende ich Ihnen hier sieben persische Hymnen, die ich (wenn sie
+                        Ihnen anständig sind) Sie noch vor dem Monat Dezember ins Morgenblatt
+                            einzurücken<note type="comment" place="bottom"><p> HP, 1812; <hi rend="italic">ΙΕΡΟΙ ΑΟΓΟΙ Persische Hymnen, nach den Sendbüchern
+                                    Serdischts di Soroasters, I. Venidad, das ist die
+                                    Offenbarung</hi>; in: <hi rend="italic">Morgenblatt für
+                                    gebildete Stände (MfgS), Nr 278</hi>; <hi rend="italic">1109–1110; ΙΕΡΟΙ ΑΟΓΟΙ Persische Hymnen, nach den Sendbüchern
+                                    Serdischts di Soroasters, II. Vispered, das ist, die
+                                    Häupter</hi>; in: <hi rend="italic">MfgS, Nr 285; 1137–1138;
+                                    ΙΕΡΟΙ ΑΟΓΟΙ Persische Hymnen, nach den Sendbüchern Serdischts di
+                                    Soroasters, III Jescht, das ist Lobpreis</hi>; in: <hi rend="italic">MfgS, Nr 296; 1181–1182; ΙΕΡΟΙ ΑΟΓΟΙ Persische
+                                    Hymnen, nach den Sendbüchern Serdischts di Soroasters, IV.
+                                    Bundchesch, das ist: die Urgeschöpfe</hi>; in: <hi rend="italic">MfgS, Nr 298; 1191–1192; ΙΕΡΟΙ ΑΟΓΟΙ Persische Hymnen, nach den
+                                    Sendbüchern Serdischts di Soroasters, V. Neaisch, das ist:
+                                    Anrufung</hi>; in: <hi rend="italic">MfgS, Nr 299; 1195; ΙΕΡΟΙ
+                                    ΑΟΓΟΙ Persische Hymnen, nach den Sendbüchern Serdischts di
+                                    Soroasters, VI. Rivajet, das ist: Ueberlieferung</hi>; in: <hi rend="italic">MfgS, Nr 300; 1197; ΙΕΡΟΙ ΑΟΓΟΙ Persische Hymnen,
+                                    nach den Sendbüchern Serdischts di Soroasters, VII. Iseschne,
+                                    das ist: Weihe</hi>; in: <hi rend="italic">MfgS, Nr 304;
+                                    1214–1215</hi>.</p></note> und mir statt des Honorars 28
+                        besondere Abdrucke veranstalten zu lassen bitte, wovon 3 [für] H[errn]
+                        H[ofrat] <persName>Böttiger</persName>, <persName>Schnurrer</persName> und
+                            <persName>Sil[vestre] de Sacy</persName>.</p><p>Zur Vermeidung der in den arab[ischen] Elegien so häufigen Druckfehler hab
+                        ich sie abschreiben lassen, doch hat der Abschreiber ein paar mal die Verse
+                        versetzt, was ich [durch] Zusetzung der Zahlen am Anfang der Zeilen bemerkt
+                        habe in dem IIten Hymnus, wo der Setzer die angemerkten Zahlen zu beobachten
+                        hat; die zu Ende der Zeile stehenden gehören zu den Noten.</p><p>Die Kupferplatte sollte mit, aber mit der ausdrücklichen Bedingnis, daß ich
+                        dieselbe mit den 25 Ex[emplaren] noch im Dezember d[ieses] J[ahres] durch
+                        den Postwagen erhalte mit der zu den arab[ischen] Elegien gehörigen, welche
+                        ich auch bis zur Stunde noch nicht zurück erhalten habe.</p><p>Im Falle Sie diese meine Bitten nicht pünktlich erfüllen könnten, daß die
+                        Exemplare bis <hi rend="underline">halben Dezember</hi> in meinen Händen
+                        sind, bäte ich Sie das M[anu]s[cri]pt und Platte sogleich zurückzusenden
+                        Ihrem ergebensten</p><closer><signed><persName>Hammer</persName></signed></closer></div></body></text></TEI>

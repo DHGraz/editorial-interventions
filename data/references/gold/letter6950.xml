@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_6950"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Bettio</persName> übersendet Transkription, Auflösung und Übersetzung der Inschrift an <persName>Petrarca</persName> an dem ihm vom venezianischen Senat zuerkannten Haus<note type="comment" place="bottom"><p> Der Humanist und
+                        Dichter Francesco <persName>Petrarca</persName> (1304–1374)
+                        kam 1362 auf der Flucht vor der Pest von Padua nach Venedig. Als Freund des
+                        ehemaligen Dogen Enrico <persName>Dandolo</persName> bekam er
+                        ein Haus an der Riva degli Schiavoni zur Verfügung gestellt, wo ihn während
+                        seines mehrmonatigen Aufenthaltes auch Giovanni <persName>Boccaccio</persName> (1313–1375; (<hi rend="italic">PTII</hi>)) besuchen kam; (<hi rend="italic">EI</hi>).</p></note>. Der Text, der auch <persName>Boccaccio </persName>als Gefährten <persName>Petrarca</persName>s erwähnt, ist von Antonio <persName>Magnana</persName>, dem Pfarrer von Santa Maria de’Giubenichi<note type="comment" place="bottom"><p> Diese Person konnte nicht
+                        identifiziert werden.</p></note> verfasst worden und missfällt <persName>Bettio</persName> wegen seiner unkonventionell verschlüsselten Wortwahl sowie falscher Abkürzungstechnik. Zudem nennt die Inschrift <persName>Petrarca</persName>
+                    unpassenderweise Vir Clarissimus. – Bei dem Werk, das <persName>HP</persName> zu Gesicht bekam, als er <persName>Bettio</persName> in der Marciana aufsuchte<note type="comment" place="bottom"><p> Auf der Reise
+                        nach Mailand im Herbst 1844 besuchte HP gemeinsam mit seinem Sohn <persName>Maximilian</persName> auch Venedig; s. das Kapitel 11.5.3
+                        „Die (dritte) Reise nach Mailand (mit Max) und der Herbst in Hainfeld –
+                        1844“; in: Walter Höflechner u.a.; <hi rend="italic">Joseph von
+                            Hammer-Purgstall 1774–1856 Ein Altösterreichisches Gelehrtenleben Eine
+                            Annäherung; Graz 2021, Bd 2</hi>
+                        <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note>, handelt es sich um Quadrio, Storia e ragione di ogni
+                    poesia<note type="comment" place="bottom"><p> Francesco Saverio Quadrio, <hi rend="italic">Della storia e ragione di ogni poesia, Vol I–VIII, Bologna
+                            1739–1752</hi>.</p></note>, zu dem <persName>Bettio</persName> einige detaillierte Hinweise gibt. – Von <persName>HP</persName>s Desiderata hat <persName>Bettio</persName> alle (Cavalcanti, Retorica<note type="comment" place="bottom"><p> Bartolomeo Cavalcanti, <hi rend="italic">La
+                            retorica di M. Bartolomeo Cavalcanti, gentilhuomo fiorentino, divisa in
+                            sette libri, Venezia 1559</hi>.</p></note>; Speroni, Dialogo<note type="comment" place="bottom"><p> Sperone Speroni, <hi rend="italic">Dialoghi
+                            Venezia, 1544.</hi></p></note>; Mascardi, Arte istorica<note type="comment" place="bottom"><p> Agostino Mascardi, <hi rend="italic">Arte
+                            istorica, Venezia 1574</hi>.</p></note>; Manuzio, Lettere
+                    volgari<note type="comment" place="bottom"><p> Paolo Manuzio, <hi rend="italic">Lettere
+                            volgari, Venezia 1560</hi>.</p></note>; Da Longiano, Dialogo<note type="comment" place="bottom"><p> Fausto Da Longiano, <hi rend="italic">Dialogo
+                            del Fausto da Longiano del modo de lo tradurre d'una in altra lingua
+                            segondo le regole mostrate da Cicerone, Venezia 1556</hi>.</p></note>) außer <persName>Catena</persName>, Discorso<note type="comment" place="bottom"><p> Girolamo Catena, <hi rend="italic">Discorso
+                            sopra la cognizione delle scienze e d'altre facolta, Venezia
+                        1581</hi>.</p></note> finden können und schickt diese Werke zusammen mit Faszikel XIX der Iscrizioni von Cicogna nach Wien. Der Gesamtpreis beläuft sich auf 24 Gulden 44 Kreuzer, gleichzeitig verfügt <persName>Bettio</persName> noch über 34 Gulden 40 Kreuzer von <persName>HP</persName>. – <persName>Romanini</persName> schickt Band III seiner „Storia
+                    dei
+                    popoli
+                    europei“<note type="comment" place="bottom"><p> Samuele Romanin, <hi rend="italic">Storia dei popoli
+                            europei dalla decadenza dell'Impero Romano, Venezia
+                    1842</hi>.</p></note> und lässt fragen, ob <persName>HP</persName>
+                    eine Biographie <persName>Mohamed</persName>s verfasst habe, bzw. welche er
+                        empfehlen könne<note type="comment" place="bottom"><p> Da kein direkter Briefkontakt zwischen HP und <persName>Romanin</persName> existiert und dies der letzte
+                        Brief <persName>Bettio</persName>s ist, kann angenommen
+                        werden, dass HP diese Fragen unbeantwortet ließ.</p></note>. <persName>Romanini</persName> scheint zudem zu glauben, <persName>HP</persName> habe ein Werk über den Einfluss der Araber auf die europäische Kultur geschrieben<note type="comment" place="bottom"><p> Diese Aussage
+                        ist ebenso zutreffend wie unpräzise, da fast alle Werke HPs in der einen
+                        oder anderen Weise dieses Problem thematisieren.</p></note>. – <persName>Bettio</persName> dankt <persName>HP</persName> für die ihm zugesandten Informationen zu seiner Person und teilt ihm mit, sich direkt mit Ritter Anton <persName>von</persName> <persName>Plappart</persName>, Hofrat an der Obersten Justizstelle, befasst zu
+                        haben<note type="comment" place="bottom"><p> Es ist nicht klar, worum es hierbei geht. Aufgrund der
+                        neuerlichen Aufzahlung von <persName>Bettio</persName>s
+                        Dienstjahren an der Marciana könnte jedoch ein Ansuchen um Pensionierung
+                        vermutet werden.</p></note>.
+                        Vor zwei Monaten ist nach dreiunddreißigjährigem Dienst<note type="comment" place="bottom"><p> Es ist unklar,
+                        wie <persName>Bettio</persName> auf diese Zahl kommt.
+                        Tatsächlich stand <persName>Sclatelli</persName> im
+                        21. Dienstjahr.</p></note> ein Distributor<note type="comment" place="bottom"><p> Am 09.05.1845
+                        starb Luigi <persName>Sclatelli</persName>, jener
+                        Distributor, den <persName>Bettio</persName> 1826
+                        zweiundzwanzigjährig im Rahmen der Überarbeitung des Kataloges anstellen
+                        hatte können; (<hi rend="italic">Zorzi</hi>).</p></note>, einen Monat später der Koadjutor der Marciana<note type="comment" place="bottom"><p> Am 08.08.1845 starb Luigi <persName>Bosello</persName> (*1787), der seit 1822 auf dem
+                        damals geschaffenen Posten eines Koadjutors an der Marciana tätig gewesen
+                        war; (<hi rend="italic">Zorzi</hi>).</p></note> verstorben. Der Vizebibliothekar<note type="comment" place="bottom"><p> Nach dem Tode
+                        Bartolomeo <persName>Gambas</persName> 1841 wurde Giuseppe
+                            <persName>Valentinelli</persName> (*1805), Bibliothekar
+                        der Biblioteca Seminarile in Padua, zum neuen Vizebibliothekar bestellt;
+                            (<hi rend="italic">Zorzi</hi>). Er sollte 1846 nach <persName>Bettio</persName>s Tod neuer Bibliothekar werden
+                        und das bis zu seinem Tod 1874 bleiben.</p></note> leidet an Leber- und Darmbeschwerden und hält sich zur Kur in Recoaro auf<note type="comment" place="bottom"><p> Im Gegensatz zu
+                            <persName>Bettio</persName>, der Venedig kaum verlassen
+                        hatte, war bei <persName>Valentinelli</persName> eine rege
+                        Reisetätigkeit zu vermerken, die ihn etwa nach Bayern und Württemberg sowie
+                        jährlich etwa drei Wochen nach Recoaro zur Kur führten, was <persName>Bettio</persName> als sein Vorgesetzter ungern,
+                        aber meist doch tolerierte; (<hi rend="italic">Zorzi</hi>).</p></note>. Die Bibliotheksarbeit fällt so auf <persName>Bettio</persName>, einen Distributor<note type="comment" place="bottom"><p> Nach dem Tode <persName>Boaras</persName> war 1836 Giovanni Battista <persName>Lorenzi</persName> als neuer Distributor
+                        eingestellt worden; (<hi rend="italic">Zorzi</hi>).</p></note>, dessen Beförderung zum Vizebibliothekar wünschenswert wäre, und einen taubstummen Aufkehrer<note type="comment" place="bottom"><p> Der „spazzino sordomuto”
+                        Sebastiano <persName>Pasetti</persName> (*1769) war Sohn
+                        Gaetano <persName>Pasetti</persName>s, Distributor unter <persName>Morelli</persName>. Er wurde 1810 auf Antrag <persName>Morelli</persName>s zum „assistente in qualita di
+                        scopatore“ eingestellt und hatte auch in der Gehaltsaufstellung einen
+                        eigenen Posten (208 Gulden im Jahr); (<hi rend="italic">Zorzi</hi>).</p></note> zurück. – Die Verspätung seiner Antwort rechtfertigt <persName>Bettio</persName> mit den Schwierigkeiten beim Auffinden der fünf genannten Werke, die <persName>HP</persName> von Baron <persName>Henikstein</persName><note type="comment" place="bottom"><p> Alfred Freiherr
+                            <persName>von</persName> <persName>Henikstein</persName> (1810–1882), Bruder von HPs Gattin <persName>Caroline</persName>, schlug eine militärische Laufbahn ein und erwarb sich
+                        besondere Ehren in den Kriegen 1848/49; (<hi rend="italic">Wurzbach</hi>).</p></note> überbracht werden<note type="comment" place="bottom"><p> Offensichtlich
+                        besorgte <persName>Henikstein</persName> seinem Schwager HP
+                        öfters Material aus Venedig, wie aus einer Notiz in den Erinnerungen
+                        hervorgeht, die darüber berichtet, wie Alfred 1842 Abschriften von
+                        venezianischen Archivalien zu Kardinal <persName>Khlesl</persName> (unter Bezahlung des Archivars) für HP organisierte; (<hi rend="italic">BE</hi>).</p></note>. <persName>Bettio</persName> wiederholt die Klage über die schlechten Arbeitsbedingungen, seine nach einem Sturz im vorangegangenen April noch nicht voll wiederhergestellte Gesundheit und schließt mit Grüßen an <persName>HP</persName>s Sohn<note type="comment" place="bottom"><p> Es handelt sich um
+                        Maximilian, der HP auf seiner Reise 1844 begleitete; das Kapitel 11.5.3 „Die
+                        (dritte) Reise nach Mailand (mit Max) und der Herbst in Hainfeld – 1844“;
+                        in: Walter Höflechner u.a.; <hi rend="italic">Joseph von Hammer-Purgstall
+                            1774–1856 Ein Altösterreichisches Gelehrtenleben Eine Annäherung; Graz
+                            2021, Bd 2</hi>
+                        <ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>.</p></note>.
+                   </p></div><div type="letter" subtype="original"><opener><salute>Chiar[issi]mo Sig[nor] Cavaliere Barone</salute></opener><p>Ecco la esatta trascrizione della Epigrafe al
+                        <persName>Petrarca</persName>.</p><p>QVIETE. H. FRVENS. V. CL. PETARCHA</p><p>OTII. DIV. COM. PARI. IOH. BOCCACCIO. E. DOMO. S. C. ADEPTA</p><p>AEQVOR. ADRIAE. OLIM. DOM[I]NAE. DIVIT. INVALESCENTES</p><p>MERCE. QUALIB. EXT. APPELLENTE. ASPECTABAT</p><p>Liberiamola dalle Sigle capricciose, e dalle abbreviature irregolari. „Quiete
+                        hac fruens [honesta] Vir clarissimus Franciscus Petrarcha Otii diu comite
+                        pari Iohanne Boccaccio, e domo Senatus Consulto adepta aequore<note type="comment" place="bottom"><p> Recte aequoris !</p></note> Adriae,
+                        olim dominae, divitias invalescentes, merce qualibet extera, appellente,
+                        aspectabat.”</p><p>Si legga senza costruzione figurata (ovvero guastata).</p><p>„Vir clarissimus Franciscus Petrarcha, otii diu comite pari Iohanne
+                            <persName>Boccaccio</persName>, fruens hac quiete e domo Senatus Consulo
+                        adepta, aspectabat divitias invalescentes merce qualibet extera, acquore
+                        Adriae (olim Dominae) apellente.</p><p>Ora si metta in lingua italiana: „Il chiarissimo uomo Francesco
+                            <persName>Petrarca</persName>, godendo di questa quiete, ed avendo per
+                        lungo tempo a compagno il suo pari Giovanni <persName>Boccaccio</persName>
+                        dell’ozio istesso, da questa casa, ottenuta per decreto del Senato, ammirava
+                        le ricchezze, le quali prendevano sempre più forza da qualunque merce
+                        straniera, spinta dalla onde del Golfo d’Adria, un tempo Padrona.”</p><p>L’Autore è Antonio <persName>Magnana</persName> Paroco attuale della Chiesa
+                            di <choice><abbr>Sa</abbr><expan>Santa</expan></choice> Maria de’Giubenichi volgarmente Zobenigo. In tutte le sue
+                        epigrafi è intralciato ed oscuro: usa l’arbitrio di sigle non consacrate ed
+                        usate nelle epigrafi antiche. Di più gli accorciamenti delle parole sono
+                        irregolari, per es<supplied>e</supplied>mpio divitias essendo il sostantivo doveva essere
+                        intero, e non divit. Egualmente comite e non com. Perché porre V. Clar. al
+                        Petrarca? Cuius Homer<supplied>us</supplied> suctis<note type="comment" place="bottom"><p>
+                                „suctis“ unter der Zeile eingefügt; Lesung unsicher.</p></note>.</p><p>Passiamo alle altre cose. L’opera mostratale quando mi onorò alla Biblioteca
+                        è del Quadrio, intitolata: Storia e ragione di ogni poesia. Bologna,
+                        1739–1752 T[omi] VII. in 4°. Nell’ultimo Volume c’è l’Indice generale.
+                        Osservi alla pag[ina] 306 le voci Accademia ed Accademici.</p><p>Le faccio tenere le Opere desiderate, delle quali non fu possibile ritrovare
+                        quella del Catena, Discorso sopra la cognizione delle Scienze e di altre
+                        Facoltà. 8°. Venezia, 1581. Mi riuscì però il ritrovamento delle
+                        seguenti.</p><p>1. Cavalcanti. Retorica, f°. Venezia, Giolito, 1559 £ 9.</p><p>2. Speroni. Dialoghi. 8°. Venezia, Aldo, 1544 „ 3.</p><p>3. Mascardi. Arte isterica. 12°. Venezia, 1574 „ 2.</p><p>4. Manuzio Paolo. Lettere volgari. 8°. Venezia, Aldo, 1560 „ 3.</p><p>5. da Longiano Fausto. Dialogo. 8°. Venezia, 1556 „ 3.</p><p> £ 20.</p><p>Le unisco il Fascicolo XIX delle Iscrizioni venete raccolte </p><p>dal bravo nostro Cigogna £ 4.</p><p>Totale £ 24.</p><p>Sappia, che della sua sostanza in soldo mi avanzano £ 34, delle quali le
+                        resto debitore.</p><p>Il Sig[nor] <persName>Romanini</persName> poi le offre il Volume III° delle
+                        sue Istorie dei Popoli Europei, aggiungendovi il rispettoso suo ossequio.
+                        Amarebbe egli sapere, se Ella 1°. abbia stampato una Vita di Maometto, e se
+                        no, quale Vita sia la migliore. Di più sembra al
+                            <persName>Romanini</persName>, ch’Ella abbia stampato qualche cosa
+                        sull’influenza degli Arabi per la civilizzazione degli Europei.</p><p>Può ben Ella assicurarsi quanto le sia obbligatissimo per le notizie
+                        favoritemi intorno alla mia persona giunta si può dire alla fine della vita,
+                        avendo incominciato l’anno settantasette, e compito nel dì sedici
+                        dell’andante Agosto il cinquantesimo del mio servizio continuato in questa
+                        Marciana. Le devo dire, che trattai il Nob[ile] Sig[nore] Cav[aliere]
+                            Antonio<note type="comment" place="bottom"><p> Danach wiederholt
+                                „Antonio“.</p></note>
+                        <persName>di Plappart</persName> Cons[igliere] Aul[ico] presso il
+                        Trib[unale] Supremo di Giustizia.</p><p>Da due mesi morì uno dei Distributori dei Libri presso questa Biblioteca dopo
+                        il fedele ed attivo servizio di 33 anni. Un mese dopo mori il mio
+                        Coadjutore. Ora è aperto il concorso pel rimpiazzo di ambedue. Il
+                        Vicebibliotecario per incommodo Epato enterico ha bisogno delle acque di
+                        Recoaro in loco. La Biblioteca è quindi appoggiata a me, ad un valente
+                        Distributore de’Libri (che sarebbe addattissimo e l’unico pel posto di
+                        Coadjutore) ed allo Spazzino Muto-sordo. Dio sa chi sarà surrogato ai due
+                        posti? Pazienza!</p><p>Devo giustificare il mio ritardo. Prima di tutto mi riuscì difficile il
+                        rinvenire le cinque Opere, che riceverà col mazzo del Sig[nor] Colonello al
+                        Genio Nob[ile] Barone <persName>de Henikstein</persName><note type="comment" place="bottom"><p> A.: Hennigstein.</p></note>. La sesta opera del
+                            <persName>Catena</persName> non mi fu possibile ritrovarla. Avrolla
+                        presente. In secondo luogo, nell’Aprile spirato cadetti, e contrassi una
+                        lussazione al piede sinistro, per la quale guardai il letto, e poscia la
+                        stanza con l’ajuto del bastone. Fu lungo l’incommodo. Mi sono però riavuto,
+                        sofferendo un pochino alle mutazioni atmosferiche. Ora poi la morte di due
+                        Impiegati, e la poca salute del mio Vice-Bibliotecario mi costituirono solo.
+                        Ecco la limitata posizione del nostro personale!</p><p>Ella non si stanchi di conservarmi la sua benevoglienza. Mi ricordi
+                        all’ottimo e bravissimo suo Figliuolo, e con la dovuta ossequiosa
+                        estimazione mi creda</p><closer><salute>Di Lei Chiariss[i]mo Sig[nor] Barone Osseq[uiosissi]mo Obbligat[issi]mo
+                        Serv[ito]re</salute><signed>P[ietro] <persName>Bettio</persName></signed><dateline>Venezia 18 Agosto 1845.</dateline></closer></div></body></text></TEI>

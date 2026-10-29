@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2864"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>May 10 1823 London</dateline><salute>My dear Sir,</salute></opener><p>I<note type="comment" place="bottom"><p> Für Hilfe bei der Transkription
+                                dieses Briefes sei Herrn Ao.Univ.-Prof.i.R. Dr. Walter
+                                    <persName>Bernhart</persName> herzlich gedankt.</p></note> have
+                        written to you four times since I had the pleasure of enjoying your
+                        instructive and agreeable society at Vienna; one from Naples thanking You
+                        for the Review of Mr. <persName>Knight</persName>s<note type="comment" place="bottom"><p> Henry Gally <persName>Knight</persName>, F.R.S.
+                                (1786–1846) war ein britischer Politiker, Reisender und
+                                Schriftsteller. Im Parlament war er ein gewandter, aber seltener
+                                Redner. Er war auch Mitglied der Kommission zur Förderung der
+                                schönen Künste. <persName>Knight</persName> war Gegenstand des
+                                satirischen Gedichts <hi rend="italic">„Ballad to the Tune of Salley
+                                    in our Alley“</hi> von Lord <persName>Byron</persName> aus dem
+                                Jahr 1818, in dem <persName>Byron</persName> ihn scherzhaft
+                                beschuldigt, nicht nur ein Poetaster, sondern auch ein Dandy zu
+                                sein. <persName>Knight</persName> war der Autor mehrerer
+                                orientalischer Erzählungen, <hi rend="italic">Ilderim, eine syrische
+                                    Erzählung (1816)</hi>, <hi rend="italic">Phrosyne, eine
+                                    griechische Erzählung, und Alashtar, eine arabische Erzählung
+                                    (1817)</hi>. Er war auch eine Autorität auf dem Gebiet der
+                                Architektur und schrieb verschiedene Werke zu diesem Thema, darunter
+                                    <hi rend="italic">Hannibal in Bithynia, An architectural tour in
+                                    Normandy (1836)</hi>, <hi rend="italic">The Normans in Sicily
+                                    (1838)</hi>, und <hi rend="italic">The Ecclesiastical
+                                    Architecture of Italy (1842-4)</hi>, das von
+                                    <persName>Pevsner</persName> als <hi rend="italic">„üppig
+                                    illustrierte Fortsetzung von The Normans in Sicily“</hi>
+                                beschrieben wurde. Diese Bücher brachten ihm mehr Ansehen ein als
+                                seine Romane; (<hi rend="italic">Wikpedia, englisch</hi>). Im SAH
+                                befindet sich ein Brief an HP datiert mit 15. Juli 1836.</p></note>
+                            work<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Eastern Sketches in Verse. By Henry Gally Knight,
+                                    Esq. Second Edition, London 1819</hi>; in: <hi rend="italic">Anzeigeblatt der Wiener Jahrbücher der Literatur Band 11 (1820)
+                                    36 und 37.</hi></p></note>. The second time from London by Mr
+                            <persName>Bligh</persName><note type="comment" place="bottom"><p> Ein Mr
+                                    <persName>Bligh</persName> ist laut <hi rend="italic">Wiener
+                                    Zeitung</hi> vom 30.8.1819 am 27. August aus London angekommen
+                                und hat Wien am 26. September 1819 verlassen (<hi rend="italic">WrZ.28.9.1819</hi>). Eventuell ein Verwandter von
+                                    <persName>Vane</persName>s erster Gattin.</p></note> a young
+                        Gentleman attached to Lord <persName>Stewart</persName>s<note type="comment" place="bottom"><p> Charles William <persName>Vane</persName>, 3.
+                                Marquess of Londonderry, KG, GCB, GCH, PC (geboren als Charles
+                                William <persName>Stewart</persName>; 1778–1854), war ein
+                                anglo-irischer Adliger, britischer Soldat und Politiker. Als er 1812
+                                von seinem Posten unter Wellington zurücktrat, verhalf ihm sein
+                                Halbbruder Lord <persName>Castlereagh</persName> zu einer
+                                diplomatischen Karriere. Er wurde 1813 nach Berlin und anschließend
+                                als Botschafter nach Österreich entsandt, wo sein Halbbruder der
+                                britische Bevollmächtigte auf dem Wiener Kongress war. 1804
+                                heiratete er Lady Catherine <persName>Bligh</persName> (1774–1812)
+                                und 1819 Lady Frances Anne <persName>Vane</persName>, eine reiche
+                                Erbin, und änderte seinen Nachnamen in ihren, so dass er nun Charles
+                                    <persName>Vane</persName> statt Charles
+                                    <persName>Stewart</persName> hieß. Im Jahr 1822 trat er die
+                                Nachfolge seines Halbbruders als 3. Marquess of
+                                    <persName>Londonderry</persName> an und verließ nach dem
+                                Selbstmord seines Halbbruders 1823 den diplomatischen Dienst; (<hi rend="italic">Wikipedia, englisch</hi>).</p></note> embassy, the
+                        third time by an English Gentleman who, I fear, did not pass by Vienna and
+                        therefore I have little hope, that you received this letter. The fourth I am
+                        sure you did not receive. It was to thank you for your very elegant
+                        illustration of the Papyrus<note type="comment" place="bottom"><p> HP, <hi rend="italic">Copie figurée d’un rouleau de papyrus trouvé en
+                                    Égypte, publiée par M. Fontana, et expliquée par M. de H; mit 1
+                                    Tafel, Wien 1822</hi>.</p></note>. I took it myself to Prince
+                            <persName>Esterhazy</persName><note type="comment" place="bottom"><p>
+                                Paul III. Anton <persName>Esterházy de Galantha</persName>
+                                (1786–1866) von 1815–1842 österreichischer Botschafter in
+                                Großbritannien.</p></note> – requested it might be sent in his bag;
+                        to my great surprise it was returned some months after. As not franked and
+                        therefore not sent beyond the frontier<note type="comment" place="bottom"><p> Dies ist keine ungewöhnliche lamentatio – auch Erzherzog
+                                    J<persName>ohann</persName> wartete Monate auf, Post aus London,
+                                die im Wege der Botschaft laufen sollte.</p></note>.</p><p>I hope I shall have more success with this letter, which I shall endeavour to
+                        send by our Ambassador. I [return] you my sincere thanks for your kind
+                        present of your interesting memoir on Count
+                            <persName>Purgstall</persName><note type="comment" place="bottom"><p>
+                                HP, <hi rend="italic">Denkmal auf das Grab der beyden letzten Grafen
+                                    von Purgstall, Wien 1821</hi>.</p></note>. I am very sorry, that
+                        my imperfect knowledge of German prevents me from enjoying this work as much
+                        as I should do were I able to pr[…] it with facility; but even with this
+                        disadvantage I have been able to do justice to your eloquent tribute to the
+                        virtues and talent of a highly gifted and [most] unfortunate family. Such
+                        talents and virtues the fairest flowers[?] of the […] are also usually the
+                        most liable to the blighted.</p><p>You will, I am sure, have heard with great delight of Lord
+                            <persName>Ashburton</persName>s legacy of 8000 £ to our excellent friend
+                        Countesse <persName>Purgstall</persName><note type="comment" place="bottom"><p> Siehe dazu Walter Höflechner u.a.<hi rend="italic">; Joseph von
+                                    Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                    Gelehrtenleben Eine Annäherung; Graz 2021, Bd 1, S. 646
+                                    </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>). – Es handelt sich
+                                wohl um Alexander <persName>Baring</persName>, 1st Baron
+                                    <persName>Ashburton</persName> (1774–1848), einen britischen
+                                Politiker und Banker aus deutscher Familie; (<hi rend="italic">Wikipedia</hi>).</p></note>. Pray, when you see her or write to
+                        her, say that both Lady <persName>Davy</persName> and myself remember her
+                        with the deepest interest and regard.</p><p>I wish she could be prevailed on to pay a visit to her native land. I think
+                        it would be useful to her in many ways.</p><p>I fear I have very little chance of revisiting the Austria–Dominions. My
+                        selection[?] as President of the Royal Society calls for a considerable
+                        devotion of time and I think it my duty not to take it a mere part of
+                        honour. –</p><closer><salute>I wish any thing may occur to bring You to England. It would give me
+                        much pleasure to see You. You understand our language so well, You would, I
+                        think, enjoy London, which is immensely impressive and our [social life]. I
+                        am, my dear Sir, very sincerely yours</salute><signed>H[umphry] <persName>Davy</persName></signed></closer></div></body></text></TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_552"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Vienne ce 3 Mai [1]805</dateline></opener><p><salute><persName>Condrien</persName> étant parti, mon cher Ami,</salute>
+                        avant que les lents <persName>Voigtländer</persName><note type="comment" place="bottom"><p> Dies bezieht sich auf die 1756 in Wien von Johann
+                                Christoph <persName>Voigtländer</persName> begründete
+                                feinmechanische Werkstätte, die durch das erste, 1839 vom Wiener
+                                Mathematiker <persName>Petzval</persName> mathematisch berechnete,
+                                Präzisionsobjektiv („Porträt–objektiv“) von bis dahin ungekannter
+                                Lichtstärke berühmt geworden ist. </p></note> ayant achevé votre
+                        compas, je n’ai pu vous l’envoyer avec ce courrier, ainsi ce sera avec les
+                        autres livres que vous le recevrez<note type="comment" place="bottom"><p> A:
+                                receverés </p></note>, lesquels ne sont pas encore reliés, et
+                        quelques-uns même pas fournis par <persName>Schalbacher</persName>, qui les
+                        a commandés à Prague. Aussitôt que j’aurai tout ce que vous m’avez<note type="comment" place="bottom"><p> A: avés</p></note> demandé, j’en ferai
+                        l’expédition par un chariot à Trieste, et de là par la mer; c’est la voie la
+                        plus sûre et la plus prompte. J’ai payé aujourd’hui à M[essieu]rs
+                            <persName>Oeconomus</persName> la somme de f[lorins] 240.- pour la somme
+                        les trois cents piastres que vous avez<note type="comment" place="bottom"><p> A: avés</p></note> reçues de <persName>Stöckl</persName>.
+                        J’attends votre quartier de <persName>Dombay</persName>, pour vous décharger
+                        de cette dette, ainsi que de celle provenant des achats de différen[t]s
+                        livres, et d’autres sommes dont je vous ai assigné le paiement<note type="comment" place="bottom"><p> A: payment</p></note> à
+                        Cons[tantino]ple, ainsi que le contiendra le compte que je vous enverrai
+                        dans son temps. – J’ai trouvé enfin une mauvaise traduction italienne du
+                        Télémaque, mais qui sera assez bonne pour la personne dont vous parlez<note type="comment" place="bottom"><p> A: parlés</p></note>. Elle est aussi
+                        chez le relieur. – M. le B[a]r[on] <persName>de Testa</persName> vous
+                        remettra le Taschenbuch de <persName>Pichler </persName>dans lequel je n’ai
+                        rien trouvé de votre cru, à moins que ce ne soient quelques traductions de
+                        l’anglais qui ne m’aient<note type="comment" place="bottom"><p> A:
+                            ait</p></note>pas, à la vérité, beaucoup plu. C’est Léon qui m’a dit que
+                        vous en étiez<note type="comment" place="bottom"><p> A: étiés</p></note>
+                        l’auteur. A propos d’auteur, Je vous plains de tout mon cœur d’avoir été
+                        celui d’encyclop[ädischen] Uebersicht depuis que j’ai lu la critique
+                        contenue dans la gazette littéraire dite allgemeine<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Allgemeine Literatur-Zeitung, Nr. 295, 15. Oktober
+                                    1804, S. 114 ff</hi>; <ref target="https://digipress.digitale-sammlungen.de/view/bsb10502036_00069_u001/1">https://digipress.digitale-sammlungen.de/view/bsb10502036_00069_u001/1</ref>
+                            </p></note>. L’auteur de cette critique, plus savant de beaucoup que
+                        celui de la Jenaer, n’a cherché qu’à faire parade de sa science en relevant
+                        les moindres défauts, sans presque parler de grand mérite, et de la
+                        nouveauté de l’ouvrage<note type="comment" place="bottom"><p> Genau das hat
+                                Johannes <persName>Müller</persName> in seiner Besprechung
+                                hervorgehoben: <hi rend="italic">„</hi>… <hi rend="italic">dem
+                                    ohngeachtet, welch ein Werk! Und auf dem ungebahnten Weg wie
+                                    weit! Wo hat eine Nation hierüber mehr oder so viel? Aber bei
+                                    uns ist oft Sitte </hi>[…] <hi rend="italic">das Verdienst des
+                                    Ganzen zu übersehen</hi>“ – eine Feststellung, die bezüglich HPs
+                                Wirken insgesamt im Auge zu behalten ist.</p></note> ; mais au moins
+                        je le préfère à l’autre en ce qu’il est réellement plus savant, et plus
+                        profond critique quoi qu’il ait aussi, à mon avis, commis quelques grosses
+                        bévues en philologie. Je vous assure, mon cher ami, qu’il vaut mieux
+                        aujourd’hui, être critique qu’auteur ; sacrifier des années entières de
+                        travail pour être jugé d’après le caprice d’un sévère Zoïle ? Ne vaut-il pas
+                        mieux de se faire payer un tant par ligne par ces Messieurs de Jéna, ou de
+                        Halle, et se moquer impunément des meilleurs auteurs ? – L’horloger
+                            <persName>Steiner </persName>m’a fait dire, qu’il n’avait rien à
+                        répondre à la lettre que vous m’avez<note type="comment" place="bottom"><p>
+                                A: avés</p></note> envoyée pour lui. -Voici la réponse à votre
+                        commission pour la tapisserie : 1 Rolle Papiergalerie, 14 Ellen lang, und ¾
+                        Ellen breit kostet, die grauen, und chamois Farben zu f[lorins] 3.- die
+                        grünen und blauen Farben von f[lorins] 4.- bis 5.-. Die Rollen, und zwar die
+                        blauen f[lorins] 5.- und die grünen und gelben f[lorins] 4.- die Bordüren
+                        kosten die Elle von 2 Kr[onen] an bis auf 2[florins], um 40 bis 50x4 die
+                        Elle kann man eine sehr schöne haben. – Me voilà à la fin de mon papier, et
+                        de tout ce que j‘avais à vous dire.- Pressé au reste par mille affaire[s],
+                        je finis en vous embrassant de tout mon cœur.</p><closer><salute>Votre Ami</salute><signed>Chabert</signed></closer></div><div type="letter" subtype="translation"><p>Wien, 3. Mai 1805</p><p>Da <persName>Condrien</persName> abgereist ist, mon cher Ami, bevor die
+                        langsamen <persName>Voigtländer</persName> Ihren Kompass fertig hatten,
+                        konnte ich ihn Ihnen nicht mit diesem Kurier schicken, so werden Sie ihn mit
+                        den anderen Büchern bekommen, die noch nicht gebunden sind und einige sogar
+                        noch nicht von <persName>Schalbacher</persName> geliefert wurden, der sie in
+                        Prag bestellt hatte. Sobald ich alles, was Sie von mir verlangten, haben
+                        werde, werde ich es mit einem Wagen nach Triest und von dort über das Meer
+                        schicken; das ist der sicherste und schnellste Weg. Ich habe heute an die
+                        Herren <persName>Oeconomus</persName> die Summe von 240.- Gulden für die
+                        Summe von 300.- Piaster, die Sie von <persName>Stöckl</persName> bekommen
+                        haben, bezahlt. Ich warte auf Ihr Quartal von <persName>Dombay</persName>,
+                        um diese Schuld zu begleichen ebenso wie jene der Käufe verschiedener Bücher
+                        und anderer Summen, deren Bezahlung ich Ihnen nach Konstantinopel mitgeteilt
+                        habe, so wie es auf der Rechnung steht, die ich Ihnen beizeiten schicken
+                        werde. – Ich habe schließlich eine schlechte Übersetzung des „Telemarchs“
+                        gefunden, die aber gut genug für die Person sein wird, von der Sie sprechen.
+                        Sie ist auch beim Buchbinder. – Der Herr Baron <persName>von
+                            Testa</persName> wird Ihnen das „Taschenbuch von Pichler“ übergeben, in
+                        dem ich nichts von dem, was Sie glaubten, gefunden habe, sofern es nicht
+                        einige Übersetzungen aus dem Englischen sind, die mir tatsächlich nicht sehr
+                        gefallen haben. <persName>Léon</persName> hat mir gesagt, dass Sie der Autor
+                        waren. Apropos Autor, ich bedaure Sie von ganzem Herzen, jener des
+                        „Enzyklopädischen Übersicht“ gewesen zu sein, seitdem ich die Kritik in der
+                        „Allgemeinen Literatur-Zeitung gelesen habe. Der Autor dieser Kritik, der
+                        viel gelehrter als jener der Jenaer (Literatur-Zeitung) ist, hat nur
+                        versucht, angesichts seines Wissens zu glänzen, indem er die geringsten
+                        Fehler hervorhob, ohne nahezu vom großen Verdienst und von der Neuartigkeit
+                        des Werkes zu sprechen; aber ich bevorzuge diesen Kritiker gegenüber dem
+                        anderen, da er wirklich gelehrterer und tiefgründiger ist, obwohl er auch
+                        meiner Meinung nach einige große philologische Fehler gemacht hat. Ich
+                        versichere Ihnen, mon cher ami, dass es heute besser ist, Kritiker als Autor
+                        zu sein. Soll man ganze Jahre der Arbeit zu opfern, um nach der Laune eines
+                        strengen boshaften Kritikers beurteilt zu werden? Ist es nicht besser, sich
+                        ein klein wenig pro Zeile von diesen Herren aus Jena oder aus Halle bezahlen
+                        lassen und sich unbestraft über die besten Autoren lustig machen? </p><p>Der Uhrmacher <persName>Steiner</persName> hat mir sagen lassen, dass er
+                        nichts auf den Brief, den Sie mir für ihn geschickt haben, zu antworten
+                        habe. – Hier ist die Antwort auf Ihren Auftrag für die Tapisserie: 1 Rolle
+                        Papiergalerie, 14 Ellen lang und ¾ Ellen breitet, kostet, die grauen und
+                        chamois Farben 3.- Gulden, die grünen und blauen Farben 4 bis 5 Gulden. Die
+                        Rollen, und zwar die blauen, 5 Gulden und die grünen und die gelben 4
+                        Gulden. – Die Bordüren kosten die Elle von 2 Kronen an bis 2 Gulden, um 40
+                        bis 50 x 4 die Elle kann man eine sehr schöne haben.- </p><p>Hier bin ich am Ende meines Papiers und von allem, was ich Ihnen zu sagen
+                        habe. Ich bin durch tausend Dinge in Eile und umarme Sie von ganzem
+                        Herzen.</p><p>Ihr Freund</p><p>Chabert</p></div></body></text></TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1085"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Wien den 28 April [1]810</dateline></opener><p>Ich hoffe, lieber Bruder, mein Brief findet Sie gänzlich hergestellt,
+                        gänzlich rüstig und frei von all die verdrießlichen<note type="comment" place="bottom"><p> A: verdrüßlichen.</p></note> Dinge, die Sie bis auf‘s
+                        Krankenlager brachten. Paris scheint Ihnen wirklich in wenig Rücksichten zu
+                        taugen, nur Ihr Gelehrter[-]Ruhm und Ihr Glück unter Eros Hafen<note type="comment" place="bottom"><p> Dies könnte sich auf Helmina
+                                    <persName>de Chezy</persName> beziehen.</p></note> mag Sie für
+                        das übrige drückende und unangenehme schadlos halten. Ich danke Ihnen für
+                        die Einschlüsse, sie unterhalten mich immer sehr, besonders dadurch, daß
+                        einige unter ihnen sind die ihre Reise wieder zurück machen mußten und von
+                        denen die Schreiberin[n]en so gar nicht vermuten, daß ich sie einmal sehen
+                        könnte. </p><p>Die Muster von zweierlei Arten eines gewissen Tones waren mir nicht neu , ich
+                        kenne ja den Ton der auf meinen Bruder wirkt, seit ich <hi rend="underline">ihn</hi> näher kennen, aber je öfter ich ihn höre, um so mehr verliert
+                        er; er hat für mein Ohr die Wirkung der Trüff[e]l für meine Zunge; mein
+                        Bruder liebt beides, ich keines, aber ich streite nie über Sachen des
+                        Geschmackes und finde es sehr natürlich, daß Sie an so etwas gewohnt sind.
+                        Wäre es doch wahr, was man hier so allgemein glaubt, wäre doch die
+                        geistvolle muntere F[rau] Fr. ihre Geliebte. Schwester Maria sah ich noch
+                        nicht, aber mir ist’s auch natürlich, daß sie Ihre Ankunft erwartet, denn
+                        sie ist hier zu Hause. Schwager Ficht<persName>[Fichtenau</persName>?]<note type="comment" place="bottom"><p> HPs Schwester
+                                    <persName>Maria Barbara</persName> hatte am 20.02.1810 Vinzenz
+                                    <persName>Jellouschek von Fichtenau</persName>
+                            geheiratet.</p></note> hat jetzt in Wien eine Anstellung und sie werden
+                        hier wohnen bleiben. Mich freut das sehr, ich hoffe mir die Freundschaft
+                        meiner Schwester in der Folge zu erwerben. Gestern waren wir zu Weidling um
+                        zu sehen, wer das Haus kaufen würde, es war Licitation. Es ward um 9000
+                        ausgerufen, aber niemand bot darauf, es ist zu teuer. Der neue Richter
+                        schätzte es so hoch vermutlich aus Freundschaft für uns, den sie waren in
+                        der gewissen Überzeugung mein Vater würde es kaufen und sperrten nun Augen
+                        und Maul auf, da er ganz ruhig zusah, ohne zu bieten. Nun wird es nochmal
+                        versteigert und geht’s noch nicht so mieten wir es wieder über Sommer, oder
+                        wenn es wohlfeiler wird so kauft es mein Vater. <unclear>7100</unclear> will er geben. Ich
+                        hatte Blumen mit herab gebracht und wollte Ihnen einige schicken, aber da
+                        kam mir ohngefähr einer der 7 Einschlüsse vor die Augen, und ich ließ die
+                        Blumen da, denn sie würden in Paris doch eine lächerliche Figur gemacht
+                        haben. Was ich von <persName>D[Dombay]</persName> erfahren konnte ist, daß
+                        es ihn reue mit Ihnen und gegen Sie so gehandelt zu haben, besonders als ihm
+                        der <persName>O[Ottenfels</persName>?] sagte, als er sich einmal beklagte,
+                        sehen Sie, so würde H[H<persName>ammer</persName>] sich nicht gegen gegen
+                        Sie betragen haben. Ich wünschte herzlich, ich könnte doch etwas mehr als
+                        nur rapportieren<note type="comment" place="bottom"><p> A:
+                            rarportiren.</p></note>, denn das fatale Ja will mir gar nicht gefallen.
+                        Der Brief nach Graz ist richtig besorgt, ich habe ihn rekommandiert wie
+                        gewöhnlich, und vergass immer, Ihnen zu sagen, daß einer von Ihrem lieben
+                        Vater seit Ihrer Abreise bei mir liegt. Ich hätte ihn schon hinein
+                        geschickt, aber Sie wissen den Inhalt durch einen späteren Brief [von] ihm
+                        und sollen den Brief nebst allen bis nun [ge]schickten Einschlüssen bei
+                        Ihrer Rückkunft haben. Wenn wir nicht mehr hier sind, wenn Sie wiederkommen,
+                        so erhalten Sie Schlüssel und alles übrige durch unsere Köchin und mit
+                        Kommissionen und Einkauf, wenn ich nicht mehr da bin, versteht sich, wenden
+                        Sie sich an unseren Comis Vinzenz <persName>Grünwald</persName>!
+                            <salute>Adieu, lieber Bruder, meine besten Wünsche für Ihre Gesundheit,
+                            Geschäfte und ---- Vergnügen , und viel Schönes von Vater und Mutter und
+                            meiner Freundin <persName>Schosulan</persName>.</salute></p></div></body></text></TEI>

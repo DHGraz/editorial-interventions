@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2378"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>Bettio</persName> hat sein Paket an <persName>HP</persName> an eine falsche Adresse geschickt, die er einem Brief <persName>Münter</persName>s an <persName>Morelli</persName> Möglicherweise handelt es sich um das zitierte
+                            Schreiben Münters vom 19.01.1819. Morelli war am 05.05.1819
+                            gestorben, sein langjähriger Mitarbeiter Bettio hat die Geschäfte
+                            weitergeführt. entnommen hatte. Durch den Gouverneur Peter Goess
+                            (1774–1846) wurde 1819 als Gouverneur von Venedig abberufen. Ihm folgte
+                            – allerdings erst nach 1823 – Karl Borromäus Inzaghi (1777–1856) nach, der
+                            bis dahin Gouverneur in Laibach gewesen war. Nach dem Tod Mittrowskys
+                            wurde Inzaghi Oberster Kanzler der Vereinigten Hofkanzlei,
+                            zusätzlich war er Präsident der Studienhofkommission; (Wurzbach). Am Ende des Jahres 1819 dürfte mit „Gouverneur“
+                            jedoch noch Goess gemeint gewesen
+                    sein. hat <persName>Bettio</persName> zwei Werke <persName>HP</persName>s Es kann angenommen werden, bei den
+                            genannten Werken handle es sich um: „Zeichnungen auf
+                                einer Reise von Wien über Triest und Venedig und von da zurück nach
+                                Tirol im Jahre 1798.“ Berlin 1800 (anonym), und „Topographische Ansichten, gesammelt auf einer Reise
+                                durch die Levante.“ Wien 1811. Diese beiden Werke sind die
+                            einzigen vor 1819 erschienenen Monographien HPs, die im Katalog der BMV
+                            aufscheinen.
+                     erhalten. Außerdem dankt er diesem für seine Fürsprache bei Graf <persName>Saurau</persName>.</p><p>Die <persName>HP</persName> zugeschickten Bücher<note type="comment" place="bottom"><p> Es ist nicht
+                        eruierbar, um welche Werke es sich
+                    handelt.</p></note> entstammen allesamt <persName>Bettio</persName>s oder <persName>Morelli</persName>s Privatbibliothek. Eine Ausnahme bildet das Buch von <persName>Gemelli</persName><note type="comment" place="bottom"><p> Gemelli-Careri Francesco, <hi rend="italic">Giro del mondo del dottor Francesco Gemelli-Caceri;
+                            Venezia 1719</hi>.</p></note>,
+                    das aber billig zu erstehen war.</p><p><persName>Bettio</persName> bittet <persName>HP</persName> um die Liste jener italienischen Bücher, die er für seine Osmanische Geschichte<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte des Osmanischen Reiches; Vol I–X, Pest
+                            1834–35</hi>.</p></note> benötigt, damit er sich darum bemühen kann.</p><p>Für die Bibliothek hat <persName>Bettio</persName> die Mines de l’Orient abonniert.</p><p>Eine Beilage berichtet über die technischen
+                    Details der Überstellung von zwei (oder wie andere behaupten, sechs) Galeonen,
+                    vier Fregatten und 25 Schiffen die Etsch hinauf nach Verona<note type="comment" place="bottom"><p>
+                        <persName>Kretschmayr</persName>
+                        berichtet von 25 Barken und sechs Binnengaleeren; Kretschmayr, <hi rend="italic">Geschichte von Venedig. Vol II: Die Blüte; Gotha 1920,
+                            347</hi>.</p></note> und von dort mittels einer mechanischen Konstruktion<note type="comment" place="bottom"><p> Den Ausführungen
+                        zufolge handelte es sich um Holzwagen mit
+                    Hebevorrichtung.</p></note> per Land weiter in den Gardasee (Corbole bei Peneda<note type="comment" place="bottom"><p> Diese Orte
+                        konnten nicht identifiziert werden. Ein Ort namens Torbole liegt am
+                        nördlichsten Ufer des
+                    Gardasees.</p></note>). Dieser Transport fand im Krieg des Jahres 1439 zwischen dem visconteischen Mailand (Truppenführer Niccolò <persName>Piccinino</persName>), und Venedig<note type="comment" place="bottom"><p> Es handelt sich um den dritten Krieg in der
+                        Konfliktphase zwischen Mailand und Venedig, in der zwischen 1426 und 1454
+                        die beiden Staaten mit ständig wechselnden Verbündeten (unter anderem Lucca,
+                        Florenz, den Malatesta von Rimini, den Gonzaga von Mantua) versuchten, ihre
+                        Expansionspolitik im östlichen Oberitalien voranzutreiben. Auf mailändischer
+                        Seite führte Niccolò <persName>Piccinino</persName> (+1444) das Heer an, auf Seiten Venedigs
+                        befehligte Erasmo <persName>de </persName><persName>Nardi</persName> (genannt
+                            <persName>Gattamelata</persName>, +1443) die Streitkräfte; (Kretschmayer, <hi rend="italic">Venedig II, 336–353, bes.
+                    347</hi>).</p></note> um Brescia und Peschiera statt. Mailand sann besonders gegen Paride di Lodrone<note type="comment" place="bottom"><p> Die Grafen <persName>Lodron</persName> waren
+                        ein edles Geschlecht aus Brescia, das Feudalhoheit über Bagolino besaß; (<hi rend="italic">ABI I 571, 118</hi>). <persName>Paride</persName> kämpfte 1438 als Condottiero
+                        an der Seite von Bartolomeo <persName>Colleoni</persName> in der Valcamonica gegen
+                        die Mailänder. Es gelang ihm nicht nur, das Tal zurückzuerobern, sondern
+                        auch, 1500 Gefangene zu machen; (<hi rend="italic">ABI II 330,
+                    33</hi>).</p></note> auf Rache. Das Unternehmen kostete 15 Dukaten<note type="comment" place="bottom"><p> Als Dukat
+                        (ducato) bezeichnete man ursprünglich eine Gold- oder Silbermünze, die unter
+                        der Regentschaft eines Dogen geprägt wurde. Man unterschied den seit
+                        etwa 1202 (Enrico <persName>Dandolo</persName>)
+                        geprägten „grosso“ aus Silber und den um 1284 (Giovanni <persName>Dandolo</persName>) erstmals geprägten
+                        Golddukaten, der seit der Mitte des 15. Jh.s Zecchino genannt wurde. Er
+                        entsprach zwei Lire und acht Soldi der
+                    Silberwährung.</p></note> und wurde von den Seeleuten <persName>Sorbole</persName> und Niccolò <persName>Carcavilla</persName><note type="comment" place="bottom"><p> Die beiden Namen scheinen
+                        nicht im ABI
+                    auf.</p></note> durchgeführt. Im Gardasee übernahm Pietro <persName>Zeno</persName><note type="comment" place="bottom"><p> Diese Nachricht ist bei <persName>Kretschmayer</persName>
+                        ebenfalls nicht belegt. Im 14. Jh. lebten zwei Admirale mit dem Namen Pietro
+                            <persName>Zeno</persName>, einer
+                        zog 1334 nach Negroponte, der andere wurde 1379 in der Schlacht von Pola
+                        gegen Genua gefangen; (<hi rend="italic">ABI II 684,
+                    302–303</hi>).</p></note>
+                das Kommando über die Schiffe.</p><p><persName>Bettio</persName>
+                übernimmt diesen Bericht von: <persName>Morosini</persName>, Istoria della città e repubblica di Venezia<note type="comment" place="bottom"><p> Morosini Paolo,
+                            <hi rend="italic">Istoria della Città e Reppublica di Venezia; Venezia
+                            1637</hi>.</p></note>. Zum selben Thema zitiert er auch: <persName>Sabellico</persName>, Storia Veneta (Bearbeitung von <persName>Lovisa</persName>, ediert von Apostolo
+                <persName>Zeno</persName>)<note type="comment" place="bottom"><p> Sabellico Marcantonio, <hi rend="italic">Rerum
+                            Venetarum Decades; Venetiis
+                    1487</hi>.</p></note>. Ebenfalls an das Ereignis gemahnt eine Malerei an der Decke der ehemaligen Sala del maggior Consiglio von Giacomo <persName>Robusti</persName>, genannt <persName>Tintoretto</persName><note type="comment" place="bottom"><p> Nach dem Brand im
+                        Dogenpalast 1577 wurde eine Neugestaltung der Räumlichkeiten durch
+                        programmatische Gemälde angeordnet, zu deren Ausführung Paolo <persName>Veronese</persName>,
+                        Francesco <persName>Bassano</persName>, Palma il giovane und Iacopo <persName>Tintoretto</persName> (1519–1594)
+                        beauftragt wurden. Konkret handelt es sich bei dem erwähnten Bild um die
+                        Darstellung des Sieges über Mailand auf dem Gardasee 1439, wobei der Name
+                        des Admirals Stefano <persName>Contarini</persName> lautet; (vgl. die Abbildung bei Wolters
+                        Wolfgang, <hi rend="italic">Der Bilderschmuck des Dogenpalastes; Wiesbaden
+                            1983, 202</hi>. Zu <persName>Tintoretto</persName> vgl. <hi rend="italic">DOA XXXI
+                        5–18</hi>).</p></note>.</p><p><persName>Coronelli</persName>, Viaggi<note type="comment" place="bottom"><p> Coronelli Vincenzo Maria, <hi rend="italic">Viaggio d’Italia in Inghilterra, descrizione geografico-historica
+                            sacro-profana;
+                    Venezia 1697</hi>.</p></note> gibt außerdem eine technisch detaillierte Beschreibung einer Hebevorrichtung für den Schiffstransport in Kanälen, wie sie etwa von den Venezianern zwischen dem Fluss Brenta und der Lagune bei Lizza Fusina eingesetzt wurde<note type="comment" place="bottom"><p> Fusina liegt
+                        südlich von Venedig. Die eigentliche Mündung der Brenta befindet sich
+                        südlich von Chioggia, weshalb vor der Schaffung des Brentakanals, der die
+                        Brenta bei Fusina mit der Lagune verband, die Schiffe bei Fusina an Land
+                        gebracht und von dort weiter verfrachtet wurden.
+                    </p></note>. Die Maschine gehörte der Patrizierfamilie <persName>Pesaro</persName><note type="comment" place="bottom"><p> Dieses ursprünglich aus der
+                        marchesanischen Stadt Pesaro stammende Geschlecht gehörte seit dem
+                        Mittelalter zum venezianischen Patriziat; (<hi rend="italic">ABI I 769,
+                            11</hi>).</p></note>. Der bei
+                    der Schaffung des Kanals entstandene Damm von Moranzano<note type="comment" place="bottom"><p> Moranzani liegt wenige
+                        Kilometer landeinwärts von Fusina am Brentakanal.</p></note>
+                unterstand zur Zeit
+                <persName>Coronelli</persName>s immer noch – wie der Carro selbst – der Hoheit dieses Geschlechtes.</p><p>Schlieβlich berichtet <persName>Bettio</persName> von den Ausführungen <persName>Laugier</persName>s<note type="comment" place="bottom"><p> Laugier Marco Antonio, <hi rend="italic">Histiore de
+                            la République de Venise; Paris
+                1759–60</hi>.</p></note> zum Krieg von 1439, denen er aber einheimische Darstellungen vorzieht.</p></div><div type="letter" subtype="original"><opener><salute>Chiarissimo Sig[nor] Consigliere.</salute></opener><p>M’incresce assaissimo che due soli mesi dopo la mia spedizione le siano
+                        ricapitati costà i libri che le spedii, e ciò colpa il mio indirizzo. Sappia
+                        che mi trasse in errore l’ultima Lettera scritta da M[onsigno]r
+                            <persName>Muenter</persName><note type="comment" place="bottom"><p> A:
+                                Münter.</p></note> al mio Chiariss[imo] Sig[nor] Ab[ate]
+                            <persName>Morelli</persName>. Devo renderle le mille e mille grazie dei
+                        distinti favori colli quali Ella si compiacque onorarmi. L’altro jeri
+                        ricevei col mezzo di S[ua] E[ccellenza] il Sig[nor] Co[nte] Governatore le
+                        di Lei due opere che mi riuscirono gratissime. La ringrazio poi sommamente
+                        delle graziose espressioni fatte a moi favore con S[ua] E[ccallenza] il
+                        Sig[nor] Co[nte] di <persName>Saurau</persName>. Ora mi trovo a fatto solo
+                        nella Biblioteca; cosicché sono aggravato dagli affari non avendo nemmeno
+                        uno scrittore, e nulla per ora posso fare o produrre.</p><p>Riguardo ai Libri che le ho ritrovati avrà dalla mia conosciuto che si
+                        trattava di piccole cosarelle o trovate nella privata Biblioteca del
+                        Cav[alier] <persName>Morelli</persName>, o nella mia, meno il
+                            <persName>Gemelli</persName>, che per la tenuità del prezzo non merita
+                        riflesso.</p><p>Massimo piacere Ella mi farà se voglia degnarsi di farmi avere la lista dei
+                        Libri Italiani delle opere relative alla Storia Ottomana, che le mancano; ed
+                        io mi presterò con tutto impegno per rinvenirli possibilmente; assicurandola
+                        che per obbedirla le indicherò i prezzi degli acquisti che andrò facendo per
+                        conto suo, affinché Ella non tralasci di commandarmi per tale riguardo.</p><p>Mancavano alla Biblioteca le Mines del’Orient, e ne feci l’acquisto con
+                        l’abbonamento per la continuazione, ed ebbi così la compiacenza di vedere le
+                        opere sue. Mi conservi intanto la sua buona grazia, e mi creda pieno di
+                        riconoscenza e di ripspetto. <salute>Di Lei Sign[nor] Consigliere
+                            Osseq[uiosissi]mo Devot[issi]mo Obblig[atissi]mo Servo</salute></p><closer><signed>Pietro <persName>Bettio</persName></signed><dateline>Venezia 26 Novembre<note type="comment" place="bottom"><p> Abgekürzt
+                                9bre mit Kürzungsstrich.</p></note></dateline></closer><postscript>
+                        <p>625 und einer Zeichen<note type="comment" place="bottom"><p> Lesung
+                                    unsicher.</p></note></p>
+                    </postscript><p>Beilage! </p><p>nicht da 11 30/XI [18]17<note type="comment" place="bottom"><p> 17 mit
+                                Kürzungsstrich. Diese Einfügung (ab „Beilage“) stammt nicht von
+                                    <persName>HP</persName>. Es handelt sich möglicherweise um
+                                Versuche, den Briefbestand zu ordnen. Die selbe Hand wiederholt in
+                                analoger Form auf sämtlichen Briefen die Datumsangabe neben der
+                                Anrede, was in der Folge nicht ausgewiesen wird.</p></note></p><p>Paolo Morosini: Istoria della Città e Repubblica di Venezia. 4° Venezia,
+                        Baglioni, 1637. Pag[ina] 465.</p><p>Anno 1439.</p><p>„Niccolò <persName>Piccinino</persName><note type="comment" place="bottom"><p> A: Picinino.</p></note> (Generale del Duca Visconte di Milano)
+                        intesa la rotta de’suoi, li buoni successi de’Veneziani, concitato alla
+                        vendetta, ed in particiolare contro Paris di Lodrone, si condusse nel suo
+                        contado, e prevalendo molto di forze, facilmente occupò, depredò, e con
+                        rovina delle sue terre lasciò in Lodrone funesta memoria della sua
+                        invasione. La strettezza, alla quale ogni giorno più si riduceva la Città di
+                        Brescia, ed il bisogno, che in lei sempre maggiore si faceva, teneva in modo
+                        applicato e sollecito il Senato, che per superare le difficoltà, ed
+                        impedimenti, ogni cosa a tentare era disposto. Perciò giudicando che da
+                        mezzo migliore non potessero esser rimosse, che dall’acquisto della
+                        navigazione, del Lago di Garda, per lo quale solo si poteva ottenere quel
+                        transito, che così per la via de'monti pella strettezza de'passi, come per
+                        lo piano verso Peschiera dagl’inimici posseduto, pareva quasi impossibile;
+                        si propose nell’animo di metter nel Lago tale armata che a quella del
+                        Visconte riuscisse superiore. Veniva da tutti conosciuta buona e lodata la
+                        risoluzione mentre si fossero potuti o fabbricare vascelli sopra il Lago,
+                        ovvero farne de’fabbricati condurre; ma l’uno e l’altro partito ripieno
+                        pareva d’insuperabili difficoltà, così per la lunghezza che portano seco
+                        simili fabbriche, come perché condurrne non si poteva più oltre che per
+                        l’Adige fino a Verona. Divulgato il desiderio ed il bisogno che si teneva,
+                        Uomo di nazion greco, marinaro di professione, fedelissimo alla Repubblica,
+                        detto Sorbolo, invecchiato nel servizio di lei, s’apprestò al Principe, e si
+                        offerì di fare quello che agli altri pareva impossibile, e di condurre
+                        sicuramente li vascelli che si fossero voluti porre nel Lago. Da principio,
+                        essendo proprio degli uomini non prestar fede a quelle cose, che superano le
+                        forze del loro ingegno, piuttosto pazza che ardita, fu stimata la proposta.
+                        Ma essendo costantemente il medesimo replicato ed affermato, e non pochi
+                        accreditando il buon concetto, che del suo ingegno si teneva, finalmente se
+                        gli diede il carico, che da lui assonto con somma industria e fatica, fu
+                        messo in pratica: in modo che due Gallee, o come altri dicono, sei, quattro
+                        Fregate, e venticinque barche condotte per l’Adige a Verona; e quindi non
+                        solo per campagne, ma per erte e diruppate vie sostenute da forti funi, con
+                        la forza de’buoi, e molto più col mezzo d’ingegnose macchine dal Greco
+                        inventate, furono poste nell Lago. Si legge in scritture particolari, e
+                        molto diligenti, di quei tempi, che Niccolò <persName>Carcavilla</persName>
+                        pur marinaro, solito a servire nell’armata, agevolasse per le campagne del
+                        Veronese, con aver spiegata la vela maggiore, o maestra delle Gallee, non
+                        poco questa condotta, e che la spesa che si fece in queasta occasione
+                        ascendesse a quindicimila Ducati. Furono li vascelli gettati nel Lago vicino
+                        a Peneda a certo luogo detto Corbole; il comando fu dato a Pietro
+                            <persName>Zeno</persName>, che pose in dubbio e contende’ a’nemici quel
+                        dominio, che avevano fin allora senza contrasto posseduto.”</p><p>Scelsi il <persName>Morosini</persName> come Scrittore esattissimo e minuto
+                        nelle sue relazioni storiche, il quale testo per non essere la sua Storia
+                        molto conosciuta, ed apprezzata come sarebbe uopo, pensai di qui trascrivere
+                        per intero, provando così il tempo, il luogo, lo spazio di terreno, e la
+                        circostanza del fatto come si desiderava.</p><p>Si può eziandio da altri fonti attingere tale notizia; ma basterà esaminare
+                        la Storia Veneta del Sabellico Autore contemporaneo al fatto, e si troverà
+                        descritto al terzo Libro della terza Decade, dove asserisce di averlo inteso
+                        da chi fu testimonio di vista: Ex quibusdam aliis, qui rebus interfuere,
+                        didici etc. Corrisponde questo passo del Sabellico nella edizione fatta dal
+                        Lovisa in Venezia nel 1718 in 4° per opera di Apostolo Zeno alla
+                        pag[ina] 587.</p><p>Di questo sorprendente avvenimento e della vittoria riportata dai Veneziani
+                        nel Lago di Garda si conserva la memoria in un quadro esistente in questa
+                        Biblioteca nel soffitto della grande Sala già del Maggior Consiglio, il
+                        quale quadro fu dipinto da Giacomo <persName>Robusti</persName> detto il
+                            <persName>Tintoretto</persName>.</p><p>Altro monumento comprovante l’asporto di navigli col mezzo di una macchina e
+                        riportato dal V. <persName>Coronelli</persName> nella Parte prima de’suoi
+                        Viaggi stampati in Venezia in due Volumi in 8° nell’anno 1697. E sebbene il
+                        trasporto non fosse di vascelli e gallere; pur non ostante trattandosi di
+                        barche grosse e cariche di merci, le quali navigavano sul Brenta, può<note type="comment" place="bottom"><p> Danach etwa drei Schriftzeichen
+                                durchgestrichen.</p></note> servire per giunta all’esposto di sopra.
+                        Pensai di far calcarne uno schizzo tratto dall’<note type="comment" place="bottom"><p> Danach etwa sechs Schriftzeichen
+                            durchgestrichen.</p></note> incisione dataci dal Coronelli istesso. Ecco
+                        il modo, col quale questo laborioso ed instancabile Frate si esprime:</p><p>„Altre volte questo Canale della Brenta non aveva alcuna comunicazione con
+                        gli Estuarj di Venezia; ma giunte le barche a Lizza Fusina, venivano con
+                        artifizio ingegnoso elevate, benché tutte ripiene di merci, sopra un ben
+                        inventato carro dal Canale alla Laguna, e da questa al Canale. Tale
+                        macchina, ch’era appartenente alla Patrizia Famiglia Pesaro, le ha data
+                        anche la denominazione del Carro, che tuttavia ritiene. Anzi anche oggidì le
+                        porte del Moranzano fatte per sostenere l’acque della medesima Brenta,
+                        perché non precipitassero nella Laguna colla predetta comunicazione a
+                        Fusina, sono di giurisdizione della medesima Prosapia.<note type="comment" place="bottom"><p> Punkt korrigiert aus Beistrich.</p></note> Il Carro,
+                        con cui si trasportavano le Barche, era dell’esposto Disegno, le lettere del
+                        quale vengono spiegate come siegue:</p><p>A. Carro di legni quadrati colle sue ruote, le misure del quale saranno
+                        secondo il costume de’Vascelli.</p><p>B. Soiamento fatto in forma di angolo ottuso, per dove va il Carro.</p><p>C. Ruota di legno di noce, o di rovere con i suoi ferramenti</p><p>F. Perno di ferro di esse ruote, coi suoi armamenti di ferro, che sono
+                        medesimamente segnati con lettere F.F.F.</p><p>D. Lastre di pietra grosse nel montar del Carro.</p><p>S.S. Fili di pietre forti.</p><p>G. Anelli di ferro, dove vanno gli uncini della corda, che tira il carro</p><p>DD. Rocchelli sopra del fuso, che gira attorno il cavallo colle stanghe, che
+                        hanno 12 fusi per cadauno.</p><p>EE. Timpani, che contengono trentasei denti per uno. </p><p>LL. Mali dove avvolgono la corda per tirare le barche innanti e in
+                        dietro.</p><p>Del trasporto dei navigli sul Lago di Grada nel 1439 parla anche il Laugier
+                        tanto nell’Originale francese al T[om]e VIe pag[ina] 199., quanto nella
+                        versione Italiana T[om]o VIo pag[ina] 176. Ma per verità è meglio consultare
+                        gli Storici Nazionali più che li Forestieri.</p></div></body></text></TEI>

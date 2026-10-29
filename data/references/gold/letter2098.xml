@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_2098"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Sid. Coll 27 May 1818</dateline><salute>My dear Sir</salute></opener><p>I am sorry to find by your last letter that all those I have written to you
+                        have not reached you, because you will perhaps think me forgetful of all
+                        your kindness and friendship. Be assured that this can never happen, and
+                        that some accident must have befallen the letters which I have occasionally
+                        sent you. Perhaps to the Archduke [<persName>Johann]</persName> makes the
+                        same complaint of me; pray present my dutiful and affectionate respects to
+                        H[is] I[mperial] H[ighness] and assure him that as long as I live I shall
+                        think with pleasure of the many happy hours for with I am indebted to his
+                        learning nature and affability. I hope, please God, to see you all again in
+                        the summer of next year, as I trust that I shall then have both money and
+                        leisure enough to undertake the journey. But I have various cares and
+                        occupations which have kept me so busy for the last six month will hold me
+                        their prisoner for another twelvemonth. Then however, unless some new change
+                        I should take peace in my fortune, it is my intention to take advantage of
+                        the Archduke’s kind invitation to pay him a visit among the mountains. The
+                        little box has again left Paris for Vienna, and will I hope at length reach
+                        you, by which you will see that I did not forget my promise to Papataci<note type="comment" place="bottom"><p> Im Libretto zu Gioachino
+                                    <persName>Rossini</persName>s Opera buffa <hi rend="italic">„Die
+                                    Italienerin in Algier“</hi>, die 1817 in Wien im Theater am
+                                Kärntnertor auf Italienisch aufgeführt wurde, heißt es, ein
+                                „Pappataci“ habe nichts weiter zu tun, als zu essen, zu trinken und
+                                zu schlafen – dies trifft auf einen Säugling sehr genau zu; HPs Sohn
+                                    <persName>Carl</persName> war am 20. April 1817 zur Welt
+                                gekommen. </p></note>; though I am very glad to find that the
+                        wanderungen [sic] and sojourning’s of the packet have not injurious to him,
+                        and that he has learnt to bite without the use of the beads<note type="comment" place="bottom"><p> Im Plural bedeutet dieses Wort
+                                „Rosenkranz“ oder „Perlenschnur“ – vielleicht soll es hier einen
+                                Beißring für Kleinkinder bezeichnen.</p></note>. </p><p>Mr <persName>Renouard</persName><note type="comment" place="bottom"><p>
+                                George Cecil <persName>Renouard</persName> (1780–1867) war ein
+                                englischer Altphilologe und Orientalist, der, nachdem er 1805 in
+                                Cambridge den Grad eines Master of Arts erlangt hatte, Kaplan an der
+                                englischen Botschaft in Konstantinopel wurde, 1806 aber bereits
+                                wieder nach England zurückkehrte, wo er als Geistlicher an Great St.
+                                Mary’s in Cambridge wirkte. 1811–1814 war er Kaplan in Smyrna
+                                /Izmir, wo er eine Statue entdeckte, die er für eine des Sesostris
+                                hielt, der bei Herodot erwähnt wird. 1815–1821 war er Lord Almoner’s
+                                Professor des Arabischen in Cambridge; (<hi rend="italic">Wikipedia
+                                    20170703</hi>, BARCH).</p></note> has been rather unwell of
+                        late; and will soon leave us, as he is going to take a good college living
+                        in Kent, which has become vacant. I gave you a message from him in that
+                        little letter of mine which must have been miscarried, and which I cannot
+                        now recollect. I also begged you to let me know whether I could be of any
+                        use to you about the getting your translation<note type="comment" place="bottom"><p> Vermutlich ist hier von der Drucklegung von HPs
+                                Übersetzung des Werkes von <hi rend="italic">Evlija Celebi</hi> die
+                                Rede, die allerdings erst 1834 in Gang kam und erst 1850
+                                abgeschlossen wurde; s. dazu das Kapitel 6.3.5 „Das Seyahatname – HP
+                                und Evliya Celebi – 1804–1814–1834–1850“; in: Walter Höflechner
+                                u.a.; <hi rend="italic">Joseph von Hammer-Purgstall 1774–1856 Ein
+                                    Altösterreichisches Gelehrtenleben Eine Annäherung; Graz 2021,
+                                    Bd 1</hi> (<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note> printed.
+                        I am curious to see the papers upon the Mithra monument<note type="comment" place="bottom"><p> Dies bezieht sich auf das 1797 in Mauls in Südtirol
+                                gefundene Mithrasmonument, das lebhafte Diskussionen auslöste.
+                            </p></note> and to know what your opponent has to say about it, since
+                        your conjectures appear to me very well founded, though some of them require
+                        farther proof and consideration. I hope to be able to send you some little
+                        contributions of the Mines<note type="comment" place="bottom"><p>
+                                <persName>Keene</persName> hatte in den <hi rend="italic">Fundgruben
+                                    des Orients 5 (1816) 137–139</hi> bereits seine Arbeit <hi rend="italic">„Specimens of persian poetry”</hi> veröffentlicht.
+                            </p></note>, no the course of this summer; but as I am now become a
+                        clergyman and shall have charge of a parish for part of that time, you may
+                        easily imagine that I shall not have a great deal of leisure. Is there no
+                        small work of your’s which I could translate into English as means of making
+                        your acquirements better known to my countrymen? And when does your history
+                        of Persian Poetry make it’s appearance?<note type="comment" place="bottom"><p> HP, <hi rend="italic">Geschichte der schönen Redekünste
+                                    Persiens vom 4. Jahrhundert der Hedschira, d.i. vom 10. der
+                                    christlichen Zeitrechnung bis auf unsere Zeit. Mit einer
+                                    Blütenlese aus zweyhundert persischen Dichtern, Wien
+                                1818</hi>.</p></note></p><p>Will you beg of the Archduke [<persName>Johann</persName>] to send me a small
+                        piece of that stone called Wiener-Pflaster-stein in a rough and unpolished
+                        state with two or three specimens of handsome stones from the neighbourhood
+                        of his country house. But they all should be rough as I want them for a
+                        cabinet of minerals; Do not ask H[is] I[mperial] H[ighness] however if you
+                        think it will be attended with any trouble. I am ashamed to write to him
+                        again, because I have not been able to get a Newfoundland Dog for him; and
+                        when I do get one I shall not know to send it<note type="comment" place="bottom"><p> Was angesichts des Umstandes, dass Neufundländer
+                                nicht gerade eine kleinwüchsige Hunderasse sind, sehr verständlich
+                                ist.</p></note>. I wish you would tell me what else I could send
+                        that would be acceptable for H[is] I[mperial] H[ighness] for I can assure
+                        you that I have seldom met with any person whom I admire more; and I often
+                        think how happy the world would be if all Princes were like him.</p><closer><salute>Remember me in the kindest manner to your wife and all her family, and
+                        assure them all that I shall never forget them and believe me ever with
+                        great regard and esteem Your sincerely </salute><signed>Hen[ry] Geo[rg] <persName>Keene</persName></signed></closer><postscript>
+                        <p>If my friend Professor <persName>Calvert</persName><note type="comment" place="bottom"><p> Thomas <persName>Calvert</persName> (1775–1840)
+                                    war Geistlicher und Theologe an der Universität in Cambridge;
+                                        (<hi rend="italic">https://www.geni.com
+                                20170703</hi>).</p></note> should go on<unclear>e day to</unclear> Vienna, which is
+                            very doubtful, and should deliv<supplied>er</supplied> this letter in person, pray receive
+                            him with all the kindness and attention in your power; for you will find
+                            that he deserves it by his learning and amiable disposition. But no<supplied>w</supplied> I
+                            will send this by the post and give him your direction.</p>
+                    </postscript></div></body></text></TEI>

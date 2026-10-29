@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3185"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>                    Rosellini</persName> ist mit <persName>HP</persName> im vorangegangenen August 1825 in Livorno<note type="comment" place="bottom"><p> HP befand sich
+                        auf der Rückreise von
+                    Rom.</p></note> in der Ägyptiacasammlung <persName>Santoni</persName>s<note type="comment" place="bottom"><p> Unter den Erwerbungen des Museo Egizio in Turin nach
+                        1888 finden sich neun Inventarnummern mit dem Vermerk „Doni Santoni”, von
+                        denen angenommen wird, sie entstammen einer am Jahrhundertbeginn bekannten
+                        Sammlung eines gewissen Pierto<persName> Santoni</persName>;
+                        (Curto).</p></note>, zusammengetroffen, ohne diesen jedoch zu erkennen. Von <persName>HP</persName> auf ein arabisches Schreibgerät angesprochen, behauptete <persName>Rosellini</persName>, es handle sich um eine Bezeichung für ein Schreibgerät, was <persName>HP</persName> offensichtlich unbekannt war.</p><p><persName>Rosellini</persName> entschuldigt sich nun für diese Indiskretion mit dem Bedauern, seinen damaligen Gesprächspartner nicht erkannt und daher nicht nach Gebühr von der Konversation profitiert zu haben. <persName>Rosellini</persName> fährt fort, den Fall im Lexikon <persName>Golio</persName>s<note type="comment" place="bottom"><p> Jacobus <persName>Golius</persName>; es
+                        handelt sich um dessen <hi rend="italic">Lexicon arabico-latinum, Leiden
+                            1653</hi>.</p></note> überprüft zu haben, wo tatsächlich – mit der Angabe eines Belegs von El-Gienhar<note type="comment" place="bottom"><p> Unter diesem
+                        Namen findet sich kein arabischer Autor, worauf der Text hinweisen würde.
+                        Stattdessen liest man bei <hi rend="italic">Zedler 8,810</hi> von Elgiemaha,
+                        einer Stadt in Marocco, die wüste
+                    steht.</p></note> – <persName>Rosellini</persName>s Meinung, der fragliche
+                    Begriff bedeute „Griffel”, belegt wird.</p></div><div type="letter" subtype="original"><opener><salute>Chiarissimo Signore</salute></opener><p>Circa i primi giorni del passato Agosto mi avvenne [d’inco]ntrarmi con Vostra
+                        Signoria in Livorno senza avere [il p]iacer di saperlo, nel magazino del
+                        Sig[nor] <persName>Santoni</persName>, custode [di mo]lti oggetti di
+                        egiziane antichità. Ivi Ella mi diresse [...]rla, chiedendomi di ripetere
+                        una certa voce, per [la qu]ale io dissi aver gli Arabi appellato una specie
+                        di [...] ad uso di scrivere; pioché vari strumenti di questo [...] pareami
+                        ivi di riscontrare, isieme ad [...] – tagiato a modo di <graphic url="media/image350.png"/>: Quella voce [Lücke] della quale Ella
+                        dimostrò di non ammettere [...] e l’esistenza. All’uscir di quel luogo fui
+                        fatto [cons]apevole del nome di Lei, onde grandissimo dispiacere [sent]ii di
+                        non aver potuto per non conoscerla profittarne [...] istruzione su di una
+                        cosa, la quale, sebbene mi [...]le di aver carta, pure è ragionevole ch’io
+                        non [...]li pieno di sospetto, allorché conobbi stato [da un] maestro
+                        contradetto. Tornato lo stesso giorno a Pisa, fu mio primo pensiero il
+                        riscontrar quella voc[e] nei Lessici, e tra gli altri nel Golio, ove mi
+                        ricor[davo] di averlo altre vlote veduto, trovailo sotto la radice <graphic url="media/image351.png"/> II Q. <graphic url="media/image352.png"/>
+                        scritto precisamente <graphic url="media/image353.png"/> e spiegata
+                        allegandone l’autorità di <persName>El-Gienhar</persName>; Stylus f[...] quo
+                        in tabula scribitur. Confermato pur ciò nella no[...]tenza, ed assai
+                        malcontento del caso avvenuto [...] di scriverle la presente lettera,
+                        principal[mente pe]r renderla certa che meglio, conoscendola, avre[i]
+                        profittato di si favorevole incontro, e le avrei c[on] immensa soddisfazione
+                        dimostrato quell’altissimo [...] che insieme con l’Europa sento per Lei,
+                        sommo n[ella] scienza delle Orientail favelle. Secondariamente in animo di
+                        pregarla ad essermi cortese d’istruz[ione] se per caso fossi ancora in
+                        errore su quel proposi[to] di che, quando Ella si compiacesse di farlo, può
+                        [...] di credere ch’io anderei superato.</p><closer><salute>Accolga adunque di buon animo, io n[...]roleste, che non mi fu data
+                        dichiararle di persona [...] – mia altissima stima e rispetto, insieme con
+                        [le] offerte della mia debole servitù, onde possa in [...]o dimostrarle
+                        ch’io le sono ossequiosamente Umiliss[imo] D[evotissi]mo Servo ed
+                        Ammiratore</salute><signed>Ippolito<persName> Rosellini</persName></signed><dateline>Pisa 1. Settembre 1825</dateline></closer></div></body></text></TEI>

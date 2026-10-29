@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1029"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Paris le 14 août 1809</dateline></opener><p><salute>J´ai reçu<note type="comment" place="bottom"><p> Der vorliegende
+                                    Brief wurde von <persName>de Sacy</persName> diktiert, weist
+                                    daher einige Abweichungen zu <persName>de Sacy</persName>s
+                                    Orthographie auf. </p></note> hier, Monsieur et cher
+                            ami,</salute> votre lettre du 7 de ce mois, et j´ai partagé la peine que
+                        vous éprouvez, relativement à l´enlèvement projeté des manuscrits orientaux
+                        de la bibliothèque Impériale de Vienne. J´ai fait passer sur le champ votre
+                        lettre à M. <persName>Langles</persName>, et j´aime à croire qu´il
+                        n´approuve pas plus que moi le projet de M. <persName>Denon</persName>.
+                        C´est certainement lui (M. <persName>Langles</persName>), qui a dû indiquer
+                        le choix que l´on devait faire dans les manuscrits orientaux de Vienne, et
+                        si la demande a été faite par M. <persName>Dacier</persName><note type="comment" place="bottom"><p> Bon‐Joseph <persName>Dacier</persName>
+                                (1742–1833), französischer Hellenist. Nach Theologiestudium
+                                Spezialisierung auf griechische Autoren und deren Übersetzung. Durch
+                                seine Übersetzung <hi rend="italic">Histoires diverses (Aelianus
+                                    Tacticus)</hi> wird er in die Académie des Inscriptions
+                                aufgenommen. Fünf Jahre später übersetzt er die <hi rend="italic">„Cyropédie“</hi>
+                                <persName>Xenophon</persName>s. 1782 wird er Secrétaire perpétuel
+                                der Académie française. Von 1800 bis 1833 war er zudem als Verwalter
+                                der modernen Handschriften in der Nationalbibliothek tätig. 1832
+                                wird er Académie des sciences morales et politiques aufgenommen.
+                                Seine Gönnerschaft Jean‐François <persName>Champollion</persName>
+                                gegenüber belohnt dieser mit seinem berühmten <hi rend="italic">„Lettre à M. Dacier</hi> […] <hi rend="italic">relative à
+                                    l´alphabet des hieroglyphes phonétiques employés par les
+                                    Egyptiens“</hi>, dessen Verlesung am 27.09.1822 vor der Académie
+                                als Geburtsstunde der Ägyptologie bezeichnet wird (<hi rend="italic">Gady 2008:252; s. a. N.N. (bnf) 2006:16</hi>). </p></note>,
+                        c´est parce que c´est lui qui en ce moment est administrateur de la
+                        Bibliothèque. L´Institut n´est pour rien dans cette affaire, et n´en a pas
+                        même de connaissance. J´ai cru inutile d´écrire directement à M.
+                            <persName>Denon</persName> avec lequel je n´ai point de liaison
+                        particulière, et j´ai préféré m´expliquer librement avec M.
+                            <persName>Daru</persName> qui pourra, je crois, faire valoir les moyens
+                        que j´emploie vis‐à‐vis de lui, pour faire sentir le ridicule et le danger
+                        d´une spolitation générale, telle que celle dont vous vous plaignez. Un
+                        motif puissant m´a encore engagé à ne point écrire à M.
+                            <persName>Denon</persName>: J´aurai craint que ma lettre ne lui suggérât
+                        l´idée de me faire ap[p]eler à Vienne, pour diriger son choix. /// </p><p>Une pareille mission me répugnerait excessivement et le plaisir de vous y
+                        voir dans de pareilles circonstances serait mêlé de trop d´amertume. Je
+                        propose à M. <persName>Daru</persName>, comme un mezzo termine de faire
+                        adresser le catalogue des manuscrits orientaux de Vienne à l´administration
+                        de la Bibliothèque Impériale de Paris, pour qu´elle détermine les objets
+                        qu´il conviendra d´y envoyer. Je me féliciterais beaucoup si ma lettre
+                        pouvait produire quelque effet et vous épargner une perte aussi sensible. Un
+                        libraire de <choice><sic>Leipsik</sic><corr>Leipzig</corr></choice> vient de me faire tenir de votre part un
+                        exemplaire du poëme de Schirin<note type="comment" place="bottom"><p> HP,
+                                    <hi rend="italic">Schirin. Ein persisches romantisches Gedicht
+                                    nach morgenländischen Quellen. In sieben Gesängen, 2 Bde Leipzig
+                                    1809.</hi> – Unverzüglich hat <persName>Böttiger </persName>in
+                                der <hi rend="italic">Zeitung für die elegante Welt, hg. von August
+                                    Mahlmann, 9 (1809) nr 135 vom 8. Juli 1809 Sp. 1076‐1078</hi>,
+                                unter dem Titel <hi rend="italic">„Schirin, ein morgenländisches
+                                    Gedicht“</hi> eine, wenn auch nicht unkritische, so doch
+                                hymnische Ankündigung des anonym erschienenen Werkes veröffentlicht,
+                                in der er allerdings den Autor als Mitglied der Orientalischen
+                                Akademie in Wien erwähnt und damit praktisch publik macht, was HP
+                                nicht recht war. – Das Motiv der vermutlich aus Chusistan im Iran
+                                stammenden Christin <persName>Schirin </persName>(† 628), die die
+                                Liebe des persischen Großkönigs <persName>Chosru</persName> II. (†
+                                628) gewinnt und verteidigt, basiert z.T. auf wahren Begebenheiten
+                                und wurde von verschiedensten persischsprachigen Schriftstellern
+                                literarisch aufgearbeitet, wie etwa von <persName>Balami</persName>,
+                                    <persName>Firdausi </persName>und <persName>Nizami</persName>.
+                                Auch in den 1001 Nächten wird die Geschichte in der 390. Nacht
+                                erzählt. HP machte in seinem Werk <hi rend="italic">„Schirin“</hi>
+                                das Motiv für die westliche Literatur zugänglich, wobei auch
+                                    <persName>Goethe</persName>, der HPs Werk sehr schätzte, dieses
+                                in seinem <hi rend="italic">„West‐östlichen Diwan“</hi> aufgriff;
+                                (Baum <hi rend="italic">2004:1294ff; online: http://www.bbkl.de
+                                    20100617</hi>; zu <persName>Goethe</persName>s Einschätzung s.
+                                auch Rudolf Payer von Thurn, <hi rend="italic">West‐östliches, in:
+                                    Chronik des Wiener GoetheVereins 19,1‐2 (1905)
+                            9‐13).</hi></p></note>. Je n´en ai encore lu que la préface par laquelle
+                        j´ai vu que ce n´est point à proprement parler une traduction mais une
+                        imitation par laquelle vous avez mis à contribution plusieurs poëmes
+                        célèbres de l´Orient. Comme je prépare en ce moment un nouveau mémoire<note type="comment" place="bottom"><p> Silvestre de Sacy, <hi rend="italic">Mémoire sur les monuments de Kirmanshah ou Bisutun, Paris 1815;
+                                    Erweiterung der Mémoires sur diverses antiquités de la Perse,
+                                    Paris 1793/1797</hi>.</p></note> sur les inscriptions et les
+                        monuments de Bisutoun<note type="comment" place="bottom"><p> Behistun,
+                                Bisutun: Dabei handelt es sich um den westiranischen Fundort
+                                mehrerer Denkmäler aus verschiedenen Zeitepochen. Deren berühmtestes
+                                wurde von Achämenidenkönig <persName>Dareios</persName> I. (549–486)
+                                in Auftrag gegeben: Steinreliefs, die ihn selbst, Gefangene sowie
+                                den Gott Ahuramazda abbilden, ergänzt durch eine dreisprachige Tafel
+                                in Elamisch, Altpersisch und Babylonisch; diese Inschrift ist (nach
+                                anderen, wie etwa Ambrogio <persName>Bembo</persName> schon 1674)
+                                von Carsten <persName>Niebuhr</persName> um 1765 sorgfältig
+                                nachgezeichnet worden, und diese Nachzeichnung diente
+                                    <persName>Grotefend</persName> als Grundlage für seine
+                                Entzifferungstätigkeit ab 1802. Später ist diese Arbeit durch Henry
+                                Creswicke <persName>Rawlinson</persName> (1810–1895) in Unkenntnis
+                                der <persName>Grotefend</persName>schen Arbeiten neuerlich
+                                unternommen worden – er entzifferte die assyrische Keilschrift (<hi rend="italic">Schmitt 2010, www.iranica.com</hi>, Ernst
+                                Doblhofer, <hi rend="italic">Die Entzifferung alter Schriften und
+                                    Sprachen, 3. Aufl. Stuttgart 2008:101ff., Wikipedia
+                                    20100618</hi>).</p></note> et de Kirmanschah<note type="comment" place="bottom"><p> Silvestre de Sacy, <hi rend="italic">Mémoire sur les
+                                    monuments de Kirmanshah ou Bisutun, Paris 1815; Erweiterung der
+                                    Mémoires sur diverses antiquités de la Perse, Paris
+                                    1793/1797.</hi>
+                            </p></note>, dont l´objet est de corriger quelques erreurs dans
+                        lesquelles je suis tombé précédemment, je me suis attaché au 4<hi rend="superscript">e</hi> chant de la 2<hi rend="superscript">e</hi>
+                        partie dans lequel vous décrivez ces monuments. Il me paraît que vos
+                        descriptions sont uniquement fondées sur les récits des voyageurs Européens
+                        qui ont visité<note type="comment" place="bottom"><p> A: Im Original wird
+                                „visité“ auf der Folgeseite wiederholt. </p></note> ces lieux et non
+                        pas sur des autorités prises dans <persName>Nazami</persName><note type="comment" place="bottom"><p> DMG Niẓāmī Ganǧawī, voller Name: Niẓām
+                                ad‐Dīn Abū Muḥammad Ilyās ibn‐Yūsuf ibn‐Zakī ibn‐Muˀayyad
+                                (1140–1202), pers. Dichter und isl. Gnostiker aus dem heutigen
+                                Aserbeidschan, gilt als größter romantischer Epiker des persischen
+                                Sprachraums. Nur wenig ist über sein Leben bekannt. Seine Mutter war
+                                Kurdin, sein Vater dürfte aus Qum gestammt haben. Verfasste
+                                zahlreiche bedeutende Werke, darunter sein Hauptwerk, <hi rend="italic">„Die fünf Schätze“</hi> (pers. Panǧ Ganǧ), die aus
+                                fünf Epen bestehen (Maḫzan al‐Asrār, Chosru und Schirin, Laila und
+                                Madschnun, Haft Paykar, Iskandar Nāma); (Clinton/Talatoff [Eds.] <hi rend="italic">(2000) The Poetry of Nizami Ganjavi. Knowledge,
+                                    Love and Rhetoric 1ff.; Google books, Wikipedia 20100617.</hi>
+                            </p></note>, ou dans quelque autre tomaa<note type="comment" place="bottom"><p> Die Bedeutung dieses Wortes konnte nicht ermittelt
+                                werden, es sollte jedoch zweifellos „auteur“ heißen.</p></note> des
+                        amours de Khosrou et Schirin. Je serais bien aise cependant de savoir de
+                        vous-même si vous avez trouvé quelque description de ces monuments dans les
+                        autres poëtes persans, et si elles s´accordent avec celles du père Emmanuel
+                        de St. <persName>Albert</persName><note type="comment" place="bottom"><p>
+                                Bekannter unter seinem weltlichen Namen Jean-Claude
+                                    <persName>Ballyet</persName> (1702–1773).</p></note>, de M.
+                            <persName>de Beauchamp</persName><note type="comment" place="bottom"><p>
+                                Abbé Pierre-Joseph <persName>de Beauchamp</persName>
+                                (1752–1801).</p></note>, et de M. <persName>Olivier</persName><note type="comment" place="bottom"><p> Louis-Alexandre <persName>Olivier de
+                                    Corancez</persName> (1770–1832) war einer der Teilnehmer an der
+                                Ägypten-Expedition und Mitglied des Institut d’Égypte, dann von 1802
+                                bis 1808 französischer Konsul in Aleppo, als welcher er enormes
+                                Material über den syrischern Raum sammelte und sich als einer der
+                                ersten Europäer mit den Wahhabiten befasste, die ihm <hi rend="italic">„entschlossen zu sein scheinen, in der
+                                    Weltgeschichte noch eine große Rolle zu spielen“</hi>, eben
+                                damals erschien seine <hi rend="italic">„Histoire des Wahabis depuis
+                                    leur origine jusqu’à la fin de 1809“</hi>; (<hi rend="italic">Wikipedia</hi>).</p></note>. Vous ne me paraissez point avoir
+                        comme un extrait très intéressant de la relation du voyage en Perse
+                        d´Ambroïse <persName>Bembo</persName><note type="comment" place="bottom"><p>
+                                Ambrosio <persName>Bembo</persName> (1652–1705), dieser Venezianer
+                                bereiste ab 1671 den Orient über Syrien, Iran bis Indien, worüber er
+                                in einem sehr interessanten, bis in die Gegenwart mehrfach
+                                publizierten Bericht gab; (<hi rend="italic">Wikipedia</hi>).</p></note>, qui a visité et décrit ces antiquités en
+                        1679. Son voyage est resté inédit, mais nous en avons un extrait publié en
+                        1803 par M. l´abbé <persName>Morelli</persName>, ainsi l´ouvrage intitulé
+                        „Dissertazione intorno ad alcuni viaggiatori eruditi Veneziani“ et qui
+                        contient la description des bas‐reliefs de Bi‐sutoun et de Kirmanschah. M.
+                            <persName>Morelli</persName><note type="comment" place="bottom"><p>
+                                Jacopo Morelli, <hi rend="italic">Dissertazione intorno ad alcuni
+                                    viaggiatori eruditi Venezian poco noti. Pubblicata nelle
+                                    faustissime nozze del Nobile Uomo il Signore Conte Leonardo
+                                    Manino con la Nobile Donna Signora Contessa Foscarina
+                                    Giovanelli. Venezia 1803</hi>; (<hi rend="italic">Google books
+                                    20100617</hi>).
+                                    <persName>De </persName><persName>Sacy</persName> hatte sich
+                                bereits in seinem <hi rend="italic">„Mémoire sur diverses antiquités
+                                    de la Perse“</hi> 1792 mit sassanidischen Inschriften, gefunden
+                                in Behistun und Kirmanschah, auseinandergesetzt. Als Vorlage dafür
+                                dienten ihm <persName>Beauchamp</persName>s Aufzeichnungen. Nachdem
+                                    <persName>de</persName> <persName>Sacy</persName> Ambrogio
+                                    <persName>Bembo</persName>s Aufzeichnung aus dem Jahre 1674
+                                durch <persName>Morelli</persName> erhalten hatte, revidierte er in
+                                seinem <hi rend="italic">„Mémoire sur les inscriptions et les
+                                    monuments de Bi-sutoun</hi> [sic] <hi rend="italic">et de
+                                    Kirmanschah“ (1815)</hi> u.a. die Ansicht, bei einem der in
+                                Behistun dargestellten sassanidischen Könige handle es sich um
+                                Bahram Kirmanschah. In Wirklichkeit handle es sich um
+                                    <persName>Sapor III.</persName>; (<hi rend="italic">Millin/Noel/Warens (1810):106ff., Google books
+                                20100617</hi>).</p></note> m´a fait passer une copie du bas-relief
+                        qui est accompagnée des deux inscriptions sassanides que j´ai expliquées. En
+                        comparant cette copie avec celle de M. <persName>De Beauchamp</persName>,
+                        j´ai vu qu´il fallait corriger cette dernière et changer quelque chose à
+                        l´explication que j´avais donnée de ces inscriptions<note type="comment" place="bottom"><p>
+                                <persName>De Sacy</persName> hatte sich bereits in seinem <hi rend="italic">„Mémoire sur diverses antiquités de la Perse“</hi>
+                                1792 mit sassanidischen Inschriften, gefunden in Behistun und
+                                Kirmanschah, auseinandergesetzt. Als Vorlage dafür dienten ihm
+                                    <persName>Beauchamp</persName>s Aufzeichnungen. Nachdem
+                                    <persName>De Sacy</persName> Ambrogio
+                                <persName>Bembo</persName>s Aufzeichnung aus dem Jahre 1674 durch
+                                    <persName>Morelli</persName> erhalten hatte, revidierte er in
+                                seinem <hi rend="italic">„Mémoire sur les inscriptions et les
+                                    monuments de Bi‐sutoun</hi> [sic]<hi rend="italic"> et de
+                                    Kirmanschah“ (1815)</hi> u.a. die Ansicht, bei einem der in
+                                Behistun dargestellten sassanidischen Könige handle es sich um
+                                Bahram Kirmanschah. In Wirklichkeit handle es sich um
+                                    <persName>Sapor</persName> III.; (<hi rend="italic">Millin/Noel/Warens (1810):106ff., Google books
+                                20100617</hi>).</p></note>. /// </p><p>Quant aux dessins de M. <persName>Olivier</persName>, ils sont assurément
+                        très inexacts, et je les crois faits, du moins en grande partie, de mémoire,
+                        et non pas sur les lieux. L´un de ces dessins offre des fragments d´une
+                        inscription grecque, comme vous l´aurez sans doute observé et j´ai aussi
+                        entre les mains un dessin de <persName>Bembo</persName> qui contient
+                        pareillement une portion d´inscription grecque. Il y a beaucoup de rapport
+                        entre ces deux inscriptions qui toutes deux font mention d´un Satrape<note type="comment" place="bottom"><p> Altpersisch „Wächter“ (<hi rend="italic">Millin/Noel/Warens 1810:108</hi>), später der
+                                Titel eines „Gouverneurs“ einer Provinz. <persName>De
+                                    Sacy</persName> vermutete, dass es sich um jenen Partherkönig
+                                handle, von dem auch <persName>Tacitus </persName>berichtete;
+                                tatsächlich handelt es sich um den Partherkönig
+                                    <persName>Gotarzes</persName> II. (reg. 38/40–51), der für seine
+                                Skrupellosigkeit bekannt war; (<hi rend="italic">Wikipedia</hi>).</p></note> nommé <persName>Gotarzes</persName>;
+                        mais il n´y a aucun rapport entre le dessin de M.
+                            <persName>Olivier</persName> et celui de <persName>Bembo</persName>. Je
+                        crains que M. <persName>Olivier</persName> qui n´avait que des croquis fort
+                        légers de tous ces monuments, ne les ait refaits à loisir et n´ait mis
+                        l´inscription grecque à un dessin auquel elle n´appartient point, comme sans
+                        doute il n´en conviendrait pas. Je n´ose point lui faire part de mes doutes.
+                        Vous devez avoir reçu en ce moment, Monsieur, l´extrait de mon mémoire sur
+                        les Assassins que je vous ai envoyé sous le couvert de M.
+                            <persName>Daru</persName> et à la marge duquel j´ai écrit les mots
+                        arabes en caractères arabes. Vous aurez vu par-là que je n´admets pas plus
+                        votre conjecture sur l´origine de ce mot, que celles de Thomas
+                            <persName>Hyde</persName><note type="comment" place="bottom"><p> Thomas
+                                    <persName>Hyde</persName> (1636–1703) war ein bedeutender
+                                englischer Orientalist und Sprachwissenschaftler im Bereich der
+                                vorderasiatischen Sprachen; 1691 folgte er in Oxford Pococke als
+                                Professor des Arabischen, 1697 wurde er dort Regius Professor des
+                                Hebräischen; (<hi rend="italic">Wikipedia</hi>).</p></note>,
+                            <persName>de Reiske</persName><note type="comment" place="bottom"><p>
+                                Johann Jacob <persName>Reiske</persName> (1716–1774) war Gräzist,
+                                Byzantinist und gilt als Begründer der eigenständigen
+                            Arabistik.</p></note>, du prélat <persName>Assemani</persName><note type="comment" place="bottom"><p> Giuseppe Simone
+                                    <persName>Assemani</persName> (1687–1768) entstammte einer
+                                Maronitenfamilie, aus der nach ihm in zwei weiteren Generationen
+                                eine Reihe von Orientalisten hervorging; er führte im Auftrag des
+                                Vatikans 1717 und 1738 Reisen nach Ägypten und nach Syrien durch,
+                                von wo er wertvolle Handschriften, Münzen, u. dgl. für die
+                                Bibliotheca Vaticana mitbrachte, welcher Sammlung er nach Ende
+                                seiner Reisetätigkeit als Kustos vorstand. Zudem war er
+                                Titularerzbischof von Tyros. Sein Hauptwerk, die <hi rend="italic">„Bibliotheca Orientalis“</hi>, vermittelt einen Überblick über
+                                die damals in der Bibliotheca Vaticana vorhandenen orientalischen
+                                Handschriften (<hi rend="italic">Marics: Chalmers 1802:64f. Google
+                                    books, Wikipedia 20100617</hi>).</p></note>, de M. <persName>de
+                            Volney</persName><note type="comment" place="bottom"><p> Constantin
+                                François Chasseboeuf <persName>Boisgirais</persName> comte de Volney
+                                    (1757<persName>–</persName>1820) war ein französischer
+                                Reisender, Geschichtsphilosoph und Soziologe. Er bereiste durch
+                                mehrere Jahre den Vorderen Orient, worüber er 1785 einen eingehenden
+                                Bericht publizierte. Sein Hauptwerk ist <hi rend="italic">„Les
+                                    Ruines Ou Méditations sur les révolutions des empires“ (Genf
+                                    1791)</hi> – <hi rend="italic">„Ihr Ruinen legtet, indem ihr
+                                    Fürstenstaub mit Sklavenstaub vermengtet, Zeugnis ab für den
+                                    heiligen Lehrsatz der Gleichheit.“;</hi> (<hi rend="italic">Wikipedia</hi>).</p></note>, enfin <persName>de</persName> M.
+                            <note type="comment" place="inline">[Ende fehlt]</note></p></div><div type="letter" subtype="translation"><p>Ich habe gestern, mein Herr und lieber Freund, Ihren Brief vom 7. dieses
+                        Monats erhalten und ich habe den Kummer bezüglich des geplanten
+                        Fortschaffens der orientalischen Manuskripte aus der Hofbibliothek in Wien
+                        mit Ihnen geteilt. Ich habe sofort Ihren Brief Herrn Langlès überbringen
+                        lassen und ich glaube, dass er das Verhalten von Herrn Denon genauso wenig
+                        wie ich billigt. Sicher war er (Herr Langlès) es, der die Auswahl, die man
+                        bei den orientalischen Manuskripten von Wien treffen musste, angeben musste,
+                        und wenn dieser Antrag/Auftrag von Herrn Dacier gemacht worden ist, dann
+                        deshalb, weil er im Augenblick der Administrator der Bibliothek ist. Das
+                        Institut hat mit dieser Angelegenheit nichts zu tun und hat sogar keine
+                        Kenntnis davon. Ich hielt es nicht für nötig, direkt an Herrn Denon zu
+                        schreiben, zu dem ich keine besondere Beziehung habe, und ich habe es
+                        vorgezogen, offen mit Herrn Daru zu sprechen, der, wie ich glaube, die
+                        Möglichkeiten, die ich ihm gegenüber ergreife, geltend machen wird können,
+                        um die Lächerlichkeit und die Gefahr eines generellen (Gesamt)Raubes, wie
+                        den, über den Sie sich beschweren, spüren zu lassen. Ein kräftiges Motiv hat
+                        mich noch daran gehindert, an Denon zu schreiben. Ich hätte befürchtet, dass
+                        mein Brief ihn auf die Idee bringen könnte, mich nach Wien zu rufen, um
+                        seine Auswahl zu leiten.</p><p> Eine solche Mission würde mich maßlos anwidern und die Freude, Sie dort
+                        unter solchen Umständen zusehen, wäre mit zu großer Verbitterung vermischt.
+                        Ich schlage Herrn <persName>Daru</persName> als eine Zwischenlösung vor, den
+                        Katalog der orientalischen Manuskripte von Wien der Verwaltung der
+                        Bibliothèque Impériale von Paris zu schicken, um die Gegenstände zu
+                        bestimmen, die dort hingeschickt werden sollten. Ich wäre sehr glücklich,
+                        wenn mein Brief irgendeine Wirkung haben und Ihnen einen so empfindlichen
+                        Verlust ersparen konnte.</p><p> Ein Buchhändler aus Leipzig hat mir soeben von Ihnen ein Exemplar des
+                        Gedichts „Schirin“ zukommen lassen. Ich habe nur die Einleitung davon
+                        gelesen, bei der ich gesehen habe, dass das streng genommen keine
+                        Übersetzung, sondern eine Nachbildung ist, durch die Sie mehrere berühmte
+                        Gedichte des Orients hinzugezogen haben. Da ich gerade eine neue Abhandlung
+                        über die Inschriften und die Monumente von Bisutoun (30 km von Kermanshah)
+                        vorbereite, deren Thema es ist, einige Irrtümer zu korrigieren, über die ich
+                        neulich gestolpert bin, habe ich mich mit dem 4. Gesang des zweiten Teils
+                        befasst, in welchem Sie diese Monumente beschreiben. Es scheint mir, dass
+                        Ihre Beschreibungen allein auf den Berichten der europäischen Reisenden
+                        basieren, die diese Orte besichtigten und nicht auf der Macht der Liebe von
+                        Khosrou und Schirin, entnommen von Nazami oder irgendeinem anderen Autor.
+                        Ich wäre jedoch sehr erfreut, von Ihnen selbst zu erfahren, ob Sie
+                        irgendeine Beschreibung dieser Monumente bei den anderen persischen Dichtern
+                        gefunden haben und ob sie mit denen von Père Emmanuel von St. Albert, von
+                        Herrn von Beauchamp und Herrn Olivier übereinstimmen. Anscheinend haben Sie
+                        keinen sehr interessanten Auszug des Berichts der Reise nach Persien von
+                        Ambroise Bembo, der diese Altertümer 1679 beschrieben hat. Seine Reise ist
+                        unveröffentlicht geblieben, aber wir haben einen nicht veröffentlichten
+                        Auszug, der 1803 von Abbé Morelli herausgegeben wurde, sowie das Werk mit
+                        dem Titel „Dissertazione intorno ad alcuni viaggiatori eruditi Veneziani“,
+                        das die Beschreibung des Basreliefs von Bisutoun und Kirmandschah enthält.
+                        Herr Morelli hat mir eine Kopie des Basreliefs mit zwei sassanidischen
+                        Inschriften, die ich erklärt habe, zukommen lassen. Als ich diese Kopie mit
+                        jener von Herrn von Beauchamp verglichen habe, habe ich gesehen, dass man
+                        Letztere korrigieren und etwas bei der Erklärung, die ich von diesen
+                        Inschriften gegeben habe, ändern musste. Die Zeichnungen von Herrn Olivier
+                        sind sicherlich sehr ungenau und ich glaube, dass sie zumindest zum größten
+                        Teil aus dem Gedächtnis und nicht vor Ort gemacht wurden. Eine dieser
+                        Zeichnungen zeigt Fragmente einer griechischen Inschrift, die Sie ohne
+                        Zweifel gesehen haben werden, und ich halte auch eine Zeichnung von Bembo
+                        Händen, die ebenfalls einen Teil einer griechischen Inschrift enthält. Es
+                        gibt viele Zusammenhänge zwischen diesen beiden Inschriften, die beide einen
+                        Satrapen mit dem Namen Gotarzes erwähnen, aber es gibt keinen Zusammenhang
+                        zwischen der Zeichnung von Herrn Olivier und der von Bembo. Ich befürchte,
+                        dass Herr Olivier, der nur sehr einfache Skizzen von all diesen Monumenten
+                        hat, sie nicht noch einmal in aller Ruhe überarbeitet hat und die
+                        griechische Inschrift zu einer Zeichnung gegeben hat, zu der sie nicht
+                        gehört, wie ohne Zweifel es nicht passen würde. Ich wage nicht, ihm meine
+                        Zweifel mitzuteilen. Sie müssen in diesem Augenblick, Monsieur, den Auszug
+                        meines „Mémoire sur les Assassins“ bekommen haben, das ich Ihnen im Kuvert
+                        von Herrn Daru geschickt habe und an dessen Rand ich die arabischen Wörter
+                        in arabischen Buchstaben geschrieben habe. Sie werden dadurch gesehen haben,
+                        dass ich nicht mehr Ihrer Vermutung über den Ursprung dieses Wortes
+                        anerkenne wie jene von Thomas Hyde, Reiske, des Prälaten Assemani, von Herrn
+                        Volney und schließlich von Herrn … <gap></gap></p></div></body></text></TEI>

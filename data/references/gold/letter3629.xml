@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_3629"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="summary"><p><persName>HP</persName> hat den Brief <persName>Trébutien</persName>s, den
+                    dieser vor genau zwei Monaten geschrieben hat, zusammen mit dem Brief und den
+                    Geschenken für Frau v<persName>on Hammer</persName> und für ihn, die er vor
+                    einem Monat schickte, heute vor acht Tagen bekommen. Frau <persName>von
+                        Hammer</persName> wird sich selbst für die Geschenke bedanken und ihn über
+                    ihre Schwestern unterrichten, denn es ist nicht ganz klar, welche
+                        <persName>Trébutien</persName> meint. <persName>HP</persName> bedankt sich
+                    für die Auskünfte über die Orientalisten von Paris und für „Voyage“ von Paul
+                        <persName>Lucas</persName>. Er hofft, dass er noch „Voyage dans la Grèce,
+                    Macédoine, Asie-Mineure“ findet und von <persName>Pétis de la Croix</persName>
+                    „Guerres des Turcs avec la Pologne“, welches Werk <persName>Eichhorn</persName>
+                    für seine „Geschichte der drei letzten Jahrhunderte“ verwendet hat.
+                        <persName>HP</persName> hätte gerne „Le Bacha de Bude“ für seine Freundin,
+                    Frau <persName>Pichler</persName>, damit diese ihre Trilogie beenden könne. „Le
+                    Siège de Prague“ von Caroline <persName>Pichler</persName> ist soeben von de
+                        <persName>la Grange</persName> ins Französische übersetzt worden. Dieser war
+                    Botschaftssekretär in Wien und ist jetzt in Brüssel. Da
+                        <persName>Trébutien</persName> die Bekanntschaft von Frau
+                        <persName>Pichler</persName> in Wien machen wird, und da in der einleitenden
+                    Notiz auch die Rede von <persName>HP</persName> als einem ihrer Freunde ist,
+                    wird <persName>Trébutien</persName> vielleicht ein Auge auf diese Übersetzung
+                    werfen, und ihm den „Bacha de Bude“ beschaffen.</p><p>
+                    <persName>HP</persName> hat schon vor einiger Zeit <persName>Pélicier</persName>
+                    gebeten, ihm die „Lettres de Mme de Sévigné“ zu beschaffen. Er hofft, sie in
+                    diesem Jahr zu bekommen.</p><p> Er befürchtet, <persName>Trébutien</persName> falsche Hoffnung gemacht zu haben,
+                    was die Bekanntschaft mit Rosalie, der Ehefrau des Grafen
+                        <persName>Rzewuski</persName>, des Mäzens der „Fundgruben des Orients“
+                    betrifft. Dieser ist durch seine Dummheiten auf seiner Reise nach Syrien
+                    vollkommen ruiniert. Die Gräfin hatte in letzter Zeit großes Pech, sodass sie
+                    nicht nach Wien kommen kann, obwohl er sie inständig darum gebeten hatte, denn
+                    er hat sie seit sieben Jahren nicht mehr gesehen. Er hat ihre Bekanntschaft im
+                    Jahr 1808 gemacht, ungefähr 14 Tage, nachdem er ihren Ehemann kennengelernt
+                    hatte.</p><p>
+                    <persName>HP</persName> hat <persName>Trébutien</persName> schon von Frau
+                        <persName>Pichler</persName> erzählt, die er oft sieht.
+                        <persName>Tieck</persName>, einer der berühmtesten Schriftsteller der
+                    modernen Schule Deutschlands, ist nicht in Wien, sondern in Dresden, wo
+                        <persName>Trébutien</persName> seine Bekanntschaft machen wird, wenn er auf
+                    dem Weg nach Wien ist. Sollte das seine Route sein, wird ihn
+                        <persName>HP</persName> dort seinem einzigen Korrespondenten und
+                    literarischen Freund seit 30 Jahren, <persName>Böttiger</persName>, ankündigen.
+                    Wenn <persName>Trébutien</persName> es möchte, wird <persName>HP</persName> ihm
+                    einen Brief für <persName>Böttiger</persName> schicken.</p><p> 6–700 Schritte vom Haus entfernt, in dem <persName>HP</persName> wohnt, ist eine
+                    Wohnung, wo zur Zeit <persName>Ranke</persName> wohnt, einer der modernsten und
+                    am meisten geschätzten Historiker Deutschlands, der seinen Lehrstuhl in Berlin
+                    verlassen habe, um den Winter in Wien mit historischen Recherchen in der
+                    Hofbibliothek und den Archiven zu verbringen. Er bezahlt für zwei kleine Zimmer
+                    50 Francs im Monat. Man muss also mit 50–60 Francs für die Unterkunft rechnen
+                    und mit mindestens 150 Francs für Essen. Mit den zusätzlichen Kosten kommt man
+                    auf ungefähr 250 Francs, um als Ausländer bequem leben zu können. Das bezahlt
+                    man bei einem Gastwirt. Es gibt auch die Möglichkeit, in eine Pension für
+                    weniger Geld zu gehen, aber die sind selten und man profitiert nicht sehr davon.
+                        <persName>HP</persName> findet außerdem, dass es für einen Ausländer viel
+                    angenehmer ist, in ein Hotel zu gehen. Wenn <persName>Trébutien</persName>
+                    möchte, wird sich HP erkundigen, ob man Unterkunft und Pension verbinden könnte.
+                    Wenn er nicht so beengt wohnen würde, wie <persName>Trébutien</persName> sich
+                    selbst überzeugen wird, und wenn er nicht die Hälfte der Woche in der Stadt zu
+                    Abend essen würde, hätte er ihn eingeladen, bei ihm zu wohnen.</p><p>
+                    <persName>HP</persName> hat <persName>Trébutien</persName> schon in seinen
+                    vorangegangenen Briefen gesagt, dass er ihm alles in Wien zeigen möchte, was ihn
+                    interessieren könnte. Wenn er im Oktober oder im November kommt und bis April
+                    oder Mai bleibt, könnte er die Umgebung in der schönen Jahreszeit sehen.</p><p> Da <persName>HP</persName> ihn zu sehen hofft, erspare er ihm die Mühe, seine
+                    Kritzeleien zu lesen, da sich über viele Dinge besser reden als schreiben ließe.
+                    – <persName>HP </persName>erklärt <persName>Trébutien</persName> ausführlich die
+                    arabische Schreibung seines Namens, wobei er u.a. auf das Landplagenbild in Graz
+                    zurückgreift und Elemente aufzählt, die sich 1836 später in seiner
+                    Wappenerweiterung anläßlich der Erhebung in den Freiherrenstand finden werden. –
+                        <persName>HP</persName> bedankt sich für den Artikel im „Classical Journal“.
+                    Er glaube nicht, dass die Passage interpoliert ist, denn das Exemplar des
+                    verstorbenen Grafen <persName>Italinski</persName> sei viel vollständiger als
+                    jenes von Paris. Man müsste noch andere Beispiele ansehen, wie jene von Leyden
+                    oder St. Petersburg, bevor man ein Urteil über die Wahrheit der Vermutung der
+                    Kritik abgäbe. <persName>HP</persName> kann <persName>Trébutien </persName>nicht
+                    mehr für sein Vorwort sagen.</p><p>
+                    <persName>HP</persName> hat nichts mit <persName>Saint-Martin</persName> zu tun
+                    und werde nie etwas mit ihm zu tun haben, vorausgesetzt, dieser lasse ihn in
+                    Ruhe. <persName>HP</persName> hat eine sehr schlechte Meinung über den Stil von
+                        <persName>Saint-Martin</persName> nach dem, was <persName>de Sacy</persName>
+                    über dessen armenische Übersetzungen im „Journal asiatique“ oder dem „Journal
+                    des Savants“ sage. <persName>Saint-Martin</persName> und
+                        <persName>Klaproth</persName> scheinen gut zusammenzupassen. Letzterer werde
+                    aber nicht zu Kongregation gehören. <persName>De Sacy</persName> hat
+                        <persName>HP</persName> ein Exemplar seiner politischen Broschüre „Que
+                    voulons-nous? Où allons-nous?» geschickt. Sie ist sehr gut durchdacht, wird
+                    aber, wie HP glaubt, wenig gelesen werden. Sie ähnelt einer jansenistischen
+                    Predigt und ist wenig vorteilhaft für die Griechen wie die Jesuiten.
+                        <persName>HP</persName> kennt nicht die Beurteilungen in den Zeitungen.</p><p>
+                    <persName>HP</persName> ist überzeugt, dass der Wichtigtuer
+                        <persName>Gauttier</persName> seinen „Moclès“ nur vom Vorwort des Autors der
+                    „Mille et Un Jours“ übernommen habe oder vielleicht von anderen Autoren, die
+                    diese Erzählung im Vertrauen auf dieses Vorwort wiederholt haben. Der beste
+                    Beweis dafür sei die Tatsache, dass in der Bibliothèque Royale nur die
+                    türkischen Erzählungen zu finden seien, die <persName>HP</persName> auch
+                    teilweise besitzt und die <persName>Pétis de la Croix</persName> in „1001Tag“
+                    umgewandelt hat. Selbst der Name „Moclès“ ist weder persisch noch arabisch und
+                        <persName>HP</persName> vermutet, dass das der Name von <persName>Ibn
+                        Mokla</persName> sein soll, der verstümmelt wurde.
+                        D‘<persName>Herbelot</persName>, der so gut die Manuskripte der Bibliothèque
+                    Royale und die Schätze der orientalischen Literatur kannte, hätte davon ohne
+                    Zweifel etwas gesagt, wenn er je Kenntnis von einem solchen Namen gehabt
+                    hätte.</p><p>
+                    <persName>HP</persName> hat nicht die „Esquisses des mœurs turques au 19e
+                    siècle“. Er nimmt sie gerne unter der Bedingung an, dass
+                        <persName>Trébutien</persName> das Exemplar von Konstantinopel annimmt, das
+                    er ihm bei nächster Gelegenheit schicken wird.</p><p>
+                    <persName>HP</persName> weiß nicht, wie die Notiz von
+                        <persName>Pélicier</persName> in den Brief an <persName>Trébutien</persName>
+                    hineingerutscht ist, denn sie war für <persName>Spencer Smith</persName>
+                    bestimmt. <persName>Trébutien</persName> soll sie zerreißen. HP ist ganz
+                    erstaunt, dass <persName>Spencer Smith</persName> nichts von „Mémoire de
+                    Mithras“ sagt, nachdem er ganz begeistert davon war, dessen Mäzen zu sein.
+                        <persName>HP</persName> ärgert sich, dass die Veröffentlichung so lange
+                    verzögert wurde, aber <persName>Trébutien</persName> habe zu viel zu tun.</p><p> P.S. <persName>HP </persName>fragt <persName>Trébutien</persName>, ob er den
+                    dritten seiner bibliographischen Briefe aus Italien bekommen habe.</p></div><div type="letter" subtype="original"><opener><dateline>Vienne, le 14 Janvier 1828</dateline><salute>Monsieur et cher ami,</salute></opener><p>Votre<note type="comment" place="bottom"><p> Bibliothèque de Caen.</p></note>
+                        lettre du 7 Novembre avait précisément deux mois de date lorsqu’elle m’est
+                        parvenue il y a aujourd’hui huit jours avec celle écrite un mois plus tard
+                        et avec tous les cadeaux dont vous avez enrichi cette caravane épistolaire
+                        pour moi et ma femme. Je laisse à elle le soin de vous remercier elle-même
+                        de vos dons enchanteurs et celui de vous entretenir de ses sœurs, car il
+                        n’est pas trop clair de laquelle vous entendez parler. J’ai assez de
+                        remerciements à vous faire pour ma personne toute seule, tant de
+                        renseignements que vous me donnez sur les Orientalistes de Paris que du
+                        „Voyage“ de P[aul] <persName>Lucas</persName><persName>;</persName> j’espère
+                        que vous réussirez de même à trouver le voyage qui me manque encore, savoir:
+                        dans la Grèce, Macédoine, Asie-Mineure, Année 1712, et celui de
+                            <persName>Pétis de la Croix</persName>: Guerre des Turcs avec la
+                        Pologne, à la Haye 1669, qui existe effectivement, puisque
+                            <persName>Eichhorn</persName> y a puisé pour son Histoire des Trois
+                        Derniers Siècles<note type="comment" place="bottom"><p> Johann Gottfried
+                                Eichhorn, <hi rend="italic">Geschichte der drei letzten
+                                    Jahrhunderte, 6 Bde Göttingen 1803–1806</hi>, 3. Aufl.
+                                1817–1818.</p></note>.</p><p> Comme j’en suis aux bouquins, je nommerai encore un troisième qui n’a pour
+                        titre que le „Bacha de Bude“<note type="comment" place="bottom"><p> Es
+                                handelt sich um Victor de Gingins de Moiry, <hi rend="italic">Le
+                                    Bacha de Bude, Yverdon 1765</hi>.</p></note> et est une espèce
+                        de roman fondé sur la vérité historique que le Pacha de Bude qui a été tué à
+                        la conquête de cette ville en 1686, était effectivement un renégat suisse
+                        nommé <persName>Crigny</persName>. Je m’intéresse à l’acquisition de ce
+                        livre non pas pour servir à mon Histoire Ottomane, mais bien pour mon amie,
+                        Mme <persName>Pichler</persName> qui écrit actuellement le siège de Bude
+                        pour finir la trilogie de ses sièges<note type="comment" place="bottom"><p>
+                                Diese bestand aus <hi rend="italic">„Die Belagerung von Wien</hi>
+                                [1683] <hi rend="italic">(3 Bde 1824)</hi>, <hi rend="italic">„Die
+                                    Schweden in Prag“ (1827)</hi> und <hi rend="italic">„Die
+                                    Wiedereroberung von Ofen“ (2 Bde 1829)</hi>.</p></note> ayant
+                        déjà écrit le siège de Vienne et celui de Prague. Le dernier vient d’être
+                        traduit en français par M. le Comte de <persName>la Grange</persName>,
+                        ci-devant secrétaire d’ambassade à Vienne et actuellement à Bruxelles. Comme
+                        vous ferez la connaissance de Mme <persName>Pichler</persName> en venant à
+                        Vienne et que dans la notice préliminaire, il est aussi question de moi
+                        comme un de ses amis, cela vous engagera peut-être à jeter les yeux sur
+                        cette traduction et à me procurer le „Bacha de Bude“.</p><p> Je vais maintenant répondre à vos lettres, point par point, avec
+                        l’exactitude dont je me pique envers mes correspondants en général, et en
+                        particulier avec mes amis.</p><p> J’ai lu à <persName>Caroline</persName> tous les passages flatteurs de votre
+                        lettre à moi, qui ne l’a pas moins enchantée que votre lettre à elle. Je
+                        vois par le Journal des Savants que ce volume de lettres de Mme de<persName>
+                            Sévigné</persName> forme le XIIe volume de l’édition du même libraire,
+                        en 11 volumes. Il y a quelque temps déjà que j’ai donné commission à M.
+                            <persName>Pélicier</persName> d’acheter pour moi (s’il la trouvait aux
+                        deux tiers du prix de magasin) cette édition pour moi, me proposant d’en
+                        faire mon cadeau de fête pour l’année 27 ou 28, j’espère qu’il me la
+                        trouvera dans l’année présente et, peu de jours avant d’avoir reçu cette
+                        lettre je lui ai marqué ma surprise de ce qu’il ne se trouvait point
+                        d’exemplaire de cette édition dans la dernière vente dont il m’avait envoyé
+                        le Catalogue.</p><p> Je crains vous avoir donné une fausse espérance pour ce qui regarde la
+                        connaissance de Mme <persName>Rosalie</persName>, épouse du Comte
+                            <persName>Rzewuski</persName><persName>,</persName> mécène des Mines de
+                        l’Orient; il est si complètement ruiné par les folies qu’il a faites dans
+                        son voyage en Syrie et la Comtesse, femme supérieure à tous égards, a eu
+                        tout récemment de si grands malheurs qu’elle se voit hors d’état à ce
+                        qu’elle m’écrit dans sa dernière lettre, de venir à Vienne cette année-ci,
+                        quoi que je l’ai priée de la manière la plus instante de ne pas prolonger
+                        au-delà de sept ans le terme de notre séparation. C’est une amie de 20 ans,
+                        car il y en a autant précisément depuis 1808 où j’ai fait sa connaissance en
+                        Avril, une quinzaine de jours après avoir fait celle de son mari à un opéra
+                        de société chez le Prince <persName>Lobkowitz</persName>. Sa société, tant
+                        qu’elle était à Vienne, a fait non seulement [de] mes délices, mais de
+                        toutes les personnes et surtout des étrangers cultivés qui fréquentaient sa
+                        maison.</p><p> Je vous ai déjà parlé de Madame <persName>Pichler</persName> que je vois
+                        beaucoup; quant à <persName>Tieck</persName><persName>,</persName> l’un des
+                        écrivains les plus célèbres de l’école moderne de l’Allemagne, il n’est pas
+                        à Vienne, mais à Dresde où vous ferez sa connaissance en allant à Vienne, je
+                        suppose; si c’est votre route, je vous y annoncerai à mon seul correspondant
+                        et ami littéraire, depuis 30 ans, M. <persName>Böttiger</persName>,
+                        l’antiquaire et Directeur de la Galerie des Antiques ou bien si vous voulez,
+                        je vous enverrai une lettre pour lui.</p><p> Il y a six ou sept cents pas de la maison où je loge, un logis occupé
+                        actuellement par le professeur <persName>Ranke</persName><note type="comment" place="bottom"><p> Der Historiker Leopold
+                                    <persName>Ranke</persName> (1795–1886) hielt sich damals zu
+                                Archivstudien längere Zeit in Wien auf, ehe er nach Venedig ging, um
+                                am dortigen Staatsarchiv zu San Zaccharia zu arbeiten – beide
+                                Archivaufenthalte waren für ihn außerordentlich fruchtbar.
+                                    R<persName>anke</persName> und HP blieben auch später noch
+                                sporadisch in Kontakt.</p></note>, l’un des historiens les plus
+                        modernes et les plus estimés de l’Allemagne, qui a quitté pour l’hiver sa
+                        chaire de Berlin pour passer ici <supplied>l</supplied>’hiver à ses recherches historiques dans la Bibliothèque Impériale et aux Archives. J’ai demandé ce qu’il paie pour deux petites chambres, les mois; c’est 50 francs; ainsi il faudra compter 50
+                        à 60 francs le logis, 150 francs, au mois, la nourriture, de sorte qu’avec
+                        les autres frais de blanchissage, service, etc. on doit compter au moins 250
+                        <choice><abbr>fr</abbr><expan>francs</expan></choice> le mois, à peu près, pour un étranger vivant convenablement. </p><p> Le compte est fait sur la dépense du restaurateur; il y a des endroits où
+                        l’on peut se mettre en pension pour moins, mais elles sont rares, et l’on
+                        n’y profite pas beaucoup; encore trouve-je, est-il plus agréable pour un
+                        étranger de fréquenter les hôtels, mais si vous vouliez, je m’informerais
+                        cependant si l’on pourrait réunir logis et pension. Si je n’étais pas
+                        moi-même logé si étroitement comme vous vous en convaincrez quand vous
+                        viendrez ici, et si je ne dînais, la moitié de la semaine, en ville, je vous
+                        aurais engagé de vous mettre en pension chez moi. J’ignore si la distance de
+                        6 à 700 pas vous semble grande ou petite, ne connaissant pas celles de votre
+                        ville, en conséquence votre échelle.</p><p> Je vous ai déjà dit dans une de mes précédentes que ce sera mon soin de vous
+                        faire honneurs de Vienne et de vous faire voir tout ce qui pourra vous
+                        intéresser: Si vous arrivez en Octobre ou Novembre et que vous restiez
+                        jusqu’en Avril ou Mai, vous pourrez voir aussi les environs, à l’avantage de
+                        la belle saison.</p><p> Qu’entendez-vous par le <graphic url="media/image196.png"/>? Est-ce de
+                        parler de moi? Vous voyez que je vous écris des volumes, mais comptant sur
+                        l’espérance de vous voir, je puis vous épargner la peine de lire tant de
+                        griffonnage, puis que nous causerons ensemble à loisir; encore beaucoup de
+                        choses se disent-elles mieux de bouche qu’elles ne s’écrivent. Au reste, je
+                        proteste contre cette orthographie de mon nom que j’écris <graphic url="media/image197.png"/> y manque) tel que vous l’écrivez, ce serait
+                        Hemer, puisque sur le n 8 s’il n’est pas suivi <graphic url="media/image198.png"/> doit toujours être prononcé <hi rend="underline">e </hi>et non pas<hi rend="underline"> a</hi>;
+                        d’ailleurs je déteste la racine <graphic url="media/image199.png"/> qui veut
+                        dire: il a été bavard, et j’aime beaucoup celle de <graphic url="media/image200.png"/>, non parce qu’elle signifie „asinus fuit“,
+                        mais parce qu’elle signifie aussi „rouge“ et me rappelle le temps romantique
+                            d’Alhambra<note type="comment" place="bottom"><p> A: Al
+                        hamra</p></note>, de Grenade. Je vous joins l’impression de mon cachet arabe
+                        ou vous verrez que je me refugie<note type="comment" place="bottom"><p>
+                                Transkriptionsfehler: es müsste je me refuse contre … heißen: ich
+                                verwehre mich gegen…</p></note> contre le <graphic url="media/image201.png"/>, c’est-à dire celui qui bavarde, comme contre
+                        le <graphic url="media/image202.png"/>, c’est-à-dire l’aventurier, contre le
+                        mal des <graphic url="media/image203.png"/> et <graphic url="media/image204.png"/>, c’est-à-dire des serpents noirs et morts
+                        sanglantes des hommes rouges (blancs) et noirs (auxquels Mahomet a été
+                        envoyé). </p><p> Observez encore, je vous prie, que dans mes armes, le serpent rouge du
+                        milieu courbé dans cette attitude <graphic url="media/image205.png"/> se lit
+                        „fuit“ le nom de <persName>Hammer</persName> en arabe; il y manque encore la
+                        couronne qui représenterait le „techdid“. – Ce qu’il y a de fort singulier,
+                        c’est que sur une peinture du XVIe siècle qui se trouve à fresque<note type="comment" place="bottom"><p> en fresco</p></note> à l’église
+                        métropolitaine de Gratz<note type="comment" place="bottom"><p> Es handelt
+                                sich hier um das – bis weit in die 2. Hälfte des 20. Jh.s schutzlos
+                                der Witterung preisgegebene – sogenannte „Landplagenbild“, auch
+                                Gottesplagenbild, an der süd-lichen Außenwand des Domes in Graz, das
+                                um 1485 vermutlich von <persName>Thomas von Villach</persName>
+                                geschaffen wurde und die damals wesentlichsten Heimsuchungen des
+                                Landes Steiermark darstellt: Pest, Heuschrecken und – zentral mit
+                                der frühesten Darstellungen der Stadt Graz – die Türkeneinfälle. –
+                                HP bemühte sich insoferne um das Bild, als er <persName>Erzherzog
+                                    Johann</persName> bat, es getreulich abzeichnen zu
+                            lassen.</p></note> et qui représente une invasion turque<note type="comment" place="bottom"><p> A: turcque</p></note>, le Chef des
+                            Janissaires<note type="comment" place="bottom"><p> A:
+                            Jannissaires</p></note> porte sur son bouclier un serpent courbé à peu
+                        près dans cette direction.</p><p> Je vous remercie de la communication de l’article du Classical Journal<note type="comment" place="bottom"><p> Hiezu vgl. den Kommentar zu
+                                    <persName>Trébutien</persName>s Brief an HP ddo 1827 XI
+                            7.</p></note>; je ne crois pas que le passage soit interpolé, puisque
+                        l’exemplaire de feu M. <persName>de Italinski</persName><note type="comment" place="bottom"><p> A: Ibulinsky</p></note> est beaucoup plus complet que
+                        celui de Paris; il faudrait en voir d’autres, comme par exemple ceux de
+                        Leyde et de Petersburg, avant de porter un jugement sur la vérité de la
+                        supposition du critique. Je ne saurais vous en dire davantage pour votre
+                        préface.</p><p> Je vous remercie beaucoup des détails sur les Zeoïles<note type="comment" place="bottom"><p> Unklar. </p></note> de Paris. Je n’ai jamais eu rien
+                        à faire et je n’aurai jamais rien à faire avec M.
+                            <persName>S[aint]-Martin</persName> pourvu qu’il me laisse tranquille,
+                        car quoique Martel<note type="comment" place="bottom"><p> Wortspiel in Bezug
+                                auf <persName>Karl
+                            Martell</persName><persName>.</persName></p></note>, je ne frappe jamais
+                        le premier et je ne fais que riposter lorsque l’on m’attaque. J’ai eu une
+                        fort mauvaise opinion du goût de M. <persName>S[aint]-M[artin]</persName>
+                        d’après ce que M. <persName>de Sacy</persName> a dit de ses traductions
+                        arméniennes, je ne sais où, dans le Journal asiatique ou bien dans celui des
+                        Savants.</p><p><persName> S[aint]-Martin</persName> et <persName>Klaproth</persName>
+                        paraissent être assez bien assortis<note type="comment" place="bottom"><p>
+                                A: assertis</p></note>, à cela près que le dernier ne sera pas de la
+                            congrégation<note type="comment" place="bottom"><p> So die Bezeichnung
+                                einer speziellen Gruppe innerhalb der Société asiatique, die in den
+                                Richtungskämpfen dominierte.</p></note>. M. <persName>de
+                            Sacy</persName> m’a envoyé (sans une lettre qu’il me doit depuis
+                        longtemps) un exemplaire de sa brochure politique: „Que voulons-nous, où
+                        allons-nous“; elle est fort bien pensée, mais sera, je crois, peu lue; elle
+                        ressemble très-fort à un sermon janséniste<note type="comment" place="bottom"><p> Jansenismus</p></note> aussi peu favorable aux Grecs
+                        qu’aux Jésuites. J’ignore quel jugement en ont porté les journaux. </p><p> Je suis persuadé que ce fanfaron de <persName>Gauttier</persName><note type="comment" place="bottom"><p> A: Gautier</p></note> n’a pris son
+                        Moclès que dans la préface de l’auteur des Mille et Un Jour, qu’il a créé,
+                        ou bien dans d’autres auteurs lesquels ont répété ce conte sur la foi de
+                        cette préface. La meilleure preuve c’est qu’à la Bibliothèque Royale, il ne
+                        se trouve que les Contes Turcs, que je possède aussi en partie, que
+                            <persName>Pétis de la Croix</persName> a transformés dans les Mille et
+                        Un Jours. Le nom même de Moclès n’est ni persan ni arabe, et je soupçonne
+                        très-fort que ce n’est que le nom de <persName>Ibn Mokla</persName>,
+                        estropié. D<persName>’Herbelot</persName><note type="comment" place="bottom"><p> A: Dherbelot</p></note> qui connaissait si bien les manuscrits
+                        de la Bibliothèque Royale et les trésors de la littérature orientale en eût
+                        sans doute dit quelque chose, si pareil nom fût jamais venu à sa
+                        connaissance. </p><p> Je n’ai point les esquisses des mœurs turques<note type="comment" place="bottom"><p> A: turcques</p></note> au 19e siècle. Je ne les
+                        accepte qu’à la condition que vous acceptiez l’exemplaire de Constantinople
+                        que je vous enverrai par la première occasion, puisque je ne puis le faire
+                        chercher en ce moment.</p><p> J’ignore comment la note de <persName>Pélicier</persName><note type="comment" place="bottom"><p> A: Pélissier</p></note> s’est glissée
+                        dans ma lettre à vous, j’avais l’intention de l’envoyer à M.
+                            <persName>Spencer-Smith</persName> et non pas à vous; vous n’avez
+                        maintenant qu’à la déchirer. Je suis tout-à-fait étonné du silence qu’il
+                        garde sur le Mémoire de Mithras, après avoir été tout de feu pour en être le
+                        Mécène; je suis fâché que la publication en ait été si longtemps retardée,
+                        mais vous avez tant à faire! <salute>Mi stupiseo del Vostro Italiano; la
+                            serivete pui garbate di me, e non dubito che, se vi piace d’ingegnor vi
+                            per il tedesco, la serivereté coll’ intesso perfezione doppo li sei mesi
+                            del inverno futuro che posserete tra noi, come le spera vostro
+                            devotissimo amico.</salute></p><closer><signed><persName>Hammer</persName></signed></closer><postscript>
+                        <p>P.S. Avez-vous reçu la troisième de mes lettres bibliographiques
+                                d’Italie?<note type="comment" place="bottom"><p> Diese wurden von HP
+                                    als Ergebnisse seiner Reise von 1825 in der Biblioteca Italiana
+                                    in den Jahren 1826–1830 veröffentlicht; s. das Werksverzeichnis
+                                    in: Walter Höflechner u.a.<hi rend="italic">; Joseph von
+                                        Hammer-Purgstall 1774–1856 Ein Altösterreichisches
+                                        Gelehrtenleben Eine Annäherung; Graz 2021, Bd 2 </hi>(<ref target="https://gams.uni-graz.at/context:hp">https://gams.uni-graz.at/context:hp</ref>).</p></note></p>
+                    </postscript></div></body></text></TEI>

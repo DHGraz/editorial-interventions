@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_1372"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><salute>Monsieur</salute></opener><p>J’esperé que vous voudrés bien, Monsieur, me pardonnez la liberté que j’ai
+                        prise, quoique je n’aie pas l’honneur de vous être connu personnellement, de
+                        vous adresser trois Exempla[ires] de l’ouvrage intituté: De l’Etude des
+                            Hieroglyphes<note type="comment" place="bottom"><p> Diese Arbeit ist in
+                                fünf Teilen und einem Supplement 1812 in Paris
+                            erschienen.</p></note> que l’Auteur, Mr. <persName>Palin</persName><note type="comment" place="bottom"><p> Es war dies Nils Gustav
+                                    <persName>Palin</persName>, ein Schwiegersohn von Ignatius
+                                Mouragdea <persName>d’Ohsson</persName>, der anonym mehrere Arbeiten
+                                zu den Hieroglyphen veröffentlicht hatte; (BARCH).</p></note>, mon
+                        beau frere, m’a chargé d’expédier à Mr.
+                            <persName>de</persName> <persName>Stürmer</persName> Internonce à
+                        Constantinople. Sachant que le libraire <persName>Pellicer</persName> devoit
+                        vous faire un envoi de Livres, je l’ai prié d’y joindre les dites
+                        Exemplaires, à l’adresse de Mr. l’Internonce et j’a me suis flatté de
+                        l’espoir que vous voudriés bien peut-être saisir une occasion pour les faire
+                        passer à ce Ministre. Un quatrième Exemplaire du même ouvrage accompagne et
+                        envoi. Je vous prie Monsieur de l’agréer, au nom de l’Auteur, et comme un
+                        hommage qu´il rend à vos talens et à vos connoissances. – Je suis charmé de
+                        pouvoir en même tems vous temoigner la haute estime que les [?] ouvrages
+                        m’onte inspirée, ainsi que la considération très distinguée avec laquelle
+                        j’ai l’honneur d être, <salute>Monsieur Votre très humble et très obéissant
+                            Serviteur</salute></p><closer><signed>C[onstantin] <persName>D’Ohsson</persName>
+                        <lb/>Charge d’affaires de la Cour de [….]</signed><dateline>Paris le 5. Nov[embre] 1812</dateline></closer></div></body></text></TEI>

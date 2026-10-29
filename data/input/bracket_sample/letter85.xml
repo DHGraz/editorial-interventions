@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_85"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammer-Purgstall Briefedition</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName corresp="https://wissenschaftsgeschichte.uni-graz.at/de/" ref="https://d-nb.info/gnd/10182836-6">Zentrum für Wissenschaftsgeschichte</orgName>
+                </publisher>
+                <authority>
+                    <orgName corresp="https://digital-humanities.uni-graz.at" ref="https://d-nb.info/gnd/1137284463">Institut für Digitale Geisteswissenschaften</orgName>
+                </authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Hammer-Purgstall Briefedition (version 2024-12-01), based on
+                    Walter Höflechner, Joseph von Hammer-Purgstall. Briefe
+                    (<ref target="https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get">https://gams.uni-graz.at/archive/objects/o:hpe.band2/methods/sdef:TEI/get</ref>)</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader><text><body><div type="letter" subtype="original"><opener><dateline>Weimar d[en] 23. December 1799</dateline></opener><p>Selten<note type="comment" place="bottom"><p> Auch PvTh Böttigerbriefe
+                                33f.</p></note> bin ich so überrascht worden, mein geliebter Freund,
+                        als diesen Weihnachtsabend mit dem <graphic url="media/image12.png"/>
+                        gepflegten Blumengarten aus Byzanz. Nie hatten Sie sich davon etwas gegen
+                        mich merken lassen, daß Sie ein solches Kind unter Ihrem Herzen trügen.
+                        Glücklicher Mann, dem bei der Geburt schon Polyhymnia lächelte!</p><p>Sie haben Vater <persName>Wieland</persName> zum Richter ernannt. Gewiß wird
+                        er sein Amt redlich verwalten, und ich hoffe, Ihnen in meinem nächsten
+                        Briefe schon die erfreulichsten Beweise davon senden zu können, daß Ihr[sic]
+                        Schirin sein jüngster Liebling geworden ist. Ich wag und darf Ihnen heute,
+                        wo ich am Morgen erst die Sendung erhielt und kaum einzelne Blicke darauf
+                        tun konnte, noch nichts darüber sagen. Aber ich ahne, daß Ihr Werk, von
+                            <persName>Wieland</persName> eingeführt, eine seltene, außerordentliche
+                        Wirkung hervorbringen werde<note type="comment" place="bottom"><p> Dieses
+                                Werk erscheint erst Jahre später nach zahlreichen Erwähnungen in der
+                                Korrespondenz. HP, Schirin: Ein persisches romantisches Gedicht nach
+                                morgenländischen Quellen, Bände 1–2, Leipzig Fleischer,
+                            1809.</p></note>. Nur daran zweifle ich, daß es noch zur Ostermesse
+                        fertig werden kann. Schon sind wir am Ende des Jahres. Und das Äußere muß
+                        doch wahrlich noch etwas mehr, als anständig ausfallen. Aber wie, könnt[en]
+                        Sie nicht in Konstantinopel zu jedem der 7 Gesänge eine echt orientalische
+                        Zeichnung koloriert machen lassen, die nun[?] eine ganz neue Zierde Ihres
+                        Gedichts in chalcographischer Vervielfältigung<note type="comment" place="bottom"><p> Chalkographie ist ein alter Ausdruck für das
+                                Kupferstichverfahren.</p></note> würden. Der Verleger, sei es auch,
+                        wer es wolle, würde die Unkosten nicht scheuen, die Gewinn für ihn
+                        würden.</p><p><persName>Wieland</persName> kommt diese Woche von seinem Osmantinum<note type="comment" place="bottom"><p> So nennt <persName>Wieland</persName>
+                                seinen Landsitz.</p></note> hervor, um die clemenza di Tito<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Titus/la clemenza dti Tito. Oper in 2
+                                    Aufzügen</hi>. Text von <persName>Vulpius </persName>frei nach
+                                Poetro Metastasio von Caterino <persName>Mazzola </persName>wurde am
+                                21., 26. und 28. Dezember in Weimar aufgeführt; (vgl. dazu Karoline
+                                Jagemann, <hi rend="italic">Selbstinszenierungen im klassischen
+                                    Weimar: Autobiographie, Kritiken, Huldigungen, Band 1 Wallstein
+                                    Göttingen 2004, 155</hi>).</p></note> zu sehen, und
+                            <persName>Goethe</persName> seinen Mahomet vorlesen zu hören (eine
+                        jambische Nachahmung des <persName>Voltair</persName>ischen, die in einigen
+                        Wochen auch hier aufgeführt werden wird)<note type="comment" place="bottom"><p>
+                                <hi rend="italic">Le fanatisme ou Mahomet le Prophète</hi>, deutsch
+                                Mahomet der Prophet, ist eine Verstragödie in fünf Akten des
+                                französischen Schriftstellers und Philosophen
+                                    <persName>Voltaire</persName>. <persName>Voltaire</persName>s
+                                    <hi rend="italic">Mahomet</hi> ist eine von den Ideen der
+                                Aufklärung geprägte, poetische Stellungnahme gegen religiösen
+                                Fanatismus und gegen Heuchelei und Willkür der Mächtigen. Das Stück
+                                reiht sich ein in eine Reihe literarischer Werke, in denen
+                                    <persName>Voltaire </persName>gegen Fanatismus, religiöse
+                                Borniertheit und gegen geistige Intoleranz zu Felde zieht; (<hi rend="italic">Wikipedia 20190409</hi>).
+                                    <persName>Goethe</persName>s Bearbeitung wurde am 30. Jänner
+                                1800 in Weimar uraufgeführt, wobei die kritischen Stimmen u.a. von
+                                    <persName>Böttiger</persName> überwogen; (vgl. dazu <hi rend="italic">Korrespondenzen der Goethezeit: Edition und
+                                    Kommentar, Leo von Seckendorf, Band 1</hi>, Leseprobe Seite 1820
+                                    (<ref target="https://books.google.at/books?id=JJrnBQAAQBAJ&amp;pg=RA1-PA1821&amp;lpg=RA1-PA1821&amp;dq=mahomet+weimar+urauff%C3%BChrung&amp;source=bl&amp;ots=IJ0-mRLD3K&amp;sig=ACfU3U1Z71LVMk3yrIhYSlIwe6KH6N5HFw&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwib7KiqncPhAhUGYlAKHTQNABMQ6AEwAnoECAgQAQ#v=onepage&amp;q=mahomet%20weimar%20urauff%C3%BChrung&amp;f=false9">https://books.google.at/books?id=JJrnBQAAQBAJ&amp;pg=RA1-PA1821&amp;lpg=RA1-PA1821&amp;dq=mahomet+weimar+urauff%C3%BChrung&amp;source=bl&amp;ots=IJ0-mRLD3K&amp;sig=ACfU3U1Z71LVMk3yrIhYSlIwe6KH6N5HFw&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwib7KiqncPhAhUGYlAKHTQNABMQ6AEwAnoECAgQAQ#v=onepage&amp;q=mahomet%20weimar%20urauff%C3%BChrung&amp;f=false9</ref>.</p></note>.
+                        Wenn sichs nun schickt, so lese ich da in einem ausgewählten Zirkel einen
+                        Teil Ihres [sic] Schirin vor und von dem Effekt sollten Sie bald Nachricht
+                        erhalten. Ich habe schon jetzt ein Fest darauf. Ihre Weihe an
+                            <persName>Ovid</persName>s Turm gedichtet, hat mich unbeschreiblich
+                        ergriffen. O schreiben Sie mir oft und viel aus Ihrem klassischen
+                        Gottesacker. Meine zwei Briefe müssen Sie nun haben. Ich werde nie in Schuld
+                        bleiben. Hier ein Abdruck Ihres allerliebsten Liedes auf die Galansen<note type="comment" place="bottom"><p> Gemeint ist der Artikel im Journal des
+                                Luxus und der Moden als Beitrag II „Ueber die hohen Stelzenschuhe
+                                der Neugriechinnen (Auszug eines Briefes aus Constantinopel)“ vom 1.
+                                September 1799, „dessen Verfasser nicht genannt werden will“;
+                                (http://zs.thulb.uni-jena.de/receive/jportal_jparticle_00093205
+                                201741018).</p></note>. Nächstens in eben diesem Journal meine
+                        Antwort auf Ihre Frage, ob die Altgriechinnen auch ihrer Größe eine Spanne
+                        zuzusetzen beliebten<note type="comment" place="bottom"><p> Journal des
+                                Luxus und der Moden Februar 1800 I 53–73 „Ueber die Stelzenschuhe
+                                der alten Griechinnen“.</p></note>. Geben Sie mir nur bald
+                        Gelegenheit zu etwas ähnlichem. Nun werden Sie ja auch
+                            <persName>Carlyle</persName><note type="comment" place="bottom"><p>
+                                <persName>Böttiger</persName> schreibt: Carlisle.</p></note> gesehen
+                        haben!</p><p>Schon hat <persName>Wieland</persName> den ersten Teil seines Aristipp und
+                        seine Zeit geendigt<note type="comment" place="bottom"><p> Christoph Martin
+                                Wieland, <hi rend="italic">Aristipp und einige seiner Zeitgenossen,
+                                    4 Bde Leipzig 1800–1802</hi>. – Der Philosoph
+                                    <persName>Aristippos</persName> von Kyene (vermutlich 435–355)
+                                war ein jüngerer Zeitgenosse des <persName>Sokrates</persName> und
+                                der Begründer der kyrenäischen Philosophenschule; an Werken ist
+                                trotz des Einflusses, den er ausgeübt hat, praktisch nichts mehr
+                                erhalten. <persName>Wieland</persName> hat mit seinem aus (fiktiven)
+                                Briefen sich zusammensetzenden Roman erhebliche Wirkung für sich und
+                                    <persName>Aristippos</persName> erzielt.</p></note>. Wahrlich,
+                        da ist mehr als in des jungen Anacharsts Reisen. Man wohnt im alten Aegina,
+                        Korinth, Milet, Cyrne. Ein unbeschreiblicher Zauber ist über das ganze
+                        ausgegossen. Es ist eines seiner vollendetsten Werke. Sie erhalten einen der
+                        frühesten Abdrücke. Fr[eund?] <persName>Richter</persName> hat mir schon die
+                        ersten 6 Aushängebogen seines Titan<note type="comment" place="bottom"><p>
+                                Jean Paul Richter, Kardinal- und Kapitalroma, 4 Bde, Berlin
+                                1800–1803.</p></note> mitgeteilt. Die Szene spielt auf Isola bella
+                        im Feenland der Lombardei. Hier ist er ganz neu und unerreichbar. Zu
+                        gleicher Zeit schreibt er an Anti<persName>fichte</persName><note type="comment" place="bottom"><p> Jean Paul Richter, Clavis Fichtiana
+                                seu Leibgeberiana. (Anhang zum I. komischen Anhang des Titans).
+                                Erfurt, Henning, 1800.</p></note>, wozu ihn Fritz
+                            <persName>Jacobi</persName> in Eutin aufgefordert hat.</p><p>Vater <persName>Wieland</persName> hat einen ganz eigenen Triumph erlebt,
+                        weswegen er von Fürsten und Heroen sogar Glückwünschungsbriefe erhält. Schon
+                        vor 2 Jahren sagte er in einem Gespräch unter 4 Augen voraus,
+                            <persName>Bonaparte</persName> müsse Diktator werden, wenn aus
+                        Frankreich etwas werden sollte. Damals zuckte man die Achseln darüber und
+                        sagte: der Alte radotiert<note type="comment" place="bottom"><p> Veraltet
+                                für „faselt“, „produziert Geschwätz“.</p></note>. Nun ist
+                            <persName>B[Bonaparte]</persName> wirklich grand consul und die Maschine
+                        bekommt einen neuen furchtbar gewaltigen Umschwung.</p><p>Arbeite jetzt an einem neuen Hefte meiner Vasenerklärungen, wovon Sie gewiß
+                        ein Exemplar erhalten. Haben die Neugriechinnen nicht etwa auch
+                        Spinnkörbchen wie meine griechische Braut, die zur guten Vorbedeutung an
+                        ihrem Brauttag den Faden von der Spindel ins Körbchen fördert?</p><closer><salute>Ich muß heute schließen. Sehen Sie dies Briefchen nur als einen
+                        Empfangsschein an. Bald ein Mehreres. Unwandelbar treu Ihr</salute><signed><persName>Böttiger</persName></signed></closer><postscript>
+                        <p><persName>Kotzebue</persName> hat ein herrliches Trauerspiel in Jamben:
+                            Gustav Wasa gemacht, wozu er seine ganze Natur veränderte und über sich
+                            selbst erhoben zu worden scheint[sic]. Es wird in 8 Tagen hier
+                                aufgeführt<note type="comment" place="bottom"><p> Das Stück wurde am
+                                    4.1.1800 in Weimar uraufgeführt; (vgl. dazu: Karoline Jagemann,
+                                        <hi rend="italic">Selbstinszenierungen im klassischen
+                                        Weimar: Autobiographie, Kritiken, Huldigungen, Band 1
+                                        Wallstein Göttingen 2004, 555</hi>).</p></note>. Er lebt
+                            hier sehr still und wird allgemein geschätzt. Nachschrift<note type="comment" place="bottom"><p> Nachschrift zu einem Brief, der
+                                    als solcher offenbar nicht mehr erhalten ist. Hier eingeordnet
+                                    ausschließlich nach der offenbar von
+                                        <persName>Bachofen-Echt</persName> vermerkten Lagerung
+                                    innerhalb des Briefpaketes: <hi rend="italic">„Lag nach 9/2
+                                        1815“</hi>, es existiert aber weder ein Brief vom 9.2. noch
+                                    vom 2.9..</p></note>: Bald hätte ich eine mir im Augenblick sehr
+                            wichtige und angelegentliche Bitte vergessen. Ich beschäftige mich
+                            jetzt, durch meine Vorlesung veranlasst, unter anderem sehr mit dem
+                            Lingam- und Phallusdienst alter und neuer(er) Zeit. (Ich lege Ihnen das
+                            Blatt bei, was darauf Beziehung hat. Ich lasse ein solches Blatt immer
+                            nach der Vorlesung herumteilen.) Schon besitze ich in Abbildungen und
+                            Paste allerlei, was zur Erklärung dieses sonderbarsten aller
+                            Gottesdienste gehört. Aber noch brauche ich viel und mancherlei. Ich
+                            bitte Sie, mein alter, treuer Freund, wo Ihnen etwas von Priapen<note type="comment" place="bottom"><p> Priapus:
+                                Fruchtbarkeitsgott.</p></note>, Spintrien<note type="comment" place="bottom"><p> Spintriae (von lat. spintria, ae f. =
+                                    Strichjunge, abgeleitet von griech. Schließmuskel) nannte
+                                        <persName>Tiberius</persName> nach Sueton Tib. 43 und nennen
+                                    heute die Numismatiker jene münzähnlichen Tesserae, d.h. kleine
+                                    viereckige Plättchen aus unterschiedlichem Material, die
+                                    ursprünglich für Mosaiken (dann aber auch als Jetons für
+                                    verschiedene Zwecke, auch als Gedenkmünzen etc., verwendet
+                                    wurden), die zur Zeit des <persName>Tiberius</persName> und von
+                                    diesem gesammelt wurden; sie waren durchwegs pornographischen
+                                    Inhalts und enthielten auch Zahlen, die offenbar Preise
+                                    darstellten. Diese Spintriae werden heute vorwiegend dahingehend
+                                    interpretiert, dass es sich um „Gutscheine“ für Bordellbesuche
+                                    gehandelt habe; (<hi rend="italic">Wikipedia</hi>).</p></note>
+                            und antiquarische oder auch anderen Obszönitäten in Bild und Gestalt
+                            vorkommt, meiner dabei eingedenk zu sein. Es sind hier noch sonderbare
+                            Dinge zu entwickeln. So ist der Ursprung der Päderastie, die im ganzen
+                            Orient durch den Stand des weiblichen Geschlechts so sehr begünstigt
+                            wird, eigentlich ein θρησκεία<note type="comment" place="bottom"><p>
+                                    Gottesdienst.</p></note>, ein Kultus des Orients, wo der Phallus
+                            nicht zur Venus-Muschel, sondern wieder zum Phallus gepaart werden soll.
+                            Vorzüglich würden mir alle orientalischen Sagen und Gestaltung der Art
+                            sehr willkommen sein. Die Unkosten, die etwa das Abzeichnen nur in
+                            andeutenden Umrissen – das genügt schon – verursachen könnte, bin ich
+                            gern erbötig, sogleich zu ersetzen. Sollten Sie nicht selbst während
+                            Ihres Aufenthaltes im Orient mancherlei der Art gesehen oder empfangen
+                            haben?</p>
+                    </postscript><postscript>
+                        <p>Nun lege ich Ihnen um der Wissenschaft Willen dies alles sehr ans Herz.
+                            Mit Liebe und Treue unwandelbar Ihr</p>
+                    </postscript><closer><signed>B[<persName>öttiger</persName>]</signed></closer></div></body></text></TEI>
