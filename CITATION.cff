@@ -5,6 +5,7 @@ message: >-
 type: software
 title: "Editorial interventions: LLM-assisted TEI encoding"
 version: 1.0.0
+date-released: "2026-11-06"
 repository-code: "https://github.com/DHGraz/editorial-interventions"
 abstract: >-
   Pipeline that uses LLMs to turn bracket-marked editorial interventions in historical letters into
@@ -13,10 +14,9 @@ abstract: >-
 authors:
   - family-names: Strutz
     given-names: Sabrina
+    orcid: "https://orcid.org/0000-0002-7745-0558"
     affiliation: "Department of Digital Humanities, University of Graz"
-license:
-  - MIT
-  - CC-BY-NC-4.0
+license: CC-BY-NC-4.0
 keywords:
   - Large Language Models
   - TEI
@@ -25,18 +25,21 @@ keywords:
   - Digital Scholarly Editing
 preferred-citation:
   type: article
-  status: submitted
+  status: in-press
   title: >-
     Beyond Rule-Based Processing: LLM-Assisted TEI Encoding of Editorial Interventions in
     Historical Correspondence
   authors:
     - family-names: Strutz
       given-names: Sabrina
+      orcid: "https://orcid.org/0000-0002-7745-0558"
       affiliation: "Department of Digital Humanities, University of Graz"
     - family-names: Scholger
       given-names: Martina
+      orcid: "https://orcid.org/0000-0003-1438-3236"
       affiliation: "Department of Digital Humanities, University of Graz"
     - family-names: Vogeler
       given-names: Georg
+      orcid: "https://orcid.org/0000-0002-1726-1712"
       affiliation: "Department of Digital Humanities, University of Graz"
   journal: "Journal of the Text Encoding Initiative"

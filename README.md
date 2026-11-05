@@ -8,8 +8,8 @@ This repository contains the code, the sample, the stored LLM output and the eva
 article
 
 > Sabrina Strutz, Martina Scholger, Georg Vogeler: *Beyond Rule-Based Processing: LLM-Assisted TEI Encoding
-> of Editorial Interventions in Historical Correspondence.* Submitted to the Journal of the Text Encoding
-> Initiative (jTEI).
+> of Editorial Interventions in Historical Correspondence.* Accepted for publication in the Journal of the
+> Text Encoding Initiative (jTEI).
 
 All results in this repository can be re-computed from the stored LLM output; see
 [Reproducing the published results](#reproducing-the-published-results).
@@ -288,10 +288,10 @@ your own runs there to include them.
 ## Data & licence
 
 The bracketed sequences are drawn from a historical letter edition (90 letters, 100 sampled text elements, 169
-bracketed sequences); the full letter corpus is not part of this repository. Source of the letters: *Hammer-Purgstall
-Briefedition*, version 2024-12-01 (Zentrum für Wissenschaftsgeschichte, University of Graz; project lead
-Martina Scholger), based on Walter Höflechner, *Joseph von Hammer-Purgstall. Briefe*; see the TEI header of
-each letter. In `data/input/bracket_sample/` and `data/references/gold/` the TEI header is shortened to title,
+bracketed sequences); the full letter corpus is not part of this repository. Source of the letters:
+[*Hammer-Purgstall Briefedition*](https://gams.uni-graz.at/context:hpe), version 2024-12-01 (Zentrum für
+Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), based on Walter Höflechner,
+*Joseph von Hammer-Purgstall. Briefe*; see the TEI header of each letter. In `data/input/bracket_sample/` and `data/references/gold/` the TEI header is shortened to title,
 publisher, authority, licence and source; the text of the letters is unchanged (`sampling.py` copies the letters with
 the edition's full header).
 
@@ -301,4 +301,4 @@ attribution and the third-party files in `resources/` are given in `LICENSE`.
 ## Citation and version
 
 See `CITATION.cff` for how to cite this repository. The published results were produced by the code of the
-release this README belongs to (release tag and DOI are added at release).
+release this README belongs to.
