@@ -116,7 +116,7 @@ Things to know when comparing with the committed files:
 What cannot be re-run identically:
 
 - **The LLM calls** (`data/output/`). API models are not deterministic, and local models depend on the
-  hardware and the llama.cpp build even with a fixed seed (only the OLMo run used one, `SEED = 42`). A new run
+  hardware and the llama.cpp build even with a fixed seed. A new run
   gives new output; its evaluation then gives different scores.
 - **The sampling** (`data/sampling/sampling.py`, `data/sampling/analysis/count_brackets_per_letter.py`): needs
   the full letter corpus, which is not part of this repository. Its outputs are stored (`data/input/`,
@@ -130,7 +130,7 @@ The five runs, each with its own configuration in `configs/`:
 | `claude-sonnet-4-6` | `20260301_020434` | 0.3 | commercial API |
 | `qwen3-14B-Q6` | `20260301_021912` | 0.6 | local GPU, standard mode |
 | `qwen3-14B-Q6` | `20260301_022635` | 0.6 | local GPU, thinking mode |
-| `olmo2-32B-instruct-Q4` | `20260927_114615` | 0.6 | local GPU, fixed seed (`SEED = 42`) |
+| `olmo2-32B-instruct-Q4` | `20260927_114615` | 0.6 | local GPU |
 
 Hard-coded corrections in the evaluation:
 
@@ -154,8 +154,6 @@ Every script prints its usage with `--help`. Scripts in `evaluation/` are run fr
 | `data/sampling/analysis/extract_editorial_interventions.py` | `python extract_editorial_interventions.py [--letters-dir DIR] [--metadata FILE] [--output FILE]` | Extract all bracketed sequences of a folder of TEI letters into an Excel file (see [Using it with your own TEI data](#using-it-with-your-own-tei-data)) |
 | `llm_processing/llm_processing.py` (engine) | `python llm_processing/llm_processing.py --config configs/<run>.py --workflow json` | New LLM run (from the repository root) |
 
-The menus read their answers from stdin, so they can be piped in as shown above. The scripts exit with code 1
-on errors.
 
 ## Output files
 
@@ -219,8 +217,6 @@ and language of every sequence; sheet `Summary` = the sample description).
    |---|---|
    | `--config <file>` | Use a config file from anywhere instead of the engine's default `config.py` |
    | `RUN_NAME` | Output folder name; lets two runs of the same model sit side by side |
-   | `OLMO_PROMPT_FORMAT` | `"chat_template"` (correct) or `"legacy"` |
-   | `SEED` | Fixed sampling seed for OLMo, for repeatable reruns |
    | `INPUT_PRICE_USD_PER_MILLION`, `OUTPUT_PRICE_USD_PER_MILLION` | API prices used for the estimated cost of GPT and Claude runs (recorded in `processing_metadata.json`); the GPT and Claude configs in `configs/` set them |
 
    **Check the prices before relying on the cost estimates.** The prices in this repository are those used for
@@ -287,7 +283,7 @@ your own runs there to include them.
 
 ## Data & licence
 
-The bracketed sequences are drawn from a historical letter edition (90 letters, 100 sampled text elements, 169
+**Data:** The bracketed sequences are drawn from a historical letter edition (90 letters, 100 sampled text elements, 169
 bracketed sequences); the full letter corpus is not part of this repository. Source of the letters:
 [*Hammer-Purgstall Briefedition*](https://gams.uni-graz.at/context:hpe), version 2024-12-01 (Zentrum für
 Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), based on Walter Höflechner,
@@ -295,7 +291,7 @@ Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), bas
 publisher, authority, licence and source; the text of the letters is unchanged (`sampling.py` copies the letters with
 the edition's full header).
 
-Code: MIT. Data (letters, sequences, gold standard, LLM output, evaluation results): CC BY-NC 4.0. Details,
+**Code:** MIT. Data (letters, sequences, gold standard, LLM output, evaluation results): CC BY-NC 4.0. Details,
 attribution and the third-party files in `resources/` are given in `LICENSE`.
 
 ## Citation and version
