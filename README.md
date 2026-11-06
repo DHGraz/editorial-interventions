@@ -281,14 +281,14 @@ python aggregate_results.py
 `comp_vis.py` draws the figures for the runs listed in its `RUNS` constant (the five published runs); add
 your own runs there to include them.
 
-## Data & licence
+## Data and license
 
 **Data:** The bracketed sequences are drawn from a historical letter edition (90 letters, 100 sampled text elements, 169
 bracketed sequences); the full letter corpus is not part of this repository. Source of the letters:
 [*Hammer-Purgstall Briefedition*](https://gams.uni-graz.at/context:hpe), version 2024-12-01 (Zentrum für
 Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), based on Walter Höflechner,
 *Joseph von Hammer-Purgstall. Briefe*; see the TEI header of each letter. In `data/input/bracket_sample/` and `data/references/gold/` the TEI header is shortened to title,
-publisher, authority, licence and source; the text of the letters is unchanged (`sampling.py` copies the letters with
+publisher, authority, license and source; the text of the letters is unchanged (`sampling.py` copies the letters with
 the edition's full header).
 
 **Code:** MIT. Data (letters, sequences, gold standard, LLM output, evaluation results): CC BY-NC 4.0. Details,
