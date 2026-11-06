@@ -285,9 +285,9 @@ your own runs there to include them.
 
 **Data:** The bracketed sequences are drawn from a historical letter edition (90 letters, 100 sampled text elements, 169
 bracketed sequences); the full letter corpus is not part of this repository. Source of the letters:
-[*Hammer-Purgstall Briefedition*](https://gams.uni-graz.at/context:hpe), version 2024-12-01 (Zentrum für
-Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), based on Walter Höflechner,
-*Joseph von Hammer-Purgstall. Briefe*; see the TEI header of each letter. In `data/input/bracket_sample/` and `data/references/gold/` the TEI header is shortened to title,
+Höflechner, Walter; Scholger, Martina; Wagner, Alexandra; Strutz, Sabrina; Steiner, Elisabeth (Hrsg.) 2025:
+*Joseph von Hammer-Purgstall. Korrespondenz*. Graz. URL: [https://gams.uni-graz.at/hpe](https://gams.uni-graz.at/hpe),
+hdl.handle.net/11471/559.20 (GAMS. 559.20); see the TEI header of each letter. In `data/input/bracket_sample/` and `data/references/gold/` the TEI header is shortened to title,
 publisher, authority, license and source; the text of the letters is unchanged (`sampling.py` copies the letters with
 the edition's full header).
 

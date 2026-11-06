@@ -55,9 +55,9 @@ Copyright:
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate
 credit and indicate if changes were made.
 
-Source of the letters: "Hammer-Purgstall Briefedition", https://gams.uni-graz.at/context:hpe, version 2024-12-01
-(Zentrum für Wissenschaftsgeschichte, University of Graz; project lead Martina Scholger), licensed under
-CC BY-NC 4.0, based on Walter Höflechner, "Joseph von Hammer-Purgstall. Briefe". Changes made here: a sample of 90 letters; bracketed sequences extracted
+Source of the letters: Höflechner, Walter; Scholger, Martina; Wagner, Alexandra; Strutz, Sabrina; Steiner,
+Elisabeth (Hrsg.) 2025: Joseph von Hammer-Purgstall. Korrespondenz. Graz. URL: https://gams.uni-graz.at/hpe,
+hdl.handle.net/11471/559.20 (GAMS. 559.20), licensed under CC BY-NC 4.0. Changes made here: a sample of 90 letters; bracketed sequences extracted
 from them; editorial interventions encoded by hand in TEI (gold standard); LLM output and its evaluation.
 
 This sample is drawn from a larger historical correspondence corpus that is not itself part of this
@@ -67,6 +67,6 @@ THIRD-PARTY FILES
 =================
 
 - resources/schema/tei_all.rng: TEI P5 schema (TEI Consortium), available under CC BY and BSD-2-Clause
-  (see the licence note in the file)
+  (see the license note in the file)
 - resources/tools/jing-RELEASE220.jar: Jing RELAX NG validator (Thai Open Source Software Center Ltd),
-  BSD-3-Clause; licence text in resources/tools/jing-COPYING.txt
+  BSD-3-Clause; license text in resources/tools/jing-COPYING.txt
