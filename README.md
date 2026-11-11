@@ -1,5 +1,7 @@
 # Editorial interventions: LLM-assisted TEI encoding
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24103991.svg)](https://doi.org/10.5281/zenodo.24103991)
+
 A pipeline that asks LLMs to turn bracket-marked editorial interventions in historical letters into TEI XML
 markup. A separate, optional component evaluates how well a model did this, against a hand-made gold
 standard.
@@ -296,5 +298,11 @@ attribution and the third-party files in `resources/` are given in `LICENSE`.
 
 ## Citation and version
 
-See `CITATION.cff` for how to cite this repository. The published results were produced by the code of the
+Please cite the article above and this repository:
+
+> Sabrina Strutz: *Editorial interventions: LLM-assisted TEI encoding.* Software, version 1.0.0, 2026.
+> Zenodo. https://doi.org/10.5281/zenodo.24103991
+
+This DOI always points to the latest version; each version also has its own DOI on Zenodo. See
+`CITATION.cff` for machine-readable citation metadata. The published results were produced by the code of the
 release this README belongs to.

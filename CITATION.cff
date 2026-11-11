@@ -5,7 +5,8 @@ message: >-
 type: software
 title: "Editorial interventions: LLM-assisted TEI encoding"
 version: 1.0.0
-date-released: "2026-11-06"
+date-released: "2026-11-10"
+doi: 10.5281/zenodo.24103991
 repository-code: "https://github.com/DHGraz/editorial-interventions"
 abstract: >-
   Pipeline that uses LLMs to turn bracket-marked editorial interventions in historical letters into
